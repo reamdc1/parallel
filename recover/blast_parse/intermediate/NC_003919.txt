@@ -1,0 +1,11 @@
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC0412	hrcN	atpD	NONE	7e-37	30.07	139.0	67.2	481703	483032	1	Protein	409	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3865	4075493	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1951	fliI	atpD	NONE	3e-27	29.43	110.0	70.3	2281328	2282705	-1	Protein	333	BLAST	NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0429	414269	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3648	atpC	atpC	NONE	4e-86	100.0	249.0	65.0	4327085	4327508	-1	Protein	140	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3648	4327508	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3649	atpD	atpD	NONE	0.0	100.0	897.0	63.5	4327651	4329058	-1	Protein	468	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3649	4329058	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3650	atpG	atpG	papC:uncG	0.0	100.0	591.0	60.6	4329202	4330066	-1	Protein	287	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3650	4330066	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3651	atpA	atpA	uncA	0.0	100.0	1010.0	64.7	4330179	4331727	-1	Protein	515	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3651	4331727	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3652	atpH	atpH	uncH	2e-122	100.0	344.0	67.8	4331774	4332302	-1	Protein	175	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3652	4332302	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3653	atpF	atpF	uncF	3e-94	100.0	271.0	60.7	4332305	4332776	-1	Protein	156	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3653	4332776	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3654	atpE	atpE	uncE	1e-44	100.0	140.0	66.0	4332889	4333192	-1	Protein	100	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3654	4333192	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3655	atpB	atpB	papD:uncB	2e-179	100.0	496.0	59.9	4333264	4334065	-1	Protein	266	exact	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3655	4334065	NONE
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3831	rho	atpA	NONE	0.001	20.8	38.5	62.4	4505457	4506738	1	Protein	226	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122	NONE

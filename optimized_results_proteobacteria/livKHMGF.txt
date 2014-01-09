@@ -1,0 +1,250 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3974	unknown	livF	ECK3438:JW3419	3e-73	58.3	268.0	64.2	3176904	3177633	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3975	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	4e-70	50.76	258.0	63.63	3177632	3178718	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3976	unknown	livM	ECK3440:JW3421	5e-50	51.75	192.0	61.97	3178735	3180331	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3977	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	4e-67	50.65	248.0	60.91	3180335	3181238	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll7201	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	6e-12	27.24	65.9	66.33	5946161	5947058	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll7202	unknown	livF	ECK3438:JW3419	7e-48	42.67	184.0	66.12	5947054	5947783	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll7203	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	3e-41	35.06	162.0	67.07	5947779	5948523	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll7204	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	0.0009	24.81	38.9	64.16	5948538	5949816	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMH> <livHFGK> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	livF,2	livG,2	livH,2	livK,1	livM,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.20	 0.80	3	0	1	4	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.20	 0.80	3	0	1	4	0	0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1070	braG	livF	ECK3438:JW3419	4e-91	72.1	328.0	64.25	1157953	1158655	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1071	braF	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-107	70.59	383.0	65.23	1158657	1159425	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1072	braE	livM	ECK3440:JW3421	3e-91	61.63	329.0	65.79	1159421	1160675	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1073	braD	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	5e-95	66.67	341.0	62.88	1160671	1161595	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1074	braC	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	2e-122	54.62	432.0	63.9	1161855	1162977	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 1.00	0	0	0	5	0	0
+NC_004310	Brucella_suis_1330	BR1581	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	4e-18	29.83	84.3	58.74	1529248	1530295	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1582	unknown	livF	ECK3438:JW3419	4e-14	28.44	70.9	56.54	1530568	1531417	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1583	unknown	livF	ECK3438:JW3419	2e-14	27.78	72.0	56.18	1531413	1532262	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1789	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	3e-75	51.91	273.0	58.2	1717842	1719165	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1790	unknown	livM	ECK3440:JW3421	2e-55	54.45	208.0	57.97	1719182	1720562	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1791	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	1e-71	54.22	262.0	57.65	1720564	1721473	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1785	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	4e-72	41.26	264.0	54.84	1715477	1716593	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livGF F> <livGMH> <livK> 
+$$	NC_004310	Brucella_suis_1330	livF,2	livG,2	livH,1	livK,1	livM,1
+##	NC_004310	Brucella_suis_1330	 0.40	 0.60	2	0	2	3	0	0
+@@	NC_004310	Brucella_suis_1330	 0.40	 0.60	2	0	2	3	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_1137	braG	livF	ECK3438:JW3419	6e-87	70.39	313.0	62.39	1302671	1303373	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1138	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-108	71.76	386.0	61.98	1303373	1304141	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1139	livM	livM	ECK3440:JW3421	8e-93	61.34	334.0	61.73	1304137	1305394	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1140	braD	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	5e-90	65.69	325.0	60.06	1305390	1306314	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1141	braC	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	2e-126	57.22	446.0	60.3	1306499	1307615	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_002947	Pseudomonas_putida_KT2440	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.00	 1.00	0	0	0	5	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1503	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	1e-54	45.63	207.0	63.87	1606624	1607554	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1504	livM	livM	ECK3440:JW3421	2e-35	45.93	144.0	64.84	1607570	1608662	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1505	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	8e-64	47.47	237.0	64.72	1608664	1609435	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1506	livF	livF	ECK3438:JW3419	2e-71	53.65	261.0	62.45	1609431	1610142	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2481	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	1e-45	34.72	177.0	63.43	2671677	2672883	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livHMGF livK 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.20	 0.80	0	0	1	4	0	0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2437	unknown	livF	ECK3438:JW3419	1e-58	47.26	219.0	64.63	2643182	2643917	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2438	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	8e-63	46.61	233.0	67.31	2643926	2644700	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2439	unknown	livM	ECK3440:JW3421	2e-37	43.46	150.0	64.29	2644713	2645850	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2440	livH2	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	3e-49	44.19	189.0	63.46	2645863	2646799	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2441	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	5e-45	32.62	175.0	61.03	2647009	2648020	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.00	 1.00	0	0	0	5	0	0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002693	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	8e-16	26.61	77.0	49.56	1848181	1848970	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002694	unknown	livF	ECK3438:JW3419	2e-08	23.58	52.4	50.0	1848966	1849962	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livGF> 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	livF,1	livG,1
+##	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	3	0	2	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_0837	unknown	livF	ECK3438:JW3419	4e-14	27.76	71.6	46.43	843616	844456	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_0838	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-11	26.36	62.4	50.8	844466	845336	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFG> 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	livF,1	livG,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	3	0	2	0	0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0414	nikE	livF	ECK3438:JW3419	4e-15	26.5	73.9	35.57	397412	398126	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0415	nikD	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	3e-09	25.54	55.1	37.41	398119	399787	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFG> 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	livF,1	livG,1
+##	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.00	 1.00	0	3	0	2	0	0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1014c	livF	livF	ECK3438:JW3419	1e-57	46.55	214.0	32.33	947342	948038	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1015c	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	6e-58	41.2	216.0	31.26	948024	948795	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1016c	livM	livM	ECK3440:JW3421	1e-16	34.0	79.7	32.29	948791	949844	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1017c	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	2e-42	41.47	165.0	33.78	949843	950740	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1018c	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	1e-23	28.23	103.0	32.25	950758	951868	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1019c	livJ	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	2e-24	28.67	105.0	31.36	951889	953005	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHKK> 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	livF,1	livG,1	livH,1	livK,2	livM,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.00	 1.00	1	0	0	5	0	0
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.00	 1.00	1	0	0	5	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4248	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	0.0	91.6	699.0	54.32	4112495	4113605	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4249	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	7e-147	98.05	513.0	56.09	4113664	4114591	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4250	livM	livM	ECK3440:JW3421	2e-180	94.82	625.0	57.75	4114587	4115865	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4251	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-143	96.08	502.0	57.81	4115861	4116629	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4252	livF	livF	ECK3438:JW3419	2e-134	96.2	471.0	59.94	4116630	4117344	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livKHMGF 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3560	livF	livF	ECK3438:JW3419	2e-134	96.2	471.0	59.94	3728653	3729367	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3561	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-143	96.08	502.0	57.68	3729368	3730136	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3562	livM	livM	ECK3440:JW3421	2e-180	94.82	625.0	58.06	3730132	3731410	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3563	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	7e-147	98.05	513.0	56.09	3731406	3732333	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3564	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	0.0	91.6	699.0	54.14	3732392	3733502	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	5	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01946	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	9e-74	40.83	270.0	61.39	2668388	2669507	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01948	livF	livF	ECK3438:JW3419	2e-73	56.3	268.0	63.36	2669991	2670717	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01949	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-70	51.35	258.0	60.59	2670713	2671601	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01950	livM	livM	ECK3440:JW3421	6e-56	52.8	211.0	63.28	2671600	2672986	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01951	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	3e-64	48.36	238.0	58.36	2672990	2673893	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livKFGMH> 
+$$	NC_003047	Sinorhizobium_meliloti_1021	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.00	 1.00	0	0	0	5	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP0173	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-10	24.21	59.3	47.5	187438	188278	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP0174	unknown	livF	ECK3438:JW3419	3e-12	28.24	65.1	45.03	188418	189153	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livGF 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	livF,1	livG,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	3	0	2	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1273	livF	livF	ECK3438:JW3419	2e-89	67.81	322.0	66.52	1346130	1346832	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1274	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-92	60.63	332.0	65.23	1346832	1347600	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1275	livM	livM	ECK3440:JW3421	3e-87	57.56	315.0	65.86	1347596	1348835	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1276	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	9e-88	59.49	317.0	63.54	1348834	1349761	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1277	livJ	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	4e-94	48.12	338.0	65.14	1349863	1350979	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.00	 1.00	0	0	0	5	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_3779	cydC	livF	ECK3438:JW3419	2e-07	25.96	49.7	49.43	3929324	3931076	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_3780	cydD	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	3e-09	29.17	56.2	48.79	3931072	3933013	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFG> 
+$$	NC_004347	Shewanella_oneidensis_MR-1	livF,1	livG,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.00	 1.00	0	3	0	2	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1054	unknown	livF	ECK3438:JW3419	8e-47	36.97	181.0	64.5	1167981	1168719	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1055	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-42	36.51	166.0	63.58	1168730	1169474	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1056	unknown	livM	ECK3440:JW3421	8e-17	31.98	82.8	64.36	1169470	1170469	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1057	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	8e-17	28.43	82.4	64.73	1170465	1171341	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1058	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	1e-21	28.1	99.0	64.19	1171502	1172633	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.00	 1.00	0	0	0	5	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1120	oppF	livF	ECK3438:JW3419	1e-09	24.77	55.5	41.24	1186386	1187385	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.987,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1121	oppD	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-19	28.35	88.6	42.49	1187381	1188353	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.987,eval_thresh:14.781
+++	<livFG> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	livF,1	livG,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.00	 1.00	0	3	0	2	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP2037	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-56	41.96	213.0	68.61	2176174	2176999	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2038	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	1e-08	30.8	54.3	69.74	2176998	2177877	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2039	livM	livM	ECK3440:JW3421	3e-13	33.05	70.5	66.96	2177880	2178918	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2040	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	5e-08	23.05	52.4	64.04	2178955	2180134	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2041	livF	livF	ECK3438:JW3419	5e-47	43.51	181.0	70.1	2180141	2180957	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livGHMKF 
+$$	NC_002928	Bordetella_parapertussis_12822	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.00	 1.00	0	0	0	5	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0366	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	3e-10	23.74	60.5	65.43	379199	380408	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0367	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	1e-17	30.67	84.7	64.38	380443	381319	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0368	unknown	livM	ECK3440:JW3421	1e-05	24.9	45.1	65.93	381311	382256	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0369	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-54	43.87	206.0	65.44	382264	382999	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0370	unknown	livF	ECK3438:JW3419	7e-50	42.92	191.0	69.16	382988	383711	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livKHMGF 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.00	 1.00	0	0	0	5	0	0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_472	mdl	livF	ECK3438:JW3419	1e-08	23.44	51.2	28.36	528858	530628	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_473	mdlB	livF	ECK3438:JW3419	1e-12	25.79	63.9	25.78	530599	532372	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_311	znuC	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-15	26.96	73.9	26.64	353318	354035	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livFF <livG> 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	livF,2	livG,1
+##	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.20	 0.20	1	3	1	1	0	0
+@@	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.50	 0.50	1	3	1	1	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3454	livF	livF	ECK3438:JW3419	9e-139	100.0	486.0	56.72	3590746	3591460	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3455	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-149	100.0	522.0	55.21	3591461	3592229	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3456	livM	livM	ECK3440:JW3421	0.0	100.0	647.0	56.57	3592225	3593503	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3457	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	7e-149	100.0	520.0	56.2	3593499	3594426	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3458	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	0.0	100.0	755.0	54.14	3594473	3595583	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+NC_003143	Yersinia_pestis_CO92	YPO3804	livF	livF	ECK3438:JW3419	1e-118	87.12	418.0	49.15	4270343	4271045	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3805	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	9e-116	81.82	409.0	53.52	4271089	4271857	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3806	livM	livM	ECK3440:JW3421	1e-147	79.44	516.0	52.53	4271853	4273140	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3807	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	3e-135	87.34	474.0	50.16	4273136	4274063	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3808	livJ	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	7e-172	75.34	596.0	50.09	4274243	4275359	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_003143	Yersinia_pestis_CO92	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	5	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0239	dppD	livF	ECK3438:JW3419	9e-13	26.47	66.6	44.14	269611	270610	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0240	dppF	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	4e-13	24.38	68.2	42.3	270626	271607	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livFG 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	livF,1	livG,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.00	 1.00	0	3	0	2	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4108	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	1e-127	57.3	450.0	58.76	4631635	4632760	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4109	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	7e-92	67.32	331.0	59.09	4632985	4633909	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4110	unknown	livM	ECK3440:JW3421	1e-93	62.56	337.0	61.3	4633905	4635171	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4111	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	5e-105	70.59	374.0	60.81	4635167	4635935	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4112	unknown	livF	ECK3438:JW3419	9e-92	68.67	330.0	59.69	4635935	4636637	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livKHMGF 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.00	 1.00	0	0	0	5	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_0760	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	4e-07	28.83	48.5	75.86	835262	836861	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0761	unknown	livF	ECK3438:JW3419	5e-11	30.06	61.2	73.86	837033	838674	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livGF> 
+$$	NC_002696	Caulobacter_crescentus_CB15	livF,1	livG,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.00	 1.00	0	3	0	2	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2424	unknown	livF	ECK3438:JW3419	2e-73	55.56	268.0	60.22	2396265	2396994	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2425	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	4e-71	51.55	260.0	57.91	2396993	2397884	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2426	unknown	livM	ECK3440:JW3421	8e-52	57.38	197.0	58.37	2397883	2399281	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2427	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	9e-67	50.82	246.0	57.81	2399285	2400188	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2422	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	7e-68	40.39	250.0	59.7	2394504	2395623	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMH> <livK> 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.20	 0.80	0	0	1	4	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1466	LIVF	livF	ECK3438:JW3419	9e-68	55.56	249.0	49.86	1407617	1408313	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1467	LIVG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	3e-61	43.2	227.0	48.01	1408299	1409076	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1468	LIVM	livM	ECK3440:JW3421	5e-19	35.5	88.2	49.32	1409072	1410029	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1470	LIVH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	2e-36	39.54	145.0	48.28	1410115	1411018	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1471	LIVK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	4e-18	27.41	85.1	50.22	1411027	1412146	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMHK> 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.00	 1.00	0	0	0	5	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1838	unknown	livF	ECK3438:JW3419	9e-75	56.96	272.0	57.2	1735596	1736346	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1839	unknown	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	2e-75	51.91	274.0	58.24	1736342	1737683	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1840	unknown	livM	ECK3440:JW3421	4e-56	54.8	211.0	57.9	1737682	1739062	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1841	unknown	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	2e-71	53.9	261.0	57.25	1739064	1739988	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1836	unknown	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	7e-72	40.98	263.0	54.93	1733975	1735091	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<livFGMH> <livK> 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.20	 0.80	0	0	1	4	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4287	livK	livK	ECK3442:hrbB:hrbC:hrbD:JW3423	0.0	99.73	754.0	54.41	4205934	4207044	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4288	livH	livH	ECK3441:hrbB:hrbC:hrbD:JW3422	5e-148	99.68	516.0	55.77	4207091	4208018	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4289	livM	livM	ECK3440:JW3421	0.0	99.06	645.0	56.26	4208014	4209292	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4290	livG	livG	ECK3439:hrbB:hrbC:hrbD:JW3420	1e-149	100.0	522.0	53.91	4209288	4210056	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4291	livF	livF	ECK3438:JW3419	9e-139	99.58	485.0	57.42	4210057	4210771	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	livKHMGF 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	livF,1	livG,1	livH,1	livK,1	livM,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	5	0	0

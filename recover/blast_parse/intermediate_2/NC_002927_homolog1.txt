@@ -1,0 +1,22 @@
+BB1628
+NC_002927	Bordetella_bronchiseptica_RB50	BB1628	bscN	atpD	NONE	2e-36	31.34	137.0	62.8	1729444	1730779	1	Protein	367	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+BB2585
+NC_002927	Bordetella_bronchiseptica_RB50	BB2585	fliI	atpD	NONE	7e-25	30.26	104.0	71.4	2747427	2748903	-1	Protein	347	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+BB3231
+NC_002927	Bordetella_bronchiseptica_RB50	BB3231	rho	atpA	NONE	0.0008	21.83	38.9	62.4	3451585	3452842	1	Protein	229	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634
+BB4604
+NC_002927	Bordetella_bronchiseptica_RB50	BB4604	atpC	atpC	papG:uncC	2e-61	100.0	182.0	68.3	4905119	4905542	-1	Protein	140	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4604	4905542
+BB4605
+NC_002927	Bordetella_bronchiseptica_RB50	BB4605	atpD	atpD	papB:uncD	0.0	100.0	882.0	64.7	4905551	4906952	-1	Protein	466	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4605	4906952
+BB4606
+NC_002927	Bordetella_bronchiseptica_RB50	BB4606	atpG	atpG	papC:uncG	0.0	100.0	615.0	61.0	4906994	4907900	-1	Protein	301	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4606	4907900
+BB4607
+NC_002927	Bordetella_bronchiseptica_RB50	BB4607	atpA	atpA	papA:uncA	0.0	100.0	1003.0	64.1	4907998	4909540	-1	Protein	513	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4607	4909540
+BB4608
+NC_002927	Bordetella_bronchiseptica_RB50	BB4608	atpH	atpH	papE:uncH	8e-128	100.0	353.0	63.3	4909574	4910114	-1	Protein	179	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4608	4910114
+BB4609
+NC_002927	Bordetella_bronchiseptica_RB50	BB4609	atpF	atpF	papF:uncF	3e-78	99.36	227.0	62.6	4910126	4910597	-1	Protein	156	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4609	4910597
+BB4610
+NC_002927	Bordetella_bronchiseptica_RB50	BB4610	atpE	atpE	NONE	4e-34	100.0	109.0	60.1	4910734	4910977	-1	Protein	80	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4610	4910977
+BB4611
+NC_002927	Bordetella_bronchiseptica_RB50	BB4611	atpB	atpB	papD:uncB	0.0	100.0	530.0	61.5	4911093	4911975	-1	Protein	293	exact	NC_002927	Bordetella_bronchiseptica_RB50	BB4611	4911975

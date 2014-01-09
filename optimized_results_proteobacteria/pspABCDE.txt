@@ -1,0 +1,73 @@
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1686	pspE	pspE	ECK1303:JW1301	8e-42	66.99	161.0	43.17	1780472	1780787	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1687	pspD	pspD	ECK1302:JW1300	4e-32	87.5	129.0	56.62	1780862	1781081	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1688	pspC	pspC	ECK1301:JW1299	5e-56	84.03	209.0	52.22	1781103	1781463	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1689	pspB	pspB	ECK1300:JW1298	2e-34	89.19	137.0	53.78	1781462	1781687	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1690	pspA	pspA	cog:ECK1299:JW1297	3e-102	91.44	364.0	51.57	1781746	1782415	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pspEDCBA> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	pspA,1	pspB,1	pspC,1	pspD,1	pspE,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	5	0	0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002699	unknown	pspA	cog:ECK1299:JW1297	1e-59	58.37	222.0	46.79	1854759	1855428	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002700	pspB	pspB	ECK1300:JW1298	1e-17	50.67	81.3	49.15	1855441	1855675	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002701	unknown	pspC	ECK1301:JW1299	6e-19	36.43	85.9	52.04	1855640	1856057	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pspABC 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	pspA,1	pspB,1	pspC,1
+##	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 0.60	0	2	0	3	0	0
+@@	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	2	0	3	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2877	unknown	pspC	ECK1301:JW1299	3e-16	33.33	77.0	44.87	2945431	2945821	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2878	pspB	pspB	ECK1300:JW1298	7e-16	48.0	75.1	45.73	2945813	2946047	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2879	unknown	pspA	cog:ECK1299:JW1297	2e-61	60.47	228.0	43.9	2946062	2946734	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pspCBA> 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	pspA,1	pspB,1	pspC,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 0.60	0	2	0	3	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	2	0	3	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1371	pspA	pspA	cog:ECK1299:JW1297	6e-102	91.44	363.0	51.27	1327373	1328042	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1372	pspB	pspB	ECK1300:JW1298	2e-34	89.19	137.0	53.78	1328101	1328326	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1373	pspC	pspC	ECK1301:JW1299	4e-56	84.03	209.0	52.22	1328325	1328685	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1374	pspD	pspD	ECK1302:JW1300	4e-32	87.5	129.0	56.62	1328707	1328926	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1375	pspE	pspE	ECK1303:JW1301	1e-41	66.99	161.0	43.49	1329001	1329316	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pspABCDE 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	pspA,1	pspB,1	pspC,1	pspD,1	pspE,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1173	unknown	pspA	cog:ECK1299:JW1297	1e-58	58.72	219.0	43.15	1231116	1231788	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1174	pspB	pspB	ECK1300:JW1298	1e-15	49.32	74.3	44.02	1231802	1232036	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1175	unknown	pspC	ECK1301:JW1299	2e-16	33.33	77.4	42.14	1231998	1232418	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pspABC 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	pspA,1	pspB,1	pspC,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 0.60	0	2	0	3	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	2	0	3	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1807	pspA	pspA	cog:ECK1299:JW1297	2e-57	56.42	215.0	44.44	1897827	1898511	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1808	pspB	pspB	ECK1300:JW1298	2e-11	42.67	60.8	43.75	1898528	1898768	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1809	pspC	pspC	ECK1301:JW1299	2e-16	34.15	77.8	43.93	1898754	1899141	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_3105	pspE-1	pspE	ECK1303:JW1301	5e-12	38.67	62.8	47.87	3232562	3232961	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pspABC pspE 
+$$	NC_004347	Shewanella_oneidensis_MR-1	pspA,1	pspB,1	pspC,1	pspE,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.20	 0.60	0	1	1	3	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.25	 0.75	0	1	1	3	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1304	pspA	pspA	cog:ECK1299:JW1297	8e-111	100.0	392.0	49.33	1366102	1366771	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1305	pspB	pspB	ECK1300:JW1298	3e-38	100.0	149.0	47.56	1366824	1367049	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1306	pspC	pspC	ECK1301:JW1299	5e-66	100.0	242.0	50.28	1367048	1367408	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1307	pspD	pspD	ECK1302:JW1300	6e-36	100.0	142.0	54.5	1367416	1367638	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1308	pspE	pspE	ECK1303:JW1301	3e-58	100.0	216.0	50.79	1367712	1368027	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pspABCDE 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	pspA,1	pspB,1	pspC,1	pspD,1	pspE,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+NC_003143	Yersinia_pestis_CO92	YPO2349	pspC	pspC	ECK1301:JW1299	2e-36	54.62	144.0	50.56	2643500	2643860	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO2350	pspB	pspB	ECK1300:JW1298	2e-24	69.86	103.0	42.54	2643859	2644087	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO2351	pspA	pspA	cog:ECK1299:JW1297	1e-84	80.28	306.0	48.05	2644248	2644914	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3001	unknown	pspE	ECK1303:JW1301	2e-06	35.71	43.9	42.38	3352579	3354226	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.009,eval_thresh:9.147
+++	<pspCBA> <pspE> 
+$$	NC_003143	Yersinia_pestis_CO92	pspA,1	pspB,1	pspC,1	pspE,1
+##	NC_003143	Yersinia_pestis_CO92	 0.20	 0.60	0	1	1	3	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.25	 0.75	0	1	1	3	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1391	pspA	pspA	cog:ECK1299:JW1297	7e-111	100.0	392.0	49.18	1362090	1362759	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1392	pspB	pspB	ECK1300:JW1298	8e-38	98.65	148.0	47.11	1362812	1363037	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1393	pspC	pspC	ECK1301:JW1299	4e-66	100.0	242.0	50.28	1363036	1363396	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1394	pspD	pspD	ECK1302:JW1300	5e-35	98.63	138.0	54.5	1363404	1363626	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1395	pspE	pspE	ECK1303:JW1301	8e-57	98.06	211.0	50.57	1363668	1364016	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pspABCDE 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	pspA,1	pspB,1	pspC,1	pspD,1	pspE,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	5	0	0

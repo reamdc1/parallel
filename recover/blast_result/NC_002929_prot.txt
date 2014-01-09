@@ -1,0 +1,1361 @@
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	60.39	510	202	0	1	510	1	1530	0.0	 602
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.02	417	285	8	28	433	1266	73	2e-36	 137
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	24.20	376	275	6	71	436	169	1233	1e-21	94.7
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	23.71	329	238	6	96	411	1071	196	6e-20	89.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	39.25	293	151	7	7	272	19	879	3e-51	 170
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	43.75	112	63	1	2	113	7	339	1e-29	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	71.91	470	127	2	1	465	1	1395	0.0	 653
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	26.74	389	275	10	4	382	1263	154	1e-31	 123
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	32.15	311	205	5	78	382	1068	163	1e-28	 114
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.57	403	283	9	30	411	157	1308	9e-22	94.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	47.83	46	24	1	34	79	94	225	2e-08	44.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	31.41	156	107	0	1	156	1	468	1e-15	68.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	45.18	301	151	1	1	287	1	903	3e-98	 292
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	26.55	177	128	2	1	175	1	531	5e-18	75.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	71.79	507	143	0	3	509	4	1524	0.0	 736
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.46	437	306	9	9	434	1317	73	5e-36	 136
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	27.68	354	245	6	62	404	127	1128	2e-28	 114
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.91	326	234	6	88	412	1095	196	9e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	40.20	301	166	8	2	288	16	879	2e-56	 184
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	48.19	83	43	0	4	86	7	255	3e-23	87.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	79.78	465	87	2	1	458	1	1395	0.0	 710
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.63	378	260	6	4	375	1263	154	9e-38	 141
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.64	335	220	5	76	401	1068	82	2e-32	 125
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.33	375	260	7	50	404	211	1308	9e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	65.91	44	15	0	38	81	109	240	2e-15	63.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	44.03	159	86	3	1	156	1	468	6e-26	95.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	52.16	301	129	1	1	286	1	903	2e-113	 330
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	37.29	177	110	1	1	176	1	531	4e-32	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5561|atpI|6254427|6254808|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	69.29	508	156	0	1	508	1	1524	0.0	 667
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.79	330	225	8	114	433	996	73	8e-29	 115
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.00	263	192	2	114	376	1017	262	9e-23	98.2
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.35	430	301	7	27	436	4	1233	5e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	44.44	297	138	7	2	271	7	879	3e-55	 180
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	54.62	119	54	0	4	122	7	363	2e-33	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	78.92	465	93	1	1	460	1	1395	0.0	 709
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.80	410	286	8	4	403	1263	73	4e-34	 130
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.45	337	221	7	77	403	1071	82	2e-31	 122
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.65	425	291	10	7	406	73	1308	7e-23	98.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	45.45	44	24	0	34	77	94	225	3e-08	44.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	45.51	156	85	0	1	156	1	468	3e-23	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	50.50	301	135	2	1	287	1	903	3e-106	 312
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	33.90	177	115	2	1	175	1	531	2e-27	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	99.81	513	1	0	1	513	1	1539	0.0	 998
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.86	440	299	10	8	433	1317	73	4e-39	 145
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.93	375	265	7	71	436	169	1233	9e-30	 118
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.55	294	212	5	84	376	1101	262	1e-24	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	100.00	293	0	0	1	293	1	879	0.0	 530
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	100.00	140	0	0	1	140	1	420	4e-60	 182
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	99.79	466	1	0	1	466	1	1398	0.0	 881
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.62	427	279	12	3	416	1266	49	8e-36	 135
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.75	337	219	6	83	408	1068	82	7e-30	 118
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.74	373	257	7	57	409	211	1302	4e-21	93.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	100.00	80	0	0	1	80	1	240	5e-33	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	98.72	156	2	0	1	156	1	468	6e-77	 227
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	99.67	301	1	0	1	301	1	903	0.0	 613
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	100.00	179	0	0	1	179	1	537	3e-126	 353
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	75.44	513	126	0	1	513	1	1539	0.0	 753
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.46	437	306	10	8	433	1317	73	5e-34	 130
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.89	281	197	3	96	376	1071	262	2e-26	 109
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.40	394	273	7	27	403	4	1128	4e-25	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	41.50	294	147	8	1	269	1	879	1e-56	 184
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	48.18	137	70	1	5	140	10	420	2e-32	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	81.47	464	79	2	4	460	7	1398	0.0	 700
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.30	413	278	13	4	402	1266	73	1e-32	 125
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.79	354	231	8	63	402	1116	82	4e-28	 113
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	23.90	431	295	10	8	405	46	1308	1e-18	85.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	63.04	46	17	0	39	84	94	231	3e-15	63.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	46.15	156	84	0	1	156	1	468	5e-34	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	58.75	303	116	4	1	294	1	903	2e-127	 366
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	39.41	170	102	1	1	169	1	510	4e-39	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	57.69	520	209	3	1	509	1	1536	0.0	 574
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	30.51	354	241	5	82	430	1092	73	1e-38	 144
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.82	384	278	6	71	451	169	1263	1e-29	 118
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.03	341	235	7	97	430	1068	82	8e-28	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	31.13	106	73	1	6	111	7	312	4e-11	54.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	68.19	459	141	2	36	489	10	1365	0.0	 598
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.16	415	286	10	36	442	1263	73	6e-35	 133
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.81	344	227	9	110	442	1068	82	7e-28	 113
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.81	403	284	7	62	445	157	1308	2e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00870|atpE|917774|918002|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00868|atpF|918703|919189|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	33.87	310	189	7	1	294	1	903	1e-36	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	33.54	161	107	1	10	170	10	489	6e-18	75.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	33.71	89	59	0	5	93	10	276	3e-14	63.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	68.70	508	159	0	1	508	1	1524	0.0	 661
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.48	330	226	8	114	433	996	73	3e-28	 114
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	26.89	264	193	2	113	376	1020	262	1e-22	97.4
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.93	375	265	6	71	436	169	1233	4e-21	93.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	42.33	300	147	6	1	274	1	879	1e-51	 171
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	52.10	119	57	0	5	123	7	363	1e-37	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	78.49	465	95	2	1	460	1	1395	0.0	 707
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.21	380	263	6	4	377	1263	154	1e-35	 135
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.34	335	222	5	77	403	1071	82	8e-33	 126
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.87	375	258	7	52	406	211	1308	4e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	45.45	44	24	0	34	77	94	225	3e-08	44.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	46.15	156	84	0	1	156	1	468	5e-25	93.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	53.49	301	126	3	1	287	1	903	6e-113	 329
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	35.59	177	112	2	1	175	1	531	6e-31	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	57.64	517	208	3	1	506	1	1527	0.0	 575
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.36	354	238	5	82	430	1092	73	1e-39	 147
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.82	384	278	6	71	451	169	1263	9e-30	 118
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	28.90	346	234	8	97	430	1068	82	1e-27	 112
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_002929|BP1262|rho|1334251|1335508|-1|Bordetella_pertussis_Tohama_I|62.6|NONE	21.83	229	173	8	151	373	780	160	6e-04	38.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	29.52	105	74	1	4	108	7	309	1e-10	53.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	69.51	469	137	3	17	479	10	1395	0.0	 619
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	30.81	422	276	11	17	422	1263	73	2e-35	 134
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.72	345	228	9	89	422	1071	82	2e-29	 117
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.31	403	282	7	42	425	157	1308	2e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0717|atpF|717655|718141|1|Protein|NONE|60.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	32.46	305	193	3	1	292	1	903	1e-32	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	30.00	160	112	1	9	168	13	489	3e-13	62.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	62.99	508	188	0	1	508	1	1524	0.0	 640
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.37	363	255	5	76	433	1110	73	3e-41	 152
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.08	372	266	8	74	436	178	1233	2e-28	 114
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.14	280	204	3	97	376	1068	262	2e-26	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	40.48	294	149	7	3	270	13	879	4e-46	 156
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	43.93	107	59	1	5	110	7	327	3e-29	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	70.60	466	135	2	1	464	1	1395	0.0	 643
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.50	383	263	8	61	436	1110	16	3e-33	 127
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	28.83	326	209	6	79	381	1077	163	3e-29	 116
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	26.37	383	266	5	44	410	175	1308	6e-25	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	45.45	44	24	0	34	77	94	225	1e-08	45.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	40.85	71	42	1	3	73	7	213	2e-12	58.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	39.74	302	168	3	1	288	1	903	7e-86	 260
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	25.97	181	132	3	1	179	1	531	1e-19	80.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	48.57	140	72	0	1	140	1	420	3e-31	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	71.20	507	146	0	3	509	4	1524	0.0	 728
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.00	437	308	10	9	434	1317	73	1e-32	 126
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.54	281	198	3	97	377	1071	262	2e-29	 117
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	27.12	354	247	6	62	404	127	1128	9e-29	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	40.74	297	161	7	7	288	31	879	7e-55	 180
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	45.78	83	45	0	2	84	7	255	2e-21	82.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	79.78	465	88	1	1	459	1	1395	0.0	 718
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.02	410	281	9	3	402	1266	73	1e-37	 140
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.64	335	220	5	77	402	1068	82	4e-33	 127
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.13	374	261	7	51	405	211	1308	5e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	65.91	44	15	0	38	81	109	240	2e-15	63.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	41.67	156	91	0	1	156	1	468	2e-23	89.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	50.17	301	135	1	1	286	1	903	2e-100	 297
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	35.59	177	113	1	1	176	1	531	4e-30	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	69.49	508	155	0	11	518	1	1524	0.0	 677
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.69	384	259	8	32	404	1284	199	2e-33	 129
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	28.25	308	219	5	81	386	169	1044	5e-27	 110
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.40	281	204	3	106	386	1071	262	9e-26	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	42.23	296	141	6	1	266	1	873	1e-60	 194
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	51.26	119	58	0	5	123	7	363	5e-31	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	75.85	472	109	2	1	467	1	1395	0.0	 696
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.96	422	297	8	4	418	1263	49	4e-35	 133
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.72	345	227	8	78	410	1068	82	2e-28	 114
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.65	382	264	8	52	413	211	1308	4e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	55.70	79	35	0	3	81	4	240	1e-25	90.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	45.51	156	85	0	1	156	1	468	4e-28	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	49.83	301	138	1	1	288	1	903	1e-106	 313
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	37.29	177	109	2	1	175	1	531	3e-32	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	58.47	496	195	3	1	485	1	1464	0.0	 555
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	30.14	345	236	5	91	430	1065	73	6e-38	 142
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.41	390	284	6	71	457	169	1281	8e-29	 115
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	28.99	345	234	9	97	430	1068	82	2e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0382|atpB|392472|393222|1|Protein|NONE|55.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	35.34	116	75	2	5	120	10	342	3e-15	66.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	67.97	459	142	2	53	506	10	1365	0.0	 589
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.90	418	282	11	53	459	1263	73	8e-37	 139
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.52	344	228	9	127	459	1068	82	4e-27	 111
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.68	393	277	6	89	462	175	1308	3e-22	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0385|atpF|394325|394805|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	32.27	313	191	5	1	292	1	903	3e-36	 131
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	30.86	162	112	1	8	169	10	492	9e-15	66.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	85.19	513	76	0	1	513	1	1539	0.0	 867
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	30.38	395	262	8	52	433	1191	73	5e-41	 151
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.51	430	304	9	19	436	1	1233	4e-32	 125
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	28.08	292	210	3	85	376	1098	262	1e-27	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	59.86	284	104	5	34	307	31	879	3e-100	 297
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	68.33	120	37	1	1	119	1	360	2e-44	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	92.29	467	36	1	1	467	1	1398	0.0	 811
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.46	426	280	11	4	417	1263	49	6e-37	 139
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.75	337	219	6	84	409	1068	82	6e-31	 121
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.48	384	270	7	47	410	178	1302	6e-19	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	85.71	49	7	0	37	85	94	240	2e-24	87.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	58.97	156	64	0	1	156	1	468	4e-31	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	67.77	301	87	1	1	291	1	903	2e-151	 427
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	55.00	180	78	2	1	177	1	537	2e-58	 181
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	68.90	508	158	0	1	508	1	1524	0.0	 665
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.48	330	226	8	114	433	996	73	2e-28	 114
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	26.62	263	193	2	114	376	1017	262	1e-22	97.4
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.12	430	302	7	27	436	4	1233	5e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	44.78	297	137	7	2	271	7	879	5e-54	 177
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	55.46	119	53	0	4	122	7	363	2e-34	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	79.14	465	92	1	1	460	1	1395	0.0	 711
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.80	410	286	8	4	403	1263	73	3e-34	 130
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.45	337	221	7	77	403	1071	82	2e-31	 122
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.24	424	293	9	7	406	73	1308	6e-23	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	45.45	44	24	0	34	77	94	225	3e-08	44.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	46.79	156	83	0	1	156	1	468	1e-25	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	52.82	301	128	2	1	287	1	903	5e-112	 327
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	34.46	177	114	2	1	175	1	531	2e-29	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3906|atpI|3768664|3769045|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	100.00	513	0	0	1	513	1	1539	0.0	 997
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.86	440	299	10	8	433	1317	73	7e-38	 142
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.93	375	265	7	71	436	169	1233	1e-29	 118
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.40	292	212	3	85	376	1098	262	2e-24	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	100.00	293	0	0	1	293	1	879	0.0	 530
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	100.00	140	0	0	1	140	1	420	4e-60	 182
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	100.00	466	0	0	1	466	1	1398	0.0	 882
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.74	419	273	12	3	408	1266	73	9e-36	 135
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.75	337	219	6	83	408	1068	82	8e-30	 118
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.87	375	258	7	57	411	211	1308	1e-21	94.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	100.00	80	0	0	1	80	1	240	5e-33	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	99.36	156	1	0	1	156	1	468	9e-79	 231
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	100.00	301	0	0	1	301	1	903	0.0	 615
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	100.00	179	0	0	1	179	1	537	3e-126	 353
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	74.27	513	132	0	1	513	1	1539	0.0	 762
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.45	407	268	11	8	403	1317	172	4e-43	 157
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.05	281	205	2	96	376	1071	262	1e-27	 112
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.82	395	283	7	19	403	1	1128	4e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	45.33	289	138	8	2	270	19	879	4e-54	 177
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	52.25	111	53	1	1	111	1	330	7e-27	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	83.26	472	72	2	1	465	1	1398	0.0	 755
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.08	423	290	9	3	415	1266	49	1e-34	 131
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	33.33	342	218	10	76	407	1068	82	8e-32	 124
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.77	444	303	12	50	462	211	1482	1e-24	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	63.27	49	18	0	37	85	94	240	1e-18	72.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	52.59	135	64	0	1	135	64	468	3e-30	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	54.03	298	123	3	5	288	13	903	2e-110	 323
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	40.59	170	100	1	1	169	1	510	6e-34	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	68.90	508	158	0	1	508	1	1524	0.0	 665
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.48	330	226	8	114	433	996	73	2e-28	 114
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	26.62	263	193	2	114	376	1017	262	1e-22	97.4
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.12	430	302	7	27	436	4	1233	5e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	44.78	297	137	7	2	271	7	879	5e-54	 177
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	55.46	119	53	0	4	122	7	363	2e-34	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	79.14	465	92	1	1	460	1	1395	0.0	 711
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.80	410	286	8	4	403	1263	73	3e-34	 130
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.45	337	221	7	77	403	1071	82	2e-31	 122
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.24	424	293	9	7	406	73	1308	6e-23	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	45.45	44	24	0	34	77	94	225	3e-08	44.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	46.79	156	83	0	1	156	1	468	1e-25	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	51.83	301	131	1	1	287	1	903	5e-112	 327
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	34.46	177	114	2	1	175	1	531	2e-29	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3872|atpI|4080175|4080556|-1|Protein|NONE|51.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	59.92	494	187	2	17	499	43	1524	0.0	 570
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.14	350	239	8	84	424	1092	73	4e-36	 137
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.38	336	235	7	98	424	1071	82	3e-28	 114
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.29	348	256	4	84	427	202	1233	6e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	26.46	223	116	8	45	219	199	867	2e-06	44.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	30.36	112	78	0	1	112	1	336	3e-15	66.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	65.95	464	156	3	3	464	10	1398	0.0	 572
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.06	413	286	10	1	406	1269	73	2e-36	 137
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.58	355	237	9	65	406	1122	82	2e-26	 108
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.94	389	273	7	40	409	169	1308	3e-26	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0593|atpE|571784|572096|-1|Protein|NONE|39.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0424|atpF|408933|409359|1|Protein|NONE|31.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	28.80	309	204	5	4	296	7	903	2e-40	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0426|atpH|409883|410408|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0426|atpH|409883|410408|1|Protein|NONE|33.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	23.46	162	111	7	2	150	10	477	5e-04	36.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	74.07	513	133	0	1	513	1	1539	0.0	 756
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.76	445	298	12	8	433	1317	73	2e-38	 143
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.79	292	205	4	85	376	1098	262	3e-30	 120
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.28	392	272	7	29	403	10	1128	4e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	52.58	291	127	5	9	288	31	879	2e-80	 246
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	48.65	111	57	1	1	111	1	330	2e-27	99.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	81.99	472	78	2	1	465	1	1398	0.0	 718
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	30.26	423	285	9	3	415	1266	49	7e-34	 129
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.28	439	302	11	50	462	211	1482	5e-25	 104
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.01	345	225	10	76	407	1068	82	5e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	75.47	53	13	0	25	77	82	240	1e-23	85.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	55.13	156	70	0	1	156	1	468	8e-35	 119
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	50.00	298	138	2	5	291	13	903	3e-99	 294
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	35.39	178	113	2	1	176	1	534	4e-29	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	70.76	513	150	0	1	513	1	1539	0.0	 674
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.93	441	294	13	8	433	1317	73	1e-27	 112
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	26.14	264	195	2	113	376	1020	262	2e-20	91.3
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.86	437	304	8	27	443	4	1242	4e-18	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	42.55	282	133	7	6	258	28	873	2e-50	 167
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	52.07	121	58	0	1	121	1	363	1e-34	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	80.22	465	84	1	1	457	1	1395	0.0	 723
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.24	407	278	8	4	400	1263	73	4e-37	 139
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.75	335	224	5	74	400	1071	82	1e-30	 120
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.45	389	270	8	35	403	181	1308	8e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	57.14	70	30	0	12	81	31	240	4e-25	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	37.82	156	97	0	1	156	1	468	2e-14	64.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	49.50	301	140	1	1	289	1	903	3e-107	 315
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	61.61	508	184	2	1	497	1	1524	0.0	 606
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.14	326	228	5	76	398	1110	154	1e-33	 129
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.63	398	283	8	59	443	121	1263	1e-30	 121
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	26.57	335	237	6	97	422	1068	82	1e-25	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	30.00	150	80	5	102	226	442	879	1e-08	50.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	30.25	119	83	1	5	123	10	363	2e-13	60.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	67.46	464	149	3	3	464	10	1398	0.0	 586
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.12	413	294	10	1	406	1269	73	1e-29	 117
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.16	335	236	6	80	406	1068	82	9e-23	97.8
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	23.71	388	276	8	42	409	175	1308	1e-19	88.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0103|atpF|110437|110950|1|Protein|NONE|25.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	30.82	292	186	4	1	276	1	852	2e-37	 134
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0104|atpH|110952|111474|1|Protein|NONE|21.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	99.81	513	1	0	1	513	1	1539	0.0	 998
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.86	440	299	10	8	433	1317	73	4e-39	 145
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.93	375	265	7	71	436	169	1233	9e-30	 118
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.55	294	212	5	84	376	1101	262	1e-24	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	100.00	293	0	0	1	293	1	879	0.0	 530
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	100.00	140	0	0	1	140	1	420	4e-60	 182
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	99.79	466	1	0	1	466	1	1398	0.0	 881
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.62	427	279	12	3	416	1266	49	8e-36	 135
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.75	337	219	6	83	408	1068	82	7e-30	 118
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.74	373	257	7	57	409	211	1302	4e-21	93.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	100.00	80	0	0	1	80	1	240	5e-33	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	98.72	156	2	0	1	156	1	468	6e-77	 227
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	99.34	301	2	0	1	301	1	903	0.0	 611
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	100.00	179	0	0	1	179	1	537	3e-126	 353
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	35.14	111	72	0	2	112	1	333	5e-15	65.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	69.29	508	156	0	1	508	1	1524	0.0	 667
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.79	330	225	8	114	433	996	73	8e-29	 115
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.00	263	192	2	114	376	1017	262	9e-23	98.2
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.35	430	301	7	27	436	4	1233	5e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	44.44	297	138	7	2	271	7	879	3e-55	 180
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	54.62	119	54	0	2	120	7	363	2e-33	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	78.92	465	93	1	1	460	1	1395	0.0	 709
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.80	410	286	8	4	403	1263	73	4e-34	 130
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.45	337	221	7	77	403	1071	82	2e-31	 122
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.65	425	291	10	7	406	73	1308	7e-23	98.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	45.45	44	24	0	34	77	94	225	3e-08	44.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	45.51	156	85	0	1	156	1	468	3e-23	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	50.50	301	135	2	1	287	1	903	3e-106	 312
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	33.90	177	115	2	1	175	1	531	2e-27	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3949|atpI|3843585|3843966|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	52.94	119	56	0	5	123	7	363	8e-33	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	73.19	511	137	0	5	515	7	1539	0.0	 740
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.16	419	290	9	28	435	1272	73	1e-34	 132
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.44	328	237	7	87	413	1098	196	2e-25	 106
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	24.80	375	273	7	73	438	169	1233	8e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	42.27	291	142	6	2	266	7	879	4e-58	 187
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	46.43	140	75	0	1	140	1	420	4e-31	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	78.56	471	94	3	1	464	1	1395	0.0	 689
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.54	417	286	10	3	407	1266	73	3e-34	 130
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.82	342	230	7	76	407	1068	82	5e-26	 107
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	23.00	413	298	10	16	408	157	1302	5e-17	80.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	65.22	46	16	0	41	86	94	231	3e-17	68.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	44.87	156	86	0	1	156	1	468	7e-28	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	50.50	303	134	3	1	287	1	903	7e-109	 319
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	35.39	178	111	2	1	174	1	534	7e-25	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	70.61	507	149	0	3	509	4	1524	0.0	 717
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	26.38	436	311	8	9	434	1317	73	3e-31	 122
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	27.68	354	245	6	62	404	127	1128	2e-28	 114
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	27.76	281	203	2	97	377	1071	262	6e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	39.40	302	168	7	2	288	16	879	4e-52	 172
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	48.19	83	43	0	4	86	7	255	2e-22	85.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	80.43	465	84	2	1	458	1	1395	0.0	 721
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	28.92	408	281	8	3	401	1266	73	5e-36	 136
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	31.94	335	219	5	76	401	1068	82	5e-34	 130
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	25.33	375	260	7	50	404	211	1308	1e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	65.91	44	15	0	38	81	109	240	2e-15	63.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	42.95	156	89	0	1	156	1	468	9e-26	95.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	49.50	301	137	1	1	286	1	903	7e-99	 293
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	37.29	177	110	1	1	176	1	531	7e-32	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5420|atpI|6181452|6181860|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	45.71	140	76	0	4	143	1	420	3e-30	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	68.42	513	162	0	1	513	1	1539	0.0	 655
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.48	441	296	13	8	433	1317	73	5e-26	 107
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	25.38	264	197	2	113	376	1020	262	1e-18	85.5
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.28	430	297	10	27	436	4	1233	2e-17	81.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	43.37	279	130	8	10	260	37	873	3e-49	 164
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	51.33	113	55	0	1	113	1	339	7e-33	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	80.22	465	84	1	1	457	1	1395	0.0	 722
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.19	418	286	8	4	411	1263	40	2e-36	 137
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.65	336	223	5	75	400	1068	82	5e-32	 124
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.53	424	293	9	7	403	73	1308	3e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	64.15	53	19	0	29	81	82	240	5e-20	75.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	39.74	156	94	0	1	156	1	468	7e-17	71.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	49.83	301	139	3	1	289	1	903	9e-111	 324
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	58.91	494	192	3	1	483	1	1458	0.0	 556
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	30.43	345	235	5	91	430	1065	73	1e-38	 144
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	26.67	390	283	6	71	457	169	1281	2e-29	 117
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	29.62	341	233	8	97	430	1068	82	2e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0416|atpB|413492|414242|1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	35.34	116	75	2	5	120	10	342	3e-15	66.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	67.97	459	142	2	53	506	10	1365	0.0	 589
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.90	418	282	11	53	459	1263	73	8e-37	 139
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.52	344	228	9	127	459	1068	82	4e-27	 111
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.68	393	277	6	89	462	175	1308	3e-22	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0419|atpF|415345|415825|1|Protein|NONE|56.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	31.95	313	192	5	1	292	1	903	1e-34	 126
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	30.25	162	113	1	8	169	10	492	2e-13	62.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	71.20	507	146	0	1	507	1	1521	0.0	 682
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	27.70	426	294	10	22	433	1284	73	3e-27	 110
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	24.41	299	226	4	113	411	1020	196	2e-21	94.4
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	25.93	297	213	5	114	403	298	1128	3e-19	87.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3	ref|NC_002929|BP3282|atpB|3499028|3499910|1|Bordetella_pertussis_Tohama_I|61.3|NONE	41.30	293	143	7	1	264	1	879	9e-54	 176
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1	ref|NC_002929|BP3289|atpC|3505461|3505884|1|Bordetella_pertussis_Tohama_I|68.6|NONE	48.11	106	55	0	5	110	7	324	2e-31	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	80.82	464	86	1	1	461	1	1392	0.0	 729
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	29.25	424	286	12	4	413	1263	49	1e-36	 137
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.86	337	222	6	80	405	1068	82	3e-31	 122
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	26.36	387	265	8	40	406	181	1302	3e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2	ref|NC_002929|BP3283|atpE|3500026|3500269|1|Bordetella_pertussis_Tohama_I|60.1|NONE	53.25	77	36	0	3	79	4	234	1e-15	64.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9	ref|NC_002929|BP3284|atpF|3500406|3500877|1|Bordetella_pertussis_Tohama_I|62.4|NONE	44.23	156	87	0	1	156	1	468	5e-31	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	51.50	301	131	1	1	286	1	903	6e-107	 314
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	32.77	177	117	2	1	175	1	531	1e-20	82.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bsl1187|atpC|1303980|1304211|-1|Protein|NONE|65.4
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_002929|BP3288|atpD|3504051|3505452|1|Bordetella_pertussis_Tohama_I|64.8|NONE	66.88	474	151	3	5	472	7	1395	0.0	 582
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_002929|BP2245|bscN|2370831|2372166|-1|Bordetella_pertussis_Tohama_I|63.4|sigi_hmm	31.34	367	248	7	5	367	1266	217	3e-36	 137
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_002929|BP1400|fliI|1473923|1475357|-1|Bordetella_pertussis_Tohama_I|71.1|NONE	30.26	347	232	8	79	415	1068	82	4e-25	 104
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_002929|BP3286|atpA|3501463|3503005|1|Bordetella_pertussis_Tohama_I|63.9|NONE	24.46	372	254	6	12	356	55	1131	3e-17	80.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8	ref|NC_002929|BP3287|atpG|3503103|3504009|1|Bordetella_pertussis_Tohama_I|60.5|NONE	31.41	312	192	7	1	290	1	903	1e-28	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_002929.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5	ref|NC_002929|BP3285|atpH|3500889|3501429|1|Bordetella_pertussis_Tohama_I|63.3|NONE	30.11	176	123	1	7	182	7	531	8e-16	69.3

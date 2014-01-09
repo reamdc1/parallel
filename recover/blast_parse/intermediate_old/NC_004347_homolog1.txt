@@ -1,0 +1,22 @@
+SO_0405
+NC_004347	Shewanella_oneidensis_MR-1	SO_0405	rho	atpD	NONE	0.0005	22.28	39.3	46.0	421773	423039	-1	Protein	202	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02501	3292656
+SO_3225
+NC_004347	Shewanella_oneidensis_MR-1	SO_3225	fliI	atpA	NONE	4e-24	27.41	102.0	52.4	3363293	3364631	-1	Protein	270	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3954	3847710
+SO_4746
+NC_004347	Shewanella_oneidensis_MR-1	SO_4746	atpC	atpC	NONE	3e-102	100.0	286.0	47.1	4958168	4958597	-1	Protein	142	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4746	4958597
+SO_4747
+NC_004347	Shewanella_oneidensis_MR-1	SO_4747	atpD	atpD	NONE	0.0	100.0	899.0	47.6	4958633	4960025	-1	Protein	463	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4747	4960025
+SO_4748
+NC_004347	Shewanella_oneidensis_MR-1	SO_4748	atpG	atpG	NONE	0.0	100.0	590.0	47.9	4960060	4960921	-1	Protein	286	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4748	4960921
+SO_4749
+NC_004347	Shewanella_oneidensis_MR-1	SO_4749	atpA	atpA	NONE	0.0	100.0	994.0	47.7	4960971	4962513	-1	Protein	513	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4749	4962513
+SO_4750
+NC_004347	Shewanella_oneidensis_MR-1	SO_4750	atpH	atpH	NONE	1e-114	100.0	320.0	46.8	4962527	4963061	-1	Protein	177	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4750	4963061
+SO_4751
+NC_004347	Shewanella_oneidensis_MR-1	SO_4751	atpF	atpF	NONE	3e-109	99.36	305.0	46.9	4963077	4963548	-1	Protein	156	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4751	4963548
+SO_4752
+NC_004347	Shewanella_oneidensis_MR-1	SO_4752	atpE	atpE	NONE	3e-40	100.0	125.0	49.2	4963586	4963838	-1	Protein	83	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4752	4963838
+SO_4753
+NC_004347	Shewanella_oneidensis_MR-1	SO_4753	atpB	atpB	NONE	3e-169	100.0	465.0	43.3	4963908	4964703	-1	Protein	264	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4753	4964703
+SO_4754
+NC_004347	Shewanella_oneidensis_MR-1	SO_4754	atpI	atpI	NONE	3e-88	99.21	249.0	45.8	4964715	4965099	-1	Protein	127	exact	NC_004347	Shewanella_oneidensis_MR-1	SO_4754	4965099

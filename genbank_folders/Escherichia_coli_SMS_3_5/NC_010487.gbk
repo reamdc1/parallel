@@ -1,0 +1,155 @@
+LOCUS       NC_010487               3565 bp    DNA     circular BCT 01-OCT-2008
+DEFINITION  Escherichia coli SMS-3-5 plasmid pSMS35_3, complete sequence.
+ACCESSION   NC_010487
+VERSION     NC_010487.1  GI:170650756
+KEYWORDS    .
+SOURCE      Escherichia coli SMS-3-5
+  ORGANISM  Escherichia coli SMS-3-5
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 3565)
+  AUTHORS   Fricke,W.F., Wright,M.S., Lindell,A.H., Harkins,D.M.,
+            Baker-Austin,C., Ravel,J. and Stepanauskas,R.
+  TITLE     Insights into the environmental resistance gene pool from the
+            genome sequence of the multidrug-resistant environmental isolate E.
+            coli SMS-3-5
+  JOURNAL   J. Bacteriol. (2008) In press
+   PUBMED   18708504
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 3565)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 3565)
+  AUTHORS   Fricke,W.F., Wright,M.S., Lindell,A.H., Harkins,D.M.,
+            Baker-Austin,C., Ravel,J. and Stepanauskas,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2008) J. Craig Venter Institute, 9712 Medical
+            Center Dr, Rockville, MD 20850, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from CP000974.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3565
+                     /organism="Escherichia coli SMS-3-5"
+                     /mol_type="genomic DNA"
+                     /strain="SMS-3-5"
+                     /db_xref="taxon:439855"
+                     /plasmid="pSMS35_3"
+     gene            49..711
+                     /locus_tag="EcSMS35_D0001"
+                     /db_xref="GeneID:6106618"
+     CDS             49..711
+                     /locus_tag="EcSMS35_D0001"
+                     /note="identified by Glimmer3; putative"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001739887.1"
+                     /db_xref="GI:170650758"
+                     /db_xref="GeneID:6106618"
+                     /translation="MENNSPDIDIIELFLFLKKKIVSIILFVVLSLILSSIFLLINKN
+                     KINIKYELNMIANSPSMIINCGSDFYCKANIIQSIINNKSKSITSNIDERGKKIILSW
+                     AGDDRYKPLVTAEVNAIHKAIDDWYIQDYKTYKSIVNNQDSNYINGTETYAKVALLTK
+                     INTAGEKNFISINDEIVNKKYKPALIMALTLIIAVIFSFSYHIIKRSILEYKNKLNRS
+                     FY"
+     gene            1078..1473
+                     /locus_tag="EcSMS35_D0002"
+                     /note="IS1 transposase orfB, degenerate; this region
+                     contains one or more premature stops and/or frameshifts
+                     which are not the result of sequencing error"
+                     /pseudo
+                     /db_xref="GeneID:6106620"
+     gene            complement(1627..2223)
+                     /locus_tag="EcSMS35_D0003"
+                     /db_xref="GeneID:6106619"
+     CDS             complement(1627..2223)
+                     /locus_tag="EcSMS35_D0003"
+                     /note="identified by Glimmer3; putative"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001739888.1"
+                     /db_xref="GI:170650759"
+                     /db_xref="GeneID:6106619"
+                     /translation="MAGDLRRLRGDRDKKSVPHCIVHACMNGLFFLTTELHCSFSSYI
+                     TFTTLLHHFCIIPSAYTSLLQHFCITFTSLLHHSFSSYVTFTSVPSSVPFVHPPPFLN
+                     VLKTVFPAVPATPHGHAINCVPVHRFRIKRTSETGLTPAEWREFPRYALACILMHAVK
+                     TEPARFWRVFGWFVACFTGFPSETPSAPLRRCGQRMLW"
+     gene            complement(2633..2842)
+                     /locus_tag="EcSMS35_D0004"
+                     /db_xref="GeneID:6106621"
+     CDS             complement(2633..2842)
+                     /locus_tag="EcSMS35_D0004"
+                     /note="identified by Glimmer3; putative"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001739889.1"
+                     /db_xref="GI:170650757"
+                     /db_xref="GeneID:6106621"
+                     /translation="MSVRFRDACQGGGAYGKTPRRGVAFSLLSLAFVMLTVTLSAYLP
+                     SARRRLMTERSERMSEEAENHQNVQ"
+ORIGIN      
+        1 atttatttat ttaagctata atttaataac tattgttggt atataaaaat ggaaaacaat
+       61 tcacctgata ttgatatcat cgagttattt ctttttctta agaaaaaaat cgtgagtatt
+      121 attttgtttg ttgttttatc attgatttta tcatctattt tcttgctgat aaacaaaaac
+      181 aaaataaata taaagtacga attaaacatg atcgctaatt cgccaagcat gattattaac
+      241 tgtgggtctg acttttattg taaagcgaat atcatacaat caatcataaa caataaaagc
+      301 aagtctataa catcaaatat agatgaaaga ggaaaaaaaa taatcctgtc atgggctggt
+      361 gatgaccgtt acaaacccct ggttaccgct gaagtaaacg ctatccataa agctattgat
+      421 gactggtaca tccaagatta taaaacttat aaaagcatag ttaacaacca ggacagcaac
+      481 tatataaatg gcactgaaac atatgcaaaa gttgcattat taacaaaaat aaacactgcc
+      541 ggagaaaaaa acttcatttc aataaatgat gaaatagtga ataaaaagta taaaccagct
+      601 ttaattatgg ctctaacgtt aattatagcc gttatctttt ccttctcgta tcatataata
+      661 aaaagatcta tacttgaata taaaaataag ttaaacaggt ctttttatta gcctgtaacg
+      721 attaataacc ttattctagc aacatccgtt acacgccaga tgcagaaaag cccgctaata
+      781 gcgggcctcc cgataaacct caagtgaata agggcagtca gttctatttc ttacccttcc
+      841 attgcctaac tgattctccg tggcactggg ccaactgcag cagtttttat tcccatgagg
+      901 aatccgattg gtcacctcgc gatctccatt ttttaagata cacacataat ttcattagac
+      961 catctacagc tgactgatgc cataactcac ctttagcatg aagattctag gtgatgactc
+     1021 taattagttg aatctaatgt ataatacagg ctttcttcgc ctgttgccca tgctgatatg
+     1081 gcgcttatct gcgagcttga tgagcaatgg agctacattg gcagtaaagc ccggcaacac
+     1141 tggctctggt acgcgtacaa caccaaaaca ggcggtgtat tggcctacac gtttggttcc
+     1201 cgaaccgatt aaacgtgtcg gaagctactg gcactgctta cacccttcaa catcggcatg
+     1261 ctcaccagcg atgacttggg cagctatggc cgggtggtgc cgaagaataa gcatctgacc
+     1321 ggcaaaatat tcacccaacg cattgagcgt aataatctga cgctacgcac ccgcattaag
+     1381 cggttggctc gtaaaacaat ctgcttctca cgctcagttg agatccacga aaaagtgatc
+     1441 ggagcggtta tcgaaaaaca catgttctac taattggatg cactatcaga ttctgaaccg
+     1501 tgggtatata agtctgcatt tcagcttcat caatcccgtt ttttttgctg aatccattta
+     1561 ccaatatcct gtccatacgt tactaaagaa aataatatat gcggagtgag tcatcatgcg
+     1621 cctaatttac cataacatcc gttgcccgca ccgcctgaga ggcgctgagg gcgtttctga
+     1681 cgggaaaccg gtaaaacagg caacaaacca cccgaaaacc cgccagaaac gcgcaggctc
+     1741 tgtttttacg gcatgcatga gtatgcacgc aagtgcatag cgcggaaatt cacgccattc
+     1801 agccggggta agtcctgttt ccgatgttct ttttatccga aaacggtgaa cggggacgca
+     1861 atttattgcg tggccgtgag gcgttgccgg cacagccgga aaaaccgttt tcagcacgtt
+     1921 caggaagggg ggcggatgta caaatggcac agaggatgga actgacgtaa aagtgacgta
+     1981 tgagctgaag gaatgatgta aaagtgatgt aaaagtgatg caaaagtgtt gtaaaagtga
+     2041 tgtataggct gaaggaatga tgcaaaagtg atgtaaaagt gttgtaaaag tgatgtatga
+     2101 actgaaggag caatgtaatt ctgtagtcag gaagaataac ccgttcatgc aggcatgaac
+     2161 gatacagtga ggaacgcttt ttttgtcacg atctcccctt aacctgcgta aatcacccgc
+     2221 catggttgat tatttttcaa cctcaaaatg gtcatacacc taacgcagct gcgattgtca
+     2281 tcgcaacttc atgaaaaata aataaaaaag aaaaaataaa gggattctgg gtattaccgg
+     2341 ggtaataata ttaagcgcca ggacaatgaa aattaaggcg atgccggtat tactccggta
+     2401 atacccagaa cggagccatt acgcaccgtc ctgctgctca ttcaggcgcg ctgacaggct
+     2461 tcggtaaagg cgttccgcat cctcatggag tttctcgcag aaatcagcct catgatccag
+     2521 atccagctca ttaagcctgt ccagaagaag cagggactga tcctggataa atttagccat
+     2581 gttaacggct gtcttttgtt gtttgttcat gaaggccccg gcgcgaaagt gcttactgta
+     2641 cgttctgatg gttttccgct tcctcgctca ttcgctcact ccgttcggtc atgagtctgc
+     2701 ggcgagcgga gggaagataa gcagataacg taacggtaag cataacgaaa gctaaggaca
+     2761 agagcgaaaa ggccacgccc cgccggggcg tttttccata ggctccgccc ccctgacaag
+     2821 catcacgaaa tctgacgctc aaatcagtgg tggcgaaacc cgacaggact ataaagatac
+     2881 caggcgtttc cccctgatgg ctccctcgtg cgctctcctg ttcctgcctt tcggtttacc
+     2941 ggtgtcactc cgctgttatg gccgcgttta tctcattcca cgcctgacac tcagttccgg
+     3001 gtaggcagtt cgctccaagc tggactgtat gcacgaaccc cccgttcagt ccgactgctg
+     3061 cgccttatcc ggtaactatc gtcttgagtc caacccggaa agacacgaca aaacgccact
+     3121 ggcagcagcc attggtatct ggtttacgga gcggagaggc gtgtacaagc atacacagag
+     3181 ttcttgaagt gttgacctga ctacggctac actggaagga cagatttggt cactgcgctc
+     3241 cgtttaagcc agttaccacg gttcagaaac ttgccggttt cctgaacctt cgaaaaacca
+     3301 ccttgccggg tggttttttc gttttcagac caagagatta cggctgtaac acaaggatct
+     3361 caagaagatc ttaaaatatg tggaaaggat acaggctgat aacaactctc tccatagaca
+     3421 tgaccgaaca aaaaacaaac aaaagaaatt gattttagga gttttctcac acctaaataa
+     3481 taggtaaaat gttttttatt tgattggatt ttaaaatgaa atatactaaa tcggcgaaaa
+     3541 tattcatcac ggctatttta atttt
+//

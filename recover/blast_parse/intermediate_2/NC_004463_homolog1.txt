@@ -1,0 +1,28 @@
+bll0439
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0439	atpC	atpC	NONE	2e-15	37.5	66.6	65.7	473347	473755	-1	Protein	88	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4746	4958597
+bll0440
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	atpD	atpD	NONE	0.0	100.0	900.0	65.7	473841	475275	-1	Protein	477	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+bll0441
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	atpG	atpG	NONE	0.0	100.0	501.0	65.8	475357	476230	-1	Protein	290	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230
+bll0442
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0442	atpA	atpD	NONE	1e-16	26.25	80.1	64.1	476404	477934	-1	Protein	301	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+bll0443
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	atpH	atpH	NONE	2e-128	99.46	356.0	63.5	477933	478494	-1	Protein	186	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	478494
+bll0635
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0635	rho	atpA	NONE	4e-05	21.82	43.9	61.5	682689	683955	-1	Protein	165	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4749	4962513
+bll1185
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	atpB	atpB	NONE	6e-92	100.0	262.0	66.3	1302863	1303349	-1	Protein	161	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349
+bll1186
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1186	atpB'	atpB	NONE	2e-18	47.89	77.8	66.7	1303354	1303918	-1	Protein	71	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+bll1188
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	atpA	atpA	NONE	7e-165	100.0	454.0	59.9	1304264	1305014	-1	Protein	249	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014
+blr1816
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1816	rhcN	atpD	NONE	1e-29	29.53	118.0	61.9	1968915	1970271	1	Protein	359	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+blr2201
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr2201	fliI	atpD	NONE	1e-30	29.72	121.0	67.0	2377130	2378456	1	Protein	387	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+blr6885
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6885	fliI	atpD	NONE	5e-34	37.82	130.0	67.9	7576374	7577700	1	Protein	275	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+bsl1187
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	atpC	atpC	NONE	2e-16	100.0	65.1	65.4	1303980	1304211	-1	Protein	58	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	1304211
+bsl1189
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1189	unknown	atpI	NONE	2e-14	50.75	62.4	61.1	1305125	1305323	-1	Protein	67	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc00872	916877

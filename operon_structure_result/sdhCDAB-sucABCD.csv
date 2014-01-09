@@ -1,0 +1,36 @@
+sdhCDAB-sucABCD
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,sdhCDAB-sucABCD
+NC_004741,Shigella_flexneri_2a_str._2457T,sucDD CBA-sdhBADC>
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,sdhCDAB sucABCD
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,sdhCDAB sucABCD
+NC_003143,Yersinia_pestis_CO92,sdhCDAB-sucABCD
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,<sdhBA> sucAB sucCD
+NC_004459,Vibrio_vulnificus_CMCP6,<sucDCBA-sdhBADC>
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,sdhCDAB-sucABCD
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),sucAB
+NC_000907,Haemophilus_influenzae_Rd_KW20,<sdhBA> sucCD <sucBA>
+NC_004347,Shewanella_oneidensis_MR-1,sdhCDAB-sucABCD
+NC_005061,Candidatus_Blochmannia_floridanus,sdhCDAB-sucABCD
+NC_002516,Pseudomonas_aeruginosa_PAO1,sdhCDAB-sucAB sucCD
+NC_002947,Pseudomonas_putida_KT2440,<sucDC> <sucBA-sdhBADC>
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,sdhCDAB-sucAB sucCD
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,<sucBA> sdhCAB <sucDC>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,sucCD sdhCAB sucAB
+NC_002488,Xylella_fastidiosa_9a5c,sdhCAB <sucBA> sucCD
+NC_004757,Nitrosomonas_europaea_ATCC_19718,sucCD sdhCDA sucAB sdhB
+NC_005085,Chromobacterium_violaceum_ATCC_12472,sdhCDAB sucAB sucCD
+NC_003295,Ralstonia_solanacearum_GMI1000,sucCD sucAB <sdhBADC>
+NC_003112,Neisseria_meningitidis_MC58,sdhCDAB sucAB sucCD
+NC_002927,Bordetella_bronchiseptica_RB50,sucCD <sucBA> <sdhBADC>
+NC_002929,Bordetella_pertussis_Tohama_I,sucAB <sdhBADC> <sucDC>
+NC_002928,Bordetella_parapertussis_12822,sucCD <sucBA> <sdhBADC>
+NC_004463,Bradyrhizobium_japonicum_USDA_110,<sucBAD> sdhCAB <sucC>
+NC_002696,Caulobacter_crescentus_CB15,sucCDAB <sdhBAC>
+NC_003062,Agrobacterium_tumefaciens_str._C58,<sucBADC> <sdhBAC>
+NC_002678,Mesorhizobium_loti_MAFF303099,sucCD <sdhBAC> <sucBA>
+NC_003047,Sinorhizobium_meliloti_1021,<sucBADC> <sdhBAC>
+NC_012441,Brucella_melitensis_ATCC_23457,<sdhBAC> <sucBADC>
+NC_004310,Brucella_suis_1330,<sdhBAC> <sucBADC>
+NC_005090,Wolinella_succinogenes_DSM_1740,<sdhBA> sucCD
+NC_004917,Helicobacter_hepaticus_ATCC_51449,sdhAB
+NC_002163,Campylobacter_jejuni_subsp._jejuni_NCTC_11168,sdhAB sucCD

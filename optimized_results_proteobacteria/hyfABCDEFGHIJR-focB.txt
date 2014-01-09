@@ -1,0 +1,444 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1352	unknown	hyfF	ECK2482:JW2471	4e-12	28.51	67.0	63.19	1131758	1133195	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1354	unknown	hyfB	ECK2478:JW2467:yffF	4e-18	28.77	87.4	61.16	1133213	1134719	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1355	unknown	hyfD	ECK2480:JW2469	2e-28	32.56	120.0	62.87	1134718	1136692	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1367	unknown	hyfG	ECK2483:JW2472	5e-25	26.03	110.0	62.3	1144811	1146002	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1369	unknown	hyfG	ECK2483:JW2472	1e-06	41.25	49.3	58.58	1146011	1146617	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1371	unknown	hyfI	ECK2485:JW5805	4e-23	41.46	102.0	63.18	1146621	1147224	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5857	unknown	hyfR	ECK2487:JW2476	1e-62	54.36	235.0	58.28	4730372	4732124	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.98,eval_thresh:12.673
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5613	unknown	hyfA	ECK2477:JW2466:yffE	8e-09	30.56	54.3	65.58	4503702	4504437	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll1359	unknown	hyfH	ECK2484:JW2473	4e-07	36.36	48.5	63.84	1137756	1138251	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFBD> <hyfGGI> <hyfR> <hyfA> <hyfH> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	hyfA,1	hyfB,1	hyfD,1	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.33	 0.25	1	4	4	3	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.50	 0.38	1	4	4	3	0	0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2638	nuoB	hyfI	ECK2485:JW5805	2e-18	40.16	87.0	62.83	2983204	2983882	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2639	nuoD	hyfG	ECK2483:JW2472	3e-37	27.53	150.0	64.2	2983962	2985744	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2643	nuoH	hyfC	ECK2479:JW2468	0.0003	24.68	40.4	64.46	2990434	2991430	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2644	nuoI	hyfH	ECK2484:JW2473	1e-07	38.24	50.1	63.21	2991441	2991990	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2647	nuoL	hyfD	ECK2480:JW2469	5e-34	34.95	139.0	66.23	2992852	2994700	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2648	nuoM	hyfD	ECK2480:JW2469	3e-13	29.0	70.9	64.84	2994727	2996257	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2649	nuoN	hyfF	ECK2482:JW2471	4e-13	33.14	70.5	66.74	2996264	2997725	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1054	unknown	hyfB	ECK2478:JW2467:yffF	8e-17	31.37	83.2	66.95	1142060	1144862	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2715	unknown	hyfA	ECK2477:JW2466:yffE	0.0004	32.73	38.9	65.19	3070365	3070704	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA1099	fleR	hyfR	ECK2487:JW2476	2e-63	56.77	238.0	69.48	1190384	1191806	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIG hyfCH hyfDDF hyfB hyfA hyfR 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	hyfA,1	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.42	 0.17	1	3	5	2	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.56	 0.22	1	3	5	2	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2316.S	nuoN	hyfF	ECK2482:JW2471	3e-15	32.2	77.4	59.53	2424353	2425811	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2317	nuoM	hyfD	ECK2480:JW2469	2e-11	29.44	64.3	56.21	2425817	2427347	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2318	nuoL	hyfD	ECK2480:JW2469	2e-40	34.05	160.0	57.82	2427660	2429502	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2846	hycH	hyfJ	ECK2486:JW2475	7e-29	48.09	119.0	55.96	2992167	2992578	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2847	hycG	hyfI	ECK2485:JW5805	4e-80	61.75	291.0	59.51	2992574	2993342	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2848	hycF	hyfH	ECK2484:JW2473	3e-30	45.35	125.0	55.99	2993341	2993884	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2849	hycE	hyfG	ECK2483:JW2472	0.0	71.83	868.0	57.95	2993893	2995603	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2850	hycD	hyfC	ECK2479:JW2468	7e-67	53.64	247.0	58.55	2995620	2996544	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2851	hycC	hyfB	ECK2478:JW2467:yffF	7e-63	39.84	235.0	60.97	2996546	2998373	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2852	hycB	hyfA	ECK2477:JW2466:yffE	3e-49	50.27	188.0	57.8	2998372	2998981	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2839	ygaA	hyfR	ECK2487:JW2476	3e-63	56.6	236.0	59.37	2983364	2984885	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0974	focA	focB	ECK2488:JW2477	5e-71	51.09	261.0	48.37	1057437	1058295	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.483,eval_thresh:13.668
+++	<hyfFDD> <hyfJIHGCBA> <hyfR> <focB> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	focB,1	hyfA,1	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfJ,1	hyfR,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.25	 0.58	1	1	3	7	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.27	 0.64	1	1	3	7	0	0
+NC_004310	Brucella_suis_1330	BR0803	nuoB	hyfI	ECK2485:JW5805	7e-24	42.28	103.0	60.14	779735	780317	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:30.21,eval_thresh:15.832
+NC_004310	Brucella_suis_1330	BR0804	nuoC	hyfG	ECK2483:JW2472	8e-07	41.77	47.8	56.81	780429	781038	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0805	nuoD	hyfG	ECK2483:JW2472	2e-25	25.96	109.0	57.93	781055	782246	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0809	nuoH	hyfC	ECK2479:JW2468	1e-05	26.75	42.7	55.27	786508	787552	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0810	nuoI	hyfH	ECK2484:JW2473	7e-08	36.8	49.3	58.74	787564	788056	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0813	nuoL	hyfF	ECK2482:JW2471	2e-24	30.93	106.0	57.05	789173	791159	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0814	nuoM	hyfB	ECK2478:JW2467:yffF	4e-19	29.19	89.0	57.52	791158	792667	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0815	nuoN	hyfF	ECK2482:JW2471	7e-14	26.14	71.2	57.2	792688	794125	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1117	ntrC	hyfR	ECK2487:JW2476	5e-58	49.4	218.0	59.35	1094499	1095975	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1767	fdxA	hyfA	ECK2477:JW2466:yffE	0.0003	35.42	37.7	55.75	1697500	1697839	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0813	nuoL	hyfD	ECK2480:JW2469	5e-29	30.59	121.0	57.05	789173	791159	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIGG hyfCH hyfFBF <hyfR> <hyfA> hyfD 
+$$	NC_004310	Brucella_suis_1330	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,2	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_004310	Brucella_suis_1330	 0.42	 0.17	2	3	5	2	1	1
+@@	NC_004310	Brucella_suis_1330	 0.56	 0.22	2	3	5	2	1	1
+NC_003112	Neisseria_meningitidis_MC58	NMB0257	nuoL	hyfB	ECK2478:JW2467:yffF	5e-14	33.7	72.4	52.1	259502	261527	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0258	nuoM	hyfD	ECK2480:JW2469	3e-20	27.7	92.0	51.44	261622	263119	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0259	nuoN	hyfF	ECK2482:JW2471	2e-08	24.79	53.5	54.68	263128	264571	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0115	ntrX	hyfR	ECK2487:JW2476	2e-07	23.53	50.1	57.04	123553	124831	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0242	nuoB	hyfI	ECK2485:JW5805	1e-21	40.98	95.5	56.73	246960	247443	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.24,eval_thresh:17.385
+NC_003112	Neisseria_meningitidis_MC58	NMB0251	nuoI	hyfH	ECK2484:JW2473	5e-07	40.0	46.6	51.46	256153	256633	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0244	nuoD	hyfG	ECK2483:JW2472	2e-26	26.1	112.0	54.65	248038	249295	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfBDF hyfR hyfI hyfH hyfG 
+$$	NC_003112	Neisseria_meningitidis_MC58	hyfB,1	hyfD,1	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_003112	Neisseria_meningitidis_MC58	 0.33	 0.25	0	5	4	3	0	0
+@@	NC_003112	Neisseria_meningitidis_MC58	 0.57	 0.43	0	5	4	3	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_4120	nuoB	hyfI	ECK2485:JW5805	2e-18	39.34	86.7	59.88	4656604	4657282	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4121	nuoCD	hyfG	ECK2483:JW2472	3e-38	26.93	154.0	61.9	4657361	4659143	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4125	nuoH	hyfC	ECK2479:JW2468	0.0002	24.58	41.2	62.0	4663844	4664852	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4126	nuoI	hyfH	ECK2484:JW2473	1e-07	38.24	50.4	61.38	4664863	4665412	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4129	nuoL	hyfD	ECK2480:JW2469	1e-35	35.18	145.0	63.75	4666231	4668085	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4130	nuoM	hyfD	ECK2480:JW2469	1e-13	29.5	71.6	63.01	4668125	4669658	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4131	nuoN	hyfB	ECK2478:JW2467:yffF	1e-06	25.0	49.3	63.47	4669665	4671135	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2771	unknown	hyfR	ECK2487:JW2476	4e-62	55.65	233.0	65.04	3155155	3156259	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0490	unknown	hyfA	ECK2477:JW2466:yffE	8e-06	24.62	44.3	63.93	578029	578980	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2230	unknown	hyfF	ECK2482:JW2471	8e-20	30.59	92.8	64.33	2536119	2539035	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIG hyfCH hyfDDB <hyfR> hyfA <hyfF> 
+$$	NC_002947	Pseudomonas_putida_KT2440	hyfA,1	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.42	 0.17	1	3	5	2	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.56	 0.22	1	3	5	2	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0942	nuoB2	hyfI	ECK2485:JW5805	6e-19	39.02	88.2	61.84	976134	976611	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0943	nuoC	hyfG	ECK2483:JW2472	3e-05	41.77	43.9	64.15	976621	977218	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0944	nuoD	hyfG	ECK2483:JW2472	1e-27	27.45	118.0	64.35	977210	978464	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0952	nuoL	hyfD	ECK2480:JW2469	9e-27	30.32	115.0	63.11	985167	987219	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0953	nuoM	hyfD	ECK2480:JW2469	9e-18	27.27	85.5	63.27	987259	988759	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0954	nuoN	hyfF	ECK2482:JW2471	2e-13	26.72	70.9	64.67	988780	990235	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0952	nuoL	hyfB	ECK2478:JW2467:yffF	8e-17	27.83	82.8	63.11	985167	987219	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1411	unknown	focB	ECK2488:JW2477	7e-08	29.45	51.6	64.62	1487088	1487871	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0949	nuoI	hyfH	ECK2484:JW2473	3e-06	34.43	45.1	61.55	983657	984146	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_3434	fdxA1	hyfA	ECK2477:JW2466:yffE	1e-05	33.33	43.9	61.73	3731140	3731464	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_4220	unknown	hyfR	ECK2487:JW2476	3e-69	53.49	256.0	71.74	4554606	4555947	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	focB,1	hyfA,1	hyfB,1	hyfD,2	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.50	 0.17	2	3	6	2	1	1
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.67	 0.22	2	3	6	2	1	1
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2049	nuoN	hyfF	ECK2482:JW2471	8e-11	26.25	62.0	65.24	2221197	2222670	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2050	nuoM	hyfD	ECK2480:JW2469	2e-20	29.07	93.6	61.83	2222689	2224156	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.804,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2051	nuoL	hyfD	ECK2480:JW2469	1e-29	30.72	124.0	63.61	2224169	2226230	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.804,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2054	nuoI	hyfH	ECK2484:JW2473	3e-06	35.44	44.7	64.23	2227365	2227857	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.804,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2055	nuoH	hyfC	ECK2479:JW2468	8e-05	24.35	41.2	62.07	2227877	2228942	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2051	nuoL	hyfB	ECK2478:JW2467:yffF	9e-17	28.43	82.0	63.61	2224169	2226230	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.804,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1114	fdxA	hyfA	ECK2477:JW2466:yffE	9e-05	28.79	40.4	61.16	1170414	1170741	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2059	nuoD	hyfG	ECK2483:JW2472	8e-26	26.47	112.0	63.48	2233215	2234469	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2061	nuoB	hyfI	ECK2485:JW5805	3e-19	40.16	88.6	64.6	2235086	2235569	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc3129	unknown	hyfR	ECK2487:JW2476	6e-46	48.43	179.0	73.09	3374672	3376586	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFDD> <hyfHC> <hyfB> <hyfA> <hyfG> <hyfI> hyfR 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	hyfA,1	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.50	 0.17	1	3	6	2	1	1
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.67	 0.22	1	3	6	2	1	1
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1590	nuoN	hyfF	ECK2482:JW2471	1e-18	30.91	87.4	34.82	1518369	1519848	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1591	nuoM	hyfB	ECK2478:JW2467:yffF	3e-13	30.15	69.7	36.12	1519849	1521427	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1592	nuoL	hyfD	ECK2480:JW2469	8e-34	32.47	137.0	37.17	1521423	1523301	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1595	nuoI	hyfH	ECK2484:JW2473	3e-05	38.89	40.8	38.03	1524116	1524755	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1596	nuoH	hyfC	ECK2479:JW2468	0.0007	25.11	37.4	39.14	1524763	1525762	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1600	nuoD	hyfG	ECK2483:JW2472	1e-28	26.45	120.0	36.18	1529278	1530508	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1601	nuoC	hyfG	ECK2483:JW2472	5e-07	35.53	48.5	34.01	1530504	1531248	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1602	nuoB	hyfI	ECK2485:JW5805	2e-18	33.33	84.7	40.0	1531261	1531771	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1635	flgR	hyfR	ECK2487:JW2476	3e-54	41.1	206.0	37.22	1560221	1561532	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0227	fdhB	hyfA	ECK2477:JW2466:yffE	3e-09	35.87	54.3	42.06	217166	217796	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.68,eval_thresh:15.867
+++	<hyfFBD> <hyfHC> <hyfGGI> hyfR <hyfA> 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.33	 0.25	1	3	4	3	0	0
+@@	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.44	 0.33	1	3	4	3	0	0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1566c	nuoN	hyfF	ECK2482:JW2471	4e-15	26.84	75.1	28.22	1496421	1497810	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1567c	nuoM	hyfB	ECK2478:JW2467:yffF	4e-10	25.95	58.9	29.23	1497799	1499287	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1568c	nuoL	hyfD	ECK2480:JW2469	2e-44	32.47	172.0	32.27	1499288	1501079	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1571c	nuoI	hyfH	ECK2484:JW2473	3e-07	32.71	47.4	33.49	1501888	1502530	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1572c	nuoH	hyfC	ECK2479:JW2468	4e-06	26.48	44.7	34.43	1502539	1503538	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1576c	nuoD	hyfG	ECK2483:JW2472	4e-31	27.85	128.0	36.02	1506902	1508129	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1577c	nuoC	hyfG	ECK2483:JW2472	3e-08	36.59	52.8	30.57	1508130	1508925	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1578c	nuoB	hyfI	ECK2485:JW5805	3e-19	37.19	87.8	40.28	1508921	1509425	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1024c	flgR	hyfR	ECK2487:JW2476	2e-55	46.44	209.0	28.73	955268	956570	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1510c	fdhB	hyfA	ECK2477:JW2466:yffE	2e-11	37.63	61.6	36.45	1445702	1446344	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:23.165,eval_thresh:17.219
+++	<hyfFBD> <hyfHC> <hyfGGI> <hyfR> <hyfA> 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.33	 0.25	1	3	4	3	0	0
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.44	 0.33	1	3	4	3	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2546	nuoN	hyfF	ECK2482:JW2471	2e-15	32.2	77.4	59.6	2379378	2380836	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2547	nuoM	hyfD	ECK2480:JW2469	1e-11	29.44	64.7	55.69	2380842	2382372	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2548	nuoL	hyfD	ECK2480:JW2469	2e-40	34.05	160.0	57.93	2382685	2384527	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2968	hycH	hyfJ	ECK2486:JW2475	4e-29	48.09	120.0	57.42	2845057	2845468	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2969	hycG	hyfI	ECK2485:JW5805	9e-80	61.35	290.0	59.24	2845464	2846232	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2970	hycF	hyfH	ECK2484:JW2473	2e-30	45.35	125.0	56.17	2846231	2846774	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2971	hycE	hyfG	ECK2483:JW2472	0.0	72.11	866.0	57.43	2846783	2848493	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2972	hycD	hyfC	ECK2479:JW2468	2e-66	53.64	246.0	58.23	2848510	2849434	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2973	hycC	hyfB	ECK2478:JW2467:yffF	4e-63	39.63	236.0	61.3	2849436	2851263	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2974	hycB	hyfA	ECK2477:JW2466:yffE	3e-49	50.27	188.0	58.29	2851262	2851871	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2961	ygaA	hyfR	ECK2487:JW2476	3e-63	56.6	237.0	59.43	2836254	2837775	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0974	focA	focB	ECK2488:JW2477	5e-71	51.09	261.0	48.25	967948	968806	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.74,eval_thresh:10.939
+++	<hyfFDD> <hyfJIHGCBA> <hyfR> <focB> 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	focB,1	hyfA,1	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfJ,1	hyfR,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.25	 0.58	1	1	3	7	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.27	 0.64	1	1	3	7	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01913	nuoB1	hyfI	ECK2485:JW5805	2e-23	41.46	102.0	63.04	1378614	1379193	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01914	nuoC1	hyfG	ECK2483:JW2472	2e-06	37.18	47.4	61.55	1379210	1379816	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01915	nuoD1	hyfG	ECK2483:JW2472	3e-24	25.0	107.0	63.06	1379872	1381063	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc03179	phaA1	hyfD	ECK2480:JW2469	2e-37	35.44	150.0	63.67	3143728	3146728	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc03181	phaD1	hyfB	ECK2478:JW2467:yffF	9e-06	26.36	45.4	66.42	3147067	3148687	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc04011	tacA	hyfR	ECK2487:JW2476	1e-59	45.42	224.0	64.46	3005681	3007223	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc03875	unknown	hyfA	ECK2477:JW2466:yffE	0.0008	32.0	37.0	55.75	3540775	3541114	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01922	nuoI	hyfH	ECK2484:JW2473	2e-08	35.25	52.0	62.63	1387538	1388033	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.647,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc01925	nuoL	hyfF	ECK2482:JW2471	1e-22	32.23	101.0	61.8	1389144	1391139	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.647,eval_thresh:11.647
+++	hyfIGG hyfDB <hyfR> <hyfA> hyfH hyfF 
+$$	NC_003047	Sinorhizobium_meliloti_1021	hyfA,1	hyfB,1	hyfD,1	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.42	 0.17	1	4	5	2	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.62	 0.25	1	4	5	2	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2691	nuoN	hyfF	ECK2482:JW2471	8e-12	26.49	65.9	63.79	3150585	3152046	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2692	nuoM	hyfD	ECK2480:JW2469	6e-19	27.74	89.4	60.94	3152079	3153582	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2693	nuoL	hyfB	ECK2478:JW2467:yffF	1e-14	34.05	75.9	59.58	3153602	3155747	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2697	nuoH	hyfC	ECK2479:JW2468	5e-07	27.98	48.9	60.44	3157215	3158307	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC0845	flbD	hyfR	ECK2487:JW2476	6e-60	51.72	226.0	66.58	1004255	1005383	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1762	unknown	hyfA	ECK2477:JW2466:yffE	0.001	30.3	37.4	62.65	2019134	2019458	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2701	nuoD	hyfG	ECK2483:JW2472	1e-27	26.54	118.0	60.86	3162396	3163704	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2703	nuoB	hyfI	ECK2485:JW5805	1e-20	40.16	94.0	64.58	3164489	3165065	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFDB> <hyfC> <hyfR> <hyfA> <hyfG> <hyfI> 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,1	hyfG,1	hyfI,1	hyfR,1
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.42	 0.25	0	4	5	3	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.62	 0.38	0	4	5	3	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1009	nuoN	hyfF	ECK2482:JW2471	5e-16	35.35	79.7	62.43	1045280	1046744	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1010	nuoM	hyfD	ECK2480:JW2469	1e-12	28.68	68.2	61.42	1046740	1048285	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1011	nuoL	hyfD	ECK2480:JW2469	1e-35	38.0	144.0	62.45	1048383	1050231	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1014	nuoI	hyfH	ECK2484:JW2473	2e-07	39.29	48.9	59.12	1051094	1051637	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1015	nuoH	hyfC	ECK2479:JW2468	1e-06	28.07	47.4	57.89	1051645	1052614	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1019	nuoCD	hyfG	ECK2483:JW2472	4e-36	26.64	146.0	59.75	1057387	1059193	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1020	nuoB	hyfI	ECK2485:JW5805	6e-19	35.62	88.2	59.41	1059196	1059871	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1011	nuoL	hyfB	ECK2478:JW2467:yffF	5e-19	31.56	90.1	62.45	1048383	1050231	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:45.546,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_2911	unknown	focB	ECK2488:JW2477	3e-45	42.04	176.0	46.77	3040152	3041127	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_4514	fdhB-2	hyfA	ECK2477:JW2466:yffE	2e-11	36.26	62.8	49.47	4708506	4709076	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.273,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_1806	pspF	hyfR	ECK2487:JW2476	3e-54	50.0	207.0	46.61	1896558	1897650	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFDD> <hyfHC> <hyfGI> <hyfB> <focB> hyfA <hyfR> 
+$$	NC_004347	Shewanella_oneidensis_MR-1	focB,1	hyfA,1	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.50	 0.17	1	2	6	2	1	1
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.60	 0.20	1	2	6	2	1	1
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4904	nuoN	hyfF	ECK2482:JW2471	8e-10	27.0	60.1	64.72	5436355	5437792	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.503,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4905	nuoM	hyfD	ECK2480:JW2469	2e-13	29.32	72.0	62.96	5437814	5439323	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.503,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4906	nuoL	hyfF	ECK2482:JW2471	1e-18	30.0	89.4	63.53	5439323	5441396	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.503,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4916	nouD	hyfG	ECK2483:JW2472	7e-26	26.6	113.0	63.91	5449346	5450543	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4917	nuoC	hyfG	ECK2483:JW2472	4e-07	32.89	51.2	63.56	5450545	5451157	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4918	nuoB	hyfI	ECK2485:JW5805	1e-22	42.28	101.0	65.02	5451168	5451777	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6339	hyfB	hyfB	ECK2478:JW2467:yffF	9e-58	44.38	219.0	60.66	6984972	6986985	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.198,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6340	hycC	hyfC	ECK2479:JW2468	2e-20	34.82	94.4	60.19	6986975	6987932	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.198,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr2037	nifA	hyfR	ECK2487:JW2476	9e-67	56.54	249.0	58.2	2196191	2198009	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:33.317,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll2801	unknown	focB	ECK2488:JW2477	5e-12	25.88	66.2	63.01	3078880	3079783	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4909	nuoI	hyfH	ECK2484:JW2473	5e-07	35.54	48.5	64.5	5442538	5443045	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.503,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr5484	unknown	hyfA	ECK2477:JW2466:yffE	5e-05	31.18	42.4	66.11	6041881	6043852	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFDF> <hyfGGI> hyfBC hyfR <focB> <hyfH> hyfA 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	focB,1	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,2	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.50	 0.17	2	2	6	2	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.60	 0.20	2	2	6	2	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP3080	phaD	hyfB	ECK2478:JW2467:yffF	2e-08	25.9	55.1	69.31	3316818	3318447	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP3082	phaA	hyfD	ECK2480:JW2469	2e-37	35.21	150.0	69.97	3318787	3321721	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP3378	nuoN	hyfF	ECK2482:JW2471	6e-13	27.01	69.7	66.8	3642568	3644053	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.359,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3379	nuoM	hyfD	ECK2480:JW2469	6e-20	29.39	92.8	63.27	3644063	3645566	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.359,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3380	nuoL	hyfD	ECK2480:JW2469	2e-32	30.89	134.0	64.48	3645562	3647575	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.359,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3383	nuoI	hyfH	ECK2484:JW2473	0.0001	36.84	39.7	62.16	3648562	3649006	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.359,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3384	nuoH	hyfC	ECK2479:JW2468	5e-06	22.18	45.4	63.59	3649072	3650146	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.359,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3388	nuoD	hyfG	ECK2483:JW2472	4e-25	26.89	110.0	64.28	3654392	3655649	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.25,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3389	nuoC	hyfG	ECK2483:JW2472	0.0006	35.63	39.7	63.3	3655651	3656275	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.25,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP3390	nuoB	hyfI	ECK2485:JW5805	2e-19	39.68	89.7	62.68	3656349	3656826	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.25,eval_thresh:12.252
+NC_002928	Bordetella_parapertussis_12822	BPP2986	glnG	hyfR	ECK2487:JW2476	3e-57	51.71	216.0	70.76	3210649	3212140	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1931	unknown	hyfA	ECK2477:JW2466:yffE	0.0008	36.0	37.4	68.74	2066927	2069045	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfBD> <hyfFDD> <hyfHC> <hyfGGI> <hyfR> hyfA 
+$$	NC_002928	Bordetella_parapertussis_12822	hyfA,1	hyfB,1	hyfC,1	hyfD,3	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.42	 0.17	3	3	5	2	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.56	 0.22	3	3	5	2	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0842	nuoB	hyfI	ECK2485:JW5805	2e-19	39.68	89.7	62.68	870967	871444	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.55,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0843	nuoC	hyfG	ECK2483:JW2472	0.0007	36.05	39.3	63.78	871518	872142	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.55,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0844	nuoD	hyfG	ECK2483:JW2472	3e-25	26.89	110.0	64.28	872144	873401	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.55,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0848	nuoH	hyfC	ECK2479:JW2468	4e-06	22.18	45.4	63.97	877647	878721	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.892,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0849	nuoI	hyfH	ECK2484:JW2473	0.0001	36.84	40.0	61.15	878742	879231	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.892,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0852	nuoL	hyfD	ECK2480:JW2469	3e-32	30.89	132.0	64.03	880218	882231	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.892,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0853	nuoM	hyfD	ECK2480:JW2469	5e-20	29.39	92.8	63.2	882230	883730	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.892,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP0854	nuoN	hyfF	ECK2482:JW2471	3e-13	27.01	70.1	66.6	883740	885225	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.892,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP1691	phaA	hyfD	ECK2480:JW2469	3e-37	35.21	149.0	69.94	1775424	1778358	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1693	phaD	hyfB	ECK2478:JW2467:yffF	1e-08	25.9	55.5	69.61	1778698	1780327	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1598	glnG	hyfR	ECK2487:JW2476	3e-57	51.71	216.0	70.83	1677467	1678955	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1470	unknown	hyfA	ECK2477:JW2466:yffE	0.0002	38.0	38.9	69.73	1545396	1547487	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	hyfA,1	hyfB,1	hyfC,1	hyfD,3	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.42	 0.17	3	3	5	2	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.56	 0.22	3	3	5	2	0	0
+NC_002488	Xylella_fastidiosa_9a5c	XF0316	unknown	hyfB	ECK2478:JW2467:yffF	1e-15	34.05	78.2	50.84	328931	331073	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0317	unknown	hyfD	ECK2480:JW2469	1e-19	28.83	90.5	49.67	331094	332600	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0318	unknown	hyfF	ECK2482:JW2471	3e-15	28.01	76.3	51.1	332634	334092	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0312	unknown	hyfC	ECK2479:JW2468	0.0002	23.04	39.3	49.2	326398	327457	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1848	unknown	hyfR	ECK2487:JW2476	9e-59	51.68	221.0	53.85	1762189	1763617	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0306	unknown	hyfI	ECK2485:JW5805	3e-21	41.8	94.7	53.3	319591	320167	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0308	unknown	hyfG	ECK2483:JW2472	2e-28	25.4	120.0	52.22	320967	322275	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2601	unknown	hyfA	ECK2477:JW2466:yffE	0.0008	28.79	36.6	52.16	2481487	2481811	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfBDF hyfC <hyfR> hyfI hyfG hyfA 
+$$	NC_002488	Xylella_fastidiosa_9a5c	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,1	hyfG,1	hyfI,1	hyfR,1
+##	NC_002488	Xylella_fastidiosa_9a5c	 0.42	 0.25	0	4	5	3	0	0
+@@	NC_002488	Xylella_fastidiosa_9a5c	 0.62	 0.38	0	4	5	3	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2857	zraR	hyfR	ECK2487:JW2476	9e-61	39.84	229.0	68.54	3018936	3020325	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2858	unknown	hyfR	ECK2487:JW2476	7e-46	40.57	179.0	70.07	3020644	3021583	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3043	phaD	hyfB	ECK2478:JW2467:yffF	2e-08	25.9	55.1	69.24	3245023	3246652	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3045	phaA	hyfD	ECK2480:JW2469	3e-37	35.21	150.0	69.9	3246992	3249926	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3828	nuoN	hyfF	ECK2482:JW2471	4e-13	27.01	70.1	66.67	4057789	4059274	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3829	nuoM	hyfD	ECK2480:JW2469	7e-20	29.39	92.8	63.21	4059284	4060787	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3830	nuoL	hyfD	ECK2480:JW2469	3e-32	30.89	133.0	64.28	4060783	4062796	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.86,eval_thresh:15.593
+NC_002927	Bordetella_bronchiseptica_RB50	BB3833	nuoI	hyfH	ECK2484:JW2473	0.0001	36.84	40.0	61.15	4063783	4064272	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.86,eval_thresh:15.593
+NC_002927	Bordetella_bronchiseptica_RB50	BB3834	nuoH	hyfC	ECK2479:JW2468	6e-06	22.18	45.4	63.97	4064293	4065367	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.86,eval_thresh:15.593
+NC_002927	Bordetella_bronchiseptica_RB50	BB2119	unknown	hyfA	ECK2477:JW2466:yffE	0.001	36.0	37.4	68.89	2265481	2267599	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3838	nuoD	hyfG	ECK2483:JW2472	5e-25	26.89	110.0	64.36	4069613	4070870	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3840	nuoB	hyfI	ECK2485:JW5805	2e-19	39.68	89.7	62.68	4071570	4072047	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfRR>  <hyfBD> <hyfFDD> <hyfHC> hyfA <hyfG> <hyfI> 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	hyfA,1	hyfB,1	hyfC,1	hyfD,3	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,2
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.50	 0.17	3	3	6	2	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.67	 0.22	3	3	6	2	0	0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_153	nuoB	hyfI	ECK2485:JW5805	6e-21	34.16	92.0	32.59	164909	165584	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.741,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_154	nuoCD	hyfG	ECK2483:JW2472	9e-38	25.7	149.0	30.62	165674	167477	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.741,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_158	nuoH	hyfC	ECK2479:JW2468	2e-08	26.48	50.8	28.28	172144	173113	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_159	nuoI	hyfH	ECK2484:JW2473	1e-08	44.9	50.8	29.83	173137	173680	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_162	nuoL	hyfD	ECK2480:JW2469	8e-34	34.23	135.0	25.64	174531	176376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_163	nuoM	hyfF	ECK2482:JW2471	1e-11	29.61	62.4	25.56	176472	177990	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_164	nuoN	hyfF	ECK2482:JW2471	4e-07	26.97	47.4	25.18	178047	179457	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_162	nuoL	hyfB	ECK2478:JW2467:yffF	3e-15	27.61	75.1	25.64	174531	176376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIG hyfCH hyfDFF hyfB 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	hyfB,1	hyfC,1	hyfD,1	hyfF,2	hyfG,1	hyfH,1	hyfI,1
+##	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.25	 0.17	1	5	3	2	1	1
+@@	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.43	 0.29	1	5	3	2	1	1
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl481	nuoN	hyfF	ECK2482:JW2471	1e-14	30.81	72.4	26.01	532441	533956	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl482	nuoM	hyfF	ECK2482:JW2471	6e-08	25.3	50.1	28.43	534031	535561	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl483	nuoL	hyfD	ECK2480:JW2469	3e-30	30.99	124.0	27.21	535605	537483	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl486	nuoI	hyfH	ECK2484:JW2473	2e-08	48.72	50.1	30.22	538362	538908	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl487	nuoH	hyfC	ECK2479:JW2468	0.0003	25.33	37.4	29.41	538934	539903	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl491	nuoCD	hyfG	ECK2483:JW2472	5e-30	24.42	123.0	31.66	544732	546523	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.623,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl492	nuoB	hyfI	ECK2485:JW5805	2e-19	39.02	87.0	33.93	546652	547324	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.623,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl483	nuoL	hyfB	ECK2478:JW2467:yffF	1e-11	27.05	63.2	27.21	535605	537483	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFFD> <hyfHC> <hyfGI> <hyfB> 
+$$	NC_005061	Candidatus_Blochmannia_floridanus	hyfB,1	hyfC,1	hyfD,1	hyfF,2	hyfG,1	hyfH,1	hyfI,1
+##	NC_005061	Candidatus_Blochmannia_floridanus	 0.25	 0.17	1	5	3	2	1	1
+@@	NC_005061	Candidatus_Blochmannia_floridanus	 0.43	 0.29	1	5	3	2	1	1
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0458	unknown	hyfD	ECK2480:JW2469	2e-05	25.9	44.7	67.24	542950	544510	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0460	unknown	hyfB	ECK2478:JW2467:yffF	6e-21	37.6	96.7	66.7	544880	547709	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1590	unknown	hyfI	ECK2485:JW5805	1e-20	40.16	94.0	63.19	1908822	1909398	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.733,eval_thresh:17.179
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1596	unknown	hyfC	ECK2479:JW2468	9e-06	26.34	44.7	60.81	1915580	1916672	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2253	unknown	hyfR	ECK2487:JW2476	8e-72	47.86	265.0	67.67	2711497	2712988	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2491	unknown	hyfA	ECK2477:JW2466:yffE	0.0007	30.3	37.7	62.65	3021085	3021409	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1592	unknown	hyfG	ECK2483:JW2472	2e-28	27.52	120.0	61.85	1910183	1911491	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0460	unknown	hyfF	ECK2482:JW2471	8e-24	30.29	105.0	66.7	544880	547709	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfDB> hyfI hyfC hyfR hyfA hyfG <hyfF> 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfF,1	hyfG,1	hyfI,1	hyfR,1
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.50	 0.17	0	4	6	2	1	1
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.75	 0.25	0	4	6	2	1	1
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2481	hyfA	hyfA	ECK2477:JW2466:yffE	2e-119	100.0	421.0	56.31	2599222	2599840	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2482	hyfB	hyfB	ECK2478:JW2467:yffF	0.0	100.0	994.0	54.73	2599839	2601858	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2483	hyfC	hyfC	ECK2479:JW2468	3e-139	100.0	488.0	53.69	2601868	2602816	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2484	hyfD	hyfD	ECK2480:JW2469	0.0	100.0	852.0	55.35	2602832	2604272	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2485	hyfE	hyfE	ECK2481:JW2470	1e-108	100.0	385.0	53.3	2604283	2604934	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2486	hyfF	hyfF	ECK2482:JW2471	0.0	100.0	891.0	53.89	2604938	2606519	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2487	hyfG	hyfG	ECK2483:JW2472	0.0	99.82	1149.0	54.32	2606508	2608176	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2488	hyfH	hyfH	ECK2484:JW2473	3e-86	100.0	311.0	54.95	2608185	2608731	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2489	hyfI	hyfI	ECK2485:JW5805	4e-142	100.0	497.0	55.73	2608727	2609486	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2490	hyfJ	hyfJ	ECK2486:JW2475	1e-78	100.0	285.0	52.66	2609478	2609892	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2491	hyfR	hyfR	ECK2487:JW2476	0.0	100.0	1307.0	52.61	2609921	2611934	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2492	focB	focB	ECK2488:JW2477	6e-152	100.0	530.0	51.24	2611955	2612804	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfABCDEFGHIJR-focB 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	focB,1	hyfA,1	hyfB,1	hyfC,1	hyfD,1	hyfE,1	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfJ,1	hyfR,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	12	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	12	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1764	nuoN	hyfF	ECK2482:JW2471	7e-12	26.78	65.1	46.75	1907693	1909139	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1765	nuoM	hyfD	ECK2480:JW2469	4e-20	30.04	92.4	47.84	1909205	1910687	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1766	nuoL	hyfF	ECK2482:JW2471	1e-22	30.35	100.0	46.64	1910772	1912719	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.812,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1901	unknown	hyfD	ECK2480:JW2469	1e-36	37.17	147.0	54.16	2053857	2056776	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1903	phaD	hyfB	ECK2478:JW2467:yffF	2e-07	24.0	51.2	53.45	2057116	2058766	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1776	nuoB	hyfI	ECK2485:JW5805	6e-19	37.3	87.4	48.01	1921566	1922043	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1769	nuoI	hyfH	ECK2484:JW2473	6e-05	38.52	40.0	48.67	1913767	1914256	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.812,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0017	yfhA	hyfR	ECK2487:JW2476	3e-68	55.17	252.0	51.68	20165	21533	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0680	yrhG	focB	ECK2488:JW2477	7e-15	30.57	73.9	49.5	739380	740376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1774	nuoD	hyfG	ECK2483:JW2472	2e-23	25.74	103.0	47.69	1919619	1920873	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0006	fdxA	hyfA	ECK2477:JW2466:yffE	5e-05	30.88	40.4	44.44	7349	7673	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hyfFDF> hyfDB <hyfI> <hyfH> hyfR focB <hyfG> hyfA 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	focB,1	hyfA,1	hyfB,1	hyfD,2	hyfF,2	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.58	 0.17	2	3	7	2	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.78	 0.22	2	3	7	2	0	0
+NC_003143	Yersinia_pestis_CO92	YPO0342	unknown	hyfA	ECK2477:JW2466:yffE	2e-23	33.84	102.0	52.88	349970	351986	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.067,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO0343	hydN	hyfA	ECK2477:JW2466:yffE	1e-31	39.5	129.0	56.09	352008	352566	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.067,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2543	nuoN	hyfF	ECK2482:JW2471	2e-13	30.39	71.2	53.83	2855076	2856540	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2544	nuoM	hyfD	ECK2480:JW2469	5e-13	28.72	69.7	51.4	2856546	2858079	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2545	nuoL	hyfD	ECK2480:JW2469	1e-35	33.42	144.0	54.2	2858118	2859963	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2548	nuoI	hyfH	ECK2484:JW2473	3e-08	39.22	51.6	51.75	2860816	2861359	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2549	nuoH	hyfC	ECK2479:JW2468	1e-05	27.38	43.9	51.64	2861373	2862351	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2553	nuoD	hyfG	ECK2483:JW2472	6e-36	26.37	145.0	51.47	2867126	2868923	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2554	nuoB	hyfI	ECK2485:JW5805	9e-21	35.62	94.0	50.29	2869063	2869741	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2545	nuoL	hyfB	ECK2478:JW2467:yffF	8e-19	29.68	89.4	54.2	2858118	2859963	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO1384	focA	focB	ECK2488:JW2477	5e-72	52.4	264.0	45.22	1560392	1561250	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO2914	unknown	hyfR	ECK2487:JW2476	6e-67	54.94	249.0	50.0	3255723	3257061	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfAA <hyfFDD> <hyfHC> <hyfGI> <hyfB> <focB> <hyfR> 
+$$	NC_003143	Yersinia_pestis_CO92	focB,1	hyfA,2	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_003143	Yersinia_pestis_CO92	 0.50	 0.17	2	2	6	2	1	1
+@@	NC_003143	Yersinia_pestis_CO92	 0.60	 0.20	2	2	6	2	1	1
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1379	hrpR	hyfR	ECK2487:JW2476	1e-49	52.15	192.0	59.37	1522288	1523233	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.2,eval_thresh:10.873
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1380	hrpS	hyfR	ECK2487:JW2476	3e-45	48.67	177.0	58.97	1523278	1524187	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3366	nuoB	hyfI	ECK2485:JW5805	3e-18	39.34	86.3	57.78	3804270	3804945	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3367	nuoCD	hyfG	ECK2483:JW2472	2e-37	26.5	151.0	60.55	3805019	3806801	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3371	nuoH	hyfC	ECK2479:JW2468	6e-05	24.14	42.4	57.84	3811507	3812515	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3372	nuoI	hyfH	ECK2484:JW2473	4e-07	39.29	48.5	57.38	3812526	3813075	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3375	nuoL	hyfD	ECK2480:JW2469	1e-37	34.74	151.0	59.33	3813896	3815750	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3376	nuoM	hyfB	ECK2478:JW2467:yffF	5e-16	29.84	80.5	59.56	3815789	3817322	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3377	nuoN	hyfF	ECK2482:JW2471	5e-11	29.07	63.5	59.59	3817329	3818799	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfRR hyfIG hyfCH hyfDBF 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	hyfB,1	hyfC,1	hyfD,1	hyfF,1	hyfG,1	hyfH,1	hyfI,1	hyfR,2
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.25	 0.25	1	4	3	3	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.38	 0.38	1	4	3	3	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_1937	unknown	hyfD	ECK2480:JW2469	2e-09	25.56	57.4	67.08	2135336	2136782	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.692,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1938	unknown	hyfB	ECK2478:JW2467:yffF	1e-17	30.39	85.5	63.57	2136789	2138274	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.692,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1939	unknown	hyfD	ECK2480:JW2469	4e-31	32.45	129.0	64.1	2138288	2140349	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.692,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1942	unknown	hyfH	ECK2484:JW2473	3e-05	32.33	41.6	65.65	2141359	2141851	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.692,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1945	unknown	hyfC	ECK2479:JW2468	0.0009	25.93	38.1	62.0	2142321	2143392	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.692,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1952	unknown	hyfG	ECK2483:JW2472	1e-26	26.68	114.0	64.41	2148286	2149483	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.063,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1954	unknown	hyfG	ECK2483:JW2472	7e-08	44.87	52.8	61.45	2149956	2150550	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.063,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1955	unknown	hyfI	ECK2485:JW5805	8e-17	39.02	80.9	64.95	2150546	2151128	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.063,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_0909	unknown	hyfR	ECK2487:JW2476	1e-62	53.42	234.0	68.93	1004669	1006037	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.546,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1939	unknown	hyfF	ECK2482:JW2471	4e-18	29.31	86.7	64.1	2138288	2140349	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.692,eval_thresh:11.461
+++	<hyfDBD> <hyfHC> <hyfGGI> hyfR <hyfF> 
+$$	NC_002696	Caulobacter_crescentus_CB15	hyfB,1	hyfC,1	hyfD,2	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.33	 0.17	2	4	4	2	1	1
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.50	 0.25	2	4	4	2	1	1
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1269	nuoB	hyfI	ECK2485:JW5805	5e-22	40.32	97.4	62.05	1256554	1257160	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.951,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1270	nuoC	hyfG	ECK2483:JW2472	0.0001	44.64	41.2	55.89	1257181	1257784	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.951,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1272	nouD	hyfG	ECK2483:JW2472	4e-26	24.62	112.0	59.61	1258210	1259401	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1281	nuoL	hyfD	ECK2480:JW2469	1e-28	31.32	120.0	59.26	1267018	1269016	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1282	nuoM	hyfB	ECK2478:JW2467:yffF	8e-21	28.81	95.5	57.8	1269015	1270527	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1283	nuoN	hyfF	ECK2482:JW2471	5e-16	28.78	79.0	58.7	1270545	1271988	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1446	ntrC	hyfR	ECK2487:JW2476	3e-58	43.15	219.0	61.57	1439298	1440750	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1278	nuoI	hyfH	ECK2484:JW2473	1e-08	37.7	52.4	58.13	1265429	1265921	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIGG hyfDBF hyfR hyfH 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	hyfB,1	hyfD,1	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.25	 0.25	1	5	3	3	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.43	 0.43	1	5	3	3	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0485	NUOL	hyfD	ECK2480:JW2469	9e-42	33.81	164.0	50.6	483529	485377	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0487	unknown	hyfB	ECK2478:JW2467:yffF	2e-14	29.23	73.6	50.03	485380	486901	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0488	unknown	hyfF	ECK2482:JW2471	8e-18	25.27	84.7	47.82	486900	488391	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1836	nuoB	hyfI	ECK2485:JW5805	3e-52	60.39	197.0	52.71	1726811	1727642	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1837	nuoI	hyfH	ECK2484:JW2473	4e-27	39.05	113.0	51.48	1727638	1728178	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1838	nuoD	hyfG	ECK2483:JW2472	2e-165	48.79	575.0	51.21	1728174	1729914	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1839	nuoN	hyfF	ECK2482:JW2471	1e-74	44.1	273.0	50.2	1729923	1731393	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1840	hyfE	hyfE	ECK2481:JW2470	4e-30	37.38	123.0	45.83	1731394	1732042	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1841	NQO8	hyfC	ECK2479:JW2468	9e-36	42.32	143.0	50.0	1732043	1732961	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1842	nuoL	hyfB	ECK2478:JW2467:yffF	2e-60	41.09	226.0	49.2	1732968	1734909	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1843	fdhB	hyfA	ECK2477:JW2466:yffE	2e-25	31.22	107.0	49.77	1734908	1735559	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0367	unknown	hyfR	ECK2487:JW2476	4e-57	46.61	215.0	49.32	361540	362854	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfDBF <hyfIHGFECBA> hyfR 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	hyfA,1	hyfB,2	hyfC,1	hyfD,1	hyfE,1	hyfF,2	hyfG,1	hyfH,1	hyfI,1	hyfR,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.17	 0.67	2	2	2	8	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.20	 0.80	2	2	2	8	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0845	unknown	hyfI	ECK2485:JW5805	7e-24	42.28	103.0	59.97	801195	801777	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:34.901,eval_thresh:17.793
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0846	nuoC	hyfG	ECK2483:JW2472	8e-07	41.77	47.8	56.81	801889	802498	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:34.901,eval_thresh:17.793
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0847	nuoD	hyfG	ECK2483:JW2472	2e-25	25.96	109.0	58.02	802515	803706	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0851	unknown	hyfC	ECK2479:JW2468	1e-05	26.75	42.7	55.27	807968	809012	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0852	unknown	hyfH	ECK2484:JW2473	7e-08	34.4	49.3	58.94	809024	809516	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0855	unknown	hyfB	ECK2478:JW2467:yffF	4e-13	30.74	69.3	57.2	810633	812619	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0856	unknown	hyfB	ECK2478:JW2467:yffF	4e-19	29.19	89.0	57.65	812618	814127	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0857	unknown	hyfB	ECK2478:JW2467:yffF	1e-08	26.17	54.7	56.99	814148	815585	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1162	ntrC	hyfR	ECK2487:JW2476	5e-58	49.4	218.0	59.21	1113726	1115202	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1819	unknown	hyfA	ECK2477:JW2466:yffE	0.0003	35.42	37.7	55.75	1716280	1716619	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0855	unknown	hyfF	ECK2482:JW2471	2e-23	30.63	103.0	57.2	810633	812619	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0855	unknown	hyfD	ECK2480:JW2469	4e-29	30.59	121.0	57.2	810633	812619	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfIGG hyfCH hyfBBB <hyfR> <hyfA> hyfF hyfD 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	hyfA,1	hyfB,3	hyfC,1	hyfD,1	hyfF,1	hyfG,2	hyfH,1	hyfI,1	hyfR,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.50	 0.17	3	3	6	2	2	1
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.67	 0.22	3	3	6	2	2	1
+NC_004741	Shigella_flexneri_2a_str._2457T	S2676	hyfC	hyfC	ECK2479:JW2468	5e-139	99.68	486.0	53.38	2570036	2570984	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2677	hyfD	hyfD	ECK2480:JW2469	0.0	99.37	848.0	55.56	2571000	2572440	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2678	hyfE	hyfE	ECK2481:JW2470	1e-108	100.0	385.0	53.3	2572451	2573102	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2679	hyfF	hyfF	ECK2482:JW2471	0.0	97.35	873.0	54.19	2573106	2574693	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2681	hyfH	hyfH	ECK2484:JW2473	4e-84	97.79	303.0	55.31	2576406	2576952	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2682	hyfI	hyfI	ECK2485:JW5805	2e-141	99.21	494.0	56.39	2576948	2577707	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2683	unknown	hyfI	ECK2485:JW5805	8e-07	100.0	47.8	51.99	2577636	2578113	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2930	hycE	hyfG	ECK2483:JW2472	0.0	69.54	846.0	56.96	2807714	2809424	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2931	hycD	hyfC	ECK2479:JW2468	7e-66	52.48	244.0	58.12	2809441	2810365	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2932	hycC	hyfB	ECK2478:JW2467:yffF	4e-58	39.47	219.0	58.19	2810367	2812161	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2933	hycB	hyfA	ECK2477:JW2466:yffE	5e-49	49.73	187.0	57.03	2812197	2812809	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2683	unknown	hyfJ	ECK2486:JW2475	4e-78	99.27	283.0	51.99	2577636	2578113	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0963	focA	focB	ECK2488:JW2477	2e-71	51.09	262.0	48.6	939995	940853	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2773	yfhA	hyfR	ECK2487:JW2476	9e-67	55.17	248.0	54.31	2665926	2667261	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hyfCDEF hyfHII <hyfGCBA> hyfJ <focB> <hyfR> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	focB,1	hyfA,1	hyfB,1	hyfC,2	hyfD,1	hyfE,1	hyfF,1	hyfG,1	hyfH,1	hyfI,2	hyfJ,1	hyfR,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.42	 0.33	2	0	5	4	1	1
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.42	 0.33	2	0	5	4	1	1

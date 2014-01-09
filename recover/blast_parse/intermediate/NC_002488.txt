@@ -1,0 +1,8 @@
+NC_002488	Xylella_fastidiosa_9a5c	XF1142	atpC	atpC	NONE	2e-88	100.0	254.0	50.7	1100796	1101228	-1	Protein	143	exact	NC_002488	Xylella_fastidiosa_9a5c	XF1142	1101228	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1143	unknown	atpA	NONE	1e-14	22.61	72.0	50.1	1101297	1102698	-1	Protein	345	BLAST	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0481	504089	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1144	unknown	atpG	NONE	9e-106	49.14	310.0	48.6	1102780	1103644	-1	Protein	291	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1935	2034427	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1145	unknown	atpA	NONE	0.0	70.65	753.0	50.7	1103737	1105285	-1	Protein	511	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1936	2035999	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1146	unknown	atpH	NONE	5e-27	33.92	99.4	50.0	1105334	1105862	-1	Protein	171	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3868	4078521	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1147	unknown	atpF	NONE	5e-28	43.18	100.0	44.2	1105865	1106336	-1	Protein	132	BLAST	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0668	696301	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1148	unknown	atpE	NONE	3e-16	56.9	66.2	52.3	1106456	1106762	-1	Protein	58	BLAST	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0667	695772	NONE
+NC_002488	Xylella_fastidiosa_9a5c	XF1149	unknown	atpB	NONE	2e-74	46.74	228.0	46.4	1106825	1107623	-1	Protein	276	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3871	4080167	NONE

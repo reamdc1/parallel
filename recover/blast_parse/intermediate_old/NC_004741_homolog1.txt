@@ -1,0 +1,22 @@
+S2080
+NC_004741	Shigella_flexneri_2a_str._2457T	S2080	fliI	atpD	NONE	6e-28	29.02	112.0	58.0	1993175	1994549	1	Protein	348	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3865	4075493
+S3903
+NC_004741	Shigella_flexneri_2a_str._2457T	S3903	rho	atpD	NONE	0.0002	23.94	40.0	50.2	3797052	3798312	-1	Protein	188	BLAST	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394
+S3949
+NC_004741	Shigella_flexneri_2a_str._2457T	S3949	atpI	atpI	NONE	1e-58	100.0	174.0	52.0	3843585	3843966	1	Protein	126	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3949	3843966
+S3950
+NC_004741	Shigella_flexneri_2a_str._2457T	S3950	atpB	atpB	NONE	0.0	100.0	501.0	49.9	3843974	3844790	1	Protein	271	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3950	3844790
+S3951
+NC_004741	Shigella_flexneri_2a_str._2457T	S3951	atpE	atpE	NONE	2e-29	100.0	97.1	54.2	3844836	3845076	1	Protein	79	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3951	3845076
+S3952
+NC_004741	Shigella_flexneri_2a_str._2457T	S3952	atpF	atpF	NONE	2e-89	99.36	254.0	52.7	3845137	3845608	1	Protein	156	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3952	3845608
+S3953
+NC_004741	Shigella_flexneri_2a_str._2457T	S3953	atpH	atpH	NONE	1e-129	100.0	358.0	51.3	3845622	3846156	1	Protein	177	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3953	3846156
+S3954
+NC_004741	Shigella_flexneri_2a_str._2457T	S3954	atpA	atpA	NONE	0.0	100.0	1001.0	53.4	3846168	3847710	1	Protein	513	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3954	3847710
+S3955
+NC_004741	Shigella_flexneri_2a_str._2457T	S3955	atpG	atpG	NONE	0.0	100.0	563.0	53.5	3847760	3848624	1	Protein	287	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3955	3848624
+S3956
+NC_004741	Shigella_flexneri_2a_str._2457T	S3956	atpD	atpD	NONE	0.0	100.0	894.0	55.0	3848650	3850033	1	Protein	460	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3956	3850033
+S3957
+NC_004741	Shigella_flexneri_2a_str._2457T	S3957	atpC	atpC	NONE	2e-87	100.0	248.0	55.3	3850059	3850473	1	Protein	137	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3957	3850473

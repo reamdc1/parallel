@@ -1,0 +1,17 @@
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1575	dicB	dicB	ECK1569:ftsT:JW1566	1e-31	100.0	127.0	35.98	1647632	1647821	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1576	ydfD	ydfD	ECK1570:JW1567	7e-33	100.0	132.0	43.23	1647817	1648009	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1577	ydfE	ydfE	ECK1571:JW1568	0.0	100.0	1516.0	48.63	1648101	1648866	1	Pseudo_Gene	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1578	insD	insD	ECK0358	0.0	100.0	1374.0	54.55	1648868	1649561	1	Pseudo_Gene	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1579	intQ	intQ	ECK1573:JW1571	0.0	100.0	2254.0	42.23	1649574	1650732	1	Pseudo_Gene	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	dicB-ydfDE-insD-intQ 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	dicB,1	insD,1	intQ,1	ydfD,1	ydfE,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1027	unknown	insD	ECK0358	0.0	99.08	835.0	56.4	1013018	1013651	1	Pseudo_Gene	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1028	unknown	insD	ECK0358	1e-13	100.0	73.8	51.99	1013610	1015776	-1	Pseudo_Gene	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1504	unknown	ydfD	ECK1570:JW1567	2e-05	36.07	40.8	44.93	1464147	1464423	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1963	unknown	intQ	ECK1573:JW1571	2e-10	84.09	63.9	47.69	1901036	1901642	1	Pseudo_Gene	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	insDD > <ydfD> intQ 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	insD,2	intQ,1	ydfD,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.40	 0.20	1	2	2	1	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.67	 0.33	1	2	2	1	0	0

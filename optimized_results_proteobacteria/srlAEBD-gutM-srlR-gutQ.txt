@@ -1,0 +1,110 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3610	unknown	srlB	ECK2699:gutB:JW2673	1e-12	36.27	66.2	64.57	2913214	2913595	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3613	unknown	srlE	ECK2698:gutA:gutE:JW5430:sbl:srlA	7e-74	47.26	271.0	65.97	2913622	2914627	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3614	unknown	srlA	ECK2697:gutA:JW5429:sbl	2e-30	39.08	125.0	61.18	2914643	2915336	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5707	unknown	srlR	ECK2702:gutR:JW2676	2e-21	26.15	97.1	61.69	4594449	4595253	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr5708	unknown	srlD	ECK2700:gutD:JW2674	2e-19	29.3	90.1	63.05	4595437	4597540	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3023	unknown	gutQ	ECK2703:JW5431:srlQ	1e-44	43.67	174.0	64.97	2426592	2427594	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<srlBEA> <srlRD>  <gutQ> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	gutQ,1	srlA,1	srlB,1	srlD,1	srlE,1	srlR,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.29	 0.43	0	1	2	3	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.33	 0.50	0	1	2	3	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2832	srlA	srlA	ECK2697:gutA:JW5429:sbl	7e-91	97.33	326.0	50.53	2978307	2978871	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2833	srlE	srlE	ECK2698:gutA:gutE:JW5430:sbl:srlA	3e-159	92.57	554.0	58.64	2978867	2979839	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2834	slrB	srlB	ECK2699:gutB:JW2673	1e-54	82.2	204.0	57.58	2979850	2980213	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2835	srlD	srlD	ECK2700:gutD:JW2674	2e-138	97.68	485.0	54.74	2980224	2981004	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2836	gutM	gutM	ECK2701:JW2675:srlM	5e-47	83.19	179.0	55.0	2981079	2981439	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2837	srlR	srlR	ECK2702:gutR:JW2676	4e-144	94.55	504.0	49.87	2981636	2982410	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2838.S	gutQ	gutQ	ECK2703:JW5431:srlQ	2e-161	92.83	561.0	57.04	2982402	2983368	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	srlAEBD-gutM-srlR-gutQ 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	gutM,1	gutQ,1	srlA,1	srlB,1	srlD,1	srlE,1	srlR,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	7	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_2783	unknown	srlD	ECK2700:gutD:JW2674	7e-19	28.79	88.2	61.79	3170991	3171729	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2784	unknown	srlD	ECK2700:gutD:JW2674	1e-18	34.59	87.4	61.05	3171725	3172490	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0957	unknown	gutQ	ECK2703:JW5431:srlQ	1e-72	50.16	267.0	64.0	1098588	1099563	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5410	unknown	srlR	ECK2702:gutR:JW2676	1e-53	43.8	204.0	60.23	6172294	6173071	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:26.08,eval_thresh:13.504
+++	srlDD <gutQ> <srlR> 
+$$	NC_002947	Pseudomonas_putida_KT2440	gutQ,1	srlD,2	srlR,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.29	 0.14	1	4	2	1	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.67	 0.33	1	4	2	1	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2953	srlA	srlA	ECK2697:gutA:JW5429:sbl	1e-89	96.79	322.0	51.24	2831195	2831759	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2954	srlE	srlE	ECK2698:gutA:gutE:JW5430:sbl:srlA	7e-160	92.88	556.0	57.72	2831755	2832727	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2955	srlB	srlB	ECK2699:gutB:JW2673	1e-54	81.36	204.0	58.68	2832738	2833101	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2956	srlD	srlD	ECK2700:gutD:JW2674	2e-137	97.3	481.0	55.13	2833112	2833892	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2957	srlM	gutM	ECK2701:JW2675:srlM	5e-47	83.19	179.0	54.17	2833968	2834328	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2959	srlR	srlR	ECK2702:gutR:JW2676	4e-144	94.55	504.0	49.87	2834526	2835300	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2960	gutQ	gutQ	ECK2703:JW5431:srlQ	9e-163	93.15	566.0	56.94	2835292	2836258	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	srlAEBD-gutM-srlR-gutQ 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	gutM,1	gutQ,1	srlA,1	srlB,1	srlD,1	srlE,1	srlR,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	7	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02322	unknown	srlD	ECK2700:gutD:JW2674	1e-18	26.95	86.7	64.05	691857	693957	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02323	unknown	srlR	ECK2702:gutR:JW2676	1e-23	26.15	103.0	62.12	694157	694970	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02268	kpsF3	gutQ	ECK2703:JW5431:srlQ	4e-43	38.08	168.0	66.67	634286	635300	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<srlDR>  gutQ 
+$$	NC_003047	Sinorhizobium_meliloti_1021	gutQ,1	srlD,1	srlR,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.14	 0.29	0	4	1	2	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.33	 0.67	0	4	1	2	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1494	bdhA	srlD	ECK2700:gutD:JW2674	1e-13	28.69	71.2	68.0	1627989	1628739	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1495	unknown	srlD	ECK2700:gutD:JW2674	6e-13	28.42	69.3	63.28	1628868	1629606	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr7746	unknown	gutQ	ECK2703:JW5431:srlQ	2e-48	43.2	187.0	66.67	8497153	8498266	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr2433	unknown	srlR	ECK2702:gutR:JW2676	1e-24	28.23	107.0	66.08	2651753	2652599	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<srlDD>  gutQ srlR 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	gutQ,1	srlD,2	srlR,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.29	 0.14	1	4	2	1	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.67	 0.33	1	4	2	1	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2853	unknown	srlD	ECK2700:gutD:JW2674	4e-14	30.41	71.6	73.69	3029998	3030781	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2854	unknown	srlD	ECK2700:gutD:JW2674	1e-10	26.88	60.1	69.87	3030794	3031544	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0701	unknown	gutQ	ECK2703:JW5431:srlQ	2e-61	48.44	229.0	71.31	714307	715297	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2643	glpR	srlR	ECK2702:gutR:JW2676	5e-27	28.98	114.0	68.31	2801010	2801799	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<srlDD> <gutQ> srlR 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	gutQ,1	srlD,2	srlR,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.29	 0.14	1	4	2	1	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.67	 0.33	1	4	2	1	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1512	unknown	srlD	ECK2700:gutD:JW2674	0.0007	25.43	38.5	69.49	1617264	1618044	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1513	unknown	srlD	ECK2700:gutD:JW2674	9e-20	29.64	91.3	70.5	1618063	1618846	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4501	unknown	gutQ	ECK2703:JW5431:srlQ	2e-61	48.44	229.0	71.11	4801156	4802146	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3059	glpR	srlR	ECK2702:gutR:JW2676	1e-27	29.39	117.0	67.04	3265323	3266133	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<srlDD> gutQ srlR 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	gutQ,1	srlD,2	srlR,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.29	 0.14	1	4	2	1	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.67	 0.33	1	4	2	1	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2702	srlA	srlA	ECK2697:gutA:JW5429:sbl	4e-93	100.0	333.0	50.18	2823853	2824417	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2703	srlE	srlE	ECK2698:gutA:gutE:JW5430:sbl:srlA	8e-172	100.0	596.0	54.69	2824413	2825373	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2704	srlB	srlB	ECK2699:gutB:JW2673	2e-69	100.0	253.0	55.11	2825383	2825755	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2705	srlD	srlD	ECK2700:gutD:JW2674	7e-142	100.0	496.0	53.33	2825758	2826538	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2706	gutM	gutM	ECK2701:JW2675:srlM	6e-58	100.0	215.0	55.0	2826642	2827002	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2707	srlR	srlR	ECK2702:gutR:JW2676	3e-152	100.0	530.0	48.84	2827068	2827842	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2708	gutQ	gutQ	ECK2703:JW5431:srlQ	2e-175	100.0	608.0	57.35	2827834	2828800	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	srlAEBD-gutM-srlR-gutQ 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	gutM,1	gutQ,1	srlA,1	srlB,1	srlD,1	srlE,1	srlR,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	7	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1967	gutM	gutM	ECK2701:JW2675:srlM	1e-20	43.75	90.9	34.69	2205179	2205548	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1968	unknown	srlD	ECK2700:gutD:JW2674	7e-102	74.52	362.0	38.97	2205658	2206438	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1969	unknown	srlB	ECK2699:gutB:JW2673	2e-28	46.55	117.0	39.78	2206468	2206840	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1970	unknown	srlE	ECK2698:gutA:gutE:JW5430:sbl:srlA	2e-134	76.69	471.0	42.53	2206918	2207908	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1971	unknown	srlA	ECK2697:gutA:JW5429:sbl	2e-78	84.15	284.0	39.64	2207938	2208493	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0525	kpsF	gutQ	ECK2703:JW5431:srlQ	3e-56	41.42	211.0	41.59	599812	600853	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1964	srlR	srlR	ECK2702:gutR:JW2676	3e-79	54.55	287.0	35.16	2203644	2204409	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<gutM-srlDBEA> <gutQ> <srlR> 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	gutM,1	gutQ,1	srlA,1	srlB,1	srlD,1	srlE,1	srlR,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.29	 0.71	0	0	2	5	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.29	 0.71	0	0	2	5	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_0362	unknown	srlR	ECK2702:gutR:JW2676	2e-26	30.43	113.0	61.94	396349	397132	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_0363	polS	srlD	ECK2700:gutD:JW2674	2e-15	26.38	76.6	60.34	397297	398071	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4448	unknown	gutQ	ECK2703:JW5431:srlQ	2e-69	49.53	256.0	60.72	5013690	5014665	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<srlRD> gutQ 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	gutQ,1	srlD,1	srlR,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.14	 0.29	0	4	1	2	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.33	 0.67	0	4	1	2	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2917	srlE	srlE	ECK2698:gutA:gutE:JW5430:sbl:srlA	4e-170	99.06	590.0	55.0	2794699	2795659	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2918	srlB	srlB	ECK2699:gutB:JW2673	6e-69	99.19	252.0	55.38	2795669	2796041	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2919	srlD	srlD	ECK2700:gutD:JW2674	2e-140	99.23	491.0	53.08	2796044	2796824	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2920	gutM	gutM	ECK2701:JW2675:srlM	8e-57	98.32	211.0	54.44	2796928	2797288	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2921	srlR	srlR	ECK2702:gutR:JW2676	1e-151	99.61	528.0	48.71	2797354	2798128	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2922	gutQ	gutQ	ECK2703:JW5431:srlQ	7e-174	98.75	602.0	56.0	2798120	2799086	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	srlEBD-gutM-srlR-gutQ 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	gutM,1	gutQ,1	srlB,1	srlD,1	srlE,1	srlR,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 0.86	0	1	0	6	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	1	0	6	0	0

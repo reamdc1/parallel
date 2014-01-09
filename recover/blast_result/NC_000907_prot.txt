@@ -1,0 +1,1250 @@
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	73.14	510	137	0	1	510	1542	13	0.0	 753
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	24.37	357	258	6	59	403	1278	271	9e-23	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	51.14	264	124	4	10	268	771	22	1e-77	 236
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	49.26	136	69	1	2	137	423	19	6e-41	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	79.57	465	95	2	1	465	1374	4	0.0	 722
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.81	387	267	8	52	414	1332	214	2e-21	93.2
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_000907|HI0295|rho|329033|330296|1|Haemophilus_influenzae_Rd_KW20|40.2|NONE	24.24	165	121	2	198	358	646	1131	3e-04	38.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	59.09	44	18	0	34	77	159	28	4e-13	56.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	39.74	156	94	0	1	156	471	4	4e-29	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	55.36	289	127	1	1	287	870	4	5e-117	 338
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	33.90	177	117	0	1	177	534	4	6e-33	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	76.95	512	118	0	3	514	1539	4	0.0	 797
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.19	397	284	8	62	445	1272	154	2e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	54.36	287	131	6	1	287	789	13	3e-96	 285
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	53.01	83	39	0	4	86	423	175	3e-25	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	85.81	458	65	1	1	458	1374	4	0.0	 771
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.59	383	260	7	50	407	1332	214	9e-24	99.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	70.45	44	13	0	38	81	144	13	2e-17	68.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	45.51	156	85	0	1	156	471	4	1e-37	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	61.59	289	108	1	1	286	870	4	5e-134	 382
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	44.63	177	98	1	1	177	534	7	4e-48	 154
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5561|atpI|6254427|6254808|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	86.55	513	69	0	1	513	1542	4	0.0	 867
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.88	340	245	5	71	403	1230	271	5e-18	82.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	53.09	275	121	4	4	270	786	13	8e-87	 259
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	59.56	136	55	0	4	139	423	16	1e-44	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	88.91	460	51	1	1	460	1374	4	0.0	 807
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.52	384	260	7	52	409	1332	214	6e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	61.36	44	17	0	34	77	159	28	8e-13	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	62.82	156	58	0	1	156	471	4	8e-44	 141
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	64.01	289	102	1	1	287	870	4	2e-137	 390
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	57.95	176	74	0	1	176	534	7	3e-71	 213
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	70.96	513	149	0	1	513	1542	4	0.0	 712
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.45	389	277	8	61	436	1272	166	7e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	43.26	282	160	8	10	291	774	16	3e-55	 179
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	59.52	84	34	0	1	84	429	178	1e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	80.22	465	92	1	1	465	1374	4	0.0	 696
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.23	428	296	10	11	414	1458	214	9e-21	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	67.31	52	17	0	29	80	168	13	1e-21	79.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	38.46	156	96	0	1	156	471	4	8e-15	64.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	49.50	301	152	1	1	301	870	4	1e-107	 315
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	70.96	513	149	0	1	513	1542	4	0.0	 708
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	26.35	353	250	5	61	403	1272	271	3e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	44.40	259	144	5	10	268	771	13	3e-64	 202
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	52.87	87	41	0	5	91	420	160	5e-27	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	84.40	455	71	1	5	459	1365	4	0.0	 719
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.22	384	265	8	51	408	1332	214	9e-19	84.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	48.08	52	27	0	39	90	159	4	1e-12	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	41.03	156	92	0	1	156	471	4	2e-26	96.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	54.08	294	135	2	1	294	870	4	1e-122	 353
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	36.72	177	112	1	1	177	534	7	7e-39	 130
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	55.77	520	219	3	1	509	1542	7	0.0	 558
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.78	419	308	8	36	451	1314	136	6e-31	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	24.30	214	145	4	54	250	624	4	2e-11	58.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	33.65	104	69	1	6	109	423	124	3e-15	65.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	69.38	454	139	2	36	489	1365	34	0.0	 613
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.50	404	282	8	68	448	1374	214	5e-21	92.0
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_000907|HI0295|rho|329033|330296|1|Haemophilus_influenzae_Rd_KW20|40.2|NONE	23.40	188	141	2	241	425	673	1236	1e-04	39.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00870|atpE|917774|918002|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00868|atpF|918703|919189|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	34.44	302	190	7	1	294	870	4	2e-44	 151
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	23.98	171	120	4	10	170	525	52	2e-11	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	35.42	96	60	1	5	98	420	133	6e-15	64.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	85.96	513	72	0	1	513	1542	4	0.0	 868
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	26.18	382	273	7	71	443	1230	157	2e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	52.16	278	125	6	4	273	786	13	5e-81	 244
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	57.35	136	58	0	5	140	423	16	1e-49	 155
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	88.26	460	54	1	1	460	1374	4	0.0	 801
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.87	433	295	9	3	409	1461	214	5e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	61.36	44	17	0	34	77	159	28	8e-13	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	60.26	156	62	0	1	156	471	4	3e-46	 147
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	64.36	289	101	1	1	287	870	4	2e-142	 403
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	52.84	176	83	0	1	176	534	7	1e-65	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	55.34	515	219	2	1	504	1542	22	0.0	 554
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.78	419	308	8	36	451	1314	136	9e-31	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	30.48	105	73	1	4	108	423	121	4e-13	59.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	69.89	465	139	3	16	479	1368	4	0.0	 627
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.75	404	281	8	48	428	1374	214	3e-20	89.7
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_000907|HI0295|rho|329033|330296|1|Haemophilus_influenzae_Rd_KW20|40.2|NONE	22.87	188	142	2	221	405	673	1236	5e-04	37.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0717|atpF|717655|718141|1|Protein|NONE|60.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	36.05	294	186	6	1	292	870	4	7e-38	 134
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	27.95	161	115	4	9	168	522	52	8e-14	62.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	70.78	510	149	0	1	510	1542	13	0.0	 752
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	26.11	337	242	7	74	403	1221	271	9e-30	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	46.84	269	135	5	4	264	786	28	3e-71	 220
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	49.63	135	67	2	5	138	423	22	2e-41	 134
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	75.76	462	112	2	1	462	1374	10	0.0	 694
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.96	389	262	7	51	413	1347	214	6e-21	91.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	61.36	44	17	0	34	77	159	28	3e-13	57.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	36.36	154	98	0	3	156	465	4	1e-26	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	50.52	291	141	3	1	288	870	4	4e-108	 316
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	39.23	181	110	1	1	181	534	4	4e-46	 149
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	43.17	139	79	0	1	139	429	13	1e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	77.15	512	117	0	3	514	1539	4	0.0	 801
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.99	354	251	6	62	404	1272	271	5e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	55.05	287	129	6	1	287	789	13	3e-94	 279
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	51.81	83	40	0	2	84	423	175	6e-23	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	83.66	459	75	1	1	459	1374	4	0.0	 753
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	26.37	383	257	8	51	408	1332	214	9e-24	99.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	69.57	46	14	0	38	83	144	7	1e-17	69.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	44.23	156	87	0	1	156	471	4	5e-31	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	58.82	289	116	1	1	286	870	4	8e-119	 343
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	45.51	178	96	2	1	177	534	7	2e-47	 152
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	82.07	513	92	0	11	523	1542	4	0.0	 817
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	27.60	308	221	5	81	386	1230	355	2e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	53.56	267	119	3	9	270	777	4	2e-96	 284
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	59.70	134	54	0	5	138	423	22	3e-43	 139
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	80.73	467	90	2	1	467	1374	4	0.0	 736
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.45	389	266	8	52	416	1332	214	9e-23	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	62.65	83	31	0	1	83	255	7	2e-32	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	51.92	156	75	0	1	156	471	4	2e-39	 130
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	62.28	289	108	1	1	288	870	4	3e-141	 400
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	53.98	176	81	0	1	176	534	7	2e-65	 198
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	56.91	492	201	2	1	481	1542	91	0.0	 548
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.19	401	297	6	36	433	1314	166	6e-29	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0382|atpB|392472|393222|1|Protein|NONE|55.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	37.50	104	65	2	5	108	420	121	7e-17	69.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	70.26	454	135	2	53	506	1365	34	0.0	 610
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.32	403	283	8	85	465	1374	214	4e-19	86.3
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_000907|HI0295|rho|329033|330296|1|Haemophilus_influenzae_Rd_KW20|40.2|NONE	23.08	195	140	5	258	442	673	1236	8e-04	37.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0385|atpF|394325|394805|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	34.23	298	190	6	1	292	870	4	8e-46	 155
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	25.15	163	122	2	6	168	531	52	1e-13	62.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	70.37	513	152	0	1	513	1542	4	0.0	 725
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	26.17	428	301	11	61	473	1272	85	1e-31	 122
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	44.89	274	151	6	32	305	777	16	1e-65	 206
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	56.64	113	48	1	1	112	429	91	1e-30	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	80.47	466	91	1	1	466	1374	4	0.0	 701
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.35	382	265	8	58	415	1332	214	2e-18	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	53.85	52	24	0	37	88	159	4	2e-16	65.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	42.04	157	90	2	1	156	471	4	1e-19	78.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	54.30	291	133	1	1	291	870	4	4e-121	 349
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	31.25	176	120	2	1	175	534	10	2e-23	89.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	86.94	513	67	0	1	513	1542	4	0.0	 871
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.59	340	246	5	71	403	1230	271	8e-18	81.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	53.31	272	122	4	4	270	786	13	7e-85	 254
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	60.29	136	54	0	4	139	423	16	4e-45	 143
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	89.13	460	50	1	1	460	1374	4	0.0	 808
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.52	384	260	7	52	409	1332	214	5e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	61.36	44	17	0	34	77	159	28	8e-13	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	62.82	156	58	0	1	156	471	4	2e-44	 143
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	64.71	289	100	1	1	287	870	4	8e-144	 406
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	58.52	176	73	0	1	176	534	7	8e-73	 217
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3906|atpI|3768664|3769045|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	70.76	513	150	0	1	513	1542	4	0.0	 707
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.45	389	277	8	61	436	1272	166	9e-28	 111
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	43.26	282	160	8	10	291	774	16	3e-55	 179
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	59.52	84	34	0	1	84	429	178	1e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	80.22	465	92	1	1	465	1374	4	0.0	 697
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.23	428	296	10	11	414	1458	214	2e-20	90.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	67.31	52	17	0	29	80	168	13	1e-21	79.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	37.82	156	97	0	1	156	471	4	2e-15	66.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	49.50	301	152	1	1	301	870	4	1e-107	 315
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	71.54	513	146	0	1	513	1542	4	0.0	 744
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	24.30	391	281	8	61	436	1272	166	2e-25	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	47.97	271	135	7	2	266	783	22	7e-70	 216
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	48.89	90	46	1	1	90	429	163	8e-25	91.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	82.54	464	81	2	1	464	1374	4	0.0	 740
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.19	389	266	8	50	413	1332	214	6e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	69.39	49	15	0	37	85	159	13	3e-20	76.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	44.44	135	75	0	1	135	408	4	1e-23	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	54.83	290	129	2	1	288	870	4	4e-115	 333
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	28.81	177	126	1	1	177	534	7	2e-21	84.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	86.94	513	67	0	1	513	1542	4	0.0	 871
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.59	340	246	5	71	403	1230	271	8e-18	81.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	53.31	272	122	4	4	270	786	13	7e-85	 254
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	60.29	136	54	0	4	139	423	16	4e-45	 143
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	89.13	460	50	1	1	460	1374	4	0.0	 808
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.52	384	260	7	52	409	1332	214	5e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	61.36	44	17	0	34	77	159	28	8e-13	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	62.82	156	58	0	1	156	471	4	2e-44	 143
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	65.05	289	99	1	1	287	870	4	2e-145	 410
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	58.52	176	73	0	1	176	534	7	8e-73	 217
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3872|atpI|4080175|4080556|-1|Protein|NONE|51.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	55.04	496	212	1	17	501	1500	13	0.0	 535
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.50	353	252	6	84	425	1197	172	2e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	31.19	202	107	9	47	216	630	31	2e-12	61.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	34.83	89	58	1	1	89	429	169	7e-15	63.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	67.97	462	147	3	3	463	1365	4	0.0	 592
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.83	391	267	8	45	412	1359	214	3e-26	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0593|atpE|571784|572096|-1|Protein|NONE|39.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0424|atpF|408933|409359|1|Protein|NONE|31.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	36.18	293	185	3	6	296	858	4	2e-53	 175
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0426|atpH|409883|410408|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	71.73	513	145	0	1	513	1542	4	0.0	 752
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.32	395	285	10	19	403	1374	271	2e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	43.90	287	160	9	1	286	789	16	4e-63	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	48.35	91	47	1	1	91	429	160	3e-25	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	82.11	464	83	2	1	464	1374	4	0.0	 712
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	26.03	388	263	8	50	413	1332	214	3e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	62.26	53	20	0	25	77	171	13	3e-18	70.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	41.77	158	90	2	1	156	471	4	2e-18	74.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	51.55	291	141	2	1	291	870	4	7e-105	 307
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	31.98	172	116	2	1	171	534	22	8e-24	90.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	100.00	513	0	0	1	513	1542	4	0.0	 979
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.26	384	276	7	71	443	1230	157	2e-16	77.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	100.00	262	0	0	1	262	789	4	0.0	 529
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	100.00	142	0	0	1	142	429	4	9e-100	 283
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	100.00	457	0	0	1	457	1374	4	0.0	 890
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.26	384	261	7	49	406	1332	214	8e-23	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	100.00	84	0	0	1	84	255	4	6e-52	 157
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	99.36	156	1	0	1	156	471	4	1e-75	 222
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	100.00	289	0	0	1	289	870	4	0.0	 597
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	100.00	177	0	0	1	177	534	4	1e-116	 328
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	57.25	510	207	1	1	499	1542	13	0.0	 583
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.64	429	305	9	29	443	1344	136	4e-31	 121
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	33.98	206	106	9	44	219	624	22	2e-11	57.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	33.33	120	78	1	5	122	420	61	2e-14	63.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	69.48	462	140	3	3	463	1365	4	0.0	 616
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.49	392	272	8	45	412	1359	214	5e-19	85.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0103|atpF|110437|110950|1|Protein|NONE|25.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	32.74	281	184	3	1	276	870	55	2e-39	 138
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0104|atpH|110952|111474|1|Protein|NONE|21.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	70.96	513	149	0	1	513	1542	4	0.0	 712
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.45	389	277	8	61	436	1272	166	7e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	43.26	282	160	8	10	291	774	16	3e-55	 179
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	59.52	84	34	0	1	84	429	178	1e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	80.22	465	92	1	1	465	1374	4	0.0	 696
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.23	428	296	10	11	414	1458	214	9e-21	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	67.31	52	17	0	29	80	168	13	1e-21	79.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	38.46	156	96	0	1	156	471	4	8e-15	64.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	49.50	301	152	1	1	301	870	4	2e-107	 315
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	40.48	84	50	0	2	85	429	178	1e-15	66.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	86.55	513	69	0	1	513	1542	4	0.0	 867
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.88	340	245	5	71	403	1230	271	5e-18	82.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	53.68	272	121	4	4	270	786	13	1e-86	 259
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	59.56	136	55	0	2	137	423	16	2e-44	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	88.91	460	51	1	1	460	1374	4	0.0	 807
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.52	384	260	7	52	409	1332	214	6e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	61.36	44	17	0	34	77	159	28	8e-13	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	62.82	156	58	0	1	156	471	4	8e-44	 141
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	64.01	289	102	1	1	287	870	4	2e-137	 390
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	57.95	176	74	0	1	176	534	7	3e-71	 213
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3949|atpI|3843585|3843966|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	57.46	134	57	0	5	138	423	22	2e-41	 134
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	71.82	511	144	0	5	515	1536	4	0.0	 733
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	24.33	374	272	7	73	435	1230	175	1e-23	99.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	46.62	266	141	4	1	265	789	13	4e-78	 237
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	41.26	143	80	2	1	139	429	13	6e-26	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	82.33	464	82	2	1	464	1374	4	0.0	 715
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.74	388	268	8	50	413	1332	214	8e-20	87.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	65.22	46	16	0	41	86	159	22	3e-15	63.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	35.90	156	100	0	1	156	471	4	3e-22	85.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	53.77	292	130	3	1	287	870	4	1e-116	 337
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	37.08	178	107	2	1	173	534	10	1e-32	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	76.37	512	121	0	3	514	1539	4	0.0	 791
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	26.55	354	249	6	62	404	1272	271	3e-28	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	54.70	287	130	5	1	287	789	13	9e-92	 273
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	44.78	134	74	0	4	137	423	22	2e-24	90.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	84.50	458	71	1	1	458	1374	4	0.0	 749
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.94	429	299	8	2	407	1464	214	3e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	70.45	44	13	0	38	81	144	13	2e-17	68.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	42.31	156	90	0	1	156	471	4	5e-31	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	59.86	289	113	1	1	286	870	4	6e-120	 345
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	42.37	177	102	1	1	177	534	7	3e-44	 144
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5420|atpI|6181452|6181860|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	41.73	139	81	0	4	142	429	13	4e-26	94.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	92.40	513	39	0	1	513	1542	4	0.0	 914
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.65	382	275	9	71	443	1230	157	1e-15	75.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	79.54	259	53	1	6	264	777	4	3e-149	 418
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	75.35	142	35	0	1	142	429	4	5e-67	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	93.44	457	30	0	1	457	1374	4	0.0	 839
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	25.52	431	294	9	3	406	1461	214	6e-24	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	91.07	56	5	0	29	84	171	4	1e-29	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	82.69	156	27	0	1	156	471	4	4e-67	 201
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	76.47	289	68	0	1	289	870	4	2e-173	 481
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	77.97	177	39	0	1	177	534	4	5e-97	 279
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	57.11	492	200	2	1	481	1542	91	0.0	 550
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	25.44	401	296	6	36	433	1314	166	1e-29	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0416|atpB|413492|414242|1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	37.50	104	65	2	5	108	420	121	7e-17	69.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	70.26	454	135	2	53	506	1365	34	0.0	 610
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	24.32	403	283	8	85	465	1374	214	4e-19	86.3
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_000907|HI0295|rho|329033|330296|1|Haemophilus_influenzae_Rd_KW20|40.2|NONE	23.08	195	140	5	258	442	673	1236	8e-04	37.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0419|atpF|415345|415825|1|Protein|NONE|56.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	33.89	298	191	6	1	292	870	4	4e-44	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	25.15	163	122	2	6	168	531	52	7e-13	60.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	83.24	513	86	0	1	513	1542	4	0.0	 832
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	27.06	340	241	5	71	403	1230	271	2e-19	87.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	63.18	258	93	1	9	264	777	4	3e-102	 299
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1	ref|NC_000907|HI0478|atpC|499814|500243|-1|Haemophilus_influenzae_Rd_KW20|36.6|NONE	50.75	134	66	0	5	138	423	22	6e-45	 143
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	87.42	461	58	1	1	461	1374	7	0.0	 787
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	26.50	434	295	9	2	411	1464	214	6e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2	ref|NC_000907|HI0484|atpE|505167|505422|-1|Haemophilus_influenzae_Rd_KW20|36.1|NONE	62.03	79	30	0	1	79	255	19	3e-20	75.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9	ref|NC_000907|HI0483|atpF|504647|505118|-1|Haemophilus_influenzae_Rd_KW20|38.2|NONE	56.41	156	68	0	1	156	471	4	6e-53	 165
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	63.32	289	103	1	1	286	870	4	3e-144	 407
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8	ref|NC_000907|HI0482|atpH|504101|504635|-1|Haemophilus_influenzae_Rd_KW20|39.3|NONE	57.39	176	75	0	1	176	534	7	3e-63	 192
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9	ref|NC_000907|HI0485|atpB|505477|506266|-1|Haemophilus_influenzae_Rd_KW20|35.7|NONE	26.79	209	136	6	53	244	624	22	4e-09	52.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bsl1187|atpC|1303980|1304211|-1|Protein|NONE|65.4
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_000907|HI0479|atpD|500272|501646|-1|Haemophilus_influenzae_Rd_KW20|40.0|NONE	66.74	469	155	3	5	472	1368	4	0.0	 589
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_000907|HI0481|atpA|502547|504089|-1|Haemophilus_influenzae_Rd_KW20|39.9|NONE	26.49	336	231	5	37	356	1374	412	3e-21	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8	ref|NC_000907|HI0480|atpG|501662|502532|-1|Haemophilus_influenzae_Rd_KW20|37.2|NONE	33.89	298	189	6	1	290	870	4	2e-36	 130
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_000907.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score

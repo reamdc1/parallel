@@ -1,0 +1,244 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6974	unknown	caiC	ECK0038:JW0036:yaaM	5e-37	27.66	149.0	62.18	5733470	5735096	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.794,eval_thresh:12.673
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6975	unknown	caiA	ECK0040:JW0038:yaaO	1e-14	25.52	74.7	60.96	5735092	5736844	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6976	unknown	caiD	ECK0037:JW0035:yaaL	5e-11	32.49	62.4	60.47	5736887	5737694	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr0180	unknown	caiE	ECK0036:JW5004	1e-21	36.2	96.7	64.2	124437	124965	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr2316	unknown	caiB	ECK0039:JW0037:yaaN	1e-10	27.14	62.0	68.38	1866511	1867681	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiCAD caiE caiB 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.33	 0.50	0	1	2	3	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.40	 0.60	0	1	2	3	0	0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3299	fadD1	caiC	ECK0038:JW0036:yaaM	3e-34	26.49	140.0	63.41	3695510	3697199	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3300	fadD2	caiC	ECK0038:JW0036:yaaM	3e-37	28.46	150.0	63.17	3697433	3699122	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3591	unknown	caiD	ECK0037:JW0035:yaaL	5e-22	34.01	98.6	70.18	4024728	4025526	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3592	unknown	caiB	ECK0039:JW0037:yaaN	2e-31	27.65	130.0	70.62	4025585	4026773	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3593	unknown	caiA	ECK0040:JW0038:yaaO	4e-11	23.7	63.2	69.39	4026811	4028539	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA0066	unknown	caiE	ECK0036:JW5004	1e-24	37.28	107.0	66.85	78089	78632	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3933	unknown	caiT	ECK0041:JW0039:yaaP	1e-37	29.88	151.0	66.67	4408923	4410885	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiCC> <caiDBA> <caiE> caiT 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	caiA,1	caiB,1	caiC,2	caiD,1	caiE,1	caiT,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.50	 0.50	1	0	3	3	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.50	 0.50	1	0	3	3	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0069	caiE	caiE	ECK0036:JW5004	1e-97	85.13	348.0	55.95	81019	81616	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0070	caiD	caiD	ECK0037:JW0035:yaaL	5e-133	93.49	467.0	56.87	81724	82510	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0071	caiC	caiC	ECK0038:JW0036:yaaM	0.0	84.91	913.0	50.77	82563	84117	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0072	caiB	caiB	ECK0039:JW0037:yaaN	0.0	95.06	791.0	53.2	84179	85397	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0073	caiA	caiA	ECK0040:JW0038:yaaO	0.0	97.63	778.0	52.58	85508	86651	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0074	caiT	caiT	ECK0041:JW0039:yaaP	0.0	96.43	947.0	54.08	86685	88203	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiEDCBAT> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	6	0	0
+NC_004310	Brucella_suis_1330	BR0020	ivd	caiA	ECK0040:JW0038:yaaO	2e-46	29.24	178.0	59.09	22863	24012	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0021	unknown	caiC	ECK0038:JW0036:yaaM	3e-06	22.77	45.8	59.98	24188	26177	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0411	unknown	caiD	ECK0037:JW0035:yaaL	2e-14	28.29	72.0	60.56	414959	415712	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0412	unknown	caiA	ECK0040:JW0038:yaaO	2e-11	25.07	62.8	61.1	415714	417493	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1084	unknown	caiB	ECK0039:JW0037:yaaN	7e-23	26.25	100.0	56.89	1056154	1057300	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:37.517,eval_thresh:15.832
+NC_004310	Brucella_suis_1330	BR1085	unknown	caiA	ECK0040:JW0038:yaaO	2e-17	24.19	82.8	56.96	1057378	1058563	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:37.517,eval_thresh:15.832
+NC_004310	Brucella_suis_1330	BR1260	unknown	caiE	ECK0036:JW5004	7e-24	35.2	102.0	57.58	1224774	1225302	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiAC> <caiDA> <caiBA> <caiE> 
+$$	NC_004310	Brucella_suis_1330	caiA,3	caiB,1	caiC,1	caiD,1	caiE,1
+##	NC_004310	Brucella_suis_1330	 0.50	 0.33	2	1	3	2	0	0
+@@	NC_004310	Brucella_suis_1330	 0.60	 0.40	2	1	3	2	0	0
+NC_003112	Neisseria_meningitidis_MC58	NMB1276	fadD-1	caiC	ECK0038:JW0036:yaaM	9e-50	29.61	190.0	54.38	1286159	1287713	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB1277	unknown	caiT	ECK0041:JW0039:yaaP	5e-31	31.23	128.0	51.53	1287802	1289830	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0625	unknown	caiE	ECK0036:JW5004	5e-23	34.76	100.0	58.57	658332	658863	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiCT > caiE 
+$$	NC_003112	Neisseria_meningitidis_MC58	caiC,1	caiE,1	caiT,1
+##	NC_003112	Neisseria_meningitidis_MC58	 0.17	 0.33	0	3	1	2	0	0
+@@	NC_003112	Neisseria_meningitidis_MC58	 0.33	 0.67	0	3	1	2	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_2038	unknown	caiC	ECK0038:JW0036:yaaM	1e-43	29.23	172.0	63.02	2316043	2317741	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2039	unknown	caiA	ECK0040:JW0038:yaaO	8e-32	29.55	132.0	62.72	2317755	2318922	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2216	unknown	caiA	ECK0040:JW0038:yaaO	1e-47	31.18	184.0	63.03	2526955	2528083	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2217	fadB1x	caiD	ECK0037:JW0035:yaaL	6e-33	37.69	134.0	61.89	2528096	2528870	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_3392	unknown	caiE	ECK0036:JW5004	7e-26	36.48	110.0	61.14	3842948	3843473	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_3393	unknown	caiB	ECK0039:JW0037:yaaN	1e-24	25.75	108.0	62.89	3843485	3844676	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_3628	unknown	caiT	ECK0041:JW0039:yaaP	9e-41	30.92	162.0	63.17	4123521	4125267	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiCA caiAD <caiEB> caiT 
+$$	NC_002947	Pseudomonas_putida_KT2440	caiA,2	caiB,1	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.50	 0.33	1	0	3	2	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.50	 0.33	1	0	3	2	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2083	unknown	caiD	ECK0037:JW0035:yaaL	6e-24	32.69	104.0	66.42	2268808	2269627	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2084	caiA	caiA	ECK0040:JW0038:yaaO	1e-47	32.02	184.0	65.2	2269736	2270897	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2802	unknown	caiC	ECK0038:JW0036:yaaM	1e-09	27.1	58.5	67.74	3036594	3047259	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.525,eval_thresh:12.794
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2803	unknown	caiC	ECK0038:JW0036:yaaM	1e-20	24.29	95.5	67.22	3047255	3056771	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_3917	unknown	caiB	ECK0039:JW0037:yaaN	9e-30	27.38	125.0	67.59	4229795	4230986	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_3918	unknown	caiA	ECK0040:JW0038:yaaO	1e-17	26.62	84.3	65.82	4231206	4232394	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0875	unknown	caiE	ECK0036:JW5004	2e-21	31.03	95.9	65.38	902735	903281	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_4302	betT	caiT	ECK0041:JW0039:yaaP	1e-42	29.59	167.0	67.32	4642502	4644035	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiDA> <caiCC> <caiBA> <caiE> caiT 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	caiA,2	caiB,1	caiC,2	caiD,1	caiE,1	caiT,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.67	 0.33	2	0	4	2	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.67	 0.33	2	0	4	2	0	0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0090	unknown	caiC	ECK0038:JW0036:yaaM	2e-08	26.71	53.1	33.26	89981	91340	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0091	unknown	caiC	ECK0038:JW0036:yaaM	1e-10	32.12	60.5	35.58	91339	92851	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1513	unknown	caiA	ECK0040:JW0038:yaaO	9e-13	23.74	67.0	40.48	1452400	1453534	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiCC> caiA 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	caiA,1	caiC,2
+##	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.17	 0.17	1	4	1	1	0	0
+@@	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.50	 0.50	1	4	1	1	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0079	caiE	caiE	ECK0036:JW5004	6e-98	85.13	349.0	55.61	80833	81430	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0080	caiD	caiD	ECK0037:JW0035:yaaL	2e-132	93.49	465.0	56.49	81541	82327	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0081	caiC	caiC	ECK0038:JW0036:yaaM	0.0	84.33	909.0	51.09	82380	83934	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0082	caiB	caiB	ECK0039:JW0037:yaaN	0.0	94.81	789.0	53.61	83996	85214	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0083	caiA	caiA	ECK0040:JW0038:yaaO	0.0	97.37	776.0	52.49	85325	86468	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0084	caiT	caiT	ECK0041:JW0039:yaaP	0.0	96.03	941.0	53.75	86502	88020	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiEDCBAT> 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	6	0	0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2044	unknown	caiA	ECK0040:JW0038:yaaO	3e-16	25.0	79.3	69.94	2217159	2218290	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2045	unknown	caiA	ECK0040:JW0038:yaaO	1e-14	26.07	73.9	65.58	2218314	2219511	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2872	paaF	caiD	ECK0037:JW0035:yaaL	5e-27	37.94	114.0	64.74	3101635	3102412	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:50.191,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2873	paaG1	caiD	ECK0037:JW0035:yaaL	1e-13	31.94	70.1	68.44	3102491	3103280	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:50.191,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1133	unknown	caiE	ECK0036:JW5004	4e-27	36.48	114.0	67.99	1190809	1191337	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc0780	fadD2	caiC	ECK0038:JW0036:yaaM	1e-47	27.79	184.0	68.25	824517	826224	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1375	unknown	caiB	ECK0039:JW0037:yaaN	2e-16	26.0	80.5	72.81	1464243	1465350	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiAA> <caiDD>  <caiE> caiC <caiB> 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	caiA,2	caiB,1	caiC,1	caiD,2	caiE,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.67	 0.17	2	1	4	1	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.80	 0.20	2	1	4	1	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00977	unknown	caiA	ECK0040:JW0038:yaaO	6e-13	25.07	68.6	66.89	960793	962575	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00976	unknown	caiD	ECK0037:JW0035:yaaL	4e-05	25.98	42.0	66.4	962584	963337	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc04241	unknown	caiE	ECK0036:JW5004	3e-19	36.42	88.2	62.15	2066616	2067147	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.613,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc00261	unknown	caiC	ECK0038:JW0036:yaaM	4e-47	26.14	182.0	61.7	1828786	1830436	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiAD caiE <caiC> 
+$$	NC_003047	Sinorhizobium_meliloti_1021	caiA,1	caiC,1	caiD,1	caiE,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.33	 0.33	0	2	2	2	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.50	 0.50	0	2	2	2	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1313	fadE9	caiA	ECK0040:JW0038:yaaO	7e-42	31.41	165.0	64.97	1516109	1517291	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1314	paaF	caiD	ECK0037:JW0035:yaaL	4e-26	33.21	112.0	66.79	1517287	1518085	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2097	syrE1	caiC	ECK0038:JW0036:yaaM	1e-18	23.37	88.6	59.52	2445192	2449893	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.361,eval_thresh:16.088
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2098	syrE2	caiC	ECK0038:JW0036:yaaM	6e-15	21.97	76.3	65.22	2449905	2455932	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1409	lpxA	caiE	ECK0036:JW5004	0.0004	38.16	38.5	65.15	1623840	1624632	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC0720	betT	caiT	ECK0041:JW0039:yaaP	2e-30	29.14	127.0	63.28	858842	860822	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiAD caiCC <caiE> <caiT> 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	caiA,1	caiC,2	caiD,1	caiE,1	caiT,1
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.50	 0.33	1	1	3	2	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.60	 0.40	1	1	3	2	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1679	unknown	caiA	ECK0040:JW0038:yaaO	4e-45	30.77	175.0	52.25	1766171	1767329	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1680	unknown	caiD	ECK0037:JW0035:yaaL	8e-22	32.93	97.8	53.49	1767381	1768155	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_0042	unknown	caiE	ECK0036:JW5004	5e-21	31.64	94.4	46.45	44972	45521	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_0075	unknown	caiC	ECK0038:JW0036:yaaM	2e-08	28.86	54.3	49.68	87147	88854	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiAD <caiE> caiC 
+$$	NC_004347	Shewanella_oneidensis_MR-1	caiA,1	caiC,1	caiD,1	caiE,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.33	 0.33	0	2	2	2	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.50	 0.50	0	2	2	2	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr3536	unknown	caiC	ECK0038:JW0036:yaaM	3e-37	28.54	150.0	65.83	3903246	3904803	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr3537	unknown	caiD	ECK0037:JW0035:yaaL	4e-20	33.47	92.8	64.81	3904832	3905639	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr7245	unknown	caiA	ECK0040:JW0038:yaaO	9e-35	28.65	142.0	63.16	7968789	7969959	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr7246	unknown	caiB	ECK0039:JW0037:yaaN	1e-16	25.9	82.4	65.88	7969930	7971070	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll5581	unknown	caiE	ECK0036:JW5004	6e-22	38.31	98.2	65.54	6139450	6139981	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiCD caiAB <caiE> 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.33	 0.33	0	1	2	2	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.40	 0.40	0	1	2	2	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP0551	unknown	caiB	ECK0039:JW0037:yaaN	3e-23	26.56	103.0	67.3	584235	585504	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP0552	unknown	caiB	ECK0039:JW0037:yaaN	1e-18	24.4	87.8	70.71	585716	586928	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP0656	gcdH	caiA	ECK0040:JW0038:yaaO	2e-15	23.55	77.4	66.91	694019	695246	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP0657	unknown	caiD	ECK0037:JW0035:yaaL	6e-17	30.68	81.6	66.17	695292	696093	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP3243	unknown	caiC	ECK0038:JW0036:yaaM	4e-33	23.73	136.0	68.29	3498957	3500622	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP3244	unknown	caiE	ECK0036:JW5004	3e-24	36.48	105.0	64.37	3500633	3501155	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP3400	betT	caiT	ECK0041:JW0039:yaaP	4e-36	28.17	146.0	65.9	3664036	3665995	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiBB>  <caiAD> caiCE <caiT> 
+$$	NC_002928	Bordetella_parapertussis_12822	caiA,1	caiB,2	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.50	 0.33	1	0	3	2	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.50	 0.33	1	0	3	2	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0416	unknown	caiB	ECK0039:JW0037:yaaN	4e-20	26.08	92.8	69.75	416615	417848	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0417	unknown	caiD	ECK0037:JW0035:yaaL	7e-13	31.53	67.8	70.61	417840	418626	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0624	unknown	caiC	ECK0038:JW0036:yaaM	2e-53	30.86	203.0	68.74	631263	632757	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0625	unknown	caiA	ECK0040:JW0038:yaaO	1e-35	27.51	144.0	65.99	632836	634012	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2377	unknown	caiC	ECK0038:JW0036:yaaM	4e-33	23.77	136.0	68.26	2516239	2517931	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2378	unknown	caiE	ECK0036:JW5004	6e-24	35.85	103.0	64.18	2517942	2518464	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP0831	betT	caiT	ECK0041:JW0039:yaaP	4e-36	28.17	145.0	65.29	861258	863217	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiBD <caiCA> caiCE caiT 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	caiA,1	caiB,1	caiC,2	caiD,1	caiE,1	caiT,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.50	 0.33	1	0	3	2	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.50	 0.33	1	0	3	2	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0557	unknown	caiB	ECK0039:JW0037:yaaN	6e-23	26.56	102.0	67.23	585232	586474	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0558	unknown	caiB	ECK0039:JW0037:yaaN	2e-18	24.63	87.8	70.87	586712	587924	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0663	gcdH	caiA	ECK0040:JW0038:yaaO	2e-15	23.55	77.4	66.83	698362	699589	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0664	unknown	caiD	ECK0037:JW0035:yaaL	7e-17	30.68	81.6	66.29	699635	700436	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3695	unknown	caiC	ECK0038:JW0036:yaaM	4e-33	23.73	136.0	68.35	3915425	3917090	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3696	unknown	caiE	ECK0036:JW5004	8e-24	35.85	103.0	64.37	3917101	3917623	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3850	betT	caiT	ECK0041:JW0039:yaaP	6e-36	28.17	145.0	65.34	4079274	4081233	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiBB>  <caiAD> caiCE <caiT> 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	caiA,1	caiB,2	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.50	 0.33	1	0	3	2	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.50	 0.33	1	0	3	2	0	0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2979	unknown	caiD	ECK0037:JW0035:yaaL	6e-25	34.51	108.0	68.3	3565864	3566662	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2980	unknown	caiA	ECK0040:JW0038:yaaO	3e-43	32.98	169.0	66.75	3566658	3567840	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0360	unknown	caiE	ECK0036:JW5004	4e-18	33.55	84.7	65.95	418979	419540	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0762	unknown	caiT	ECK0041:JW0039:yaaP	1e-36	30.98	147.0	63.79	917297	919277	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2331	unknown	caiC	ECK0038:JW0036:yaaM	1e-44	27.82	174.0	62.57	2817881	2819564	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiDA> <caiE> <caiT> caiC 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	caiA,1	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.50	 0.33	0	1	3	2	0	0
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.60	 0.40	0	1	3	2	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0035	caiE	caiE	ECK0036:JW5004	2e-113	99.49	401.0	54.99	34780	35371	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0036	caiD	caiD	ECK0037:JW0035:yaaL	2e-141	100.0	495.0	54.07	35376	36162	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0037	caiC	caiC	ECK0038:JW0036:yaaM	0.0	100.0	1062.0	51.03	36270	37824	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0038	caiB	caiB	ECK0039:JW0037:yaaN	0.0	100.0	820.0	52.63	37897	39115	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0039	caiA	caiA	ECK0040:JW0038:yaaO	0.0	100.0	792.0	53.89	39243	40386	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0040	caiT	caiT	ECK0041:JW0039:yaaP	0.0	100.0	972.0	51.82	40416	41931	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiEDCBAT> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1548	fadE	caiA	ECK0040:JW0038:yaaO	8e-09	23.67	54.3	55.27	1684528	1686862	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1549	unknown	caiC	ECK0038:JW0036:yaaM	6e-26	25.22	111.0	55.68	1686858	1688697	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1207	unknown	caiE	ECK0036:JW5004	1e-16	39.82	79.0	52.05	1310847	1311408	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiAC caiE 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	caiA,1	caiC,1	caiE,1
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.17	 0.33	0	3	1	2	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.33	 0.67	0	3	1	2	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2829	syfA	caiC	ECK0038:JW0036:yaaM	6e-09	24.1	56.6	63.47	3152878	3162385	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2830	syfB	caiC	ECK0038:JW0036:yaaM	1e-08	25.86	55.8	64.36	3162381	3180171	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3705	unknown	caiD	ECK0037:JW0035:yaaL	2e-12	32.35	66.6	60.75	4179325	4180423	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3706	acdA	caiA	ECK0040:JW0038:yaaO	2e-29	27.57	123.0	60.5	4180426	4181578	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5460	unknown	caiB	ECK0039:JW0037:yaaN	7e-20	25.12	92.4	59.46	6219737	6220958	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:30.701,eval_thresh:10.873
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5461	unknown	caiA	ECK0040:JW0038:yaaO	9e-22	25.74	98.6	57.7	6220970	6222152	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:30.701,eval_thresh:10.873
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1465	unknown	caiE	ECK0036:JW5004	4e-21	39.39	95.1	58.48	1610584	1611109	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5269	betT	caiT	ECK0041:JW0039:yaaP	2e-40	33.64	160.0	60.4	5989583	5991578	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiCC caiDA <caiBA> caiE <caiT> 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	caiA,2	caiB,1	caiC,2	caiD,1	caiE,1	caiT,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.67	 0.33	2	0	4	2	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.67	 0.33	2	0	4	2	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_0079	unknown	caiA	ECK0040:JW0038:yaaO	5e-32	27.65	132.0	63.18	80354	81530	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0080	unknown	caiA	ECK0040:JW0038:yaaO	2e-06	21.57	47.4	66.0	81532	83326	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_2400	unknown	caiC	ECK0038:JW0036:yaaM	1e-43	26.88	171.0	68.54	2604240	2605731	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_2401	unknown	caiD	ECK0037:JW0035:yaaL	1e-15	32.43	77.0	65.46	2605774	2606602	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1911	unknown	caiE	ECK0036:JW5004	0.0002	31.51	38.9	67.17	2108355	2109147	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_3562	unknown	caiB	ECK0039:JW0037:yaaN	1e-36	29.7	147.0	69.43	3810614	3811916	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiAA> <caiCD> <caiE> <caiB> 
+$$	NC_002696	Caulobacter_crescentus_CB15	caiA,2	caiB,1	caiC,1	caiD,1	caiE,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.50	 0.33	1	1	3	2	0	0
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.60	 0.40	1	1	3	2	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0732	mmgC	caiA	ECK0040:JW0038:yaaO	3e-12	24.87	65.9	62.97	731155	732940	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0733	unknown	caiD	ECK0037:JW0035:yaaL	1e-08	26.96	53.1	61.13	732950	733709	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1517	unknown	caiE	ECK0036:JW5004	1e-21	36.42	95.5	60.64	1508042	1508573	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0405	fadD	caiC	ECK0038:JW0036:yaaM	6e-45	26.89	174.0	58.9	400187	401900	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2127	caiB	caiB	ECK0039:JW0037:yaaN	1e-25	26.33	110.0	60.93	2092325	2093528	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	caiAD caiE <caiC> caiB 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.50	 0.33	0	1	3	2	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.60	 0.40	0	1	3	2	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0442	unknown	caiD	ECK0037:JW0035:yaaL	4e-14	28.29	70.9	60.82	435437	436190	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0443	unknown	caiA	ECK0040:JW0038:yaaO	2e-11	25.07	62.8	61.1	436192	437971	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1129	unknown	caiB	ECK0039:JW0037:yaaN	7e-23	26.25	100.0	56.98	1075380	1076526	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:37.936,eval_thresh:17.793
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1130	unknown	caiA	ECK0040:JW0038:yaaO	1e-17	24.19	83.2	56.71	1076604	1077789	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:37.936,eval_thresh:17.793
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1305	unknown	caiE	ECK0036:JW5004	7e-24	35.2	102.0	57.58	1244604	1245132	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0324	unknown	caiC	ECK0038:JW0036:yaaM	3e-33	28.53	135.0	59.22	319195	320941	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiDA> <caiBA> <caiE> <caiC> 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	caiA,2	caiB,1	caiC,1	caiD,1	caiE,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.50	 0.33	1	1	3	2	0	0
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.60	 0.40	1	1	3	2	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0034	caiE	caiE	ECK0036:JW5004	5e-112	97.45	396.0	54.41	33696	34308	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0035	caiD	caiD	ECK0037:JW0035:yaaL	9e-142	99.62	496.0	52.35	34292	35186	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0036	caiC	caiC	ECK0038:JW0036:yaaM	0.0	97.49	1037.0	50.73	35186	36755	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0037	caiB	caiB	ECK0039:JW0037:yaaN	0.0	99.75	818.0	52.46	36813	38031	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0038	caiA	caiA	ECK0040:JW0038:yaaO	0.0	100.0	792.0	53.89	38159	39302	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0039	caiT	caiT	ECK0041:JW0039:yaaP	0.0	99.4	968.0	52.21	39332	40847	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<caiEDCBAT> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	caiA,1	caiB,1	caiC,1	caiD,1	caiE,1	caiT,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	6	0	0

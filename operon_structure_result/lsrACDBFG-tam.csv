@@ -1,0 +1,31 @@
+lsrACDBFG-tam
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,lsrACDBFG-tam
+NC_004741,Shigella_flexneri_2a_str._2457T,<tam-lsrGF> lsrACD
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,<lsrGFBDCA> <tam>
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,lsrACDBFG <tam>
+NC_003143,Yersinia_pestis_CO92,<lsrGFBDCA> tam
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,lsrACDBFG
+NC_004459,Vibrio_vulnificus_CMCP6,<lsrAA>
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,lsrAA tam lsrG
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),lsrAA
+NC_000907,Haemophilus_influenzae_Rd_KW20,lsrAC lsrAD <tam>
+NC_004347,Shewanella_oneidensis_MR-1,<lsrAA> <lsrB>
+NC_002516,Pseudomonas_aeruginosa_PAO1,lsrAC <tam> lsrG
+NC_002947,Pseudomonas_putida_KT2440,lsrAC tam lsrD lsrG
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,lsrAC tam <lsrD> <lsrG>
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,<lsrAA> <tam>
+NC_005085,Chromobacterium_violaceum_ATCC_12472,<lsrCA> <tam> <lsrD>
+NC_003295,Ralstonia_solanacearum_GMI1000,<lsrCA> <tam> <lsrD>
+NC_002927,Bordetella_bronchiseptica_RB50,<lsrDA> lsrCAA tam
+NC_002929,Bordetella_pertussis_Tohama_I,lsrAA <tam>
+NC_002928,Bordetella_parapertussis_12822,lsrAD tam lsrC
+NC_004463,Bradyrhizobium_japonicum_USDA_110,lsrACB lsrAD tam
+NC_002696,Caulobacter_crescentus_CB15,lsrAC <tam> lsrD
+NC_003062,Agrobacterium_tumefaciens_str._C58,lsrDA <lsrBCA> <tam>
+NC_002678,Mesorhizobium_loti_MAFF303099,<tam-lsrA> <lsrDCAB> lsrF
+NC_003047,Sinorhizobium_meliloti_1021,lsrBACD <tam-lsrA>
+NC_012441,Brucella_melitensis_ATCC_23457,<tam-lsrA> <lsrCA> <lsrB> <lsrD>
+NC_004310,Brucella_suis_1330,lsrAD <tam-lsrA> <lsrCA> <lsrB>
+NC_005090,Wolinella_succinogenes_DSM_1740,<lsrAA>
+NC_004917,Helicobacter_hepaticus_ATCC_51449,<lsrAA>
+NC_002163,Campylobacter_jejuni_subsp._jejuni_NCTC_11168,<lsrAA> tam

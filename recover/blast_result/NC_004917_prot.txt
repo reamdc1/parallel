@@ -1,0 +1,408 @@
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	53.63	509	236	1	2	510	10	1503	0.0	 538
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	32.42	293	198	4	85	377	1074	247	7e-33	 126
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	24.46	368	269	8	85	443	202	1236	3e-26	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	28.78	205	140	7	70	268	127	657	1e-11	59.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	31.43	105	72	1	2	106	7	318	9e-13	58.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	65.10	467	158	4	4	465	7	1389	0.0	 574
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	34.86	350	225	7	62	408	1086	70	1e-39	 146
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	25.50	404	286	8	21	409	112	1275	3e-25	 104
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	23.39	248	188	4	137	382	508	1227	8e-06	43.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7	ref|NC_004917|HH0424|atpF|408933|409359|1|Helicobacter_hepaticus_ATCC_51449|31.2|NONE	24.69	81	61	0	12	92	43	285	3e-04	35.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	32.67	300	185	7	5	287	16	888	2e-43	 149
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	56.02	507	223	2	3	509	10	1497	0.0	 575
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	29.65	317	223	5	62	378	1146	247	7e-35	 132
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	24.81	395	288	8	60	445	124	1239	2e-29	 116
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	27.70	213	148	8	75	281	136	648	2e-06	43.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	68.18	462	140	4	4	458	7	1389	0.0	 593
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	32.66	349	229	7	59	401	1089	70	1e-37	 140
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	24.59	370	268	6	44	402	199	1275	4e-23	98.2
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	26.22	225	164	4	130	352	508	1158	8e-07	47.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	33.56	292	184	3	5	286	16	888	1e-44	 152
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7	ref|NC_004917|HH0426|atpH|409883|410408|1|Helicobacter_hepaticus_ATCC_51449|33.3|NONE	27.40	146	99	4	26	164	52	468	2e-06	42.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5561|atpI|6254427|6254808|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	55.62	507	225	1	2	508	10	1497	0.0	 551
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.57	265	183	6	114	377	987	247	3e-29	 116
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	25.32	391	283	8	62	443	133	1236	9e-20	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	30.84	214	142	8	64	271	112	678	2e-14	67.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	30.38	79	55	0	7	85	16	252	2e-11	54.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	67.97	462	143	3	4	460	7	1389	0.0	 596
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	32.18	348	231	7	61	403	1089	70	5e-38	 141
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	24.46	413	301	8	3	404	88	1275	1e-25	 105
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	23.79	248	187	4	132	377	508	1227	4e-06	44.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	33.33	291	186	2	5	287	16	888	7e-48	 160
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	59.37	507	206	2	2	508	10	1497	0.0	 603
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	29.00	331	231	4	51	377	1188	247	9e-35	 132
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	24.94	389	283	7	57	436	118	1227	6e-32	 124
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	26.36	220	162	8	67	286	133	648	1e-05	41.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	29.76	84	59	0	1	84	1	252	1e-11	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	65.95	464	157	3	4	466	7	1392	0.0	 551
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	28.76	372	258	7	66	430	1089	4	6e-34	 129
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	25.34	363	267	4	51	409	199	1275	8e-22	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	28.66	307	211	4	3	301	10	888	8e-41	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3	ref|NC_004917|HH0426|atpH|409883|410408|1|Helicobacter_hepaticus_ATCC_51449|33.3|NONE	23.46	162	118	7	4	159	4	450	4e-04	35.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	58.15	509	213	1	2	510	10	1503	0.0	 597
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.58	327	216	4	62	377	1176	247	5e-35	 132
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	25.86	348	252	5	62	403	133	1122	1e-26	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	34.18	79	52	0	7	85	16	252	2e-10	51.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	66.16	464	150	4	4	460	4	1392	0.0	 554
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.64	346	237	6	60	402	1089	70	2e-32	 124
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	25.18	409	292	9	45	439	199	1353	1e-21	93.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	33.00	300	191	5	5	294	16	888	2e-49	 165
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	60.87	506	198	1	3	508	13	1506	0.0	 640
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.89	314	217	4	61	374	1146	247	6e-38	 141
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	26.15	371	270	7	85	451	202	1257	1e-29	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	29.85	201	139	4	47	245	112	660	5e-11	57.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	28.24	85	61	0	5	89	4	258	7e-08	44.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	69.72	459	134	4	36	489	7	1359	0.0	 604
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	32.39	355	235	7	93	442	1089	70	4e-38	 142
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	23.49	413	308	7	75	479	190	1353	2e-21	93.2
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	25.09	271	198	6	160	425	499	1263	3e-06	45.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00870|atpE|917774|918002|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00868|atpF|918703|919189|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	33.66	303	190	7	3	294	10	888	1e-36	 131
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	29.41	85	60	0	3	87	4	258	4e-09	47.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	56.61	507	220	1	2	508	10	1497	0.0	 555
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	31.70	265	181	4	113	377	990	247	1e-32	 125
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	25.58	391	282	8	62	443	133	1236	9e-20	87.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	31.19	218	142	9	65	274	106	678	2e-09	53.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	31.65	79	54	0	8	86	16	252	5e-11	53.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	68.18	462	142	3	4	460	7	1389	0.0	 597
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	31.79	346	233	6	61	403	1089	70	8e-39	 143
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	25.55	364	260	6	52	404	217	1275	2e-24	 102
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	23.17	259	197	4	132	388	508	1260	3e-06	45.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3	ref|NC_004917|HH0424|atpF|408933|409359|1|Helicobacter_hepaticus_ATCC_51449|31.2|NONE	29.55	88	62	1	12	99	43	285	2e-04	35.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	32.99	291	187	2	5	287	16	888	2e-51	 170
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	61.46	506	195	1	3	508	13	1506	0.0	 644
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.89	314	217	4	61	374	1146	247	6e-38	 141
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	25.38	394	290	7	62	451	133	1257	1e-29	 117
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	70.30	468	134	3	17	479	7	1389	0.0	 622
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	32.01	353	237	7	73	422	1089	70	2e-37	 139
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	24.88	418	301	9	55	459	190	1353	2e-21	92.8
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	24.72	271	199	6	140	405	499	1263	8e-06	43.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0717|atpF|717655|718141|1|Protein|NONE|60.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	31.46	302	195	6	3	292	10	888	7e-29	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	54.42	509	232	1	2	510	10	1503	0.0	 565
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	32.51	283	191	4	95	377	1044	247	9e-39	 144
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	23.82	382	281	7	62	433	133	1218	3e-26	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	ref|NC_004917|HH1497|atpB|1434493|1435174|1|Helicobacter_hepaticus_ATCC_51449|36.9|NONE	28.02	207	146	7	63	266	112	657	2e-12	60.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2	ref|NC_004917|HH0430|atpC|414277|414673|1|Helicobacter_hepaticus_ATCC_51449|37.1|NONE	32.35	102	64	2	8	104	16	321	9e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	62.99	462	170	2	4	464	7	1389	0.0	 558
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.37	349	236	9	66	407	1086	70	9e-34	 128
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	26.28	411	299	8	4	410	91	1281	1e-25	 105
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_004917|HH0023|rho|24449|25742|1|Helicobacter_hepaticus_ATCC_51449|39.1|NONE	25.39	256	179	7	115	358	418	1158	3e-05	42.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	ref|NC_004917|HH0428|atpG|411956|412850|1|Helicobacter_hepaticus_ATCC_51449|36.2|NONE	28.81	295	201	3	3	288	10	888	4e-41	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_004917.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_004917|HH0427|atpA|410429|411944|1|Helicobacter_hepaticus_ATCC_51449|38.1|NONE	56.21	507	222	2	3	509	10	1497	0.0	 580
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_004917|HH0565|fliI|542915|544292|-1|Helicobacter_hepaticus_ATCC_51449|39.3|NONE	30.51	295	199	6	90	378	1080	247	3e-34	 130
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_004917|HH0429|atpD|412868|414269|1|Helicobacter_hepaticus_ATCC_51449|38.6|NONE	24.05	395	291	8	60	445	124	1239	3e-28	 113

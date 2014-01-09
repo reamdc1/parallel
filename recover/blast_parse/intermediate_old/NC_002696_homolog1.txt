@@ -1,0 +1,24 @@
+CC_0365
+NC_002696	Caulobacter_crescentus_CB15	CC_0365	unknown	atpB	NONE	2e-15	47.2	67.0	68.4	387575	388085	-1	Protein	161	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349
+CC_0366
+NC_002696	Caulobacter_crescentus_CB15	CC_0366	unknown	atpB	NONE	1e-09	35.0	52.4	69.3	388095	388629	-1	Protein	60	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+CC_0367
+NC_002696	Caulobacter_crescentus_CB15	CC_0367	unknown	atpE	NONE	8e-17	58.62	65.1	62.7	388755	388980	-1	Protein	58	BLAST	NC_004310	Brucella_suis_1330	BR0383	393517
+CC_0368
+NC_002696	Caulobacter_crescentus_CB15	CC_0368	unknown	atpB	NONE	4e-12	27.43	61.6	63.9	389029	389791	-1	Protein	237	BLAST	NC_004459	Vibrio_vulnificus_CMCP6	VV1_1015	1018417
+CC_0369
+NC_002696	Caulobacter_crescentus_CB15	CC_0369	unknown	atpI	NONE	1e-05	37.5	39.3	66.1	389796	390177	-1	Protein	80	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc00872	916877
+CC_3040
+NC_002696	Caulobacter_crescentus_CB15	CC_3040	fliI	atpD	NONE	5e-22	28.81	95.1	69.6	3256824	3258159	1	Protein	361	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+CC_3445
+NC_002696	Caulobacter_crescentus_CB15	CC_3445	unknown	atpC	NONE	8e-15	42.31	62.4	67.0	3688026	3688287	-1	Protein	78	BLAST	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5598	6381298
+CC_3447
+NC_002696	Caulobacter_crescentus_CB15	CC_3447	unknown	atpD	NONE	0.0	77.25	683.0	67.3	3688537	3690157	-1	Protein	466	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+CC_3448
+NC_002696	Caulobacter_crescentus_CB15	CC_3448	unknown	atpG	NONE	4e-106	61.3	307.0	67.2	3690204	3691080	-1	Protein	292	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230
+CC_3449
+NC_002696	Caulobacter_crescentus_CB15	CC_3449	unknown	atpD	NONE	4e-18	25.77	84.0	66.1	3691114	3692647	-1	Protein	326	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+CC_3450
+NC_002696	Caulobacter_crescentus_CB15	CC_3450	unknown	atpH	NONE	4e-42	40.98	137.0	66.7	3692699	3693254	-1	Protein	183	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	478494
+CC_3760
+NC_002696	Caulobacter_crescentus_CB15	CC_3760	rho	atpD	NONE	2e-06	22.31	46.6	64.5	4012450	4013896	-1	Protein	251	BLAST	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5599	6382728

@@ -1,0 +1,28 @@
+bll0439
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0439	atpC	atpC	papG:uncC	5e-17	45.78	70.5	65.7	473347	473755	-1	Protein	83	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3289	3505884
+bll0440
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	atpD	atpD	NONE	0.0	100.0	900.0	65.7	473841	475275	-1	Protein	477	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+bll0441
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	atpG	atpG	NONE	0.0	100.0	501.0	65.8	475357	476230	-1	Protein	290	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230
+bll0442
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0442	atpA	atpA	NONE	0.0	53.98	524.0	64.1	476404	477934	-1	Protein	515	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3867	4077975
+bll0443
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	atpH	atpH	NONE	2e-128	99.46	356.0	63.5	477933	478494	-1	Protein	186	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	478494
+bll0635
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0635	rho	atpD	NONE	0.0003	23.79	41.2	61.5	682689	683955	-1	Protein	248	BLAST	NC_004310	Brucella_suis_1330	BR1799	1727960
+bll1185
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	atpB	atpB	NONE	6e-92	100.0	262.0	66.3	1302863	1303349	-1	Protein	161	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349
+bll1186
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1186	atpB'	atpB	NONE	2e-18	47.89	77.8	66.7	1303354	1303918	-1	Protein	71	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+bll1188
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	atpA	atpA	NONE	7e-165	100.0	454.0	59.9	1304264	1305014	-1	Protein	249	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014
+blr1816
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1816	rhcN	atpA	NONE	7e-29	30.17	117.0	61.9	1968915	1970271	1	Protein	401	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3867	4077975
+blr2201
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr2201	fliI	atpA	NONE	3e-26	31.88	109.0	67.0	2377130	2378456	1	Protein	276	BLAST	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0670	698398
+blr6885
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6885	fliI	atpD	papB:uncD	2e-24	33.0	103.0	67.9	7576374	7577700	1	Protein	303	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3288	3505452
+bsl1187
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	atpC	atpC	NONE	2e-16	100.0	65.1	65.4	1303980	1304211	-1	Protein	58	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	1304211
+bsl1189
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1189	unknown	atpI	NONE	8e-14	51.79	59.7	61.1	1305125	1305323	-1	Protein	56	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	715822

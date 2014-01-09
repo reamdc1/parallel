@@ -1,0 +1,20 @@
+BUAP5A_002
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_002	atpB	atpB	NONE	4e-129	70.08	362.0	27.8	2277	3102	1	Protein	264	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3950	3844790
+BUAP5A_003
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_003	atpE	atpE	NONE	1e-27	83.54	90.5	36.2	3138	3378	1	Protein	79	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3951	3845076
+BUAP5A_004
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_004	atpF	atpF	papF:uncF	4e-16	31.41	66.2	25.7	3496	3982	1	Protein	156	BLAST	NC_002928	Bordetella_parapertussis_12822	BPP4139	4475231
+BUAP5A_005
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_005	atpH	atpH	papE:uncH	3e-19	26.55	75.5	21.5	3981	4515	1	Protein	177	BLAST	NC_002928	Bordetella_parapertussis_12822	BPP4138	4474748
+BUAP5A_006
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_006	atpA	atpA	uncA	0.0	66.21	677.0	30.6	4529	6068	1	Protein	506	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3651	4331727
+BUAP5A_007
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_007	atpG	atpG	NONE	4e-127	58.54	358.0	29.0	6100	6973	1	Protein	287	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3955	3848624
+BUAP5A_008
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	atpD	atpD	NONE	0.0	100.0	909.0	33.4	6996	8394	1	Protein	465	exact	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394
+BUAP5A_009
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_009	atpC	atpC	NONE	1e-41	52.94	130.0	27.1	8420	8837	1	Protein	136	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3957	3850473
+BUAP5A_075
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_075	fliI	atpD	NONE	1e-27	29.04	109.0	29.7	80317	81721	1	Protein	303	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3956	3850033
+BUAP5A_588
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_588	rho	atpD	papB:uncD	0.0003	21.65	37.4	34.1	627634	628894	-1	Protein	254	BLAST	NC_003143	Yersinia_pestis_CO92	YPO4121	4645042

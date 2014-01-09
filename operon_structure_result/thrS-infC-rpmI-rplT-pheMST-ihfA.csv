@@ -1,0 +1,36 @@
+thrS-infC-rpmI-rplT-pheMST-ihfA
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,<ihfA-pheTS-rplT-rpmI-infC-thrS>
+NC_004741,Shigella_flexneri_2a_str._2457T,thrS-infC-rpmI-rplT-pheST-ihfA
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,<ihfA-pheTS-rplT-rpmI-infC-thrS>
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,thrS-infC-rpmI-rplT-pheST-ihfA
+NC_003143,Yersinia_pestis_CO92,<ihfA-pheTS-rplT-rpmI-infC-thrS>
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,infC-rpmI-rplT <ihfA-pheT> <pheS> thrS
+NC_004459,Vibrio_vulnificus_CMCP6,pheST thrS-infC-rpmI-rplT ihfA
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,rpmI-rplT pheST ihfA thrS
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),thrS-infC-rpmI-rplT-pheST-ihfA
+NC_000907,Haemophilus_influenzae_Rd_KW20,pheST-ihfA infC-rpmI-rplT thrS
+NC_004347,Shewanella_oneidensis_MR-1,pheST-ihfA thrS-infC-rpmI-rplT
+NC_005061,Candidatus_Blochmannia_floridanus,thrS-infC-rpmI-rplT-pheST
+NC_002516,Pseudomonas_aeruginosa_PAO1,<ihfA-pheTS-rplT-infC-thrS>
+NC_002947,Pseudomonas_putida_KT2440,thrS-infC-rplT-pheST-ihfA
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,thrS-infC-rplT-pheST-ihfA
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,<ihfA-pheTS-rplT-rpmI-infC-thrS>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,thrS-infC-rpmI-rplT-pheST-ihfA
+NC_002488,Xylella_fastidiosa_9a5c,thrS-infC-rpmI-rplT-pheST-ihfA
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<ihfA-pheTS-rplT-rpmI-infC-thrS>
+NC_005085,Chromobacterium_violaceum_ATCC_12472,thrS-infC-rpmI-rplT-pheST-ihfA
+NC_003295,Ralstonia_solanacearum_GMI1000,thrS-infC-rpmI-rplT-pheST-ihfA
+NC_003112,Neisseria_meningitidis_MC58,thrS-infC-rpmI-rplT-pheS pheT-ihfA
+NC_002927,Bordetella_bronchiseptica_RB50,rpmI-rplT-pheST-ihfA thrS-infC
+NC_002929,Bordetella_pertussis_Tohama_I,thrS-infC <ihfA-pheTS-rplT-rpmI>
+NC_002928,Bordetella_parapertussis_12822,thrS-infC rpmI-rplT-pheST-ihfA
+NC_004463,Bradyrhizobium_japonicum_USDA_110,<pheTS> <ihfA> <rplT> <infC> thrS
+NC_002696,Caulobacter_crescentus_CB15,<pheTS-rplT> ihfA <infC> thrS
+NC_003062,Agrobacterium_tumefaciens_str._C58,infC-rplT pheST ihfA <thrS>
+NC_002678,Mesorhizobium_loti_MAFF303099,<pheTS-rplT> ihfA <infC> <thrS>
+NC_003047,Sinorhizobium_meliloti_1021,infC-rplT-pheST ihfA thrS
+NC_012441,Brucella_melitensis_ATCC_23457,pheST ihfA rplT infC <thrS>
+NC_004310,Brucella_suis_1330,pheST ihfA rplT infC <thrS>
+NC_005090,Wolinella_succinogenes_DSM_1740,thrS-infC-rplT pheST ihfA
+NC_004917,Helicobacter_hepaticus_ATCC_51449,<pheTS> thrS-infC-rplT ihfA
+NC_002163,Campylobacter_jejuni_subsp._jejuni_NCTC_11168,thrS-infC <pheTS> <ihfA> rplT

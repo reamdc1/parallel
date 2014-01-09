@@ -1,0 +1,22 @@
+XC_2263
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2263	unknown	atpD	NONE	5e-32	30.81	125.0	70.7	2724865	2726242	1	Protein	409	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+XC_3006
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3006	unknown	atpD	NONE	5e-34	30.31	130.0	66.7	3601064	3602393	-1	Protein	419	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+XC_3677
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3677	atpC	atpC	NONE	1e-86	100.0	246.0	66.4	4364638	4365061	-1	Protein	140	exact	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3677	4365061
+XC_3678
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3678	unknown	atpD	NONE	0.0	65.69	591.0	63.6	4365234	4366641	-1	Protein	478	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+XC_3679
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3679	unknown	atpG	NONE	5e-38	33.78	133.0	62.6	4366763	4367627	-1	Protein	296	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230
+XC_3680
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3680	unknown	atpD	NONE	2e-16	25.84	79.0	64.9	4367739	4369287	-1	Protein	329	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+XC_3681
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3681	unknown	atpH	NONE	9e-11	35.29	55.5	67.2	4369334	4369862	-1	Protein	102	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	478494
+XC_3682
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3682	unknown	atpF	NONE	2e-45	50.0	143.0	62.0	4369865	4370336	-1	Protein	158	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4751	4963548
+XC_3683
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3683	unknown	atpE	NONE	1e-12	58.14	55.5	65.0	4370448	4370751	-1	Protein	43	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4752	4963838
+XC_3684
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3684	unknown	atpA	NONE	4e-09	25.71	53.1	60.0	4370824	4371625	-1	Protein	210	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014
+XC_3850
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3850	rho	atpA	NONE	0.0009	20.8	38.9	62.4	4548070	4549351	1	Protein	226	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122

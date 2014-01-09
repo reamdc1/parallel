@@ -1,0 +1,11 @@
+NC_004741	Shigella_flexneri_2a_str._2457T	S2080	fliI	atpA	NONE	7e-18	23.85	83.2	58.0	1993175	1994549	1	Protein	327	BLAST	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3911	3772787	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3903	rho	atpD	NONE	0.0002	23.94	40.0	50.2	3797052	3798312	-1	Protein	188	BLAST	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3949	atpI	atpI	NONE	4e-57	100.0	174.0	52.0	3843585	3843966	1	Protein	126	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3949	3843966	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3950	atpB	atpB	NONE	0.0	100.0	501.0	49.9	3843974	3844790	1	Protein	271	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3950	3844790	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3951	atpE	atpE	NONE	3e-28	100.0	97.1	54.2	3844836	3845076	1	Protein	79	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3951	3845076	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3952	atpF	atpF	NONE	7e-88	99.36	254.0	52.7	3845137	3845608	1	Protein	156	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3952	3845608	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3953	atpH	atpH	NONE	8e-128	100.0	358.0	51.3	3845622	3846156	1	Protein	177	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3953	3846156	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3954	atpA	atpA	NONE	0.0	100.0	1001.0	53.4	3846168	3847710	1	Protein	513	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3954	3847710	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3955	atpG	atpG	NONE	0.0	100.0	563.0	53.5	3847760	3848624	1	Protein	287	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3955	3848624	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3956	atpD	atpD	NONE	0.0	100.0	894.0	55.0	3848650	3850033	1	Protein	460	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3956	3850033	NONE
+NC_004741	Shigella_flexneri_2a_str._2457T	S3957	atpC	atpC	NONE	9e-86	100.0	248.0	55.3	3850059	3850473	1	Protein	137	exact	NC_004741	Shigella_flexneri_2a_str._2457T	S3957	3850473	NONE

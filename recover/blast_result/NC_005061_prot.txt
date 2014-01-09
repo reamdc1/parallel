@@ -1,0 +1,1249 @@
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	67.77	512	165	0	1	512	1	1536	0.0	 688
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	23.99	371	260	5	55	403	67	1125	8e-20	86.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	55.15	272	122	1	2	273	1	813	7e-98	 287
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	50.38	133	65	2	5	136	22	414	1e-38	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	74.20	469	117	2	1	465	1	1392	0.0	 669
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	27.07	351	235	9	47	376	196	1209	9e-26	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	83.33	78	13	0	1	78	1	234	3e-32	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	37.11	159	100	0	3	161	7	483	1e-23	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	48.96	288	146	1	1	287	1	864	3e-102	 300
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	30.29	175	118	1	7	177	19	543	7e-23	87.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	66.27	510	172	0	3	512	4	1533	0.0	 708
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	27.73	339	239	5	72	404	166	1125	2e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	47.55	286	150	4	2	287	10	807	1e-80	 244
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	43.37	83	47	1	4	86	13	258	4e-20	77.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	75.22	464	109	1	1	458	1	1392	0.0	 682
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.74	373	257	8	52	404	217	1308	9e-27	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	56.41	39	17	0	38	76	115	231	9e-11	49.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	33.12	154	103	0	3	156	7	468	2e-30	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	49.65	288	143	2	1	286	1	864	7e-106	 308
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	32.60	181	118	2	1	177	1	540	1e-33	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5561|atpI|6254427|6254808|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	71.04	511	148	0	1	511	1	1533	0.0	 734
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	24.75	295	217	4	114	403	295	1125	3e-18	81.6
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	23.02	126	95	3	151	274	783	427	6e-04	36.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	61.99	271	103	1	1	271	1	810	2e-112	 324
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	58.52	135	55	2	4	137	13	414	4e-48	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	78.66	464	95	2	1	460	1	1392	0.0	 723
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.71	337	227	7	55	371	220	1209	4e-25	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	87.18	78	10	0	1	78	1	234	1e-26	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	46.10	154	83	0	3	156	7	468	2e-33	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	56.94	288	123	1	1	287	1	864	4e-121	 348
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	41.38	174	98	1	7	176	19	540	3e-45	 145
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	63.19	508	187	0	1	508	1	1524	0.0	 643
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	26.37	383	277	5	59	436	130	1230	1e-29	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	39.46	294	173	6	5	293	7	810	1e-57	 184
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	47.56	82	43	1	3	84	13	255	3e-22	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	70.60	466	136	2	1	465	1	1392	0.0	 617
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.66	369	258	6	60	408	220	1299	5e-20	87.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	44.68	47	26	0	29	75	91	231	7e-10	46.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	40.85	71	40	1	3	71	7	219	2e-13	59.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	39.74	302	181	3	1	301	1	864	1e-86	 260
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	25.97	181	130	3	1	177	1	537	2e-20	80.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	62.94	510	189	0	1	510	1	1530	0.0	 644
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	28.21	312	223	2	66	376	151	1041	5e-23	96.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	44.19	267	140	4	12	269	31	810	2e-63	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	43.61	133	74	2	6	137	19	414	9e-29	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	72.33	459	121	2	5	457	10	1386	0.0	 623
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.70	332	229	4	32	342	139	1128	6e-21	90.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	48.84	43	22	0	39	81	100	228	3e-10	47.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	30.52	154	107	0	3	156	7	468	5e-20	78.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	47.12	295	155	4	1	294	1	864	5e-97	 286
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	30.94	181	121	2	1	177	1	540	3e-25	93.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	53.79	515	227	3	1	504	1	1521	0.0	 548
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	29.17	384	269	7	71	451	166	1260	8e-35	 130
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	20.35	226	177	7	151	373	783	163	6e-04	36.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	25.81	248	164	8	17	244	118	798	3e-14	65.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	27.17	92	67	1	2	93	1	273	1e-10	50.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	65.72	458	153	3	36	489	10	1362	0.0	 585
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.00	324	228	4	75	383	184	1131	5e-20	87.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00870|atpE|917774|918002|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00868|atpF|918703|919189|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	29.29	297	207	6	1	294	1	864	3e-34	 123
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	29.67	91	64	1	1	91	4	273	1e-12	56.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	71.62	511	145	0	1	511	1	1533	0.0	 743
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	62.55	267	100	1	8	274	16	810	2e-111	 322
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	58.99	139	56	2	1	138	1	414	2e-54	 166
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	78.02	464	98	1	1	460	1	1392	0.0	 721
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.71	337	227	7	55	371	220	1209	1e-25	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	87.18	78	10	0	1	78	1	234	1e-26	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	47.40	154	81	0	3	156	7	468	2e-39	 129
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	56.60	288	124	1	1	287	1	864	4e-124	 355
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	38.51	174	103	1	7	176	19	540	3e-45	 145
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	53.59	515	228	3	1	504	1	1521	0.0	 546
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	29.17	384	269	7	71	451	166	1260	5e-35	 131
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	20.80	226	176	7	151	373	783	163	2e-04	38.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	27.10	107	76	2	1	105	4	321	6e-12	54.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	66.67	468	151	4	17	479	10	1392	0.0	 595
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.00	324	228	4	55	363	184	1131	1e-19	86.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0717|atpF|717655|718141|1|Protein|NONE|60.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	29.69	293	205	4	1	292	1	864	1e-29	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	100.00	513	0	0	1	513	1	1539	0.0	1046
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	25.94	401	289	6	66	458	151	1281	6e-28	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	100.00	272	0	0	1	272	1	816	0.0	 514
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	100.00	138	0	0	1	138	1	414	6e-97	 274
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	100.00	464	0	0	1	464	1	1392	0.0	 907
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.94	401	273	6	51	427	196	1374	6e-24	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	100.00	79	0	0	1	79	1	237	7e-38	 119
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	99.38	161	1	0	1	161	1	483	2e-102	 290
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	100.00	288	0	0	1	288	1	864	0.0	 587
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	100.00	181	0	0	1	181	1	543	2e-128	 358
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	37.23	137	85	2	1	136	7	414	6e-22	82.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	65.68	507	174	0	3	509	4	1524	0.0	 703
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	27.94	340	238	6	72	404	166	1125	2e-30	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	47.77	291	147	7	2	287	10	807	7e-84	 252
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	42.17	83	48	1	2	84	13	258	1e-18	73.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	75.86	464	107	1	1	459	1	1392	0.0	 691
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.00	372	259	8	54	405	220	1308	1e-25	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	56.41	39	17	0	38	76	115	231	9e-11	49.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	33.12	154	103	0	3	156	7	468	8e-26	93.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	48.26	288	147	2	1	286	1	864	6e-92	 273
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	30.39	181	122	2	1	177	1	540	4e-32	 111
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	70.28	508	151	0	11	518	1	1524	0.0	 705
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	29.07	313	220	3	76	386	151	1041	2e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	55.56	261	112	2	11	267	25	807	8e-100	 292
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	52.52	139	65	2	1	138	1	414	7e-43	 137
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	68.58	471	144	2	1	467	1	1392	0.0	 634
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.25	381	256	10	55	410	220	1299	3e-22	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	55.22	67	30	0	10	76	31	231	3e-21	77.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	44.16	154	86	0	3	156	7	468	4e-35	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	51.56	289	139	2	1	288	1	864	7e-113	 327
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	38.07	176	105	1	5	176	13	540	6e-43	 139
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	53.85	494	217	2	1	483	1	1458	0.0	 533
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	27.86	384	274	6	71	451	166	1260	2e-32	 124
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	20.80	226	176	7	151	373	783	163	4e-04	37.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0382|atpB|392472|393222|1|Protein|NONE|55.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR0382|atpB|392472|393222|1|Protein|NONE|55.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	30.77	78	54	1	167	244	601	798	2e-06	42.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	29.90	97	67	2	1	96	4	288	4e-12	55.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	65.58	459	154	2	52	506	7	1362	0.0	 572
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.85	330	227	5	92	400	184	1131	1e-18	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0385|atpF|394325|394805|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	30.64	297	201	7	1	292	1	864	7e-36	 127
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	64.57	508	180	0	1	508	1	1524	0.0	 667
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	26.98	378	269	5	66	436	151	1230	9e-31	 119
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	40.36	280	161	6	34	307	25	810	9e-62	 196
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	51.72	87	42	0	3	89	13	273	1e-27	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	70.24	467	138	2	1	466	1	1392	0.0	 615
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	23.36	351	249	6	47	377	178	1209	8e-19	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	43.18	44	25	0	37	80	100	231	4e-08	41.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	38.24	34	21	0	3	36	7	108	6e-07	41.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	43.49	292	164	3	1	291	1	864	4e-92	 274
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	28.02	182	124	5	1	175	1	537	3e-20	79.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	71.04	511	148	0	1	511	1	1533	0.0	 735
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	24.41	295	218	4	114	403	295	1125	3e-18	81.6
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	23.02	126	95	3	151	274	783	427	6e-04	36.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	62.36	271	102	1	1	271	1	810	9e-112	 322
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	58.52	135	55	2	4	137	13	414	3e-48	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	78.66	464	95	2	1	460	1	1392	0.0	 722
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.71	337	227	7	55	371	220	1209	4e-25	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	87.18	78	10	0	1	78	1	234	1e-26	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	47.40	154	81	0	3	156	7	468	8e-36	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	56.60	288	124	1	1	287	1	864	4e-124	 355
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	43.10	174	95	1	7	176	19	540	3e-47	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3906|atpI|3768664|3769045|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	62.99	508	188	0	1	508	1	1524	0.0	 640
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	26.37	383	277	5	59	436	130	1230	2e-29	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	39.46	294	173	6	5	293	7	810	1e-57	 184
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	47.56	82	43	1	3	84	13	255	3e-22	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	70.60	466	136	2	1	465	1	1392	0.0	 619
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.73	372	260	6	60	411	220	1308	2e-20	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	44.68	47	26	0	29	75	91	231	7e-10	46.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	40.85	71	40	1	3	71	7	219	2e-13	59.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	39.74	302	181	3	1	301	1	864	1e-86	 260
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	25.97	181	130	3	1	177	1	537	2e-20	80.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	64.76	508	179	0	1	508	1	1524	0.0	 686
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	27.94	315	223	4	66	376	151	1041	4e-25	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	45.36	280	142	6	2	270	13	801	8e-74	 225
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	45.56	90	49	1	1	90	7	270	6e-22	82.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	71.13	471	129	3	1	464	1	1392	0.0	 648
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.00	344	237	6	53	375	220	1209	5e-24	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	53.49	43	20	0	37	79	100	228	8e-13	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	28.24	131	94	0	1	131	64	456	2e-14	61.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	40.07	292	171	4	1	288	1	864	7e-83	 250
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	71.04	511	148	0	1	511	1	1533	0.0	 735
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	24.41	295	218	4	114	403	295	1125	3e-18	81.6
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	23.02	126	95	3	151	274	783	427	6e-04	36.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	62.36	271	102	1	1	271	1	810	9e-112	 322
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	58.52	135	55	2	4	137	13	414	3e-48	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	78.66	464	95	2	1	460	1	1392	0.0	 722
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.71	337	227	7	55	371	220	1209	4e-25	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	87.18	78	10	0	1	78	1	234	1e-26	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	47.40	154	81	0	3	156	7	468	8e-36	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	57.29	288	122	1	1	287	1	864	1e-126	 362
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	43.10	174	95	1	7	176	19	540	3e-47	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3872|atpI|4080175|4080556|-1|Protein|NONE|51.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	54.84	496	213	1	17	501	43	1530	0.0	 536
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	26.59	346	250	4	84	425	199	1224	2e-27	 109
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	23.30	176	130	7	153	323	783	292	5e-04	36.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	28.02	207	124	7	38	219	187	798	8e-13	60.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	32.35	102	69	2	6	107	22	312	4e-12	55.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	62.99	462	170	2	3	463	10	1392	0.0	 552
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	23.82	382	271	7	45	406	184	1299	2e-22	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0593|atpE|571784|572096|-1|Protein|NONE|39.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0424|atpF|408933|409359|1|Protein|NONE|31.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	28.81	295	208	3	4	296	7	864	2e-41	 142
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0426|atpH|409883|410408|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	63.19	508	187	0	1	508	1	1524	0.0	 674
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	28.89	315	220	3	66	376	151	1041	3e-28	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	40.48	289	168	8	1	285	1	801	3e-60	 191
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	44.83	87	48	1	5	91	19	273	2e-21	81.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	71.70	470	127	3	1	464	1	1392	0.0	 634
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.73	376	263	7	52	407	217	1299	4e-24	99.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	44.68	47	26	0	25	71	88	228	1e-09	46.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	25.32	154	115	0	3	156	7	468	2e-09	48.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	39.38	292	176	3	1	291	1	864	2e-76	 233
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	70.78	510	149	0	1	510	1	1530	0.0	 719
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	46.84	269	127	5	2	254	10	792	4e-79	 239
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	49.63	135	67	2	3	136	13	414	1e-41	 134
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	75.76	462	105	2	1	455	1	1386	0.0	 691
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.11	337	229	7	52	368	220	1209	1e-26	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	51.95	77	36	1	1	76	1	231	3e-20	74.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	36.36	154	98	0	3	156	7	468	6e-24	88.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	50.52	291	142	3	1	289	1	864	1e-108	 316
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	39.23	181	106	1	1	177	1	543	2e-43	 141
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	56.05	512	214	1	1	501	1	1536	0.0	 583
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	27.15	453	310	10	29	461	10	1320	3e-31	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	32.80	125	77	3	102	219	424	798	2e-14	65.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	28.42	95	68	1	16	110	49	330	7e-10	48.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	64.36	463	163	3	3	463	10	1392	0.0	 564
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	23.12	385	276	8	45	409	184	1308	1e-21	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0103|atpF|110437|110950|1|Protein|NONE|25.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	27.96	279	198	3	1	276	1	813	1e-31	 116
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0104|atpH|110952|111474|1|Protein|NONE|21.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	63.19	508	187	0	1	508	1	1524	0.0	 643
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	26.37	383	277	5	59	436	130	1230	1e-29	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	39.46	294	173	6	5	293	7	810	1e-57	 184
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	47.56	82	43	1	3	84	13	255	3e-22	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	70.60	466	136	2	1	465	1	1392	0.0	 617
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.66	369	258	6	60	408	220	1299	5e-20	87.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	44.68	47	26	0	29	75	91	231	7e-10	46.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	40.85	71	40	1	3	71	7	219	2e-13	59.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	39.74	302	181	3	1	301	1	864	2e-86	 259
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	25.97	181	130	3	1	177	1	537	2e-20	80.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	38.27	81	49	2	6	85	19	255	1e-13	59.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	71.04	511	148	0	1	511	1	1533	0.0	 734
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	24.75	295	217	4	114	403	295	1125	3e-18	81.6
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	23.02	126	95	3	151	274	783	427	6e-04	36.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	61.99	271	103	1	1	271	1	810	3e-112	 324
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	58.52	135	55	2	2	135	13	414	4e-48	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	78.66	464	95	2	1	460	1	1392	0.0	 723
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.71	337	227	7	55	371	220	1209	4e-25	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	87.18	78	10	0	1	78	1	234	1e-26	90.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	46.10	154	83	0	3	156	7	468	2e-33	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	56.94	288	123	1	1	287	1	864	4e-121	 348
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	41.38	174	98	1	7	176	19	540	1e-44	 144
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3949|atpI|3843585|3843966|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	54.07	135	61	2	5	138	13	414	6e-43	 137
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	66.21	506	171	0	5	510	7	1524	0.0	 694
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	24.06	424	294	7	40	435	16	1221	1e-23	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	36.62	284	162	6	1	266	1	801	3e-61	 193
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	39.86	138	81	3	1	136	7	414	2e-23	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	71.95	467	125	3	1	461	1	1383	0.0	 632
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.40	311	216	4	53	347	220	1128	5e-21	90.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	52.27	44	21	0	41	84	100	231	1e-10	49.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	30.07	153	105	2	6	156	16	468	1e-16	68.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	46.21	290	153	4	1	287	1	864	3e-98	 289
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	27.93	179	123	2	1	173	1	537	4e-20	79.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	65.48	507	175	0	3	509	4	1524	0.0	 697
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	27.73	339	239	5	72	404	166	1125	1e-28	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	46.90	290	150	6	2	287	10	807	7e-80	 242
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	43.37	83	47	1	4	86	13	258	7e-19	74.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	74.14	464	114	1	1	458	1	1392	0.0	 667
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.54	372	257	8	53	404	220	1308	3e-25	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	56.41	39	17	0	38	76	115	231	9e-11	49.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	32.47	154	104	0	3	156	7	468	7e-26	94.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	49.31	288	144	2	1	286	1	864	2e-94	 280
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	31.87	182	119	3	1	177	1	540	6e-33	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5420|atpI|6181452|6181860|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	39.86	138	81	3	4	139	7	414	2e-22	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	70.59	510	150	0	1	510	1	1530	0.0	 715
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	45.72	269	133	3	1	256	4	792	8e-78	 235
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	49.62	133	66	2	5	136	19	414	8e-37	 121
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	73.92	464	114	2	1	457	1	1392	0.0	 682
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.71	337	227	7	52	368	220	1209	3e-27	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	58.33	48	20	0	29	76	88	231	3e-13	56.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	34.42	154	101	0	3	156	7	468	1e-23	87.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	51.38	290	140	2	1	289	1	864	1e-109	 318
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	37.02	181	110	1	1	177	1	543	2e-37	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	54.05	494	216	2	1	483	1	1458	0.0	 533
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	28.12	384	273	6	71	451	166	1260	3e-33	 126
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005061|Bfl586|rho|653429|654689|-1|Candidatus_Blochmannia_floridanus|34.1|NotEvaluated	20.80	226	176	7	151	373	783	163	4e-04	37.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0416|atpB|413492|414242|1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0416|atpB|413492|414242|1|Protein|NONE|55.7	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	30.77	78	54	1	167	244	601	798	2e-06	42.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	29.90	97	67	2	1	96	4	288	4e-12	55.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	65.58	459	154	2	52	506	7	1362	0.0	 572
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	24.85	330	227	5	92	400	184	1131	1e-18	83.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0419|atpF|415345|415825|1|Protein|NONE|56.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	30.30	297	202	7	1	292	1	864	6e-34	 122
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	69.23	507	156	0	1	507	1	1521	0.0	 721
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	50.56	267	119	3	11	264	25	810	4e-78	 236
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1	ref|NC_005061|Bfl009|atpC|8459|8876|1|Candidatus_Blochmannia_floridanus|30.2|NotEvaluated	48.20	139	71	2	1	138	1	414	4e-42	 134
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	72.89	461	123	1	1	459	1	1383	0.0	 662
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	26.02	369	253	8	57	405	220	1299	2e-27	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2	ref|NC_005061|Bfl003|atpE|3180|3420|1|Candidatus_Blochmannia_floridanus|37.5|NotEvaluated	51.32	76	36	1	1	75	1	228	2e-13	56.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9	ref|NC_005061|Bfl004|atpF|3489|3975|1|Candidatus_Blochmannia_floridanus|28.2|NotEvaluated	41.56	154	90	0	3	156	7	468	3e-40	 131
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	51.74	288	137	2	1	286	1	864	4e-116	 335
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8	ref|NC_005061|Bfl005|atpH|3975|4521|1|Candidatus_Blochmannia_floridanus|24.4|NotEvaluated	37.22	180	109	1	1	176	1	540	1e-34	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9	ref|NC_005061|Bfl002|atpB|2293|3112|1|Candidatus_Blochmannia_floridanus|26.0|NotEvaluated	29.52	210	130	6	53	244	208	798	3e-12	59.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bsl1187|atpC|1303980|1304211|-1|Protein|NONE|65.4
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005061|Bfl008|atpD|7005|8400|1|Candidatus_Blochmannia_floridanus|33.3|NotEvaluated	62.71	472	171	4	6	472	10	1392	0.0	 554
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005061|Bfl006|atpA|4542|6084|1|Candidatus_Blochmannia_floridanus|31.3|NotEvaluated	25.53	329	229	5	44	356	184	1131	3e-20	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8	ref|NC_005061|Bfl007|atpG|6109|6976|1|Candidatus_Blochmannia_floridanus|29.0|NotEvaluated	28.43	306	203	6	1	290	1	864	4e-28	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_005061.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score

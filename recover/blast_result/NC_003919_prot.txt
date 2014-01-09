@@ -1,0 +1,1359 @@
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	66.21	506	171	0	3	508	1536	19	0.0	 666
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	26.96	408	277	7	22	408	61	1176	1e-38	 144
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	27.27	341	244	4	97	433	1047	73	5e-26	 107
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.85	369	265	8	91	443	1200	169	2e-22	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	38.10	273	164	4	5	272	792	4	8e-61	 194
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	37.40	131	82	1	2	132	417	28	8e-23	87.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	75.37	471	110	3	1	465	1407	16	0.0	 686
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.71	414	283	8	4	409	76	1263	6e-37	 139
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	32.47	308	205	6	78	382	1047	154	7e-29	 115
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	22.43	437	318	10	30	445	1386	163	9e-21	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	52.24	67	32	0	11	77	252	52	1e-10	51.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	35.26	156	101	0	1	156	471	4	2e-25	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	45.14	288	157	2	1	287	864	4	1e-98	 293
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	78.47	511	110	0	4	514	1536	4	0.0	 820
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.14	336	225	3	77	409	229	1176	9e-40	 148
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.75	363	251	6	79	437	1104	64	4e-33	 128
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.94	433	293	10	72	472	1260	34	2e-26	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	45.33	289	156	7	3	289	789	4	2e-74	 230
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	51.47	136	66	0	4	139	417	10	6e-29	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	82.76	464	74	1	1	458	1407	16	0.0	 740
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.95	391	252	7	30	402	106	1263	2e-35	 134
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	32.73	330	218	5	76	401	1047	73	2e-30	 119
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.60	374	260	7	50	401	1332	244	6e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	61.90	42	16	0	38	79	168	43	2e-13	59.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	45.51	156	85	0	1	156	471	4	6e-40	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	58.19	287	119	1	1	286	864	4	3e-128	 368
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	42.31	182	99	3	1	176	528	10	1e-36	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5561|atpI|6254427|6254808|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	73.78	511	134	0	3	513	1536	4	0.0	 743
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.54	298	204	3	114	408	343	1176	4e-33	 128
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	26.69	326	236	4	114	436	996	64	3e-28	 114
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	22.32	345	253	8	114	443	1131	169	5e-17	80.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	44.93	276	147	4	1	271	801	4	9e-73	 225
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	43.38	136	77	0	4	139	417	10	2e-30	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	80.69	466	84	3	1	460	1407	16	0.0	 726
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.07	409	278	7	4	404	76	1263	1e-36	 138
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	33.14	338	214	8	78	403	1047	73	1e-29	 117
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.62	394	277	8	30	403	1386	244	2e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	56.82	44	19	0	34	77	183	52	6e-11	52.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.15	156	84	0	1	156	471	4	3e-28	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.99	288	120	2	1	287	864	4	5e-121	 350
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	39.53	172	103	2	1	171	528	22	6e-35	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	73.19	511	137	0	3	513	1536	4	0.0	 760
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.97	377	258	4	64	434	193	1263	2e-39	 147
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.59	340	233	5	97	433	1047	73	2e-31	 123
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.97	413	283	10	53	434	1362	184	3e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	42.42	297	165	9	3	293	798	4	6e-59	 190
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	53.57	84	39	0	1	84	423	172	1e-24	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	78.77	471	94	3	1	465	1407	16	0.0	 689
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.42	364	237	6	55	409	196	1263	3e-33	 128
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.55	336	223	8	83	411	1047	64	1e-28	 115
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.66	372	264	7	57	408	1332	244	8e-19	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	64.00	50	18	0	29	78	192	43	1e-18	72.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	45.51	156	85	0	1	156	471	4	5e-26	96.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	50.50	303	148	3	1	301	864	4	1e-108	 318
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	35.39	178	115	2	1	178	528	7	9e-25	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	71.82	511	144	0	3	513	1536	4	0.0	 752
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.70	404	278	6	11	408	19	1176	2e-34	 132
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.39	347	238	6	97	436	1047	64	4e-30	 119
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	26.20	313	224	3	71	376	1260	367	7e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	46.86	271	142	5	1	269	801	4	4e-78	 238
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	47.45	137	72	1	1	137	423	16	5e-33	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	80.52	462	84	1	4	459	1401	16	0.0	 706
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.85	412	276	8	5	403	76	1263	2e-35	 134
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.46	348	236	7	61	402	1095	73	2e-25	 105
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	25.48	310	213	4	51	342	1332	415	1e-20	91.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	61.70	47	18	0	39	85	183	43	1e-15	65.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	47.44	156	82	0	1	156	471	4	2e-39	 131
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	54.73	296	132	2	1	294	864	4	1e-122	 354
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	32.95	176	118	1	1	176	528	10	5e-33	 116
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	57.89	513	205	3	3	504	1536	22	0.0	 588
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.95	338	227	4	97	431	292	1263	2e-42	 155
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.09	341	228	6	97	430	1047	73	9e-36	 136
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.87	390	284	7	71	451	1260	148	4e-25	 105
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_003919|XAC3831|rho|4505457|4506738|1|Xanthomonas_axonopodis_pv._citri_str._306|62.4|NONE	20.80	226	176	8	151	373	502	1122	0.001	38.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	24.24	198	131	3	7	185	765	172	8e-12	60.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	30.56	108	75	0	6	113	417	94	2e-11	55.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	66.74	460	147	3	36	489	1398	46	0.0	 595
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.33	416	286	9	36	443	76	1263	1e-35	 135
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.57	386	258	11	67	442	1173	73	1e-29	 118
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.57	403	285	7	62	445	1386	235	1e-21	95.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00870|atpE|917774|918002|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00868|atpF|918703|919189|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	34.80	296	191	5	1	294	864	4	4e-40	 141
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	28.48	158	113	3	13	170	510	52	5e-10	53.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	33.71	89	59	0	5	93	414	148	1e-12	59.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	74.36	511	131	0	3	513	1536	4	0.0	 741
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.44	299	202	3	113	408	340	1176	1e-34	 133
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	27.61	326	233	4	114	436	996	64	2e-29	 117
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.19	345	250	8	114	443	1131	169	1e-18	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	44.64	280	146	5	4	274	798	4	4e-67	 210
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	44.12	136	76	0	5	140	417	10	1e-33	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	79.83	466	88	2	1	460	1407	16	0.0	 722
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.83	409	279	6	4	404	76	1263	7e-39	 144
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.74	334	220	7	78	403	1047	73	3e-29	 116
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	25.00	396	275	8	30	403	1386	244	4e-23	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	56.82	44	19	0	34	77	183	52	6e-11	52.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.79	156	83	0	1	156	471	4	4e-33	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.64	288	121	2	1	287	864	4	5e-126	 362
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	40.35	171	102	1	1	171	528	22	5e-35	 121
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	57.09	515	210	3	6	509	1527	7	0.0	 585
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.45	339	225	5	97	431	292	1263	4e-42	 154
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.50	341	230	6	97	430	1047	73	2e-34	 132
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.87	390	284	7	71	451	1260	148	2e-25	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	34.04	94	62	0	4	97	417	136	1e-13	62.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	66.88	474	150	4	17	483	1398	4	0.0	 611
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.36	354	239	6	74	423	244	1263	1e-34	 132
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.80	396	268	11	37	422	1203	73	1e-27	 112
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.79	433	306	9	17	425	1458	235	6e-21	92.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0717|atpF|717655|718141|1|Protein|NONE|60.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	35.62	292	188	3	1	292	864	4	8e-39	 137
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	35.23	88	57	0	81	168	315	52	3e-09	51.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	66.21	506	171	0	3	508	1536	19	0.0	 720
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.56	320	216	3	92	408	277	1176	5e-42	 154
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	27.11	343	247	4	97	436	1047	64	2e-31	 123
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	26.37	311	221	6	74	376	1251	367	3e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	37.82	275	163	5	1	267	801	4	9e-58	 186
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	39.86	138	81	3	3	138	423	16	2e-27	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	71.73	467	126	2	1	461	1407	25	0.0	 656
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.17	411	281	10	4	408	76	1263	5e-35	 133
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	32.94	337	215	9	82	407	1047	73	7e-29	 115
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.06	424	300	7	6	407	1431	244	2e-22	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	52.27	44	21	0	34	77	183	52	4e-10	50.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	32.62	141	95	0	1	141	471	49	1e-16	71.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	46.21	290	154	4	1	288	864	4	2e-97	 289
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	27.93	179	129	2	1	179	528	10	3e-19	79.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	92.86	140	10	0	1	140	423	4	7e-80	 233
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	77.89	511	113	0	4	514	1536	4	0.0	 810
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.56	320	216	3	93	409	277	1176	4e-36	 137
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.94	344	237	6	98	437	1047	64	1e-32	 127
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.56	433	299	10	72	472	1260	34	6e-25	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	45.96	285	154	6	5	289	783	4	1e-70	 220
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	57.83	83	35	0	2	84	417	169	8e-27	97.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	81.08	465	82	2	1	459	1407	16	0.0	 724
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.41	408	280	7	4	403	76	1263	2e-37	 140
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.82	330	221	5	77	402	1047	73	9e-30	 117
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.61	377	266	7	51	405	1332	235	6e-23	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	61.90	42	16	0	38	79	168	43	2e-13	59.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	44.87	156	86	0	1	156	471	4	8e-32	 111
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	56.45	287	124	1	1	286	864	4	7e-115	 334
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	41.81	177	102	2	1	176	528	10	3e-36	 124
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	75.15	511	127	0	13	523	1536	4	0.0	 752
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.68	358	235	5	36	387	67	1083	2e-39	 147
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.60	281	195	4	107	387	1047	250	4e-29	 117
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	27.07	314	221	6	81	386	1260	367	2e-25	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	47.08	274	135	6	5	268	795	7	2e-78	 239
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	41.04	134	79	0	5	138	417	16	1e-27	99.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	75.69	473	109	3	1	467	1407	16	0.0	 696
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	28.07	424	289	7	4	411	76	1263	5e-32	 124
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	32.08	346	225	8	78	413	1047	64	8e-27	 109
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.56	382	272	8	52	413	1332	235	7e-22	95.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	57.33	75	32	0	4	78	270	46	5e-18	71.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.79	156	83	0	1	156	471	4	4e-39	 130
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	56.75	289	124	2	1	288	864	4	2e-125	 360
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	35.43	175	113	1	1	175	528	10	2e-29	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	59.27	491	189	3	6	485	1527	79	0.0	 573
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.66	338	228	4	97	431	292	1263	3e-41	 152
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.55	347	228	7	97	430	1047	73	5e-36	 137
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.59	370	270	6	71	431	1260	184	9e-25	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0382|atpB|392472|393222|1|Protein|NONE|55.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	66.96	460	146	3	53	506	1398	46	0.0	 589
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.23	354	243	6	111	460	244	1263	3e-33	 129
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.47	340	226	8	127	459	1047	73	3e-30	 120
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	26.54	324	223	3	92	400	1359	412	8e-21	92.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0385|atpF|394325|394805|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	35.57	298	186	7	1	292	864	4	9e-42	 145
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	25.95	158	117	2	11	168	510	52	3e-09	51.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	75.15	511	127	0	3	513	1536	4	0.0	 786
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	28.67	436	299	7	11	434	19	1263	2e-39	 147
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.88	340	232	5	97	433	1047	73	4e-34	 131
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.54	436	311	11	71	488	1260	40	3e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	46.95	279	145	8	32	307	783	4	2e-70	 220
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	54.24	118	53	1	1	117	423	70	1e-33	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	79.24	472	92	3	1	466	1407	16	0.0	 693
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.42	364	237	6	56	410	196	1263	4e-34	 130
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.55	336	223	8	84	412	1047	64	4e-28	 113
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.65	353	245	8	46	377	1368	334	1e-18	85.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	64.00	50	18	0	37	86	183	34	8e-17	68.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.15	156	84	0	1	156	471	4	2e-22	86.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.34	293	123	3	1	291	864	4	5e-123	 355
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	33.90	177	115	3	1	175	528	10	3e-26	98.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	72.99	511	138	0	3	513	1536	4	0.0	 737
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.54	298	204	3	114	408	343	1176	3e-33	 128
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	26.69	326	236	4	114	436	996	64	3e-28	 114
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	22.90	345	251	8	114	443	1131	169	4e-18	84.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	44.57	276	148	4	1	271	801	4	2e-72	 224
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	42.65	136	78	0	4	139	417	10	1e-29	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	80.47	466	85	3	1	460	1407	16	0.0	 724
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.07	409	278	7	4	404	76	1263	7e-37	 139
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	33.14	338	214	8	78	403	1047	73	1e-29	 117
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.49	396	277	8	30	403	1386	244	2e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	56.82	44	19	0	34	77	183	52	6e-11	52.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.79	156	83	0	1	156	471	4	1e-29	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.29	288	122	2	1	287	864	4	1e-125	 361
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	39.53	172	103	2	1	171	528	22	3e-36	 124
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3906|atpI|3768664|3769045|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	73.19	511	137	0	3	513	1536	4	0.0	 755
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.97	377	258	4	64	434	193	1263	3e-38	 143
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.59	340	233	5	97	433	1047	73	3e-30	 120
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.97	413	283	10	53	434	1362	184	4e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	42.42	297	165	9	3	293	798	4	6e-59	 190
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	53.57	84	39	0	1	84	423	172	1e-24	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	78.56	471	95	3	1	465	1407	16	0.0	 687
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.42	364	237	6	55	409	196	1263	3e-33	 128
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.25	336	224	8	83	411	1047	64	8e-28	 112
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.73	375	266	7	57	411	1332	235	3e-19	87.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	64.00	50	18	0	29	78	192	43	1e-18	72.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	45.51	156	85	0	1	156	471	4	2e-27	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	50.50	303	148	3	1	301	864	4	1e-108	 319
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	35.39	178	115	2	1	178	528	7	9e-25	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	72.99	511	138	0	3	513	1536	4	0.0	 767
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.44	411	282	5	6	408	7	1176	8e-39	 145
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.07	344	237	6	97	433	1047	73	4e-33	 128
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.92	313	228	4	71	376	1260	367	4e-23	99.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	39.93	288	154	7	2	270	789	4	2e-61	 196
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	46.67	90	48	1	1	90	423	157	4e-24	90.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	82.58	465	81	0	1	465	1407	13	0.0	 757
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.68	414	278	9	4	408	76	1263	7e-38	 142
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.78	343	226	9	76	410	1047	64	1e-28	 114
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.54	378	269	7	50	407	1332	244	5e-22	96.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	65.22	46	16	0	37	82	183	46	3e-16	67.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	43.94	132	74	0	4	135	399	4	2e-27	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.29	288	123	1	1	288	864	4	2e-121	 351
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	35.39	178	115	1	1	178	528	4	3e-34	 119
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	72.99	511	138	0	3	513	1536	4	0.0	 737
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.54	298	204	3	114	408	343	1176	3e-33	 128
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	26.69	326	236	4	114	436	996	64	3e-28	 114
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	22.90	345	251	8	114	443	1131	169	4e-18	84.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	44.57	276	148	4	1	271	801	4	2e-72	 224
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	42.65	136	78	0	4	139	417	10	1e-29	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	80.47	466	85	3	1	460	1407	16	0.0	 724
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.07	409	278	7	4	404	76	1263	7e-37	 139
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	33.14	338	214	8	78	403	1047	73	1e-29	 117
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.49	396	277	8	30	403	1386	244	2e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	56.82	44	19	0	34	77	183	52	6e-11	52.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.79	156	83	0	1	156	471	4	1e-29	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.64	288	121	2	1	287	864	4	6e-127	 365
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	39.53	172	103	2	1	171	528	22	3e-36	 124
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3872|atpI|4080175|4080556|-1|Protein|NONE|51.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	57.89	494	197	2	17	499	1500	19	0.0	 571
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.26	341	228	3	88	425	259	1263	4e-43	 157
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.61	329	222	4	99	424	1047	73	6e-36	 136
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.04	382	270	7	94	451	1197	76	4e-26	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	28.37	208	123	8	45	226	615	4	4e-09	52.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	64.96	468	158	3	2	463	1401	16	0.0	 574
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.71	350	233	8	64	407	244	1263	3e-37	 140
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.43	333	229	6	80	406	1047	73	3e-27	 110
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.24	425	303	8	40	445	1374	157	3e-25	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0593|atpE|571784|572096|-1|Protein|NONE|39.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0424|atpF|408933|409359|1|Protein|NONE|31.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	28.76	299	210	6	1	296	864	4	5e-41	 144
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0426|atpH|409883|410408|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	72.02	511	143	0	3	513	1536	4	0.0	 767
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.20	411	283	5	6	408	7	1176	2e-37	 141
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.94	344	234	8	97	433	1047	73	3e-31	 122
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	25.88	313	225	5	71	376	1260	367	2e-25	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	45.52	290	156	7	1	288	801	4	6e-67	 210
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	42.86	91	52	1	1	91	423	154	3e-21	82.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	83.01	465	79	0	1	465	1407	13	0.0	 736
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.43	414	279	9	4	408	76	1263	2e-33	 129
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.78	343	226	9	76	410	1047	64	2e-28	 114
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.34	377	270	7	50	407	1332	244	1e-20	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	63.46	52	19	0	25	76	195	40	2e-17	70.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	45.51	156	85	0	1	156	471	4	1e-28	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	49.15	293	147	2	1	291	864	4	2e-100	 297
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	32.20	177	120	2	1	177	528	4	2e-25	95.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	71.82	511	144	0	3	513	1536	4	0.0	 716
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.77	299	204	3	113	408	340	1176	3e-32	 125
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	27.86	323	230	4	114	433	996	73	4e-26	 108
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.41	346	250	8	113	443	1134	169	2e-18	85.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	46.62	266	135	4	1	259	801	7	5e-80	 243
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	40.29	139	83	0	1	139	423	7	7e-29	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	82.33	464	75	2	1	457	1407	16	0.0	 736
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.30	406	275	7	4	401	76	1263	2e-38	 143
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.02	332	223	5	75	400	1047	73	5e-28	 112
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.33	374	261	7	49	400	1332	244	4e-23	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	54.67	75	34	0	4	78	270	46	5e-17	68.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	36.54	156	99	0	1	156	471	4	2e-20	81.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	53.77	292	132	3	1	289	864	4	3e-116	 337
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	37.08	178	109	2	1	175	528	10	5e-29	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	58.53	504	198	2	7	499	1524	13	0.0	 607
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	28.54	403	280	5	29	423	76	1263	7e-40	 148
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.48	351	236	5	80	422	1098	73	2e-35	 135
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.72	392	285	7	66	443	1275	148	7e-28	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	34.03	144	80	7	98	226	426	4	3e-09	53.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	66.67	468	150	3	2	463	1401	16	0.0	 588
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.60	348	241	5	64	407	244	1263	5e-33	 127
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.97	337	226	9	80	406	1047	73	4e-26	 107
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	22.86	420	305	9	45	445	1359	157	8e-17	80.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0103|atpF|110437|110950|1|Protein|NONE|25.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	33.81	278	182	3	1	276	864	55	5e-42	 146
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0104|atpH|110952|111474|1|Protein|NONE|21.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	73.19	511	137	0	3	513	1536	4	0.0	 760
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.97	377	258	4	64	434	193	1263	2e-39	 147
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.59	340	233	5	97	433	1047	73	2e-31	 123
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.97	413	283	10	53	434	1362	184	3e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	42.42	297	165	9	3	293	798	4	6e-59	 190
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	53.57	84	39	0	1	84	423	172	1e-24	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	78.77	471	94	3	1	465	1407	16	0.0	 689
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.42	364	237	6	55	409	196	1263	3e-33	 128
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.55	336	223	8	83	411	1047	64	1e-28	 115
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.66	372	264	7	57	408	1332	244	8e-19	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	64.00	50	18	0	29	78	192	43	1e-18	72.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	45.51	156	85	0	1	156	471	4	5e-26	96.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	50.50	303	148	3	1	301	864	4	2e-108	 318
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	35.39	178	115	2	1	178	528	7	9e-25	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	29.52	105	74	0	2	106	423	109	7e-09	48.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	73.78	511	134	0	3	513	1536	4	0.0	 743
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.54	298	204	3	114	408	343	1176	4e-33	 128
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	26.69	326	236	4	114	436	996	64	3e-28	 114
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	22.32	345	253	8	114	443	1131	169	5e-17	80.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	44.57	276	148	4	1	271	801	4	2e-72	 224
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	43.38	136	77	0	2	137	417	10	2e-30	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	80.69	466	84	3	1	460	1407	16	0.0	 726
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.07	409	278	7	4	404	76	1263	1e-36	 138
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	33.14	338	214	8	78	403	1047	73	1e-29	 117
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.62	394	277	8	30	403	1386	244	2e-23	 100
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	56.82	44	19	0	34	77	183	52	6e-11	52.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	46.15	156	84	0	1	156	471	4	3e-28	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.99	288	120	2	1	287	864	4	5e-121	 350
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	38.95	172	104	2	1	171	528	22	9e-35	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3949|atpI|3843585|3843966|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	40.30	134	80	0	5	138	417	16	4e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	100.00	515	0	0	1	515	1548	4	0.0	1010
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.20	394	267	5	25	410	58	1176	1e-35	 135
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.80	349	236	9	99	438	1047	64	1e-26	 109
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.35	386	278	8	73	444	1260	172	5e-23	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	100.00	266	0	0	1	266	801	4	2e-179	 496
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	100.00	140	0	0	1	140	423	4	4e-86	 249
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	100.00	468	0	0	1	468	1407	4	0.0	 897
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.36	415	279	10	4	408	76	1263	6e-34	 130
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.49	390	266	10	30	410	1182	64	1e-26	 109
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.34	377	270	7	50	407	1332	244	8e-19	86.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	100.00	100	0	0	1	100	303	4	1e-44	 140
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	100.00	156	0	0	1	156	471	4	3e-94	 271
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	100.00	287	0	0	1	287	864	4	0.0	 591
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	100.00	175	0	0	1	175	528	4	2e-122	 344
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	78.86	511	108	0	4	514	1536	4	0.0	 812
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	32.39	318	214	3	93	409	277	1176	5e-35	 134
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	29.07	344	240	6	98	437	1047	64	7e-30	 119
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.57	407	285	9	72	456	1260	112	3e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	43.90	287	161	5	3	289	789	4	2e-66	 209
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	50.37	135	67	0	4	138	417	13	2e-29	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	81.90	464	78	1	1	458	1407	16	0.0	 729
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.40	398	260	6	22	402	82	1263	1e-35	 135
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.61	329	222	4	76	401	1047	73	3e-30	 119
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.27	375	264	7	50	404	1332	235	4e-23	99.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	61.90	42	16	0	38	79	168	43	2e-13	59.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	44.87	156	86	0	1	156	471	4	4e-32	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	57.14	287	122	1	1	286	864	4	2e-115	 335
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	41.57	178	102	3	1	176	528	10	2e-34	 119
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5420|atpI|6181452|6181860|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	84.29	140	22	0	4	143	423	4	2e-74	 219
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	70.65	511	150	0	3	513	1536	4	0.0	 704
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.77	299	204	3	113	408	340	1176	1e-30	 121
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	27.61	326	233	5	114	436	996	64	5e-26	 107
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	23.48	345	249	10	114	443	1131	169	3e-17	81.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	44.57	267	142	4	1	261	801	7	6e-72	 223
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	44.44	108	60	0	1	108	423	100	2e-24	91.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	81.03	464	81	2	1	457	1407	16	0.0	 730
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.56	406	278	7	4	401	76	1263	2e-37	 140
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.33	332	222	5	75	400	1047	73	5e-29	 115
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	23.87	377	265	7	49	403	1332	235	6e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	64.00	50	18	0	29	78	195	46	8e-17	68.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	37.18	156	98	0	1	156	471	4	2e-21	84.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	53.79	290	133	2	1	289	864	4	4e-118	 342
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	33.71	178	115	2	1	175	528	10	3e-29	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	59.71	489	186	3	6	483	1527	85	0.0	 575
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	31.95	338	227	4	97	431	292	1263	8e-42	 154
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.20	343	227	6	97	430	1047	73	1e-36	 139
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.86	370	269	6	71	431	1260	184	2e-25	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0416|atpB|413492|414242|1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	66.96	460	146	3	53	506	1398	46	0.0	 589
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.23	354	243	6	111	460	244	1263	3e-33	 129
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.47	340	226	8	127	459	1047	73	3e-30	 120
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	26.54	324	223	3	92	400	1359	412	8e-21	92.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0419|atpF|415345|415825|1|Protein|NONE|56.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	35.57	298	186	7	1	292	864	4	1e-41	 145
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	33.72	86	57	0	83	168	309	52	5e-09	50.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	76.52	511	120	0	3	513	1536	4	0.0	 766
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.43	299	205	3	113	408	340	1176	2e-34	 132
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	27.83	327	232	5	114	436	996	64	3e-26	 108
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	24.35	271	197	4	114	376	1131	367	5e-17	80.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	48.30	265	132	2	5	264	795	4	2e-75	 231
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1	ref|NC_003919|XAC3648|atpC|4327085|4327508|-1|Xanthomonas_axonopodis_pv._citri_str._306|65.0|NONE	41.91	136	79	0	5	140	417	10	4e-32	 111
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	81.80	467	79	2	1	461	1407	19	0.0	 739
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	29.78	413	273	7	30	425	106	1320	3e-37	 140
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	30.77	351	237	6	64	408	1095	64	3e-28	 114
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	24.26	371	262	6	54	405	1332	244	1e-23	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2	ref|NC_003919|XAC3654|atpE|4332889|4333192|-1|Xanthomonas_axonopodis_pv._citri_str._306|66.0|NONE	58.14	43	18	0	38	80	168	40	4e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9	ref|NC_003919|XAC3653|atpF|4332305|4332776|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.7|NONE	50.00	158	77	2	1	156	471	4	3e-43	 141
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	58.19	287	119	1	1	286	864	4	2e-127	 365
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	36.57	175	111	1	1	175	528	10	1e-25	96.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9	ref|NC_003919|XAC3655|atpB|4333264|4334065|-1|Xanthomonas_axonopodis_pv._citri_str._306|59.9|NONE	26.19	210	137	4	53	244	615	16	9e-10	55.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bsl1187|atpC|1303980|1304211|-1|Protein|NONE|65.4
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_003919|XAC3649|atpD|4327651|4329058|-1|Xanthomonas_axonopodis_pv._citri_str._306|63.5|NONE	65.90	478	156	4	6	476	1398	4	0.0	 589
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_003919|XAC0412|hrcN|481703|483032|1|Xanthomonas_axonopodis_pv._citri_str._306|67.2|NONE	30.73	358	244	6	63	416	244	1263	2e-32	 125
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_003919|XAC1951|fliI|2281328|2282705|-1|Xanthomonas_axonopodis_pv._citri_str._306|70.3|NONE	31.50	346	231	8	79	418	1047	64	1e-29	 117
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_003919|XAC3651|atpA|4330179|4331727|-1|Xanthomonas_axonopodis_pv._citri_str._306|64.7|NONE	25.84	329	228	4	44	356	1359	412	2e-16	78.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8	ref|NC_003919|XAC3650|atpG|4329202|4330066|-1|Xanthomonas_axonopodis_pv._citri_str._306|60.6|NONE	33.78	296	190	6	1	290	864	4	2e-36	 131
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_003919.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5	ref|NC_003919|XAC3652|atpH|4331774|4332302|-1|Xanthomonas_axonopodis_pv._citri_str._306|67.8|NONE	38.00	100	62	0	83	182	309	10	3e-13	62.4

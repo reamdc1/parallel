@@ -1,0 +1,11 @@
+NC_002947	Pseudomonas_putida_KT2440	PP_4366	fliI	atpA	NONE	2e-23	23.51	100.0	64.7	4955379	4956735	-1	Protein	336	BLAST	NC_004741	Shigella_flexneri_2a_str._2457T	S3954	3847710	NONE
+NC_002947	Pseudomonas_putida_KT2440	PP_5214	rho	atpA	NONE	0.0002	22.66	41.2	59.1	5947204	5948464	-1	Protein	384	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122	NONE
+NC_002947	Pseudomonas_putida_KT2440	PP_5412	atpC	atpC	NONE	2e-69	100.0	207.0	60.2	6174746	6175166	-1	Protein	139	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5412	6175166	islandpath_dimob
+NC_002947	Pseudomonas_putida_KT2440	PP_5413	atpD	atpD	NONE	0.0	100.0	887.0	58.5	6175209	6176586	-1	Protein	458	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5413	6176586	islandpath_dimob
+NC_002947	Pseudomonas_putida_KT2440	PP_5414	atpG	atpG	NONE	0.0	100.0	561.0	56.9	6176613	6177474	-1	Protein	286	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5414	6177474	islandpath_dimob
+NC_002947	Pseudomonas_putida_KT2440	PP_5415	atpA	atpA	NONE	0.0	100.0	1023.0	58.2	6177522	6179067	-1	Protein	514	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5415	6179067	islandpath_dimob
+NC_002947	Pseudomonas_putida_KT2440	PP_5416	atpH	atpH	NONE	4e-127	100.0	356.0	58.3	6179088	6179625	-1	Protein	178	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5416	6179625	islandpath_dimob
+NC_002947	Pseudomonas_putida_KT2440	PP_5417	atpF	atpF	NONE	4e-96	99.36	276.0	55.0	6179637	6180108	-1	Protein	156	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5417	6180108	NONE
+NC_002947	Pseudomonas_putida_KT2440	PP_5418	atpE	atpE	NONE	3e-27	100.0	95.5	55.8	6180164	6180422	-1	Protein	48	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5418	6180422	NONE
+NC_002947	Pseudomonas_putida_KT2440	PP_5419	atpB	atpB	NONE	0.0	100.0	545.0	58.3	6180566	6181436	-1	Protein	289	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5419	6181436	NONE
+NC_002947	Pseudomonas_putida_KT2440	PP_5420	atpI	atpI	NONE	2e-75	100.0	222.0	54.7	6181452	6181860	-1	Protein	135	exact	NC_002947	Pseudomonas_putida_KT2440	PP_5420	6181860	NONE

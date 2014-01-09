@@ -1,0 +1,18 @@
+HI0295
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0295	rho	atpD	NONE	0.0008	23.08	37.4	40.2	329033	330296	1	Protein	195	BLAST	NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1849	1746460
+HI0478
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0478	atpC	atpC	NONE	2e-101	100.0	283.0	36.6	499814	500243	-1	Protein	142	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0478	500243
+HI0479
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0479	atpD	atpD	NONE	0.0	100.0	890.0	40.0	500272	501646	-1	Protein	457	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0479	501646
+HI0480
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0480	atpG	atpG	NONE	0.0	100.0	597.0	37.2	501662	502532	-1	Protein	289	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0480	502532
+HI0481
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0481	atpA	atpA	NONE	0.0	100.0	979.0	39.9	502547	504089	-1	Protein	513	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0481	504089
+HI0482
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0482	atpH	atpH	NONE	2e-118	100.0	328.0	39.3	504101	504635	-1	Protein	177	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0482	504635
+HI0483
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0483	atpF	atpF	NONE	4e-77	99.36	222.0	38.2	504647	505118	-1	Protein	156	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0483	505118
+HI0484
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0484	atpE	atpE	NONE	2e-53	100.0	157.0	36.1	505167	505422	-1	Protein	84	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0484	505422
+HI0485
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0485	atpB	atpB	NONE	0.0	100.0	529.0	35.7	505477	506266	-1	Protein	262	exact	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0485	506266

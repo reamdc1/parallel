@@ -1,0 +1,51 @@
+astCADBE	astA:p	astB:p	astC:p	astD:p	astE:p
+atpIBEFHAGDC	atpI:p	atpH:p	atpC:p	atpB:p	atpA:p	atpG:p	atpF:p	atpE:p	atpD:p
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	hlpA:p	dnaE:p	rnhB:p	lpxA:p	lpxB:p	lpxD:p	bamA:p	fabZ:p
+caiTABCDE	caiE:p	caiD:p	caiC:p	caiB:p	caiA:p	caiT:p
+casABCDE12	casE:p	casD:p	casA:p	casC:p	casB:p	cas1:p	cas2:p
+cysPUWAM	cysM:p	cysU:p	cysW:p	cysA:p	cysP:p
+dicB-ydfDE-insD-intQ	ydfE:p	intQ:p	dicB:p	insD:p	ydfD:p
+dppABCDF	dppA:p	dppB:p	dppC:p	dppD:p	dppF:p
+fecABCDE	fecD:p	fecE:p	fecB:p	fecC:p	fecA:p
+fucPIKUR	fucU:p	fucR:p	fucK:p	fucP:p	fucI:p
+gatYZABCD	gatY:p	gatZ:p	gatD:p	gatA:p	gatB:p	gatC:p
+gcl-hyi-glxR-ybbW-allB-ybbY-glxK	ybbY:p	allB:p	glxK:p	ybbW:p	hyi:p	gcl:p	glxR:p
+glcDEFGBA	glcD:p	glcE:p	glcF:p	glcG:p	glcA:p	glcB:p
+glgBXCAP	glgP:p	glgA:p	glgB:p	glgC:p	glgX:p
+hcaEFCBD	hcaD:p	hcaE:p	hcaF:p	hcaB:p	hcaC:p
+hisLGDCBHAFI	hisD:p	hisF:p	hisG:p	hisA:p	hisB:p	hisC:p	hisL:p	hisH:p	hisI:p
+hyaABCDEF	hyaB:p	hyaC:p	hyaA:p	hyaF:p	hyaD:p	hyaE:p
+hycABCDEFGHI	hycD:p	hycE:p	hycF:p	hycG:p	hycA:p	hycB:p	hycC:p	hycH:p	hycI:p
+hyfABCDEFGHIJR-focB	hyfJ:p	hyfI:p	hyfH:p	hyfC:p	hyfB:p	hyfA:p	hyfG:p	hyfF:p	hyfE:p	hyfD:p	hyfR:p	focB:p
+hypABCDE-fhlA	fhlA:p	hypE:p	hypD:p	hypA:p	hypC:p	hypB:p
+ivbL-ilvBN-uhpABC	ilvN:p	ivbL:p	uhpC:p	uhpB:p	uhpA:p	ilvB:p
+leuLABCD	leuL:p	leuD:p	leuB:p	leuC:p	leuA:p
+livKHMGF	livG:p	livF:p	livM:p	livK:p	livH:p
+lptD-surA-pdxA-rsmA-apaGH	rsmA:p	apaH:p	surA:p	lptD:p	pdxA:p	apaG:p
+lsrACDBFG-tam	lsrA:p	lsrC:p	lsrB:p	lsrD:p	lsrG:p	lsrF:p	tam:p
+mdtABCD-baeSR	mdtC:p	mdtB:p	mdtA:p	baeR:p	baeS:p	mdtD:p
+menFDHBCE	menH:p	menD:p	menE:p	menF:p	menB:p	menC:p
+nsrR-rnr-rlmB-yjfIJ	yjfJ:p	rnr:p	yjfI:p	nsrR:p	rlmB:p
+nuoABCEFGHIJKLMN	nuoB:p	nuoC:p	nuoA:p	nuoF:p	nuoG:p	nuoE:p	nuoJ:p	nuoK:p	nuoH:p	nuoI:p	nuoN:p	nuoL:p	nuoM:p
+oppABCDF	oppA:p	oppC:p	oppB:p	oppD:p	oppF:p
+paaABCDEFGHIJK	paaB:p	paaC:p	paaA:p	paaF:p	paaG:p	paaD:p	paaE:p	paaJ:p	paaK:p	paaH:p	paaI:p
+pspABCDE	pspE:p	pspD:p	pspC:p	pspB:p	pspA:p
+pstSCAB-phoU	pstC:p	pstB:p	pstA:p	phoU:p	pstS:p
+rbsDACBKR	rbsK:p	rbsR:p	rbsA:p	rbsC:p	rbsB:p	rbsD:p
+rnc-era-recO-pdxJ-acpS	rnc:p	pdxJ:p	recO:p	era:p	acpS:p
+rplKAJL-rpoBC	rpoC:p	rpoB:p	rplL:p	rplJ:p	rplK:p	rplA:p
+sdhCDAB-sucABCD	sucA:p	sucC:p	sucB:p	sucD:p	sdhA:p	sdhC:p	sdhB:p	sdhD:p
+srlAEBD-gutM-srlR-gutQ	srlB:p	srlA:p	gutM:p	srlE:p	srlD:p	gutQ:p	srlR:p
+ssuEADCB	ssuE:p	ssuD:p	ssuA:p	ssuC:p	ssuB:p
+tdcABCDEFG	tdcE:p	tdcD:p	tdcG:p	tdcF:p	tdcA:p	tdcC:p	tdcB:p
+thiCEFSGH	thiS:p	thiH:p	thiC:p	thiG:p	thiF:p	thiE:p
+thrS-infC-rpmI-rplT-pheMST-ihfA	pheS:p	rpmI:p	pheT:p	ihfA:p	rplT:p	infC:p	thrS:p	pheM:p
+trpLEDCBA	trpL:p	trpB:p	trpC:p	trpA:p	trpD:p	trpE:p
+ulaABCDEF	ulaD:p	ulaE:p	ulaF:p	ulaA:p	ulaB:p	ulaC:p
+waaQGPSBIJYZU	waaS:p	waaB:p	waaQ:p	waaP:p	waaG:p	waaU:p	waaZ:p	waaJ:p	waaI:p	waaY:p
+ybgIJKL-nei	ybgI:p	ybgJ:p	ybgK:p	ybgL:p	nei:p
+yceD-rpmF-plsX-fabHDG-acpP-fabF	fabD:p	fabG:p	fabF:p	acpP:p	yceD:p	plsX:p	fabH:p	rpmF:p
+ydgK-rsxABCDGE-nth	rsxA:p	nth:p	rsxC:p	rsxB:p	rsxE:p	rsxD:p	rsxG:p	ydgK:p
+ydhYVWXUT	ydhY:p	ydhX:p	ydhW:p	ydhV:p	ydhU:p	ydhT:p
+yiaKLMNO-lyxK-sgbHUE	lyxK:p	sgbH:p	sgbU:p	sgbE:p	yiaK:p	yiaM:p	yiaL:p	yiaO:p	yiaN:p
+yrbG-kdsDC-lptCAB-rpoN-hpf-ptsN-yhbJ-npr	lptA:p	hpf:p	yhbJ:p	kdsC:p	kdsD:p	ptsN:p	yrbG:p	lptC:p	rpoN:p	lptB:p	npr:p

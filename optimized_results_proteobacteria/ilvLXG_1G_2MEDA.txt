@@ -1,0 +1,117 @@
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3902	ilvM	ilvM	ECK3761:JW3742	3e-43	93.1	166.0	49.24	4110615	4110879	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3903	ilvE	ilvE	ECK3762:JW5606	0.0	98.05	629.0	54.52	4110896	4111826	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3904	ilvD	ilvD	ECK3763:JW5605	0.0	95.94	1229.0	57.48	4111986	4113837	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3905	ilvA	ilvA	ECK3764:JW3745	0.0	95.53	980.0	57.28	4113839	4115384	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ilvMEDA 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_001495	unknown	ilvA	ECK3764:JW3745	0.0	70.63	710.0	52.32	533585	535118	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_001496	unknown	ilvD	ECK3763:JW5605	0.0	83.28	1073.0	54.72	535121	536963	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.759,eval_thresh:16.588
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_001497	unknown	ilvE	ECK3762:JW5606	3e-137	71.66	481.0	53.65	536972	537932	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.759,eval_thresh:16.588
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_001498	ilvM	ilvM	ECK3761:JW3742	1e-07	38.96	47.4	45.61	537922	538207	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvADEM> 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1028	unknown	ilvA	ECK3764:JW3745	0.0	71.12	723.0	52.88	1029732	1031262	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1029	unknown	ilvD	ECK3763:JW5605	0.0	85.39	1100.0	54.02	1031265	1033107	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:23.537,eval_thresh:17.937
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1030	unknown	ilvE	ECK3762:JW5606	7e-138	71.66	483.0	51.76	1033119	1034058	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:23.537,eval_thresh:17.937
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1031	ilvM	ilvM	ECK3761:JW3742	1e-08	32.47	50.8	44.21	1034069	1034354	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvADEM> 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0849	cysK_2	ilvA	ECK3764:JW3745	1e-05	27.62	44.3	39.42	825489	826392	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0850	unknown	ilvD	ECK3763:JW5605	9e-154	48.27	536.0	46.07	826489	828208	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.182,eval_thresh:15.867
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0451	ilvE	ilvE	ECK3762:JW5606	2e-64	40.71	238.0	39.23	429232	430165	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ilvAD > <ilvE> 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	ilvA,1	ilvD,1	ilvE,1
+
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3652	ilvA	ilvA	ECK3764:JW3745	0.0	95.33	979.0	57.61	3508198	3509743	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3653	ilvD	ilvD	ECK3763:JW5605	0.0	95.29	1222.0	57.64	3509745	3511596	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3654	ilvE	ilvE	ECK3762:JW5606	0.0	98.05	629.0	54.73	3511752	3512682	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3655	ilvM	ilvM	ECK3761:JW3742	1e-42	93.02	164.0	49.04	3512699	3512960	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvADEM> 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP3059	ilvM	ilvM	ECK3761:JW3742	4e-09	33.77	52.4	45.61	3266803	3267088	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP3060	unknown	ilvE	ECK3762:JW5606	6e-136	70.36	476.0	49.95	3267100	3268039	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.863,eval_thresh:11.978
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP3061	unknown	ilvD	ECK3763:JW5605	0.0	84.74	1099.0	50.81	3268053	3269895	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.863,eval_thresh:11.978
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP3062	unknown	ilvA	ECK3764:JW3745	0.0	68.93	716.0	49.94	3269897	3271445	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.863,eval_thresh:11.978
+++	ilvMEDA 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_004347	Shewanella_oneidensis_MR-1	SO_4344	ilvA	ilvA	ECK3764:JW3745	3e-172	58.21	598.0	52.81	4535655	4537293	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.245,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_4345	ilvD	ilvD	ECK3763:JW5605	0.0	79.74	1011.0	55.7	4537294	4539154	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.245,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_4346	ilvM	ilvM	ECK3761:JW3742	9e-13	39.76	65.1	45.21	4539232	4539493	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.245,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_0340	ilvE	ilvE	ECK3762:JW5606	1e-28	32.13	120.0	48.63	340327	341419	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvADM> ilvE 
+$$	NC_004347	Shewanella_oneidensis_MR-1	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_002488	Xylella_fastidiosa_9a5c	XF1819	unknown	ilvA	ECK3764:JW3745	8e-31	36.33	127.0	55.38	1734198	1735341	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1820	unknown	ilvM	ECK3761:JW3742	0.0001	29.33	37.4	55.28	1735368	1735614	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1999	unknown	ilvE	ECK3762:JW5606	5e-26	31.69	110.0	55.1	1912153	1913242	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0099	unknown	ilvD	ECK3763:JW5605	0.0	73.01	925.0	54.83	96230	98063	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvAM> <ilvE> <ilvD> 
+$$	NC_002488	Xylella_fastidiosa_9a5c	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl589	ilvA	ilvA	ECK3764:JW3745	0.0	70.48	719.0	34.3	657098	658643	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.056,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl590	ilvD	ilvD	ECK3763:JW5605	0.0	70.23	917.0	35.6	658681	660538	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.056,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl591	ilvE	ilvE	ECK3762:JW5606	3e-127	65.57	445.0	31.93	660616	661540	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.056,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl592	ilvM	ilvM	ECK3761:JW3742	4e-16	44.16	73.6	27.85	661610	661847	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.056,eval_thresh:10.825
+++	<ilvADEM> 
+$$	NC_005061	Candidatus_Blochmannia_floridanus	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0838	unknown	ilvA	ECK3764:JW3745	1e-30	39.86	128.0	67.01	1008798	1009974	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0839	unknown	ilvM	ECK3761:JW3742	2e-05	33.33	40.8	68.6	1009992	1010250	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3380	unknown	ilvE	ECK3762:JW5606	4e-30	32.81	125.0	67.77	4030568	4031654	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_0356	unknown	ilvD	ECK3763:JW5605	0.0	72.45	916.0	64.82	415080	416919	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvAM> <ilvE> <ilvD> 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3769	ilvM	ilvM	ECK3761:JW3742	1e-46	100.0	177.0	49.24	3950223	3950487	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3770	ilvE	ilvE	ECK3762:JW5606	0.0	100.0	642.0	54.95	3950506	3951436	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3771	ilvD	ilvD	ECK3763:JW5605	0.0	100.0	1268.0	56.35	3951500	3953351	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3772	ilvA	ilvA	ECK3764:JW3745	0.0	100.0	1024.0	58.77	3953353	3954898	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4669	ilvX	ilvX	ECK4484	0.0008	100.0	35.0	37.25	3948529	3948580	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ilvMEDA ilvX 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	ilvA,1	ilvD,1	ilvE,1	ilvM,1	ilvX,1
+
+NC_003143	Yersinia_pestis_CO92	YPO3896	ilvA	ilvA	ECK3764:JW3745	0.0	84.63	871.0	53.66	4368514	4370059	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.083,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO3897	ilvD	ilvD	ECK3763:JW5605	0.0	87.5	1117.0	53.05	4370064	4371915	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.083,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO3899	ilvE	ilvE	ECK3762:JW5606	3e-171	91.5	594.0	51.56	4372225	4373152	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.083,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO3900	ilvM	ilvM	ECK3761:JW3742	1e-27	67.82	114.0	49.22	4373174	4373432	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.083,eval_thresh:9.147
+++	<ilvADEM> 
+$$	NC_003143	Yersinia_pestis_CO92	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1624	ilvA	ilvA	ECK3764:JW3745	0.0	69.82	717.0	43.77	1833710	1835252	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1625	ilvD	ilvD	ECK3763:JW5605	0.0	80.29	1033.0	47.22	1835361	1837197	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0566	ivlE	ilvE	ECK3762:JW5606	8e-33	32.51	133.0	42.33	650808	651831	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1627	ilvM	ilvM	ECK3761:JW3742	3e-14	48.57	69.3	41.13	1838167	1838398	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvAD> <ilvE> <ilvM> 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2735	ilvA	ilvA	ECK3764:JW3745	8e-28	34.1	118.0	61.74	2730630	2731605	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu2736	ilvD	ilvD	ECK3763:JW5605	7e-46	29.8	178.0	62.41	2731729	2733514	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0871	ilvE	ilvE	ECK3762:JW5606	1e-27	30.28	116.0	61.68	867116	867998	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvAD> ilvE 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	ilvA,1	ilvD,1	ilvE,1
+
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0130	ILVD	ilvD	ECK3763:JW5605	1e-154	46.28	539.0	52.74	130536	132216	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0132	ILVA	ilvA	ECK3764:JW3745	4e-51	34.38	195.0	51.73	132655	133867	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0092	ILVE	ilvE	ECK3762:JW5606	3e-68	43.69	251.0	50.54	89949	90867	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ilvDA <ilvE> 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	ilvA,1	ilvD,1	ilvE,1
+
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0737	unknown	ilvM	ECK3761:JW3742	2e-06	42.11	42.7	43.48	791771	792569	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0738	ilvD	ilvD	ECK3763:JW5605	0.0	77.69	1012.0	43.45	792640	794479	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.283,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0738.1	ilvA	ilvA	ECK3764:JW3745	0.0	66.93	671.0	40.92	794558	796100	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.283,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1193	ilvE	ilvE	ECK3762:JW5606	1e-25	29.57	108.0	43.41	1258602	1259634	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ilvMDA <ilvE> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+
+NC_004741	Shigella_flexneri_2a_str._2457T	S3912	ilvA	ilvA	ECK3764:JW3745	0.0	99.61	1020.0	58.64	3806975	3808520	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3913	ilvD	ilvD	ECK3763:JW5605	0.0	99.51	1260.0	56.46	3808522	3810373	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3914	ilvE	ilvE	ECK3762:JW5606	0.0	99.68	642.0	54.41	3810437	3811367	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3915	ilvM	ilvM	ECK3761:JW3742	5e-46	100.0	175.0	49.43	3811386	3811647	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ilvADEM> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	ilvA,1	ilvD,1	ilvE,1	ilvM,1
+

@@ -1,0 +1,20 @@
+BUAP5A_002
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_002	atpB	atpA	NONE	6e-10	26.76	52.8	27.8	2277	3102	1	Protein	213	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014
+BUAP5A_003
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_003	atpE	atpE	NONE	2e-15	55.26	59.7	36.2	3138	3378	1	Protein	76	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4752	4963838
+BUAP5A_004
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_004	atpF	atpF	NONE	3e-39	37.82	125.0	25.7	3496	3982	1	Protein	156	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4751	4963548
+BUAP5A_005
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_005	atpH	atpH	NONE	1e-27	30.68	97.4	21.5	3981	4515	1	Protein	176	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4750	4963061
+BUAP5A_006
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_006	atpA	atpD	NONE	1e-21	25.23	92.0	30.6	4529	6068	1	Protein	329	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+BUAP5A_007
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_007	atpG	atpG	NONE	2e-33	30.38	118.0	29.0	6100	6973	1	Protein	293	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230
+BUAP5A_008
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	atpD	atpD	NONE	0.0	100.0	909.0	33.4	6996	8394	1	Protein	465	exact	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394
+BUAP5A_009
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_009	atpC	atpC	NONE	6e-43	49.26	134.0	27.1	8420	8837	1	Protein	136	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4746	4958597
+BUAP5A_075
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_075	fliI	atpD	NONE	1e-22	27.33	95.1	29.7	80317	81721	1	Protein	344	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+BUAP5A_588
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_588	rho	atpD	NONE	0.0008	21.76	35.8	34.1	627634	628894	-1	Protein	193	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2622	2606171

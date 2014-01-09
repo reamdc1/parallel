@@ -1,0 +1,11 @@
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2263	unknown	atpD	NONE	3e-28	30.9	113.0	70.7	2724865	2726242	1	Protein	343	BLAST	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0479	501646	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3006	unknown	atpA	NONE	1e-31	30.43	123.0	66.7	3601064	3602393	-1	Protein	299	BLAST	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0481	504089	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3677	atpC	atpC	NONE	6e-85	100.0	246.0	66.4	4364638	4365061	-1	Protein	140	exact	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3677	4365061	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3678	unknown	atpD	NONE	0.0	83.23	739.0	63.6	4365234	4366641	-1	Protein	465	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1934	2033514	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3679	unknown	atpG	NONE	1e-101	49.83	300.0	62.6	4366763	4367627	-1	Protein	293	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1935	2034427	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3680	unknown	atpA	NONE	0.0	71.62	714.0	64.9	4367739	4369287	-1	Protein	511	BLAST	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0481	504089	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3681	unknown	atpH	NONE	0.0001	24.82	38.1	67.2	4369334	4369862	-1	Protein	137	BLAST	NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0426	410408	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3682	unknown	atpF	NONE	3e-28	46.15	102.0	62.0	4369865	4370336	-1	Protein	156	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1938	2037018	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3683	unknown	atpE	NONE	2e-17	63.46	70.1	65.0	4370448	4370751	-1	Protein	52	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1939	2037325	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3684	unknown	atpB	NONE	2e-67	45.52	212.0	60.0	4370824	4371625	-1	Protein	290	BLAST	NC_003112	Neisseria_meningitidis_MC58	NMB1940	2038248	NONE
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3850	rho	atpA	NONE	0.0009	20.8	38.9	62.4	4548070	4549351	1	Protein	226	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122	NONE

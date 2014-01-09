@@ -1,0 +1,11 @@
+NC_002928	Bordetella_parapertussis_12822	BPP1507	fliI	atpA	NONE	7e-28	29.03	113.0	71.3	1614176	1615652	-1	Protein	341	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP1877	rho	atpA	NONE	0.0007	21.83	38.9	62.5	2008367	2009624	-1	Protein	229	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP2231	bscN	atpA	NONE	2e-39	31.36	147.0	62.9	2375861	2377196	1	Protein	354	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4134	atpC	atpC	papG:uncC	5e-60	100.0	182.0	68.3	4469753	4470176	-1	Protein	140	exact	NC_002928	Bordetella_parapertussis_12822	BPP4134	4470176	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4135	atpD	atpD	papB:uncD	0.0	100.0	882.0	64.7	4470185	4471586	-1	Protein	466	exact	NC_002928	Bordetella_parapertussis_12822	BPP4135	4471586	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4136	atpG	atpG	papC:uncG	0.0	100.0	615.0	61.1	4471628	4472534	-1	Protein	301	exact	NC_002928	Bordetella_parapertussis_12822	BPP4136	4472534	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4137	atpA	atpA	papA:uncA	0.0	100.0	1003.0	64.1	4472632	4474174	-1	Protein	513	exact	NC_002928	Bordetella_parapertussis_12822	BPP4137	4474174	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4138	atpH	atpH	papE:uncH	4e-126	100.0	353.0	63.3	4474208	4474748	-1	Protein	179	exact	NC_002928	Bordetella_parapertussis_12822	BPP4138	4474748	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4139	atpF	atpF	papF:uncF	8e-77	99.36	227.0	62.6	4474760	4475231	-1	Protein	156	exact	NC_002928	Bordetella_parapertussis_12822	BPP4139	4475231	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4140	atpE	atpE	NONE	6e-33	100.0	109.0	60.1	4475368	4475611	-1	Protein	80	exact	NC_002928	Bordetella_parapertussis_12822	BPP4140	4475611	NONE
+NC_002928	Bordetella_parapertussis_12822	BPP4141	atpB	atpB	papD:uncB	0.0	100.0	530.0	61.5	4475727	4476609	-1	Protein	293	exact	NC_002928	Bordetella_parapertussis_12822	BPP4141	4476609	NONE

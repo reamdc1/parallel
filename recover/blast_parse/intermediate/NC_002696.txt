@@ -1,0 +1,12 @@
+NC_002696	Caulobacter_crescentus_CB15	CC_0365	unknown	atpB	NONE	4e-15	47.2	67.0	68.4	387575	388085	-1	Protein	161	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_0366	unknown	atpB	NONE	1e-09	35.0	52.4	69.3	388095	388629	-1	Protein	60	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_0367	unknown	atpE	NONE	6e-16	58.62	65.1	62.7	388755	388980	-1	Protein	58	BLAST	NC_004310	Brucella_suis_1330	BR0383	393517	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_0368	unknown	atpB	papD:uncB	2e-07	24.39	48.5	63.9	389029	389791	-1	Protein	287	BLAST	NC_002927	Bordetella_bronchiseptica_RB50	BB4611	4911975	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_0369	unknown	atpI	NONE	1e-05	37.5	39.3	66.1	389796	390177	-1	Protein	80	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc00872	916877	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3040	fliI	atpD	NONE	1e-20	28.48	90.9	69.6	3256824	3258159	1	Protein	302	BLAST	NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0206	241955	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3445	unknown	atpC	papG:uncC	3e-12	35.29	57.0	67.0	3688026	3688287	-1	Protein	85	BLAST	NC_002927	Bordetella_bronchiseptica_RB50	BB4604	4905542	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3447	unknown	atpD	NONE	0.0	65.88	548.0	67.3	3688537	3690157	-1	Protein	466	BLAST	NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0206	241955	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3448	unknown	atpG	ECK3726:JW3711:papC:uncG	3e-46	34.93	157.0	67.2	3690204	3691080	-1	Protein	292	BLAST	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3733	3916288	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3449	unknown	atpD	NONE	5e-27	26.5	110.0	66.1	3691114	3692647	-1	Protein	366	BLAST	NC_002516	Pseudomonas_aeruginosa_PAO1	PA5554	6249654	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3450	unknown	atpH	NONE	1e-11	32.35	57.4	66.7	3692699	3693254	-1	Protein	170	BLAST	NC_002516	Pseudomonas_aeruginosa_PAO1	PA5557	6252695	NONE
+NC_002696	Caulobacter_crescentus_CB15	CC_3760	rho	atpD	ECK3725:JW3710:papB:uncD	0.0007	22.67	38.5	64.5	4012450	4013896	-1	Protein	247	BLAST	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3732	3915398	NONE

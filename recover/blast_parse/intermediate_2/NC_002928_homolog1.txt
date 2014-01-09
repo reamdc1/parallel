@@ -1,0 +1,22 @@
+BPP1507
+NC_002928	Bordetella_parapertussis_12822	BPP1507	fliI	atpD	NONE	6e-25	30.26	104.0	71.3	1614176	1615652	-1	Protein	347	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+BPP1877
+NC_002928	Bordetella_parapertussis_12822	BPP1877	rho	atpA	NONE	0.0007	21.83	38.9	62.5	2008367	2009624	-1	Protein	229	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634
+BPP2231
+NC_002928	Bordetella_parapertussis_12822	BPP2231	bscN	atpD	NONE	2e-36	31.34	137.0	62.9	2375861	2377196	1	Protein	367	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+BPP4134
+NC_002928	Bordetella_parapertussis_12822	BPP4134	atpC	atpC	papG:uncC	2e-61	100.0	182.0	68.3	4469753	4470176	-1	Protein	140	exact	NC_002928	Bordetella_parapertussis_12822	BPP4134	4470176
+BPP4135
+NC_002928	Bordetella_parapertussis_12822	BPP4135	atpD	atpD	papB:uncD	0.0	100.0	882.0	64.7	4470185	4471586	-1	Protein	466	exact	NC_002928	Bordetella_parapertussis_12822	BPP4135	4471586
+BPP4136
+NC_002928	Bordetella_parapertussis_12822	BPP4136	atpG	atpG	papC:uncG	0.0	100.0	615.0	61.1	4471628	4472534	-1	Protein	301	exact	NC_002928	Bordetella_parapertussis_12822	BPP4136	4472534
+BPP4137
+NC_002928	Bordetella_parapertussis_12822	BPP4137	atpA	atpA	papA:uncA	0.0	100.0	1003.0	64.1	4472632	4474174	-1	Protein	513	exact	NC_002928	Bordetella_parapertussis_12822	BPP4137	4474174
+BPP4138
+NC_002928	Bordetella_parapertussis_12822	BPP4138	atpH	atpH	papE:uncH	7e-128	100.0	353.0	63.3	4474208	4474748	-1	Protein	179	exact	NC_002928	Bordetella_parapertussis_12822	BPP4138	4474748
+BPP4139
+NC_002928	Bordetella_parapertussis_12822	BPP4139	atpF	atpF	papF:uncF	2e-78	99.36	227.0	62.6	4474760	4475231	-1	Protein	156	exact	NC_002928	Bordetella_parapertussis_12822	BPP4139	4475231
+BPP4140
+NC_002928	Bordetella_parapertussis_12822	BPP4140	atpE	atpE	NONE	4e-34	100.0	109.0	60.1	4475368	4475611	-1	Protein	80	exact	NC_002928	Bordetella_parapertussis_12822	BPP4140	4475611
+BPP4141
+NC_002928	Bordetella_parapertussis_12822	BPP4141	atpB	atpB	papD:uncB	0.0	100.0	530.0	61.5	4475727	4476609	-1	Protein	293	exact	NC_002928	Bordetella_parapertussis_12822	BPP4141	4476609

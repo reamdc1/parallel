@@ -1,0 +1,14 @@
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0439	atpC	atpC	NONE	5e-18	41.74	74.7	65.7	473347	473755	-1	Protein	115	BLAST	NC_003295	Ralstonia_solanacearum_GMI1000	RSc3316	3579875	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	atpD	atpD	NONE	0.0	100.0	900.0	65.7	473841	475275	-1	Protein	477	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	atpG	atpG	NONE	4e-180	100.0	501.0	65.8	475357	476230	-1	Protein	290	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0442	atpA	atpA	NONE	0.0	58.27	597.0	64.1	476404	477934	-1	Protein	520	BLAST	NC_003295	Ralstonia_solanacearum_GMI1000	RSc3319	3583886	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	atpH	atpH	NONE	1e-126	99.46	356.0	63.5	477933	478494	-1	Protein	186	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	478494	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0635	rho	atpD	NONE	0.0003	23.79	41.2	61.5	682689	683955	-1	Protein	248	BLAST	NC_004310	Brucella_suis_1330	BR1799	1727960	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	atpB	atpB	NONE	2e-90	100.0	262.0	66.3	1302863	1303349	-1	Protein	161	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1186	atpB'	atpB	NONE	4e-18	47.89	77.8	66.7	1303354	1303918	-1	Protein	71	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	atpA	atpA	NONE	5e-163	100.0	454.0	59.9	1304264	1305014	-1	Protein	249	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1816	rhcN	atpD	NONE	2e-31	27.98	124.0	61.9	1968915	1970271	1	Protein	411	BLAST	NC_004310	Brucella_suis_1330	BR1799	1727960	islandpath_dimob:sigi_hmm
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr2201	fliI	atpA	NONE	3e-25	30.55	106.0	67.0	2377130	2378456	1	Protein	275	BLAST	NC_003295	Ralstonia_solanacearum_GMI1000	RSc3319	3583886	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6885	fliI	atpA	NONE	3e-27	27.73	112.0	67.9	7576374	7577700	1	Protein	339	BLAST	NC_003295	Ralstonia_solanacearum_GMI1000	RSc3319	3583886	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	atpC	atpC	NONE	1e-15	100.0	65.1	65.4	1303980	1304211	-1	Protein	58	exact	NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	1304211	NONE
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1189	unknown	atpI	NONE	4e-13	51.79	59.7	61.1	1305125	1305323	-1	Protein	56	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	715822	NONE

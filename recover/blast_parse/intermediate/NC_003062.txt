@@ -1,0 +1,13 @@
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0557	fliI	atpD	NONE	2e-33	32.51	128.0	63.0	542612	544034	-1	Protein	323	BLAST	NC_005061	Candidatus_Blochmannia_floridanus	Bfl008	8400	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	atpI	atpI	NONE	4e-84	100.0	242.0	59.0	715456	715822	1	Protein	121	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	715822	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0714	atpA	atpB	NONE	4e-12	23.81	61.2	56.4	715882	716632	1	Protein	210	BLAST	NC_005061	Candidatus_Blochmannia_floridanus	Bfl002	3112	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0715	atpC	atpE	NONE	7e-32	91.38	105.0	61.0	716705	716933	1	Protein	58	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc00870	918002	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	atpB	atpB	NONE	9e-97	100.0	281.0	62.9	717012	717654	1	Protein	190	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0717	atpF	atpF	NONE	6e-31	100.0	108.0	60.3	717655	718141	1	Protein	161	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu0717	718141	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2045	hflK	atpF	NONE	0.0003	36.07	36.2	61.9	2004068	2005187	-1	Protein	61	BLAST	NC_002516	Pseudomonas_aeruginosa_PAO1	PA5558	6253177	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2621	atpC	atpC	NONE	8e-81	100.0	234.0	54.7	2604174	2604585	-1	Protein	136	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2621	2604585	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2622	atpD	atpD	NONE	0.0	100.0	915.0	60.4	2604716	2606171	-1	Protein	472	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2622	2606171	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2623	atpG	atpG	NONE	0.0	100.0	506.0	57.7	2606194	2607073	-1	Protein	292	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2623	2607073	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	atpA	atpA	NONE	0.0	100.0	1024.0	58.9	2607104	2608634	-1	Protein	509	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2625	atpH	atpH	NONE	3e-117	99.46	331.0	57.8	2608633	2609194	-1	Protein	186	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2625	2609194	NONE
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2833	rho	atpD	NONE	7e-06	24.72	44.7	54.8	2838346	2839612	-1	Protein	267	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2622	2606171	NONE

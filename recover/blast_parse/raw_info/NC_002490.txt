@@ -1,0 +1,1 @@
+NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7	ref|NC_002490|XFa0015|unknown|12145|13189|1|Xylella_fastidiosa_9a5c	33.33	72	33	3	33	89	703	918	1e-04	32.0

@@ -1,0 +1,22 @@
+XC_2263
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2263	unknown	atpD	NONE	3e-31	32.34	122.0	70.7	2724865	2726242	1	Protein	368	BLAST	NC_002947	Pseudomonas_putida_KT2440	PP_5413	6176586
+XC_3006
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3006	unknown	atpD	NONE	3e-35	30.19	133.0	66.7	3601064	3602393	-1	Protein	414	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3649	4329058
+XC_3677
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3677	atpC	atpC	NONE	1e-86	100.0	246.0	66.4	4364638	4365061	-1	Protein	140	exact	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3677	4365061
+XC_3678
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3678	unknown	atpD	NONE	0.0	66.52	583.0	63.6	4365234	4366641	-1	Protein	460	BLAST	NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1849	1746460
+XC_3679
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3679	unknown	atpG	NONE	3e-121	53.79	346.0	62.6	4366763	4367627	-1	Protein	290	BLAST	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1493	1685334
+XC_3680
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3680	unknown	atpD	NONE	5e-24	23.87	102.0	64.9	4367739	4369287	-1	Protein	377	BLAST	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1494	1686725
+XC_3681
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3681	unknown	atpH	uncH	5e-106	86.86	298.0	67.2	4369334	4369862	-1	Protein	175	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3652	4332302
+XC_3682
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3682	unknown	atpF	uncF	4e-92	96.79	261.0	62.0	4369865	4370336	-1	Protein	156	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3653	4332776
+XC_3683
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3683	unknown	atpE	NONE	4e-14	61.9	59.3	65.0	4370448	4370751	-1	Protein	42	BLAST	NC_002947	Pseudomonas_putida_KT2440	PP_5418	6180422
+XC_3684
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3684	unknown	atpB	papD:uncB	1e-177	96.62	487.0	60.0	4370824	4371625	-1	Protein	266	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3655	4334065
+XC_3850
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3850	rho	atpA	NONE	0.0009	20.8	38.9	62.4	4548070	4549351	1	Protein	226	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122

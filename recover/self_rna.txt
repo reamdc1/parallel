@@ -1,0 +1,254 @@
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|insD|Pseudo_Gene|ECK0358
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|insD|Pseudo_Gene|ECK0358	E.coli_K12_MG1655|NC_000913|insD|Pseudo_Gene|ECK0358	100.00	693	0	0	1	693	1	693	0.0	1374
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|intQ|Pseudo_Gene|ECK1573:JW1571
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|intQ|Pseudo_Gene|ECK1573:JW1571	E.coli_K12_MG1655|NC_000913|intQ|Pseudo_Gene|ECK1573:JW1571	100.00	1158	0	0	1	1158	1	1158	0.0	2254
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|ydfE|Pseudo_Gene|ECK1571:JW1568
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|ydfE|Pseudo_Gene|ECK1571:JW1568	E.coli_K12_MG1655|NC_000913|ydfE|Pseudo_Gene|ECK1571:JW1568	100.00	765	0	0	1	765	1	765	0.0	1516
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rnpB|ncRNA|ECK3111:JWR0070
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rnpB|ncRNA|ECK3111:JWR0070	E.coli_K12_MG1655|NC_000913|rnpB|ncRNA|ECK3111:JWR0070	100.00	377	0	0	1	377	1	377	0.0	 706
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	90.67	75	7	0	1	75	1	75	8e-23	93.7
+E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	90.67	75	7	0	1	75	1	75	8e-23	93.7
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	90.67	75	7	0	1	75	1	75	8e-23	93.7
+E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	90.67	75	7	0	1	75	1	75	8e-23	93.7
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	90.67	75	7	0	1	75	1	75	8e-23	93.7
+E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	90.67	75	7	0	1	75	1	75	8e-23	93.7
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	E.coli_K12_MG1655|NC_000913|glnV|tRNA|ECK0656:glnValpha:JWR0012:Su2:suII:supE	100.00	75	0	0	1	75	1	75	1e-39	 149
+E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	E.coli_K12_MG1655|NC_000913|glnW|tRNA|ECK0658:glnUbeta:JWR0014	90.67	75	7	0	1	75	1	75	8e-23	93.7
+E.coli_K12_MG1655|NC_000913|glnX|tRNA|ECK0655:glnVbeta:JWR0011:supE	E.coli_K12_MG1655|NC_000913|glnU|tRNA|ECK0659:glnUalpha:JWR0015:supB	90.67	75	7	0	1	75	1	75	8e-23	93.7
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|leuW|tRNA|ECK0660:feeB:JWR0016
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|leuW|tRNA|ECK0660:feeB:JWR0016	E.coli_K12_MG1655|NC_000913|leuW|tRNA|ECK0660:feeB:JWR0016	100.00	85	0	0	1	85	1	85	2e-45	 168
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|metT|tRNA|ECK0661:JWR0017:metTalpha
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|metT|tRNA|ECK0661:JWR0017:metTalpha	E.coli_K12_MG1655|NC_000913|metU|tRNA|ECK0657:JWR0013:metTbeta	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|metT|tRNA|ECK0661:JWR0017:metTalpha	E.coli_K12_MG1655|NC_000913|metT|tRNA|ECK0661:JWR0017:metTalpha	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|metU|tRNA|ECK0657:JWR0013:metTbeta
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|metU|tRNA|ECK0657:JWR0013:metTbeta	E.coli_K12_MG1655|NC_000913|metU|tRNA|ECK0657:JWR0013:metTbeta	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|metU|tRNA|ECK0657:JWR0013:metTbeta	E.coli_K12_MG1655|NC_000913|metT|tRNA|ECK0661:JWR0017:metTalpha	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|metY|tRNA|ECK3160:JWR0071
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|metY|tRNA|ECK3160:JWR0071	E.coli_K12_MG1655|NC_000913|metY|tRNA|ECK3160:JWR0071	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA	E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003	100.00	76	0	0	1	76	1	76	4e-40	 151
+E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA	E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD	100.00	76	0	0	1	76	76	1	4e-40	 151
+E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA	E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA	100.00	76	0	0	1	76	1	76	4e-40	 151
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA	E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA	E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD	100.00	77	0	0	1	77	77	1	1e-40	 153
+E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA	E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	100.00	120	0	0	1	120	1	120	4e-66	 238
+E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	98.33	120	2	0	1	120	1	120	2e-61	 222
+E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	98.33	120	2	0	1	120	120	1	2e-61	 222
+E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	99.12	113	1	0	4	116	117	5	1e-59	 216
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095	E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095	100.00	2905	0	0	1	2905	1	2905	0.0	5759
+E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095	E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004	99.62	2906	8	3	1	2905	1	2904	0.0	5650
+E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095	E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076	99.48	2906	12	3	1	2905	2904	1	0.0	5618
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092	E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092	100.00	1542	0	0	1	1542	1	1542	0.0	3057
+E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092	E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079	99.35	1542	10	0	1	1542	1542	1	0.0	2977
+E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092	E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001	99.42	1543	7	2	1	1542	1	1542	0.0	2972
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD	E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003	100.00	76	0	0	1	76	76	1	4e-40	 151
+E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD	E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD	100.00	76	0	0	1	76	1	76	4e-40	 151
+E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD	E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA	100.00	76	0	0	1	76	76	1	4e-40	 151
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD	E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002	100.00	77	0	0	1	77	77	1	1e-40	 153
+E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD	E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD	E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA	100.00	77	0	0	1	77	77	1	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	100.00	120	0	0	1	120	120	1	4e-66	 238
+E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	100.00	120	0	0	1	120	1	120	4e-66	 238
+E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	98.33	120	2	0	1	120	120	1	2e-61	 222
+E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	99.12	113	1	0	5	117	5	117	1e-59	 216
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	100.00	120	0	0	1	120	1	120	4e-66	 238
+E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	99.12	113	1	0	5	117	116	4	1e-59	 216
+E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	99.12	113	1	0	5	117	5	117	1e-59	 216
+E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	99.12	113	1	0	5	117	116	4	1e-59	 216
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076	E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076	100.00	2904	0	0	1	2904	1	2904	0.0	5757
+E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076	E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004	99.52	2904	14	0	1	2904	2904	1	0.0	5646
+E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076	E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095	99.48	2906	12	3	1	2904	2905	1	0.0	5618
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079	E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079	100.00	1542	0	0	1	1542	1	1542	0.0	3057
+E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079	E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092	99.35	1542	10	0	1	1542	1542	1	0.0	2977
+E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079	E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001	98.90	1543	15	2	1	1542	1542	1	0.0	2908
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|thrV|tRNA|ECK3260:JWR0074
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|thrV|tRNA|ECK3260:JWR0074	E.coli_K12_MG1655|NC_000913|thrV|tRNA|ECK3260:JWR0074	100.00	76	0	0	1	76	1	76	4e-40	 151
+E.coli_K12_MG1655|NC_000913|thrV|tRNA|ECK3260:JWR0074	E.coli_K12_MG1655|NC_000913|thrT|tRNA|ECK3970:JWR0106	92.11	76	6	0	1	76	76	1	8e-26	 103
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003	E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003	100.00	76	0	0	1	76	1	76	4e-40	 151
+E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003	E.coli_K12_MG1655|NC_000913|alaU|tRNA|ECK3263:JWR0077:talD	100.00	76	0	0	1	76	76	1	4e-40	 151
+E.coli_K12_MG1655|NC_000913|alaV|tRNA|ECK0203:JWR0003	E.coli_K12_MG1655|NC_000913|alaT|tRNA|ECK3845:JWR0094:talA	100.00	76	0	0	1	76	1	76	4e-40	 151
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002	E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002	E.coli_K12_MG1655|NC_000913|ileU|tRNA|ECK3264:JWR0078:tilD	100.00	77	0	0	1	77	77	1	1e-40	 153
+E.coli_K12_MG1655|NC_000913|ileV|tRNA|ECK0202:JWR0002	E.coli_K12_MG1655|NC_000913|ileT|tRNA|ECK3844:JWR0093:tilA	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	100.00	120	0	0	1	120	1	120	4e-66	 238
+E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	E.coli_K12_MG1655|NC_000913|rrfD|rRNA|ECK3261:JWR0075	100.00	120	0	0	1	120	120	1	4e-66	 238
+E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	E.coli_K12_MG1655|NC_000913|rrfA|rRNA|ECK3847:JWR0096	98.33	120	2	0	1	120	1	120	2e-61	 222
+E.coli_K12_MG1655|NC_000913|rrfH|rRNA|ECK0205:JWR0005	E.coli_K12_MG1655|NC_000913|rrfF|rRNA|ECK3259:JWR0073:rrfDbeta:rrvD	99.12	113	1	0	4	116	117	5	1e-59	 216
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004	E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004	100.00	2904	0	0	1	2904	1	2904	0.0	5757
+E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004	E.coli_K12_MG1655|NC_000913|rrlA|rRNA|ECK3846:JWR0095	99.62	2906	8	3	1	2904	1	2905	0.0	5650
+E.coli_K12_MG1655|NC_000913|rrlH|rRNA|ECK0204:JWR0004	E.coli_K12_MG1655|NC_000913|rrlD|rRNA|ECK3262:JWR0076	99.52	2904	14	0	1	2904	2904	1	0.0	5646
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001	E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001	100.00	1542	0	0	1	1542	1	1542	0.0	3057
+E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001	E.coli_K12_MG1655|NC_000913|rrsA|rRNA|ECK3843:JWR0092	99.42	1543	7	2	1	1542	1	1542	0.0	2972
+E.coli_K12_MG1655|NC_000913|rrsH|rRNA|ECK0201:JWR0001	E.coli_K12_MG1655|NC_000913|rrsD|rRNA|ECK3265:JWR0079	98.90	1543	15	2	1	1542	1542	1	0.0	2908
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	E.coli_K12_MG1655|NC_000913|argY|tRNA|argVbeta:ECK2688:JWR0059	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	E.coli_K12_MG1655|NC_000913|argV|tRNA|argValpha:ECK2689:JWR0060	100.00	77	0	0	1	77	1	77	1e-40	 153
+E.coli_K12_MG1655|NC_000913|argZ|tRNA|argVgamma:ECK2687:JWR0058	E.coli_K12_MG1655|NC_000913|argQ|tRNA|argVdelta:ECK2686:JWR0057	100.00	77	0	0	1	77	1	77	1e-40	 153
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|serV|tRNA|ECK2690:JWR0061:supD
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|serV|tRNA|ECK2690:JWR0061:supD	E.coli_K12_MG1655|NC_000913|serV|tRNA|ECK2690:JWR0061:supD	100.00	93	0	0	1	93	1	93	3e-50	 184
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|glyT|tRNA|ECK3969:JWR0105:sumA:sup15B:supA36
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|glyT|tRNA|ECK3969:JWR0105:sumA:sup15B:supA36	E.coli_K12_MG1655|NC_000913|glyT|tRNA|ECK3969:JWR0105:sumA:sup15B:supA36	100.00	75	0	0	1	75	1	75	1e-39	 149
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|thrT|tRNA|ECK3970:JWR0106
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|thrT|tRNA|ECK3970:JWR0106	E.coli_K12_MG1655|NC_000913|thrT|tRNA|ECK3970:JWR0106	100.00	76	0	0	1	76	1	76	4e-40	 151
+E.coli_K12_MG1655|NC_000913|thrT|tRNA|ECK3970:JWR0106	E.coli_K12_MG1655|NC_000913|thrV|tRNA|ECK3260:JWR0074	92.11	76	6	0	1	76	76	1	8e-26	 103
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|thrU|tRNA|ECK3967:JWR0103
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|thrU|tRNA|ECK3967:JWR0103	E.coli_K12_MG1655|NC_000913|thrU|tRNA|ECK3967:JWR0103	100.00	76	0	0	1	76	1	76	4e-40	 151
+# BLASTN 2.2.26 [Sep-21-2011]
+# Query: E.coli_K12_MG1655|NC_000913|tyrU|tRNA|ECK3968:JWR0213:supM:supZ
+# Database: ./recover/operon_rna_query.fa
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+E.coli_K12_MG1655|NC_000913|tyrU|tRNA|ECK3968:JWR0213:supM:supZ	E.coli_K12_MG1655|NC_000913|tyrU|tRNA|ECK3968:JWR0213:supM:supZ	100.00	85	0	0	1	85	1	85	2e-45	 168

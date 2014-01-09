@@ -1,0 +1,32 @@
+ivbL-ilvBN-uhpABC
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,<uhpCCBA-ilvNB-ivbL>
+NC_004741,Shigella_flexneri_2a_str._2457T,<uhpCCBA-ilvNB-ivbL>
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,ilvBN uhpABCC
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,ilvBN <uhpCCBA>
+NC_003143,Yersinia_pestis_CO92,ilvBN <uhpC> <uhpB> <uhpA>
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,<ilvNB> <uhpCBAC>
+NC_004459,Vibrio_vulnificus_CMCP6,<ilvNB> uhpBA
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,ilvBN <uhpAB> <uhpC>
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),<ilvNB>
+NC_000907,Haemophilus_influenzae_Rd_KW20,<ilvNB> uhpC <uhpA>
+NC_004347,Shewanella_oneidensis_MR-1,<uhpAB> <ilvNB>
+NC_002516,Pseudomonas_aeruginosa_PAO1,<uhpCB> A <ilvNB>
+NC_002947,Pseudomonas_putida_KT2440,uhpBA <ilvNB> uhpC
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,uhpBA ilvBN uhpC
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,uhpBA uhpC ilvB
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,uhpBA <uhpC> <ilvB>
+NC_002488,Xylella_fastidiosa_9a5c,uhpAA <ilvB>
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<ilvNB> uhpB <uhpA>
+NC_005085,Chromobacterium_violaceum_ATCC_12472,ilvBN uhpC uhpA
+NC_003295,Ralstonia_solanacearum_GMI1000,uhpBA <ilvNB> uhpC
+NC_002927,Bordetella_bronchiseptica_RB50,<ilvNB> <uhpC> uhpB <uhpA>
+NC_002929,Bordetella_pertussis_Tohama_I,ilvBN <uhpA>
+NC_002928,Bordetella_parapertussis_12822,<ilvNB> uhpC uhpB <uhpA>
+NC_004463,Bradyrhizobium_japonicum_USDA_110,<uhpBA>  ilvBB uhpC <ilvN>
+NC_002696,Caulobacter_crescentus_CB15,uhpAA ilvBN <uhpC>
+NC_003062,Agrobacterium_tumefaciens_str._C58,<ilvNB> <uhpC> uhpA
+NC_002678,Mesorhizobium_loti_MAFF303099,<uhpAB> <ilvB>
+NC_003047,Sinorhizobium_meliloti_1021,<ilvNB> <uhpA>
+NC_012441,Brucella_melitensis_ATCC_23457,uhpBA uhpC <ilvB>
+NC_005090,Wolinella_succinogenes_DSM_1740,<ilvNB> <uhpA>
+NC_004917,Helicobacter_hepaticus_ATCC_51449,<ilvNB> <uhpC> <uhpA>

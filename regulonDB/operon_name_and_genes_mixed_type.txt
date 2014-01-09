@@ -1,0 +1,3 @@
+garPLRK-rnpB	garL:p	rnpB:r	garR:p	garK:p	garP:p
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	truB:p	rbfA:p	rimP:p	rpsO:p	pnp:p	metY:r	infB:p	nusA:p
+thrU-tyrU-glyT-thrT-tufB	tufB:p	thrT:r	thrU:r	tyrU:r	glyT:r

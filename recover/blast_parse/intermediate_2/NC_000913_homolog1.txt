@@ -1,0 +1,22 @@
+b1941
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1941	fliI	atpD	NONE	6e-23	31.74	98.2	58.6	2014577	2015951	1	Protein	334	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+b3731
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3731	atpC	atpC	ECK3724:JW3709:papG:uncC	6e-89	100.0	252.0	55.2	3913575	3913995	-1	Protein	139	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3731	3913995
+b3732
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3732	atpD	atpD	ECK3725:JW3710:papB:uncD	0.0	100.0	894.0	54.7	3914015	3915398	-1	Protein	460	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3732	3915398
+b3733
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3733	atpG	atpG	ECK3726:JW3711:papC:uncG	0.0	100.0	563.0	53.5	3915424	3916288	-1	Protein	287	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3733	3916288
+b3734
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3734	atpA	atpA	ECK3727:JW3712:papA:uncA	0.0	100.0	1001.0	53.4	3916338	3917880	-1	Protein	513	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3734	3917880
+b3735
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3735	atpH	atpH	ECK3728:JW3713:papE:uncH	5e-129	100.0	356.0	51.9	3917892	3918426	-1	Protein	177	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3735	3918426
+b3736
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3736	atpF	atpF	ECK3729:JW3714:papF:uncF	2e-89	99.36	254.0	52.9	3918440	3918911	-1	Protein	156	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3736	3918911
+b3737
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3737	atpE	atpE	ECK3730:JW3715:papH:uncE	3e-29	100.0	97.1	54.2	3918972	3919212	-1	Protein	79	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3737	3919212
+b3738
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3738	atpB	atpB	ECK3731:JW3716:papD:uncB	0.0	100.0	501.0	50.2	3919258	3920074	-1	Protein	271	exact	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3738	3920074
+b3739
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3739	atpI	atpI	NONE	1e-06	37.5	42.0	52.2	3920082	3920463	-1	Protein	96	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4754	4965099
+b3783
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3783	rho	atpD	NONE	0.0003	23.94	40.0	50.3	3964439	3965699	1	Protein	188	BLAST	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394

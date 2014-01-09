@@ -1,0 +1,22 @@
+PM1487
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1487	unknown	atpI	NONE	0.0007	27.42	33.5	27.2	1680263	1680671	1	Protein	124	BLAST	NC_004347	Shewanella_oneidensis_MR-1	SO_4754	4965099
+PM1488
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1488	atpB	atpB	NONE	0.0	100.0	531.0	35.7	1680681	1681476	1	Protein	264	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1488	1681476
+PM1489
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1489	atpE	atpE	NONE	3e-34	100.0	109.0	36.9	1681532	1681787	1	Protein	56	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1489	1681787
+PM1490
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1490	atpF	atpF	NONE	3e-81	99.36	233.0	38.9	1681866	1682337	1	Protein	156	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1490	1682337
+PM1491
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1491	atpH	atpH	NONE	3e-123	100.0	341.0	36.3	1682350	1682884	1	Protein	177	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1491	1682884
+PM1492
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1492	atpA	atpA	NONE	0.0	100.0	976.0	39.9	1682896	1684438	1	Protein	513	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1492	1684438
+PM1493
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1493	atpG	atpG	NONE	0.0	100.0	589.0	35.4	1684464	1685334	1	Protein	289	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1493	1685334
+PM1494
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1494	atpD	atpD	NONE	0.0	100.0	891.0	41.2	1685351	1686725	1	Protein	457	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1494	1686725
+PM1495
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1495	atpC	atpC	NONE	9e-92	100.0	258.0	39.6	1686765	1687194	1	Protein	142	exact	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1495	1687194
+PM1560
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1560	fmt	atpA	NONE	3e-05	31.11	42.0	42.7	1767649	1768603	1	Protein	90	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122
+PM1920
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1920	rho	atpD	NONE	0.0001	24.52	40.0	43.1	2159043	2160306	-1	Protein	208	BLAST	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394

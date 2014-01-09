@@ -1,0 +1,58 @@
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM4383.S	ulaA	ulaA	ECK4189:JW5744:sgaT:yjfS	0.0	98.28	900.0	52.65	4625232	4626630	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM4384	sgaB	ulaB	ECK4190:JW4152:sgaB:yjfT	7e-56	99.01	208.0	50.0	4626645	4626951	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM4385	ptxA	ulaC	ECK4191:JW4153:ptxA:sgaA:yjfU	3e-85	96.75	307.0	54.84	4626960	4627425	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM4386	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	2e-123	98.61	434.0	57.91	4627438	4628089	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM4387	sgaU	ulaE	ECK4193:JW4155:sgaU:yjfW	3e-162	94.37	564.0	58.01	4628098	4628953	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM4388	sgaE	ulaF	ECK4194:JW4156:sgaE:yjfX	2e-121	92.11	428.0	56.04	4628952	4629639	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ulaABCDEF 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	ulaA,1	ulaB,1	ulaC,1	ulaD,1	ulaE,1	ulaF,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	6	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4739	ulaA	ulaA	ECK4189:JW5744:sgaT:yjfS	0.0	98.92	904.0	52.93	4600774	4602172	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4740	sgaB	ulaB	ECK4190:JW4152:sgaB:yjfT	1e-55	99.01	207.0	50.98	4602187	4602493	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4741	sgaA	ulaC	ECK4191:JW4153:ptxA:sgaA:yjfU	9e-85	96.1	305.0	53.98	4602502	4602967	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4742	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	3e-122	98.15	431.0	56.68	4602980	4603631	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4743	sgaU	ulaE	ECK4193:JW4155:sgaU:yjfW	4e-162	95.07	563.0	57.31	4603640	4604495	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4744	sgaE	ulaF	ECK4194:JW4156:sgaE:yjfX	3e-121	92.11	427.0	55.6	4604494	4605181	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ulaABCDEF 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	ulaA,1	ulaB,1	ulaC,1	ulaD,1	ulaE,1	ulaF,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	6	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0764	ulaA	ulaA	ECK4189:JW5744:sgaT:yjfS	2e-169	62.74	587.0	39.98	900778	902569	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.964,eval_thresh:21.812
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0765	unknown	ulaC	ECK4191:JW4153:ptxA:sgaA:yjfU	3e-40	47.06	156.0	41.24	902613	903081	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.964,eval_thresh:21.812
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0766	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	3e-46	45.59	177.0	42.33	903098	903776	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.964,eval_thresh:21.812
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1244	sgbE	ulaF	ECK4194:JW4156:sgaE:yjfX	2e-86	63.48	310.0	43.68	1437590	1438286	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1245	unknown	ulaE	ECK4193:JW4155:sgaU:yjfW	2e-90	53.05	325.0	41.35	1438279	1439140	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1246	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	1e-52	46.05	198.0	44.81	1439164	1439809	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0764	ulaA	ulaB	ECK4190:JW4152:sgaB:yjfT	4e-28	55.91	115.0	39.98	900778	902569	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.964,eval_thresh:21.812
+++	ulaACD <ulaFED> ulaB 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	ulaA,1	ulaB,1	ulaC,1	ulaD,2	ulaE,1	ulaF,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.33	 0.50	1	0	2	3	1	1
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.33	 0.50	1	0	2	3	1	1
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4193	ulaA	ulaA	ECK4189:JW5744:sgaT:yjfS	0.0	100.0	910.0	53.08	4418002	4419400	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4194	ulaB	ulaB	ECK4190:JW4152:sgaB:yjfT	3e-56	100.0	209.0	50.65	4419415	4419721	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4195	ulaC	ulaC	ECK4191:JW4153:ptxA:sgaA:yjfU	3e-88	100.0	317.0	53.98	4419730	4420195	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4196	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	4e-125	100.0	440.0	57.14	4420208	4420859	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4197	ulaE	ulaE	ECK4193:JW4155:sgaU:yjfW	2e-170	100.0	591.0	56.73	4420868	4421723	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4198	ulaF	ulaF	ECK4194:JW4156:sgaE:yjfX	4e-136	100.0	477.0	57.21	4421722	4422409	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ulaABCDEF 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	ulaA,1	ulaB,1	ulaC,1	ulaD,1	ulaE,1	ulaF,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1024	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	2e-48	43.11	184.0	34.96	1089387	1090065	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1025	sgbE	ulaF	ECK4194:JW4156:sgaE:yjfX	1e-84	62.17	305.0	35.2	1090114	1090810	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.475,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1026	unknown	ulaE	ECK4193:JW4155:sgaU:yjfW	1e-93	53.17	335.0	33.33	1090803	1091664	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.475,eval_thresh:14.781
+++	<ulaDFE> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	ulaD,1	ulaE,1	ulaF,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.00	 0.50	0	3	0	3	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.00	 1.00	0	3	0	3	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4618	ulaA	ulaA	ECK4189:JW5744:sgaT:yjfS	0.0	99.57	905.0	52.36	4516417	4517815	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4619	sgaB	ulaB	ECK4190:JW4152:sgaB:yjfT	1e-55	99.01	207.0	50.98	4517830	4518136	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4620	ptxA	ulaC	ECK4191:JW4153:ptxA:sgaA:yjfU	2e-84	95.45	304.0	55.27	4518145	4518610	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4621	ulaD	ulaD	ECK4192:JW4154:sgaH:yjfV	2e-124	99.54	437.0	56.07	4518623	4519274	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4622	sgaU	ulaE	ECK4193:JW4155:sgaU:yjfW	4e-166	97.54	577.0	57.31	4519283	4520138	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4623	sgaE	ulaF	ECK4194:JW4156:sgaE:yjfX	3e-134	98.25	470.0	55.31	4520137	4520824	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	ulaABCDEF 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	ulaA,1	ulaB,1	ulaC,1	ulaD,1	ulaE,1	ulaF,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	6	0	0

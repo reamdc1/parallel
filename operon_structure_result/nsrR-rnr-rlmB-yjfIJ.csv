@@ -1,0 +1,22 @@
+nsrR-rnr-rlmB-yjfIJ
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,nsrR-rnr-rlmB-yjfIJ
+NC_004741,Shigella_flexneri_2a_str._2457T,nsrR-rnr-rlmB
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,nsrR-rnr-rlmB-yjfI
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,nsrR-rnr-rlmB-yjfIJ
+NC_003143,Yersinia_pestis_CO92,nsrR-rnr-rlmB
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,<rlmB-rnr>
+NC_004459,Vibrio_vulnificus_CMCP6,rnr-rlmB nsrR
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,<rlmB-rnr-nsrR>
+NC_000907,Haemophilus_influenzae_Rd_KW20,<rlmB-rnr>
+NC_004347,Shewanella_oneidensis_MR-1,<rlmB-rnr> yjfJ nsrR
+NC_002516,Pseudomonas_aeruginosa_PAO1,<yjfJI> <rlmB-rnr> nsrR
+NC_002947,Pseudomonas_putida_KT2440,<rlmB-rnr> nsrR
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,<yjfJI> <rlmB-rnr> nsrR
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,<yjfJI> rnr rlmB
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,yjfIJ <rnr> <nsrR> <rlmB>
+NC_004757,Nitrosomonas_europaea_ATCC_19718,rnr-rlmB nsrR
+NC_003295,Ralstonia_solanacearum_GMI1000,rnr-rlmB <nsrR>
+NC_002927,Bordetella_bronchiseptica_RB50,rnr-rlmB <nsrR>
+NC_002929,Bordetella_pertussis_Tohama_I,rnr-rlmB <nsrR>
+NC_002928,Bordetella_parapertussis_12822,rnr-rlmB nsrR
+NC_002696,Caulobacter_crescentus_CB15,<yjfJI> rnr nsrR <rlmB>

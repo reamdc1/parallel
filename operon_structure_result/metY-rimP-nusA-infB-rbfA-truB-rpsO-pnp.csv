@@ -1,0 +1,35 @@
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_004741,Shigella_flexneri_2a_str._2457T,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_003143,Yersinia_pestis_CO92,<rpsO-truB-rbfA-infB-nusA-rimP> <pnp>
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,<truB-rbfA> <infB-nusA-rimP> rpsO <pnp>
+NC_004459,Vibrio_vulnificus_CMCP6,rimP-nusA-infB-rbfA-truB rpsO pnp
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),<pnp-rpsO-truB-rbfA-infB-nusA>
+NC_000907,Haemophilus_influenzae_Rd_KW20,rimP-nusA-infB rbfA-truB <rpsO> pnp
+NC_004347,Shewanella_oneidensis_MR-1,rimP-nusA-infB-rbfA rpsO pnp
+NC_005061,Candidatus_Blochmannia_floridanus,nusA-infB-rbfA-truB-rpsO-pnp
+NC_002516,Pseudomonas_aeruginosa_PAO1,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_002947,Pseudomonas_putida_KT2440,<pnp-rpsO> <rbfA-infB-nusA-rimP>
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,<pnp-rpsO-truB-rbfA-infB-nusA-rimP>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,rimP-nusA-infB-rbfA-truB-rpsO-pnp
+NC_002488,Xylella_fastidiosa_9a5c,rimP-nusA-infB-rbfA-truB-rpsO-pnp
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<pnp-rpsO> rimP-nusA-infB-rbfA-truB
+NC_005085,Chromobacterium_violaceum_ATCC_12472,rimP-nusA-infB-rbfA-truB-rpsO-pnp
+NC_003295,Ralstonia_solanacearum_GMI1000,rimP-nusA-infB-rbfA-truB <pnp-rpsO>
+NC_003112,Neisseria_meningitidis_MC58,rbfA-truB rimP-nusA-infB rpsO pnp
+NC_002927,Bordetella_bronchiseptica_RB50,<infB-truB-rbfA-infB-nusA-rimP> <pnp-rpsO>
+NC_002929,Bordetella_pertussis_Tohama_I,rpsO-pnp rimP-nusA-infB-rbfA-truB-infB
+NC_002928,Bordetella_parapertussis_12822,rimP-nusA-infB-rbfA-truB-infB <pnp-rpsO>
+NC_004463,Bradyrhizobium_japonicum_USDA_110,<pnp-rpsO-truB> <nusA-rimP> <infBB>
+NC_002696,Caulobacter_crescentus_CB15,<pnp-rpsO-truB-rbfA> <nusA-rimP> <infBB>
+NC_003062,Agrobacterium_tumefaciens_str._C58,<pnp-rpsO-truB-infB> <nusA-rimP>
+NC_002678,Mesorhizobium_loti_MAFF303099,rimP-nusA rpsO-pnp truB infB
+NC_003047,Sinorhizobium_meliloti_1021,rimP-nusA rpsO-pnp infBB truB
+NC_012441,Brucella_melitensis_ATCC_23457,rimP-nusA truB-rpsO-pnp infB
+NC_004310,Brucella_suis_1330,rimP-nusA truB-rpsO-pnp infB
+NC_005090,Wolinella_succinogenes_DSM_1740,infB-rimP rpsO pnp truB nusA
+NC_002163,Campylobacter_jejuni_subsp._jejuni_NCTC_11168,infB-rimP rpsO pnp truB nusA

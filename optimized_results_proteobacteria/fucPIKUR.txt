@@ -1,0 +1,83 @@
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3582	glpK	fucK	ECK2798:JW2774	2e-16	21.68	81.3	66.73	4013684	4015202	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3583	glpR	fucR	ECK2800:JW2776	3e-21	26.64	95.9	65.87	4015407	4016163	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucKR 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	fucK,1	fucR,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 1.00	0	3	0	2	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2976	fucI	fucI	ECK2797:JW2773	0.0	93.74	1135.0	57.6	3128219	3129995	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2977	fucK	fucK	ECK2798:JW2774	0.0	84.75	845.0	58.7	3130095	3131514	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2978	fucU	fucU	ECK2799:JW2775	9e-72	91.43	262.0	54.37	3131515	3131938	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2979	fucR	fucR	ECK2800:JW2776	1e-124	88.94	439.0	49.79	3131995	3132706	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3792	unknown	fucP	ECK2796:JW2772	7e-54	34.52	205.0	52.24	3992243	3993560	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucIKUR <fucP> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	fucI,1	fucK,1	fucP,1	fucR,1	fucU,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.20	 0.80	0	0	1	4	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_1074	glpR	fucR	ECK2800:JW2776	3e-17	25.33	82.8	60.05	1232926	1233682	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1075	glpK	fucK	ECK2798:JW2774	3e-16	22.59	80.5	62.13	1233783	1235283	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<fucRK> 
+$$	NC_002947	Pseudomonas_putida_KT2440	fucK,1	fucR,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.00	 1.00	0	3	0	2	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1786	unknown	fucR	ECK2800:JW2776	6e-22	29.36	97.4	49.04	1777397	1778129	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1787	glpK	fucK	ECK2798:JW2774	7e-17	22.2	82.0	51.91	1778345	1779863	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<fucRK> 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	fucK,1	fucR,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	3	0	2	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3115	fucP	fucP	ECK2796:JW2772	0.0	92.24	699.0	49.73	2982409	2983726	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3116	fucI	fucI	ECK2797:JW2773	0.0	93.23	1097.0	57.65	2983757	2985488	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3117	fucK	fucK	ECK2798:JW2774	0.0	84.53	842.0	58.56	2985633	2987052	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3118	fucU	fucU	ECK2799:JW2775	7e-72	91.43	262.0	54.14	2987053	2987476	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3119	fucR	fucR	ECK2800:JW2776	1e-124	88.94	439.0	49.93	2987533	2988244	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucPIKUR 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	fucI,1	fucK,1	fucP,1	fucR,1	fucU,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02334	unknown	fucK	ECK2798:JW2774	9e-22	23.93	98.2	66.54	2752648	2754196	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02335	unknown	fucK	ECK2798:JW2774	6e-30	24.84	125.0	66.99	2754192	2755722	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02173	unknown	fucU	ECK2799:JW2775	4e-20	37.14	90.1	62.7	521877	522306	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01615	unknown	fucR	ECK2800:JW2776	3e-20	31.6	92.0	61.2	2405598	2406384	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucKK <fucU> <fucR> 
+$$	NC_003047	Sinorhizobium_meliloti_1021	fucK,2	fucR,1	fucU,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.40	 0.20	1	2	2	1	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.67	 0.33	1	2	2	1	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2386	glpK	fucK	ECK2798:JW2774	1e-14	22.24	74.7	48.95	2501337	2502855	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2387	unknown	fucR	ECK2800:JW2776	5e-22	28.33	97.8	48.99	2503014	2503806	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucKR 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	fucK,1	fucR,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	3	0	2	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2801	fucP	fucP	ECK2796:JW2772	0.0	100.0	790.0	47.68	2932256	2933573	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2802	fucI	fucI	ECK2797:JW2773	0.0	100.0	1195.0	54.5	2933605	2935381	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2803	fucK	fucK	ECK2798:JW2774	0.0	100.0	996.0	50.93	2935459	2936908	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2804	fucU	fucU	ECK2799:JW2775	1e-78	100.0	284.0	48.94	2936909	2937332	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2805	fucR	fucR	ECK2800:JW2776	3e-143	100.0	500.0	48.22	2937389	2938121	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucPIKUR 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	fucI,1	fucK,1	fucP,1	fucR,1	fucU,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4168	glpK	fucK	ECK2798:JW2774	1e-14	21.86	75.5	61.02	4694719	4696225	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4169	glpR	fucR	ECK2800:JW2776	3e-17	26.38	82.8	58.07	4696335	4697091	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucKR 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	fucK,1	fucR,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.00	 0.40	0	3	0	2	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.00	 1.00	0	3	0	2	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0612	fucU	fucU	ECK2799:JW2775	3e-47	61.97	179.0	39.31	643445	643880	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0613	fucK	fucK	ECK2798:JW2774	7e-106	40.94	376.0	38.5	643893	645306	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0614	fucI	fucI	ECK2797:JW2773	0.0	68.61	843.0	41.3	645378	647148	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0615	fucR	fucR	ECK2800:JW2776	9e-36	37.32	142.0	33.47	647374	648124	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0610	fucP	fucP	ECK2796:JW2772	3e-51	34.67	194.0	39.16	641450	642737	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<fucUKIR> <fucP> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	fucI,1	fucK,1	fucP,1	fucR,1	fucU,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.20	 0.80	0	0	1	4	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3010	fucP	fucP	ECK2796:JW2772	0.0	99.54	784.0	47.38	2889359	2890676	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3011	fucI	fucI	ECK2797:JW2773	0.0	100.0	1195.0	54.56	2890708	2892484	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3013	fucU	fucU	ECK2799:JW2775	8e-78	99.29	281.0	49.41	2894013	2894436	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3014	fucR	fucR	ECK2800:JW2776	3e-143	100.0	500.0	48.22	2894493	2895225	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4161	xylB	fucK	ECK2798:JW2774	4e-21	26.13	96.3	54.16	4064183	4065638	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fucPI fucUR fucK 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	fucI,1	fucK,1	fucP,1	fucR,1	fucU,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.40	 0.40	0	0	2	2	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.40	 0.40	0	0	2	2	0	0

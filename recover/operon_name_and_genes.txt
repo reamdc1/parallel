@@ -1,0 +1,49 @@
+astCADBE	astA	astB	astC	astD	astE
+atpIBEFHAGDC	atpA	atpB	atpC	atpD	atpE	atpF	atpG	atpH	atpI
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE	bamA	dnaE	fabZ	hlpA	lpxA	lpxB	lpxD	rnhB
+caiTABCDE	caiA	caiB	caiC	caiD	caiE	caiT
+casABCDE12	cas1	cas2	casA	casB	casC	casD	casE
+dicB-ydfDE-insD-intQ	dicB	insD	intQ	ydfD	ydfE
+fecABCDE	fecA	fecB	fecC	fecD	fecE
+fucPIKUR	fucI	fucK	fucP	fucR	fucU
+garPLRK-rnpB	garK	garL	garP	garR	rnpB
+gatYZABCD	gatA	gatB	gatC	gatD	gatY	gatZ
+gcl-hyi-glxR-ybbVW-allB-ybbY-glxK	allB	gcl	glxK	glxR	hyi	ybbV	ybbW	ybbY
+glcDEFGBA	glcA	glcB	glcD	glcE	glcF	glcG
+hcaEFCBD	hcaB	hcaC	hcaD	hcaE	hcaF
+hisLGDCBHAFI	hisA	hisB	hisC	hisD	hisF	hisG	hisH	hisI
+hyaABCDEF	hyaA	hyaB	hyaC	hyaD	hyaE	hyaF
+hycABCDEFGHI	hycA	hycB	hycC	hycD	hycE	hycF	hycG	hycH	hycI
+hyfABCDEFGHIJR-focB	focB	hyfA	hyfB	hyfC	hyfD	hyfE	hyfF	hyfG	hyfH	hyfI	hyfJ	hyfR
+hypABCDE-fhlA	fhlA	hypA	hypB	hypC	hypD	hypE
+ivbL-ilvBN-uhpABC	ilvB	ilvN	uhpA	uhpB	uhpC
+livKHMGF	livF	livG	livH	livK	livM
+lptAB-rpoN-hpf-ptsN-yhbJ-npr	hpf	lptA	lptB	npr	ptsN	rpoN	yhbJ
+lptD-surA-pdxA-rsmA-apaGH	apaG	apaH	lptD	pdxA	rsmA	surA
+lsrACDBFG-tam	lsrA	lsrB	lsrC	lsrD	lsrF	lsrG	tam
+mdtABCD-baeSR	baeR	baeS	mdtA	mdtB	mdtC	mdtD
+metT-leuW-glnUW-metU-glnVX	glnU	glnV	glnW	glnX	leuW	metT	metU
+metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp	infB	metY	nusA	pnp	rbfA	rimP	rpsO	truB
+nsrR-rnr-rlmB-yjfIJ	nsrR	rlmB	rnr	yjfI	yjfJ
+nuoABCEFGHIJKLMN	nuoA	nuoB	nuoC	nuoE	nuoF	nuoG	nuoH	nuoI	nuoJ	nuoK	nuoL	nuoM	nuoN
+paaABCDEFGHIJK	paaA	paaB	paaC	paaD	paaE	paaF	paaG	paaH	paaI	paaJ	paaK
+pspABCDE	pspA	pspB	pspC	pspD	pspE
+pstSCAB-phoU	phoU	pstA	pstB	pstC	pstS
+rbsDACBKR	rbsA	rbsB	rbsC	rbsD	rbsK	rbsR
+rnc-era-recO-pdxJ-acpS	acpS	era	pdxJ	recO	rnc
+rplKAJL-rpoBC	rplA	rplJ	rplK	rplL	rpoB	rpoC
+rrsD-ileU-alaU-rrlD-rrfD-thrV-rrfF	rrfD	rrfF	rrlD	rrsD	thrV
+sdhCDAB-sucABCD	sdhA	sdhB	sdhC	sdhD	sucA	sucB	sucC	sucD
+srlAEBD-gutM-srlR-gutQ	gutM	gutQ	srlA	srlB	srlD	srlE	srlR
+ssuEADCB	ssuA	ssuB	ssuC	ssuD	ssuE
+tdcABCDEFG	tdcA	tdcB	tdcC	tdcD	tdcE	tdcF	tdcG
+thrS-infC-rpmI-rplT-pheMST-ihfA	ihfA	infC	pheS	pheT	rplT	rpmI	thrS
+trpLEDCBA	trpA	trpB	trpC	trpD	trpE
+ulaABCDEF	ulaA	ulaB	ulaC	ulaD	ulaE	ulaF
+waaQGP-rfaS-waaBIJY-rfaZ-waaK	rfaS	rfaZ	waaB	waaG	waaI	waaJ	waaK	waaP	waaQ	waaY
+ybgIJKL-nei	nei	ybgI	ybgJ	ybgK	ybgL
+yceD-rpmF-plsX-fabHDG-acpP-fabF	acpP	fabD	fabF	fabG	fabH	plsX	rpmF	yceD
+ydgK-rsxABCDGE-nth	nth	rsxA	rsxB	rsxC	rsxD	rsxE	rsxG	ydgK
+ydhYVWXUT	ydhT	ydhU	ydhV	ydhW	ydhX	ydhY
+yiaKLMNO-lyxK-sgbHUE	lyxK	sgbE	sgbH	sgbU	yiaK	yiaL	yiaM	yiaN	yiaO
+yjeFE-amiB-mutL-miaA-hfq-hflXKC	amiB	hflC	hflK	hflX	hfq	miaA	mutL	yjeE	yjeF

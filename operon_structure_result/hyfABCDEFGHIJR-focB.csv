@@ -1,0 +1,32 @@
+hyfABCDEFGHIJR-focB
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,hyfABCDEFGHIJR-focB
+NC_004741,Shigella_flexneri_2a_str._2457T,hyfCDEF hyfHII <hyfGCBA> hyfJ <focB> <hyfR>
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,<hyfFDD> <hyfJIHGCBA> <hyfR> <focB>
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,<hyfFDD> <hyfJIHGCBA> <hyfR> <focB>
+NC_003143,Yersinia_pestis_CO92,hyfAA <hyfFDD> <hyfHC> <hyfGI> <hyfB> <focB> <hyfR>
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),hyfIG hyfCH hyfDFF hyfB
+NC_004347,Shewanella_oneidensis_MR-1,<hyfFDD> <hyfHC> <hyfGI> <hyfB> <focB> hyfA <hyfR>
+NC_005061,Candidatus_Blochmannia_floridanus,<hyfFFD> <hyfHC> <hyfGI> <hyfB>
+NC_002516,Pseudomonas_aeruginosa_PAO1,hyfIG hyfCH hyfDDF hyfB hyfA hyfR
+NC_002947,Pseudomonas_putida_KT2440,hyfIG hyfCH hyfDDB <hyfR> hyfA <hyfF>
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,hyfRR hyfIG hyfCH hyfDBF
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,<hyfFDB> <hyfC> <hyfR> <hyfA> <hyfG> <hyfI>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,<hyfDB> hyfI hyfC hyfR hyfA hyfG <hyfF>
+NC_002488,Xylella_fastidiosa_9a5c,hyfBDF hyfC <hyfR> hyfI hyfG hyfA
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<hyfFDF> hyfDB <hyfI> <hyfH> hyfR focB <hyfG> hyfA
+NC_005085,Chromobacterium_violaceum_ATCC_12472,hyfIGG hyfDDF hyfB focB hyfH hyfA hyfR
+NC_003295,Ralstonia_solanacearum_GMI1000,<hyfFDD> <hyfHC> <hyfB> <hyfA> <hyfG> <hyfI> hyfR
+NC_003112,Neisseria_meningitidis_MC58,hyfBDF hyfR hyfI hyfH hyfG
+NC_002927,Bordetella_bronchiseptica_RB50,<hyfRR>  <hyfBD> <hyfFDD> <hyfHC> hyfA <hyfG> <hyfI>
+NC_002929,Bordetella_pertussis_Tohama_I,hyfIGG hyfCH hyfDDF hyfDB hyfR hyfA
+NC_002928,Bordetella_parapertussis_12822,<hyfBD> <hyfFDD> <hyfHC> <hyfGGI> <hyfR> hyfA
+NC_004463,Bradyrhizobium_japonicum_USDA_110,<hyfFDF> <hyfGGI> hyfBC hyfR <focB> <hyfH> hyfA
+NC_002696,Caulobacter_crescentus_CB15,<hyfDBD> <hyfHC> <hyfGGI> hyfR <hyfF>
+NC_003062,Agrobacterium_tumefaciens_str._C58,hyfIGG hyfDBF hyfR hyfH
+NC_002678,Mesorhizobium_loti_MAFF303099,<hyfFBD> <hyfGGI> <hyfR> <hyfA> <hyfH>
+NC_003047,Sinorhizobium_meliloti_1021,hyfIGG hyfDB <hyfR> <hyfA> hyfH hyfF
+NC_012441,Brucella_melitensis_ATCC_23457,hyfIGG hyfCH hyfBBB <hyfR> <hyfA> hyfF hyfD
+NC_004310,Brucella_suis_1330,hyfIGG hyfCH hyfFBF <hyfR> <hyfA> hyfD
+NC_005090,Wolinella_succinogenes_DSM_1740,hyfDBF <hyfIHGFECBA> hyfR
+NC_004917,Helicobacter_hepaticus_ATCC_51449,<hyfFBD> <hyfHC> <hyfGGI> hyfR <hyfA>
+NC_002163,Campylobacter_jejuni_subsp._jejuni_NCTC_11168,<hyfFBD> <hyfHC> <hyfGGI> <hyfR> <hyfA>

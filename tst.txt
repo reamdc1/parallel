@@ -1,0 +1,369 @@
+./optimized_results_proteobacteria/astCADBE.txt
+./optimized_results_proteobacteria/atpIBEFHAGDC.txt
+NC_002947 Pseudomonas_putida_KT2440 atpC islandpath_dimob hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 atpD islandpath_dimob hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 atpG islandpath_dimob hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 atpA islandpath_dimob hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 atpH islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE.txt
+./optimized_results_proteobacteria/caiTABCDE.txt
+NC_004310 Brucella_suis_1330 caiB islandpath_dimob hgt suspected!
+NC_003919 Xanthomonas_axonopodis_pv._citri_str._306 caiC islandpick hgt suspected!
+NC_003919 Xanthomonas_axonopodis_pv._citri_str._306 caiC islandpick hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 caiB islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/casABCDE12.txt
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 cas1 sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 casE sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 casD sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 casC sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 casB sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 casA sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/dicB-ydfDE-insD-intQ.txt
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 dicB sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 ydfD sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 ydfE sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 insD sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 intQ sigi_hmm hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T insD islandpath_dimob hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T insD islandpath_dimob hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T insD islandpath_dimob hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T insD islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/fecABCDE.txt
+NC_002947 Pseudomonas_putida_KT2440 fecE islandpath_dimob hgt suspected!
+NC_000907 Haemophilus_influenzae_Rd_KW20 fecA islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecE sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecE islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecE islandpick hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecD sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecD islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecD islandpick hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecC islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecC islandpick hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecB islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecB islandpick hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecA islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 fecA islandpick hgt suspected!
+./optimized_results_proteobacteria/fucPIKUR.txt
+./optimized_results_proteobacteria/garPLRK-rnpB.txt
+./optimized_results_proteobacteria/gatYZABCD.txt
+./optimized_results_proteobacteria/gcl-hyi-glxR-ybbVW-allB-ybbY-glxK.txt
+./optimized_results_proteobacteria/glcDEFGBA.txt
+./optimized_results_proteobacteria/glgBXCAP.txt
+./optimized_results_proteobacteria/glgBXCAP.txt~
+./optimized_results_proteobacteria/hcaEFCBD.txt
+NC_002947 Pseudomonas_putida_KT2440 hcaB islandpick hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 hcaB islandpick hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 hcaB islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 hcaB islandpick hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 hcaB islandpick hgt suspected!
+./optimized_results_proteobacteria/hisLGDCBHAFI.txt
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisH islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisH islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisA islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisA islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisF islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisF islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisI islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisI islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/hisLGDCBHAFI_Results.txt.txt
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisH islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisH islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisA islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisA islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisF islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisF islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisI islandpath_dimob hgt suspected!
+NC_005085 Chromobacterium_violaceum_ATCC_12472 hisI islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/hyaABCDEF.txt
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaA islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaA islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaB islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaB islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaC islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaC islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaD islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaD islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaD sigi_hmm hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaD islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaD islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaF sigi_hmm hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaF islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyaF islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/hycABCDEFGHI.txt
+NC_004310 Brucella_suis_1330 hycG sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycC sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycC islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycC sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycC islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycF sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycF islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycD sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycD islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycE sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycE islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycG sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hycG islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hycC islandpick hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hycE islandpick hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hycG islandpick hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycG islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycG islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycE islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycE islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycE islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycE islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hycC islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 hycG sigi_hmm hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 hycG islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 hycG islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/hyfABCDEFGHIJR-focB.txt
+NC_004310 Brucella_suis_1330 hyfI sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfF islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfD sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfD islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfD sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfD islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfH sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfH islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfC sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfC islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfG sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfG islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfI sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfI islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfB sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 hyfB islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyfB islandpick hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyfC islandpick hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyfR sigi_hmm hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyfR islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 hyfR islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfI islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfI islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfG islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfG islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfG islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfG islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfD islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfD islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I hyfB islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 hyfI sigi_hmm hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 hyfI islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 hyfI islandpath_dimob hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T focB islandpath_dimob hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T focB islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/hypABCDE-fhlA.txt
+NC_004463 Bradyrhizobium_japonicum_USDA_110 fhlA sigi_hmm hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 fhlA islandpath_dimob hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 fhlA islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/ilvLXG_1G_2MEDA.txt
+./optimized_results_proteobacteria/ivbL-ilvBN-uhpABC.txt
+NC_003295 Ralstonia_solanacearum_GMI1000 uhpB sigi_hmm hgt suspected!
+NC_003295 Ralstonia_solanacearum_GMI1000 uhpA sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/livKHMGF.txt
+./optimized_results_proteobacteria/lptAB-rpoN-hpf-ptsN-yhbJ-npr.txt
+NC_002696 Caulobacter_crescentus_CB15 ptsN islandpath_dimob hgt suspected!
+NC_002696 Caulobacter_crescentus_CB15 ptsN islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/lptD-surA-pdxA-rsmA-apaGH.txt
+./optimized_results_proteobacteria/lsrACDBFG-tam.txt
+NC_002929 Bordetella_pertussis_Tohama_I tam islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I tam islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 lsrD islandpick hgt suspected!
+./optimized_results_proteobacteria/mdtABCD-baeSR.txt
+NC_002928 Bordetella_parapertussis_12822 baeS sigi_hmm hgt suspected!
+NC_002928 Bordetella_parapertussis_12822 baeR sigi_hmm hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I mdtC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I mdtB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I mdtA islandpath_dimob hgt suspected!
+NC_002488 Xylella_fastidiosa_9a5c mdtD islandpath_dimob hgt suspected!
+NC_002488 Xylella_fastidiosa_9a5c mdtD islandpath_dimob hgt suspected!
+NC_002488 Xylella_fastidiosa_9a5c mdtD islandpick hgt suspected!
+NC_002927 Bordetella_bronchiseptica_RB50 baeR sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/metY-rimP-nusA-infB-rbfA-truB-rpsO-pnp.txt
+NC_004459 Vibrio_vulnificus_CMCP6 rimP islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 rimP islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 nusA islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 nusA islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 infB islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 infB islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 rbfA islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 rbfA islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 truB islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 truB islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 rpsO islandpath_dimob hgt suspected!
+NC_004459 Vibrio_vulnificus_CMCP6 rpsO islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rpsO islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rpsO islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 truB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 truB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rbfA islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rbfA islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 infB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 infB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 nusA islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 nusA islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rimP islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rimP islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 pnp islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 pnp islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 pnp islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 pnp islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 rpsO islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 rpsO islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 truB islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 truB islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 rbfA islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 rbfA islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 infB islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 infB islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 nusA islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 nusA islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 rimP islandpath_dimob hgt suspected!
+NC_004578 Pseudomonas_syringae_pv._tomato_str._DC3000 rimP islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/nsrR-rnr-rlmB-yjfIJ.txt
+./optimized_results_proteobacteria/nuoABCEFGHIJKLMN.txt
+NC_004310 Brucella_suis_1330 nuoA sigi_hmm hgt suspected!
+NC_004310 Brucella_suis_1330 nuoB sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoN islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoM sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoM islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoM sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoM islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoL sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoL islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoK sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoK islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoJ sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoJ islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoI sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoI islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoH sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoH islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoG sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoG islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoF sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoF islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoF sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoF islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoE sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoE islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoC sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoC islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoB sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoB islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 nuoA sigi_hmm hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoA islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoA islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoE islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoE islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoF islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I nuoF islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 nuoA sigi_hmm hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 nuoA islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 nuoA islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 nuoB sigi_hmm hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 nuoB islandpath_dimob hgt suspected!
+NC_012441 Brucella_melitensis_ATCC_23457 nuoB islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/paaABCDEFGHIJK.txt
+NC_004603 Vibrio_parahaemolyticus_RIMD_2210633 paaE sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/pspABCDE.txt
+./optimized_results_proteobacteria/pstSCAB-phoU.txt
+NC_004347 Shewanella_oneidensis_MR-1 pstB sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 pstA sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 pstA sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 pstS sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/rbsDACBKR.txt
+NC_002929 Bordetella_pertussis_Tohama_I rbsR islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I rbsA islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/rnc-era-recO-pdxJ-acpS.txt
+./optimized_results_proteobacteria/rplKAJL-rpoBC.txt
+NC_004347 Shewanella_oneidensis_MR-1 rplK islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 rplA islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 rplJ islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 rplL islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 rpoB islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 rpoC islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rpoC islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rpoB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rplL islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rplJ islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rplA islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 rplK islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/sdhCDAB-sucABCD.txt
+NC_003919 Xanthomonas_axonopodis_pv._citri_str._306 sucD islandpath_dimob hgt suspected!
+NC_003919 Xanthomonas_axonopodis_pv._citri_str._306 sucD islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/srlAEBD-gutM-srlR-gutQ.txt
+NC_002947 Pseudomonas_putida_KT2440 srlD islandpick hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 srlD islandpick hgt suspected!
+NC_002947 Pseudomonas_putida_KT2440 srlR islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/ssuEADCB.txt
+./optimized_results_proteobacteria/tdcABCDEFG.txt
+./optimized_results_proteobacteria/thrS-infC-rpmI-rplT-pheMST-ihfA.txt
+NC_004459 Vibrio_vulnificus_CMCP6 rplT islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/thrU-tyrU-glyT-thrT-tufB.txt
+NC_003112 Neisseria_meningitidis_MC58 tufB islandpath_dimob hgt suspected!
+NC_003112 Neisseria_meningitidis_MC58 tufB islandpath_dimob hgt suspected!
+NC_003112 Neisseria_meningitidis_MC58 tufB islandpath_dimob hgt suspected!
+NC_003112 Neisseria_meningitidis_MC58 tufB islandpath_dimob hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 tufB islandpath_dimob hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 tufB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I tufB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I tufB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I tufB islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I tufB islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 tufB islandpath_dimob hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 tufB islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 tufB islandpath_dimob hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 tufB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 tufB islandpath_dimob hgt suspected!
+NC_003143 Yersinia_pestis_CO92 tufB islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/trpLEDCBA.txt
+NC_004463 Bradyrhizobium_japonicum_USDA_110 trpD sigi_hmm hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 trpE sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/ulaABCDEF.txt
+./optimized_results_proteobacteria/waaQGP-rfaS-waaBIJY-rfaZ-waaK.txt
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 rfaZ sigi_hmm hgt suspected!
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 waaY sigi_hmm hgt suspected!
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 waaJ sigi_hmm hgt suspected!
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 waaI sigi_hmm hgt suspected!
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 waaB sigi_hmm hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 waaB sigi_hmm hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 waaI sigi_hmm hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 waaJ sigi_hmm hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 waaY sigi_hmm hgt suspected!
+NC_003198 Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18 rfaZ sigi_hmm hgt suspected!
+NC_004347 Shewanella_oneidensis_MR-1 waaG sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaK sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 rfaZ sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaY sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaJ sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaI sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaB sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 rfaS sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaP sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaG sigi_hmm hgt suspected!
+NC_000913 Escherichia_coli_str._K-12_substr._MG1655 waaQ sigi_hmm hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T waaY sigi_hmm hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T waaJ sigi_hmm hgt suspected!
+NC_004741 Shigella_flexneri_2a_str._2457T waaG sigi_hmm hgt suspected!
+./optimized_results_proteobacteria/ybgIJKL-nei.txt
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 nei islandpath_dimob hgt suspected!
+NC_003197 Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2 nei islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/yceD-rpmF-plsX-fabHDG-acpP-fabF.txt
+./optimized_results_proteobacteria/ydgK-rsxABCDGE-nth.txt
+NC_002929 Bordetella_pertussis_Tohama_I rsxC islandpath_dimob hgt suspected!
+NC_002929 Bordetella_pertussis_Tohama_I rsxC islandpath_dimob hgt suspected!
+./optimized_results_proteobacteria/ydhYVWXUT.txt
+./optimized_results_proteobacteria/yiaKLMNO-lyxK-sgbHUE.txt
+NC_004463 Bradyrhizobium_japonicum_USDA_110 sgbE islandpick hgt suspected!
+NC_004463 Bradyrhizobium_japonicum_USDA_110 sgbU islandpick hgt suspected!
+./optimized_results_proteobacteria/yjeFE-amiB-mutL-miaA-hfq-hflXKC.txt
+1.29991412163

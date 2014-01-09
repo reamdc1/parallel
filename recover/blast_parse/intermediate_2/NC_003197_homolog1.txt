@@ -1,0 +1,26 @@
+STM1415
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1415	ssaN	atpD	NONE	6e-31	31.33	121.0	51.2	1495690	1496992	1	Protein	332	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+STM1972
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1972	fliI	atpD	NONE	5e-25	31.96	104.0	60.2	2059908	2061279	1	Protein	316	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+STM2894
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2894	invC	atpD	NONE	1e-28	30.68	114.0	54.2	3036676	3037972	-1	Protein	339	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+STM3864
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3864	atpC	atpC	NONE	3e-88	100.0	250.0	55.7	4073670	4074090	-1	Protein	139	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3864	4074090
+STM3865
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3865	atpD	atpD	NONE	0.0	100.0	894.0	55.2	4074110	4075493	-1	Protein	460	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3865	4075493
+STM3866
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3866	atpG	atpG	NONE	0.0	100.0	590.0	53.1	4075519	4076383	-1	Protein	287	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3866	4076383
+STM3867
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3867	atpA	atpA	NONE	0.0	100.0	999.0	55.3	4076433	4077975	-1	Protein	513	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3867	4077975
+STM3868
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3868	atpH	atpH	NONE	1e-129	100.0	358.0	52.8	4077987	4078521	-1	Protein	177	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3868	4078521
+STM3869
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3869	atpF	atpF	NONE	6e-90	99.36	256.0	52.2	4078535	4079006	-1	Protein	156	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3869	4079006
+STM3870
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3870	atpE	atpE	NONE	3e-29	100.0	97.1	54.6	4079065	4079305	-1	Protein	79	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3870	4079305
+STM3871
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3871	atpB	atpB	NONE	0.0	100.0	506.0	51.6	4079351	4080167	-1	Protein	271	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3871	4080167
+STM3872
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3872	atpI	atpI	NONE	4e-67	100.0	196.0	51.4	4080175	4080556	-1	Protein	126	exact	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3872	4080556
+STM3917
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3917	rho	atpD	NONE	0.0003	23.94	40.0	52.9	4125583	4126843	1	Protein	188	BLAST	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394

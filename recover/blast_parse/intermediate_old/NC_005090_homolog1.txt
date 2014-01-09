@@ -1,0 +1,20 @@
+WS0318
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0318	ATPB	atpB	NONE	8e-11	27.87	57.0	43.1	313316	314000	1	Protein	244	BLAST	NC_002947	Pseudomonas_putida_KT2440	PP_5419	6181436
+WS0511
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0511	ATPF'	atpF	NONE	2e-34	41.84	114.0	42.5	508701	509127	1	Protein	141	BLAST	NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0424	409359
+WS0512
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0512	ATPF	atpF	NONE	5e-23	36.69	86.3	44.2	509144	509657	1	Protein	169	BLAST	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0103	110950
+WS0513
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0513	ATPH	atpH	NONE	1e-06	32.98	42.7	44.6	509656	510187	1	Protein	94	BLAST	NC_002947	Pseudomonas_putida_KT2440	PP_5416	6179625
+WS0514
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0514	ATPA	atpA	uncA	0.0	57.4	578.0	46.3	510217	511720	1	Protein	507	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3651	4331727
+WS0515
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0515	ATPG	atpG	papC:uncG	4e-51	32.99	166.0	45.3	511735	512632	1	Protein	288	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3650	4330066
+WS0516
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0516	ATPD	atpA	uncA	4e-24	25.07	101.0	48.9	512649	514053	1	Protein	363	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3651	4331727
+WS0517
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0517	atpC	atpC	NONE	3e-90	99.24	254.0	51.8	514065	514461	1	Protein	131	exact	NC_005090	Wolinella_succinogenes_DSM_1740	WS0517	514461
+WS0810
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0810	rho	atpD	NONE	2e-07	24.47	49.3	51.5	766440	767802	-1	Protein	237	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3865	4075493
+WS2207
+NC_005090	Wolinella_succinogenes_DSM_1740	WS2207	fliI	atpD	NONE	2e-34	31.18	129.0	52.5	2089515	2090820	-1	Protein	356	BLAST	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3649	4329058

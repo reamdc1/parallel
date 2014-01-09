@@ -1,0 +1,26 @@
+mll4059
+NC_002678	Mesorhizobium_loti_MAFF303099	mll4059	atpC	atpC	NONE	1e-81	100.0	234.0	65.2	3244941	3245349	-1	Protein	135	exact	NC_002678	Mesorhizobium_loti_MAFF303099	mll4059	3245349
+mll4060
+NC_002678	Mesorhizobium_loti_MAFF303099	mll4060	unknown	atpD	NONE	0.0	85.17	750.0	65.5	3245448	3246882	-1	Protein	472	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+mll4063
+NC_002678	Mesorhizobium_loti_MAFF303099	mll4063	unknown	atpG	NONE	5e-106	64.63	308.0	62.9	3247099	3247984	-1	Protein	294	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0441	476230
+mll4065
+NC_002678	Mesorhizobium_loti_MAFF303099	mll4065	unknown	atpD	NONE	5e-19	25.77	87.0	64.5	3248016	3249546	-1	Protein	326	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+mll4066
+NC_002678	Mesorhizobium_loti_MAFF303099	mll4066	unknown	atpH	NONE	3e-61	52.15	186.0	63.3	3249545	3250106	-1	Protein	186	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0443	478494
+mll4485
+NC_002678	Mesorhizobium_loti_MAFF303099	mll4485	rho	atpD	NONE	2e-06	25.84	47.8	60.5	3569577	3570834	-1	Protein	267	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+mlr2909
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr2909	fliI	atpD	NONE	9e-24	33.7	101.0	68.5	2343126	2344527	1	Protein	273	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+mlr6342
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6342	unknown	atpD	NONE	1e-28	29.49	115.0	59.7	5157466	5158825	1	Protein	356	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+mlr7410
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr7410	unknown	atpI	NONE	1e-23	60.61	86.3	61.3	6126151	6126559	1	Protein	66	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	715822
+mlr7411
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr7411	unknown	atpA	NONE	5e-87	59.6	256.0	59.4	6126643	6127402	1	Protein	250	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014
+mlr7413
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr7413	unknown	atpB	NONE	1e-37	52.33	127.0	64.6	6127753	6128335	1	Protein	193	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+mlr7415
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr7415	unknown	atpB	NONE	8e-27	48.7	97.1	64.6	6128345	6128837	1	Protein	154	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349
+msr7412
+NC_002678	Mesorhizobium_loti_MAFF303099	msr7412	unknown	atpC	NONE	3e-10	78.57	48.9	63.1	6127466	6127691	1	Protein	28	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	1304211

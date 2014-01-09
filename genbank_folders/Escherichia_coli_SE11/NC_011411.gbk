@@ -1,0 +1,167 @@
+LOCUS       NC_011411               4082 bp    DNA     circular BCT 22-JUL-2009
+DEFINITION  Escherichia coli SE11 plasmid pSE11-6, complete sequence.
+ACCESSION   NC_011411
+VERSION     NC_011411.1  GI:209916825
+KEYWORDS    .
+SOURCE      Escherichia coli SE11
+  ORGANISM  Escherichia coli SE11
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 4082)
+  AUTHORS   Oshima,K., Toh,H., Ogura,Y., Sasamoto,H., Morita,H., Park,S.H.,
+            Ooka,T., Iyoda,S., Taylor,T.D., Hayashi,T., Itoh,K. and Hattori,M.
+  TITLE     Complete genome sequence and comparative analysis of the wild-type
+            commensal Escherichia coli strain SE11 isolated from a healthy
+            adult
+  JOURNAL   DNA Res. 15 (6), 375-386 (2008)
+   PUBMED   18931093
+REFERENCE   2  (bases 1 to 4082)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-OCT-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 4082)
+  AUTHORS   Hattori,M., Oshima,K., Toh,H., Sasamoto,H. and Shiba,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2006) Contact:Masahira Hattori Graduate School of
+            Frontier Sciences, University of Tokyo; 5-1-5 Kashiwanoha, Kashiwa,
+            Chiba 277-8562, Japan URL
+            :http://www.cb.k.u-tokyo.ac.jp/hattorilab/
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AP009246.
+            This work was done in collaboration with Yoshitoshi Ogura, Tadasuke
+            Ooka, and Tetsuya Hayashi (University of Miyazaki), Sang-Hee Park
+            and Kikuji Itoh (University of Tokyo), and Hidetoshi Morita (Azabu
+            University).
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..4082
+                     /organism="Escherichia coli SE11"
+                     /mol_type="genomic DNA"
+                     /strain="SE11"
+                     /db_xref="taxon:409438"
+                     /plasmid="pSE11-6"
+     gene            1..702
+                     /locus_tag="ECSE_P6-0001"
+                     /db_xref="GeneID:6998253"
+     CDS             1..702
+                     /locus_tag="ECSE_P6-0001"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="replication protein"
+                     /protein_id="YP_002291084.1"
+                     /db_xref="GI:209916826"
+                     /db_xref="GeneID:6998253"
+                     /translation="MSDLIAYKSNALVEASYKLTLQEQRFLLLCIGRLKSGADAESPK
+                     LQKTMTITAAEYFDSFPDMGRKNAEVQLQEAIDRLWDRSIILKDDEKREEFRWIQYRA
+                     QYAKGEARAQITFSDAVMPYLTQLQGQFTRVVIKNISRLSRSYSIRIYELLQQFRSTG
+                     ERIIALDDFRSMLDIEHKYQTYKSLNQQLLRPCIDELNKKSDLAVTVETIKKGRTVVA
+                     LHFRFKEDKQIKMTI"
+     gene            complement(958..3117)
+                     /locus_tag="ECSE_P6-0002"
+                     /db_xref="GeneID:6998251"
+     CDS             complement(958..3117)
+                     /locus_tag="ECSE_P6-0002"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_002291085.1"
+                     /db_xref="GI:209916827"
+                     /db_xref="GeneID:6998251"
+                     /translation="MAIYHLSMKIISRNSGYSAVASAAYRSGSLMLDERTGLTHDYTR
+                     KSGVAEAVILTPATAPAWCTNRAELWNAVEKAERRKNSQLAREIELAIPRELPQDAAR
+                     ETVLAFVRENFVSQGMIADVAFHHMDKTNPHAHIMLTTRAVGPAGFGGKVRDWNDRTH
+                     AETWRASWADHANRALANAGYQEEIDHRSYERQGLEKTPGIHLGKSACAMETRGIETE
+                     RGEQNRLINRLNLEIQISRTELRNSGLTEPARRVADLLNIVLPDNATSYTLRDIIEAL
+                     PKDSNAAWKLTSNAMSMMADMQATRRRWEELNTERKEAMSHAASLKKSSPFSSGFSRI
+                     PLMQWAAPEYRSEQGKIQSLSQQMEKLRQHYRKVEKQDIPASQTAFEKQWQQWGASGL
+                     AALRVQLLKREEELRRKEQEDTERSRAERRAEQLRKNDNAVMDSGVLSAVVTGYGEAP
+                     MPGNGEMTCYLLLHNRNGEYTLWGNELEKYRTRIFERVDLMRDRSGYICDRSEIGQHP
+                     PLQRVYSSATFEQLLTQVCQTWPQYTRNLRQPKTWPESFCLGEDRQPAMPSLAARKVD
+                     FTQGRLLPTLMPVMSSVDRETRQLQLLLVMGVDDSLGGVVRLNGTLYPAFAVPSADNS
+                     QLVISALTDKGLRYAGYGVAVNHDADSHISPAPELMEFHLKTREAPLFAAVNTPEKQP
+                     DHLFRSLGFNRTWDEWRREEDARTHATERRHDRGWSQ"
+     gene            3296..3550
+                     /locus_tag="ECSE_P6-0003"
+                     /db_xref="GeneID:6998252"
+     CDS             3296..3550
+                     /locus_tag="ECSE_P6-0003"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_002291086.1"
+                     /db_xref="GI:209916828"
+                     /db_xref="GeneID:6998252"
+                     /translation="MSRTLEQKIADAEARLQRLKAKSRSLDTAQKVIVGAALLAKVRK
+                     PEEVQLRAWLLQFLKAEVTRQADVTRILPLINELEALPGQ"
+ORIGIN      
+        1 atgtcggatc taattgccta taaatccaat gcgctggttg aagccagtta taaattgacc
+       61 ctacaggaac agcgtttttt gttactttgc atcggtcgat tgaagtctgg ggctgatgca
+      121 gaatctccaa aattgcaaaa gacaatgacc attacagctg cggaatattt cgattcattc
+      181 cctgacatgg ggcggaaaaa tgccgaggtt cagttacagg aagcaattga tcgtttgtgg
+      241 gacaggtcaa tcattctcaa ggatgacgag aaacgtgagg agttccgctg gatccagtat
+      301 cgggcacagt acgctaaagg cgaggccaga gcacaaataa cattttctga cgcagtaatg
+      361 ccttatttga cacaactaca agggcaattt actagagttg taatcaagaa tatatctaga
+      421 ttatcaagaa gttacagtat aaggatatac gaactcctcc agcagttccg cagtactggc
+      481 gaacgtatta tcgctctcga tgattttcgc tcaatgcttg atatagagca taaatatcaa
+      541 acatataaat cacttaacca gcaattatta agaccctgca ttgacgaact gaacaaaaaa
+      601 agcgacctgg ctgtaacggt tgagacgatc aaaaaggggc gcacggttgt agccctgcat
+      661 tttcgcttca aggaagacaa acaaatcaag atgacgatct aaaatcgatt ttaaggcacc
+      721 taaaacgctc cctgccgcgt tttttttgtg ttagtagtgc gaaggtacta ttgaagtgaa
+      781 aaattgcgtc aaaagcgctc taatgcagcg aaaaaagaac ccccattttt tgggggcgga
+      841 aaaacaaaac tatgcttgca ttatgtgtgt gcttcttgca ttcatccctg tcgatgaaca
+      901 tcgaagaaca tcgacgaaca taacacgatg ttaaacaaaa caaaatattg ttcacattca
+      961 ctgtgaccaa ccgcgatcat gtctcctctc ggtggcgtgt gttcgtgcat cttcctcgcg
+     1021 ccgccattcg tcccaggtac gattaaaacc cagcgagcgg aacagatgat ccggctgttt
+     1081 ttctggtgtg ttgacggcag caaaaagcgg tgcctcacgg gttttcagat gaaactccat
+     1141 aagttccggc gcaggtgata tgtggctgtc tgcatcgtga tttacggcaa caccataccc
+     1201 tgcataccgt aaccccttat cggtcagtgc actgatgacc agctggctgt tatcggctga
+     1261 gggaacggca aacgcgggat acagcgtacc attaagccgg acaacaccgc ccagagagtc
+     1321 atccacgccc atgaccagca aaagctgaag ctggcgggtt tcccggtcga cagaactcat
+     1381 taccggcatc agcgtcggta gcagacgtcc ctgcgtaaaa tccaccttcc ttgctgccag
+     1441 tgatggcatg gctggctggc ggtcttctcc aagacagaaa gactccggcc atgtcttcgg
+     1501 ctggcggaga ttgcgggtat attgcggcca tgtctggcaa acctgcgtca gaagttgctc
+     1561 aaaggtcgca gaggaataaa cacgttgcag tggtggatgt tgaccgattt cgcttcggtc
+     1621 acagatataa ccactcctgt cacgcattaa atcaacacgc tcaaagattc tggtgcggta
+     1681 tttctccagc tcgttccccc agagcgtgta ttctccgttc cggttgtgaa gcagaaggta
+     1741 acaggtcatt tccccgttac caggcatggg ggcctcgcca taccccgtaa cgactgcgct
+     1801 cagtacccct gaatccataa cggcattgtc atttttcctg agctgttccg ctcgtcgctc
+     1861 cgcgcgacta cgttctgtat cctcctgctc cttccggcgc aattcctctt cacgtttaag
+     1921 caactggact ctgagagctg caaggccgga tgccccccac tgctgccact gtttttcaaa
+     1981 tgccgtctga ctcgcgggaa tgtcctgttt ctccaccttc cggtaatgct gtcgcaattt
+     2041 ttccatttgc tggctcagcg actggatttt tccctgttcg ctacggtatt ccggtgccgc
+     2101 ccattgcatc aggggaatac gggaaaaacc ggacgaaaac ggcgatgatt ttttcaggct
+     2161 ggcagcatgg ctcatcgctt cctttcgttc ggtgttcagc tcttcccagc gtctgcgcgt
+     2221 cgcctgcata tctgccatca tcgacatggc attactggtg agtttccatg ccgcattact
+     2281 gtccttcggc aacgcttcga tgatgtcacg tagtgtgtac gaagttgcgt tgtcaggaag
+     2341 cacgatattc agaaggtcag ccacacggcg ggcaggctct gtcagcccgc tgtttctgag
+     2401 ttcggtacgg gaaatctgta tttccaggtt aagtctgtta atcagacgat tctgttcgcc
+     2461 gcgttctgtt tcgataccgc gtgtttccat cgcacaggca gactttccga ggtgaatacc
+     2521 aggcgttttc tcaagcccct gtcgctcgta tgaacgatgg tctatctctt cctgataacc
+     2581 ggcgttcgcc agtgccctgt tcgcatggtc agcccatgat gcacgccacg tctcggcatg
+     2641 tgtccggtcg ttccagtccc tgacctttcc accgaatcca gcaggtccga cagctctcgt
+     2701 ggtcagcatg atgtgcgcat ggggatttgt tttatccatg tgatggaacg ccacatcagc
+     2761 aatcatgccc tgactgacaa agttttctct gacaaaggcg agaacggttt cccgtgcggc
+     2821 atcctgcggt agttcgcggg ggatggcgag ttcaatttcc cgcgcaagtt gtgagttctt
+     2881 ccggcgttcg gccttctcaa cggcattcca gagttcggca cggttcgtac accaggcagg
+     2941 ggctgtcgcg ggagtcagaa tcacagcttc agccacaccg cttttgcggg tgtagtcgtg
+     3001 agtcagtccg gtacgctcat caagcatcag tgaaccggaa cgataggcag cagaagcaac
+     3061 ggcgctgtag ccgctgtttc tggagatgat tttcatgctg agatgataaa tcgccatttc
+     3121 tgccgtaatg cctttttgtg gttttctttc agccccgcag ggcgcacaca atcgaaacgg
+     3181 agtggagatt gtataagtgc gcacttcgtg attttccgtg cattatgcca gctcagtttt
+     3241 taaactacca gtgacgcgct aaaatgcgat ttttcatcgc gcacggagtt acatcatgag
+     3301 cagaacactc gaacagaaga ttgctgatgc tgaggccaga ttacagcgcc tgaaggcgaa
+     3361 gagcaggagt ctggacacag cgcagaaggt cattgtgggt gcagcattgc tggcaaaggt
+     3421 cagaaagccg gaggaggtgc agttgcgtgc ctggttactc cagttcctga aggcagaggt
+     3481 gacacgacag gctgatgtga cgcgcatact accgctgatt aacgagctgg aagcgctgcc
+     3541 aggacagtga ttgtatcgtc cgctcgccgc agtcccagcg accgagcgtt agcgagcgag
+     3601 tgggcgagga agcggaagtg aatccgtcgc ctgattgagc acatacgcac ggtttttcgg
+     3661 gaggtgatat gcgctgaacc cgcatgaata ctggatttcc acagggttgg agggggtgta
+     3721 ttcggaactt gcaattctgc ttttttgcaa cgcattgttt ttattggttt tttgttttca
+     3781 gcactccaag ttatccacag gctcgtcgtt aagtttttag atcttgtttt taagatcttg
+     3841 tttttaatac ttgttttagc gccaaaattc cttatagaaa acaaaatgtt acaacgctat
+     3901 aggtaatatg atttaaggta aaggtaatat gatttaaggt gtttaggggg aggaatttaa
+     3961 ggtaaaggca atatgattta aggtaatatt cacagaaaaa gggatattaa aataaaaagg
+     4021 cattgccttt cgttgagggt atgtttatct tttattcatt accttttggg gagggatgct
+     4081 ct
+//

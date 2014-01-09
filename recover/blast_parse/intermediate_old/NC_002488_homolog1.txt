@@ -1,0 +1,16 @@
+XF1142
+NC_002488	Xylella_fastidiosa_9a5c	XF1142	atpC	atpC	NONE	4e-90	100.0	254.0	50.7	1100796	1101228	-1	Protein	143	exact	NC_002488	Xylella_fastidiosa_9a5c	XF1142	1101228
+XF1143
+NC_002488	Xylella_fastidiosa_9a5c	XF1143	unknown	atpA	NONE	2e-27	25.35	111.0	50.1	1101297	1102698	-1	Protein	426	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122
+XF1144
+NC_002488	Xylella_fastidiosa_9a5c	XF1144	unknown	atpG	papC:uncG	5e-126	57.99	357.0	48.6	1102780	1103644	-1	Protein	288	BLAST	NC_003143	Yersinia_pestis_CO92	YPO4122	4646061
+XF1145
+NC_002488	Xylella_fastidiosa_9a5c	XF1145	unknown	atpA	NONE	0.0	65.61	717.0	50.7	1103737	1105285	-1	Protein	506	BLAST	NC_005061	Candidatus_Blochmannia_floridanus	Bfl006	6084
+XF1146
+NC_002488	Xylella_fastidiosa_9a5c	XF1146	unknown	atpH	NONE	2e-05	27.85	39.7	50.0	1105334	1105862	-1	Protein	158	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02498	3295688
+XF1147
+NC_002488	Xylella_fastidiosa_9a5c	XF1147	unknown	atpF	NONE	2e-37	44.87	122.0	44.2	1105865	1106336	-1	Protein	156	BLAST	NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0202	237563
+XF1148
+NC_002488	Xylella_fastidiosa_9a5c	XF1148	unknown	atpE	papH:uncE	6e-12	56.82	52.8	52.3	1106456	1106762	-1	Protein	44	BLAST	NC_003143	Yersinia_pestis_CO92	YPO4126	4648998
+XF1149
+NC_002488	Xylella_fastidiosa_9a5c	XF1149	unknown	atpB	papD:uncB	8e-66	43.48	202.0	46.4	1106825	1107623	-1	Protein	276	BLAST	NC_003143	Yersinia_pestis_CO92	YPO4127	4649872

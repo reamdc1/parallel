@@ -1,0 +1,17 @@
+ilvLXG_1G_2MEDA
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,ilvMEDA ilvX
+NC_004741,Shigella_flexneri_2a_str._2457T,<ilvADEM>
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,<ilvADEM>
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,ilvMEDA
+NC_003143,Yersinia_pestis_CO92,<ilvADEM>
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,<ilvAD> <ilvE> <ilvM>
+NC_004459,Vibrio_vulnificus_CMCP6,<ilvADEM>
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,ilvMEDA
+NC_000907,Haemophilus_influenzae_Rd_KW20,ilvMDA <ilvE>
+NC_004347,Shewanella_oneidensis_MR-1,<ilvADM> ilvE
+NC_005061,Candidatus_Blochmannia_floridanus,<ilvADEM>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,<ilvAM> <ilvE> <ilvD>
+NC_002488,Xylella_fastidiosa_9a5c,<ilvAM> <ilvE> <ilvD>
+NC_003062,Agrobacterium_tumefaciens_str._C58,<ilvAD> ilvE
+NC_005090,Wolinella_succinogenes_DSM_1740,ilvDA <ilvE>
+NC_004917,Helicobacter_hepaticus_ATCC_51449,ilvAD > <ilvE>

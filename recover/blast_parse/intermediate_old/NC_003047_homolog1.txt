@@ -1,0 +1,24 @@
+SMc00868
+NC_003047	Sinorhizobium_meliloti_1021	SMc00868	atpF	atpF	NONE	1e-21	75.78	82.8	62.1	918703	919189	1	Protein	161	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0717	718141
+SMc00869
+NC_003047	Sinorhizobium_meliloti_1021	SMc00869	atpF2	atpB	NONE	2e-54	67.37	170.0	63.6	918075	918690	1	Protein	190	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+SMc00870
+NC_003047	Sinorhizobium_meliloti_1021	SMc00870	atpE	atpE	NONE	3e-36	100.0	114.0	61.8	917774	918002	1	Protein	58	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc00870	918002
+SMc00871
+NC_003047	Sinorhizobium_meliloti_1021	SMc00871	atpB	atpB	NONE	3e-162	99.6	446.0	59.9	916937	917690	1	Protein	250	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc00871	917690
+SMc00872
+NC_003047	Sinorhizobium_meliloti_1021	SMc00872	atpI	atpI	NONE	6e-105	100.0	293.0	62.9	916430	916877	1	Protein	148	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc00872	916877
+SMc02498
+NC_003047	Sinorhizobium_meliloti_1021	SMc02498	atpH	atpH	NONE	5e-118	99.47	329.0	60.7	3295121	3295688	-1	Protein	188	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02498	3295688
+SMc02499
+NC_003047	Sinorhizobium_meliloti_1021	SMc02499	atpA	atpA	NONE	0.0	100.0	1024.0	63.1	3293592	3295122	-1	Protein	509	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122
+SMc02500
+NC_003047	Sinorhizobium_meliloti_1021	SMc02500	atpG	atpG	NONE	0.0	100.0	526.0	62.4	3292680	3293565	-1	Protein	294	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02500	3293565
+SMc02501
+NC_003047	Sinorhizobium_meliloti_1021	SMc02501	atpD	atpD	NONE	0.0	100.0	881.0	64.4	3291141	3292656	-1	Protein	454	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02501	3292656
+SMc02502
+NC_003047	Sinorhizobium_meliloti_1021	SMc02502	atpC	atpC	NONE	2e-96	100.0	271.0	60.8	3290614	3291025	-1	Protein	136	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02502	3291025
+SMc02796
+NC_003047	Sinorhizobium_meliloti_1021	SMc02796	rho	atpD	NONE	2e-07	24.8	49.7	60.0	3651161	3652427	-1	Protein	250	BLAST	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1494	1686725
+SMc03025
+NC_003047	Sinorhizobium_meliloti_1021	SMc03025	fliI	atpD	NONE	7e-31	32.82	120.0	67.2	722678	724082	1	Protein	323	BLAST	NC_002947	Pseudomonas_putida_KT2440	PP_5413	6176586

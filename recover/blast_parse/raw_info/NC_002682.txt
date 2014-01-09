@@ -1,0 +1,7 @@
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	22.76	145	95	5	138	265	31	456	9e-05	37.4
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	22.54	142	93	5	141	265	40	456	2e-04	36.2
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	22.54	142	93	5	141	265	40	456	2e-04	36.2
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	26.83	82	54	3	141	216	40	276	8e-04	34.3
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	24.18	153	97	6	145	278	64	513	5e-05	38.1
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	22.76	145	95	5	138	265	31	456	9e-05	37.4
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_002682|mlr9679|unknown|144283|145813|1|Mesorhizobium_loti_MAFF303099	23.78	164	102	6	138	278	31	513	3e-05	38.9

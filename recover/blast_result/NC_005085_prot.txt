@@ -1,0 +1,1474 @@
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	63.19	508	187	0	1	508	1	1524	0.0	 639
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	25.41	366	267	5	74	433	226	1272	2e-26	 108
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	27.14	350	250	6	99	443	1035	37	2e-26	 108
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.50	347	255	5	96	435	1041	46	2e-24	 103
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	25.69	327	241	4	82	406	1083	154	1e-23	 100
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_006|atpA|4529|6068|1|Protein|NONE|30.6	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	24.50	347	248	6	71	403	148	1125	5e-22	96.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_002|atpB|2277|3102|1|Protein|NONE|27.8	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	48.57	280	130	7	7	272	7	810	4e-74	 228
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_009|atpC|8420|8837|1|Protein|NONE|27.1	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	36.36	132	84	0	5	136	16	411	5e-25	92.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	73.89	471	117	3	1	465	1	1392	0.0	 672
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.17	384	264	8	33	408	1179	64	1e-37	 141
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.55	310	199	6	80	382	1035	148	4e-31	 121
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.07	342	238	8	77	410	1041	58	9e-28	 112
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	33.19	232	151	4	181	408	589	1272	4e-26	 107
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_008|atpD|6996|8394|1|Protein|NONE|33.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.36	312	221	3	52	348	211	1128	2e-16	79.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_003|atpE|3138|3378|1|Protein|NONE|36.2	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	51.16	43	21	0	34	76	109	237	6e-12	54.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_004|atpF|3496|3982|1|Protein|NONE|25.7	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	30.36	112	78	0	22	133	1	336	2e-16	70.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_007|atpG|6100|6973|1|Protein|NONE|29.0	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	48.26	288	148	1	1	287	1	864	2e-100	 297
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_011833|Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)|BUAP5A_005|atpH|3981|4515|1|Protein|NONE|21.5	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	24.57	175	127	3	6	175	16	528	8e-19	78.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	71.48	512	146	0	3	514	4	1539	0.0	 752
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.79	349	251	4	57	404	181	1173	1e-29	 117
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.38	390	275	8	72	445	148	1242	3e-29	 117
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.14	334	238	5	76	407	1104	154	1e-28	 115
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	27.09	347	246	5	97	436	1041	46	2e-28	 114
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5556|atpA|6250595|6252140|-1|Protein|NONE|62.6	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.25	354	241	7	94	434	1071	67	3e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5560|atpB|6253541|6254411|-1|Protein|NONE|59.9	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	49.66	292	141	5	3	288	4	810	2e-83	 253
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5553|atpC|6247810|6248236|-1|Protein|NONE|66.7	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	45.78	83	44	1	5	86	10	258	3e-19	77.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	82.97	464	73	1	1	458	1	1392	0.0	 742
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	34.25	327	207	5	55	373	1101	151	1e-37	 140
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.46	356	238	7	76	425	1038	13	1e-34	 132
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.33	300	198	3	78	375	1035	148	7e-32	 124
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.86	402	282	9	4	401	100	1272	2e-28	 114
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5554|atpD|6248277|6249654|-1|Protein|NONE|61.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.60	374	263	7	50	404	211	1308	2e-22	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5559|atpE|6253234|6253492|-1|Protein|NONE|57.8	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	69.77	43	13	0	38	80	124	252	2e-18	72.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5558|atpF|6252706|6253177|-1|Protein|NONE|60.1	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	56.30	135	59	0	22	156	1	405	9e-42	 136
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5555|atpG|6249684|6250545|-1|Protein|NONE|59.0	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	55.21	288	127	2	1	286	1	864	8e-110	 321
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002516|Pseudomonas_aeruginosa_PAO1|PA5557|atpH|6252158|6252695|-1|Protein|NONE|60.7	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	43.82	178	100	0	1	178	1	534	1e-41	 138
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002516|Pseudomonas_aeruginosa_PAO1|PA5561|atpI|6254427|6254808|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	69.98	513	154	0	1	513	1	1539	0.0	 698
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.05	296	203	4	115	403	337	1173	1e-26	 109
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	26.93	323	233	3	114	433	990	67	4e-26	 107
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.70	278	201	3	129	406	936	154	8e-25	 103
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.62	329	241	5	114	435	987	46	1e-23	 100
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3734|atpA|3916338|3917880|-1|Protein|ECK3727:JW3712:papA:uncA|53.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.22	347	242	6	71	403	148	1125	1e-19	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3738|atpB|3919258|3920074|-1|Protein|ECK3731:JW3716:papD:uncB|50.2	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	53.26	276	115	6	10	271	19	810	1e-81	 248
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3731|atpC|3913575|3913995|-1|Protein|ECK3724:JW3709:papG:uncC|55.2	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	54.02	87	39	1	6	91	13	273	1e-26	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	81.76	466	79	2	1	460	1	1392	0.0	 733
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	34.44	302	194	5	80	377	1035	148	1e-34	 132
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.29	350	230	6	33	375	1179	151	4e-33	 127
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.55	336	223	6	77	405	1041	58	3e-32	 125
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.86	350	241	7	62	403	256	1272	1e-26	 108
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3732|atpD|3914015|3915398|-1|Protein|ECK3725:JW3710:papB:uncD|54.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.59	366	253	5	1	343	55	1128	1e-20	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3737|atpE|3918972|3919212|-1|Protein|ECK3730:JW3715:papH:uncE|54.2	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	55.81	43	19	0	34	76	109	237	3e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3736|atpF|3918440|3918911|-1|Protein|ECK3729:JW3714:papF:uncF|52.9	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	49.63	135	68	0	22	156	1	405	1e-25	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3733|atpG|3915424|3916288|-1|Protein|ECK3726:JW3711:papC:uncG|53.5	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	56.25	288	125	1	1	287	1	864	4e-113	 329
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3735|atpH|3917892|3918426|-1|Protein|ECK3728:JW3713:papE:uncH|51.9	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	33.70	181	116	2	1	177	1	534	2e-30	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000913|Escherichia_coli_str._K-12_substr._MG1655|b3739|atpI|3920082|3920463|-1|Protein|ECK3732:JW5611:uncI|52.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	74.27	513	132	0	1	513	1	1539	0.0	 766
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.71	350	238	8	96	437	1041	52	8e-30	 119
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.09	356	253	3	81	433	256	1272	7e-29	 115
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.34	334	234	5	75	406	1104	154	3e-28	 114
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	24.83	443	314	12	71	494	148	1386	3e-28	 114
+NC_002927|Bordetella_bronchiseptica_RB50|BB4607|atpA|4907998|4909540|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.37	356	245	6	88	433	1086	67	5e-26	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4611|atpB|4911093|4911975|-1|Protein|papD:uncB|61.5	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	45.33	289	156	8	7	293	4	810	3e-62	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4604|atpC|4905119|4905542|-1|Protein|papG:uncC|68.3	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	50.59	85	41	1	1	84	1	255	3e-23	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	83.47	472	72	2	1	466	1	1395	0.0	 733
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.58	353	232	5	62	408	1101	64	3e-32	 125
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.49	354	235	6	83	432	1038	13	2e-31	 123
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.54	322	211	5	85	403	1035	94	7e-31	 120
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.00	390	256	10	36	408	148	1272	8e-28	 112
+NC_002927|Bordetella_bronchiseptica_RB50|BB4605|atpD|4905551|4906952|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.06	395	277	7	1	376	55	1209	9e-20	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4610|atpE|4910734|4910977|-1|Protein|NONE|60.1	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	64.71	51	18	0	29	79	100	252	1e-19	75.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4609|atpF|4910126|4910597|-1|Protein|papF:uncF|62.6	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	52.59	135	64	0	22	156	1	405	2e-22	86.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4606|atpG|4906994|4907900|-1|Protein|papC:uncG|61.0	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	53.69	298	137	3	5	301	13	864	1e-109	 321
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002927|Bordetella_bronchiseptica_RB50|BB4608|atpH|4909574|4910114|-1|Protein|papE:uncH|63.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	40.59	170	101	1	1	170	1	507	8e-34	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	78.17	513	112	0	1	513	1	1539	0.0	 791
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.77	351	242	7	96	438	1041	34	3e-29	 117
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.34	334	234	4	75	406	1104	154	3e-28	 114
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.33	353	250	4	85	434	268	1275	6e-28	 113
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.99	345	230	8	92	421	1074	103	1e-26	 109
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0204|atpA|238112|239654|1|Protein|NONE|46.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.09	345	243	5	71	403	148	1125	2e-25	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0200|atpB|235918|236728|1|Protein|NONE|43.3	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	46.59	279	132	8	8	269	10	810	1e-66	 209
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0207|atpC|241983|242406|1|Protein|NONE|46.8	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	53.28	137	63	1	5	140	10	420	6e-35	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	82.51	463	75	1	4	460	7	1395	0.0	 716
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.97	357	240	7	56	402	1101	64	1e-30	 119
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.02	321	210	6	61	376	1089	148	4e-30	 119
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.42	331	224	4	77	404	1038	58	2e-29	 117
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.15	335	223	9	79	402	310	1272	7e-22	95.1
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0206|atpD|240572|241955|1|Protein|NONE|46.6	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.69	362	246	6	4	342	61	1128	1e-17	82.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0201|atpE|236770|237043|1|Protein|NONE|50.2	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	61.22	49	19	0	39	87	109	255	2e-15	64.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0202|atpF|237089|237563|1|Protein|NONE|47.3	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	56.72	134	58	0	23	156	4	405	5e-47	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0205|atpG|239657|240542|1|Protein|NONE|45.6	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	55.78	294	130	1	1	294	1	864	4e-121	 350
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004757|Nitrosomonas_europaea_ATCC_19718|NE0203|atpH|237563|238100|1|Protein|NONE|43.4	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	43.26	178	101	0	1	178	1	534	7e-49	 157
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	57.69	520	209	3	1	509	1	1536	0.0	 583
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.75	436	310	8	20	450	73	1332	2e-37	 140
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.12	364	256	5	46	407	1176	142	2e-36	 137
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	30.38	339	232	5	97	431	1038	61	7e-35	 133
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	30.47	338	229	8	99	430	1035	67	2e-33	 128
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.41	390	278	7	71	451	148	1260	1e-30	 121
+NC_003047|Sinorhizobium_meliloti_1021|SMc02499|atpA|3293592|3295122|-1|Protein|NONE|63.1	ref|NC_005085|CV_1585|rho|1708628|1709885|1|Chromobacterium_violaceum_ATCC_12472|62.4|NONE	23.25	271	196	11	115	373	355	1098	5e-05	42.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc00871|atpB|916937|917690|1|Protein|NONE|59.9	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	25.22	226	135	7	55	246	172	804	1e-06	45.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02502|atpC|3290614|3291025|-1|Protein|NONE|60.8	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	39.29	112	67	1	7	117	10	345	1e-15	67.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	70.65	460	129	3	36	489	10	1362	0.0	 617
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	30.90	343	229	9	110	444	1038	58	7e-31	 122
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.75	353	244	5	66	414	1176	151	1e-28	 115
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	31.91	329	218	9	94	416	1089	148	3e-28	 113
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.25	354	249	7	94	442	256	1272	1e-27	 112
+NC_003047|Sinorhizobium_meliloti_1021|SMc02501|atpD|3291141|3292656|-1|Protein|NONE|64.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.00	324	228	3	75	383	184	1131	1e-20	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00870|atpE|917774|918002|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00868|atpF|918703|919189|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003047|Sinorhizobium_meliloti_1021|SMc02500|atpG|3292680|3293565|-1|Protein|NONE|62.4	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	35.57	298	184	8	5	294	13	864	7e-42	 146
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc02498|atpH|3295121|3295688|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003047|Sinorhizobium_meliloti_1021|SMc00872|atpI|916430|916877|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002678|Mesorhizobium_loti_MAFF303099|mll4059|atpC|3244941|3245349|-1|Protein|NONE|65.2	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	41.24	97	54	2	5	98	10	300	1e-15	67.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	69.59	513	156	0	1	513	1	1539	0.0	 695
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	27.47	324	232	3	113	433	993	67	1e-27	 112
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.62	290	207	2	114	403	355	1173	2e-27	 111
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.42	278	199	3	129	406	936	154	5e-26	 107
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	25.15	330	240	5	113	435	990	46	4e-24	 102
+NC_003143|Yersinia_pestis_CO92|YPO4123|atpA|4646122|4647664|-1|Protein|papA:uncA|49.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.45	389	274	8	71	443	148	1239	3e-20	90.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4127|atpB|4649047|4649872|-1|Protein|papD:uncB|46.1	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	53.74	281	116	6	8	274	7	810	9e-80	 243
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4120|atpC|4643215|4643638|-1|Protein|papG:uncC|49.6	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	49.62	133	66	1	7	138	13	411	2e-32	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	80.69	466	84	2	1	460	1	1392	0.0	 729
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.14	336	221	6	77	405	1041	58	5e-35	 133
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.33	318	210	3	62	377	1089	148	1e-34	 132
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	31.64	354	235	7	57	403	1101	64	3e-33	 128
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.90	346	242	6	62	403	256	1272	2e-26	 108
+NC_003143|Yersinia_pestis_CO92|YPO4121|atpD|4643659|4645042|-1|Protein|papB:uncD|49.8	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.90	390	267	8	4	371	85	1209	2e-22	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4126|atpE|4648758|4648998|-1|Protein|papH:uncE|52.1	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	55.81	43	19	0	34	76	109	237	3e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4125|atpF|4648226|4648697|-1|Protein|papF:uncF|49.3	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	46.67	135	72	0	22	156	1	405	3e-28	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4122|atpG|4645197|4646061|-1|Protein|papC:uncG|50.9	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	56.25	288	125	1	1	287	1	864	4e-115	 334
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003143|Yersinia_pestis_CO92|YPO4124|atpH|4647678|4648212|-1|Protein|papE:uncH|49.4	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	34.27	178	116	1	1	177	1	534	3e-33	 116
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003143|Yersinia_pestis_CO92|YPO4128|atpI|4649911|4650295|-1|Protein|uncI|46.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	58.08	520	207	3	1	509	1	1536	0.0	 587
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.75	436	310	8	20	450	73	1332	6e-37	 139
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.40	364	255	6	46	407	1176	142	1e-36	 138
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	30.38	339	232	5	97	431	1038	61	3e-34	 131
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.88	338	231	8	99	430	1035	67	2e-32	 125
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.84	418	288	8	71	466	148	1368	2e-31	 123
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2624|atpA|2607104|2608634|-1|Protein|NONE|58.9	ref|NC_005085|CV_1585|rho|1708628|1709885|1|Chromobacterium_violaceum_ATCC_12472|62.4|NONE	23.14	229	170	9	151	373	478	1098	6e-04	39.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0716|atpB|717012|717654|1|Protein|NONE|62.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2621|atpC|2604174|2604585|-1|Protein|NONE|54.7	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	35.23	88	56	1	4	90	7	270	1e-11	56.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	71.28	470	128	4	17	479	10	1392	0.0	 632
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.49	343	228	9	89	424	1041	58	2e-30	 120
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.94	354	244	5	45	394	1179	151	1e-29	 117
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.68	354	251	6	74	422	256	1272	3e-28	 114
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	31.82	308	207	7	92	396	1035	148	1e-27	 112
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2622|atpD|2604716|2606171|-1|Protein|NONE|60.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.62	324	226	3	55	363	184	1131	1e-20	91.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0717|atpF|717655|718141|1|Protein|NONE|60.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003062|Agrobacterium_fabrum_str._C58|Atu2623|atpG|2606194|2607073|-1|Protein|NONE|57.7	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	34.93	292	186	6	5	292	13	864	8e-37	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu2625|atpH|2608633|2609194|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003062|Agrobacterium_fabrum_str._C58|Atu0713|atpI|715456|715822|1|Protein|NONE|59.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	64.76	508	179	0	1	508	1	1524	0.0	 686
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.07	367	258	6	81	441	256	1278	1e-32	 127
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.84	334	239	5	75	406	1104	154	6e-30	 119
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	26.14	352	251	7	96	438	1041	31	1e-29	 118
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	25.20	369	271	7	70	433	1083	67	5e-27	 110
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl006|atpA|4542|6084|1|Protein|NONE|31.3	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.07	343	244	8	74	403	157	1125	6e-27	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl002|atpB|2293|3112|1|Protein|NONE|26.0	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	45.36	280	136	6	5	267	4	810	6e-75	 230
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl009|atpC|8459|8876|1|Protein|NONE|30.2	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	43.93	107	58	1	3	107	1	321	4e-27	98.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	71.13	471	129	3	1	464	1	1392	0.0	 650
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	30.64	359	237	8	61	407	1101	64	5e-35	 133
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.63	351	225	9	81	409	1041	58	1e-32	 126
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	31.23	333	220	9	84	407	1035	67	2e-28	 113
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.87	348	230	7	81	407	301	1272	7e-25	 103
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl008|atpD|7005|8400|1|Protein|NONE|33.3	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	27.62	315	210	3	51	347	196	1128	1e-20	91.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl003|atpE|3180|3420|1|Protein|NONE|37.5	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	53.49	43	20	0	34	76	109	237	3e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl004|atpF|3489|3975|1|Protein|NONE|28.2	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	28.24	131	94	0	22	152	1	393	4e-11	55.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005061|Candidatus_Blochmannia_floridanus|Bfl007|atpG|6109|6976|1|Protein|NONE|29.0	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	40.07	292	171	4	1	288	1	864	5e-82	 250
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005061|Candidatus_Blochmannia_floridanus|Bfl005|atpH|3975|4521|1|Protein|NONE|24.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_007086|Xanthomonas_campestris_pv._campestris_str._8004|XC_3677|atpC|4364638|4365061|-1|Protein|NONE|66.4	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	44.53	137	75	1	1	136	1	411	7e-27	97.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	70.90	512	149	0	3	514	4	1539	0.0	 748
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.27	352	253	3	86	434	268	1272	2e-30	 120
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.53	354	240	7	94	434	1071	67	5e-29	 116
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.62	318	225	5	92	407	1056	154	3e-28	 114
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	26.51	347	248	5	97	436	1041	46	4e-28	 114
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5601|atpA|6383666|6385211|-1|Protein|NONE|56.8	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.51	347	241	6	72	404	148	1125	6e-28	 113
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5605|atpB|6386705|6387575|-1|Protein|NONE|57.0	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	50.85	293	134	7	4	286	7	804	8e-81	 246
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5598|atpC|6380878|6381298|-1|Protein|NONE|58.3	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	46.99	83	43	1	3	84	10	258	7e-19	76.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	82.80	465	74	2	1	459	1	1392	0.0	 736
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	33.44	323	211	4	56	374	1101	151	4e-36	 136
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.83	355	237	6	77	426	1038	13	5e-36	 136
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	32.38	315	211	4	64	376	1071	148	5e-32	 124
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.53	403	280	9	4	402	100	1272	4e-30	 119
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5599|atpD|6381348|6382728|-1|Protein|NONE|57.2	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.20	377	260	6	37	391	169	1269	2e-22	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5604|atpE|6386309|6386567|-1|Protein|NONE|56.6	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	69.77	43	13	0	38	80	124	252	3e-18	72.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5603|atpF|6385781|6386252|-1|Protein|NONE|55.6	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	52.59	135	64	0	22	156	1	405	2e-32	 112
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5600|atpG|6382755|6383616|-1|Protein|NONE|56.1	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	53.79	290	130	3	1	286	1	864	3e-98	 291
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5602|atpH|6385232|6385769|-1|Protein|NONE|56.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	42.70	178	102	0	1	178	1	534	7e-41	 136
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004578|Pseudomonas_syringae_pv._tomato_str._DC3000|PSPTO_5606|atpI|6387591|6387999|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	69.98	513	154	0	11	523	1	1539	0.0	 707
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.98	283	200	5	106	387	1041	241	1e-27	 112
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.75	314	222	6	81	386	148	1041	3e-26	 108
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	30.98	297	193	8	103	387	1071	244	5e-26	 107
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.05	353	241	6	65	404	142	1146	1e-25	 107
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1019|atpA|1019800|1021372|1|Protein|NONE|46.8	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.52	291	206	4	101	389	1056	235	6e-24	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1015|atpB|1017604|1018417|1|Protein|NONE|44.3	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	49.82	275	123	5	7	266	4	804	3e-85	 257
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1022|atpC|1023739|1024162|1|Protein|NONE|49.2	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	50.00	136	66	2	6	139	10	414	1e-25	94.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	76.74	473	104	3	1	467	1	1392	0.0	 702
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	33.04	345	222	9	78	413	1038	55	7e-32	 124
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	30.99	355	240	6	33	382	1179	151	3e-31	 122
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	32.36	309	205	6	80	384	1035	148	3e-30	 119
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.34	356	241	9	62	410	256	1272	5e-28	 112
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1021|atpD|1022317|1023721|1|Protein|NONE|48.6	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.34	378	267	8	52	410	211	1299	1e-19	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1016|atpE|1018469|1018727|1|Protein|NONE|45.0	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	69.33	75	23	0	6	80	28	252	1e-32	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1017|atpF|1018798|1019269|1|Protein|NONE|44.2	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	50.37	135	67	0	22	156	1	405	2e-31	 110
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1020|atpG|1021415|1022282|1|Protein|NONE|46.1	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	53.98	289	132	2	1	288	1	864	1e-107	 316
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004459|Vibrio_vulnificus_CMCP6|VV1_1018|atpH|1019283|1019817|1|Protein|NONE|45.9	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	33.71	178	117	1	1	177	1	534	2e-32	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	59.51	494	189	4	1	483	1	1458	0.0	 570
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.71	350	244	5	60	407	1149	142	1e-37	 141
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.13	435	313	6	20	450	73	1332	3e-36	 137
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.62	341	234	6	97	431	1038	61	6e-34	 130
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.59	338	232	8	99	430	1035	67	9e-32	 124
+NC_004310|Brucella_suis_1330|BR1801|atpA|1728987|1730517|-1|Protein|NONE|59.8	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.84	418	288	8	71	466	148	1368	6e-31	 122
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0382|atpB|392472|393222|1|Protein|NONE|55.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1798|atpC|1725862|1726270|-1|Protein|NONE|57.8	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	36.79	106	66	2	5	109	10	315	9e-15	65.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	70.43	460	130	3	53	506	10	1362	0.0	 607
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.16	342	225	9	127	461	1038	58	3e-31	 123
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	31.82	308	207	7	129	433	1035	148	8e-29	 115
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	31.07	354	239	6	83	431	1176	151	1e-28	 115
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.61	355	251	7	111	459	256	1272	4e-26	 108
+NC_004310|Brucella_suis_1330|BR1799|atpD|1726394|1727960|-1|Protein|NONE|61.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.31	324	227	3	92	400	184	1131	2e-20	91.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0383|atpE|393289|393517|1|Protein|NONE|61.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR0385|atpF|394325|394805|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004310|Brucella_suis_1330|BR1800|atpG|1728087|1728966|-1|Protein|NONE|57.1	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	33.10	290	192	4	5	292	13	864	7e-39	 138
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004310|Brucella_suis_1330|BR1802|atpH|1730516|1731077|-1|Protein|NONE|58.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	76.22	513	122	0	1	513	1	1539	0.0	 797
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.37	349	243	6	96	437	1041	52	2e-31	 123
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.16	394	272	5	55	433	142	1272	7e-31	 121
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	24.66	438	316	10	71	494	148	1386	1e-30	 121
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.42	372	261	5	44	406	1218	154	6e-30	 119
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3319|atpA|3582344|3583886|-1|Protein|NONE|63.5	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.01	355	238	8	93	433	1071	67	1e-28	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3323|atpB|3585421|3586345|-1|Protein|NONE|60.7	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	43.99	291	146	9	34	307	16	810	3e-62	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3316|atpC|3579461|3579875|-1|Protein|NONE|66.7	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	58.41	113	45	1	1	111	1	339	2e-30	 106
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	84.14	473	69	2	1	467	1	1395	0.0	 744
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	33.64	321	211	3	63	381	1101	151	4e-33	 127
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.43	333	221	5	84	412	1038	55	8e-33	 127
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.54	325	210	8	86	404	1035	94	4e-31	 121
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.17	348	237	5	68	409	256	1272	3e-26	 107
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3317|atpD|3579964|3581368|-1|Protein|NONE|63.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.65	353	247	5	44	377	169	1209	2e-18	84.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3322|atpE|3585074|3585341|-1|Protein|NONE|61.0	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	63.27	49	18	0	37	85	109	255	6e-17	68.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3321|atpF|3584497|3584968|-1|Protein|NONE|64.1	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	54.48	134	61	0	23	156	4	405	9e-18	73.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3318|atpG|3581404|3582280|-1|Protein|NONE|64.2	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	58.22	292	121	2	1	291	1	864	8e-124	 357
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003295|Ralstonia_solanacearum_GMI1000|RSc3320|atpH|3583958|3584495|-1|Protein|NONE|64.2	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	42.61	176	100	1	1	175	1	528	2e-41	 137
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	69.79	513	155	0	1	513	1	1539	0.0	 696
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.72	296	204	4	115	403	337	1173	2e-26	 108
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	26.63	323	234	3	114	433	990	67	8e-26	 107
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.70	278	201	3	129	406	936	154	1e-24	 103
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.62	329	241	5	114	435	987	46	1e-23	 101
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3911|atpA|3771245|3772787|1|Protein|NONE|55.0	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.22	347	242	6	71	403	148	1125	6e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3907|atpB|3769053|3769869|1|Protein|NONE|51.7	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	53.07	277	115	5	10	271	19	810	8e-82	 248
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3914|atpC|3775130|3775550|1|Protein|NONE|56.0	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	52.63	133	62	1	6	137	13	411	4e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	81.55	466	80	2	1	460	1	1392	0.0	 732
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	34.44	302	194	5	80	377	1035	148	1e-34	 132
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.00	350	231	6	33	375	1179	151	9e-33	 126
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.55	336	223	6	77	405	1041	58	2e-32	 125
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.86	350	241	7	62	403	256	1272	1e-26	 108
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3913|atpD|3773727|3775110|1|Protein|NONE|55.1	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.59	366	253	5	1	343	55	1128	8e-21	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3908|atpE|3769915|3770155|1|Protein|NONE|54.6	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	55.81	43	19	0	34	76	109	237	3e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3909|atpF|3770214|3770685|1|Protein|NONE|52.0	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	49.63	135	68	0	22	156	1	405	3e-25	94.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3912|atpG|3772837|3773701|1|Protein|NONE|53.0	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	55.56	288	127	1	1	287	1	864	1e-113	 331
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3910|atpH|3770699|3771233|1|Protein|NONE|52.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	33.15	181	117	2	1	177	1	534	1e-30	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003198|Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18|STY3906|atpI|3768664|3769045|1|Protein|NONE|51.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	74.27	513	132	0	1	513	1	1539	0.0	 762
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.94	349	241	6	96	437	1041	52	2e-29	 117
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.34	334	234	5	75	406	1104	154	2e-28	 114
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	24.83	443	314	12	71	494	148	1386	4e-28	 114
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.09	356	253	3	81	433	256	1272	1e-27	 112
+NC_002929|Bordetella_pertussis_Tohama_I|BP3286|atpA|3501463|3503005|1|Protein|papA:uncA|63.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.37	356	245	6	88	433	1086	67	3e-26	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3282|atpB|3499028|3499910|1|Protein|papD:uncB|61.3	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	45.33	289	156	8	7	293	4	810	3e-62	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3289|atpC|3505461|3505884|1|Protein|papG:uncC|68.6	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	50.59	85	41	1	1	84	1	255	3e-23	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	83.26	472	73	2	1	466	1	1395	0.0	 730
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.58	353	232	5	62	408	1101	64	3e-32	 125
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.54	322	211	5	85	403	1035	94	7e-31	 120
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.20	354	236	6	83	432	1038	13	1e-30	 120
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.00	390	256	10	36	408	148	1272	9e-28	 112
+NC_002929|Bordetella_pertussis_Tohama_I|BP3288|atpD|3504051|3505452|1|Protein|papB:uncD|64.8	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.06	395	277	7	1	376	55	1209	1e-19	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3283|atpE|3500026|3500269|1|Protein|NONE|60.1	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	64.71	51	18	0	29	79	100	252	1e-19	75.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3284|atpF|3500406|3500877|1|Protein|papF:uncF|62.4	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	52.59	135	64	0	22	156	1	405	1e-23	89.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3287|atpG|3503103|3504009|1|Protein|papC:uncG|60.5	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	54.03	298	136	3	5	301	13	864	3e-110	 323
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002929|Bordetella_pertussis_Tohama_I|BP3285|atpH|3500889|3501429|1|Protein|papE:uncH|63.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	40.59	170	101	1	1	170	1	507	8e-34	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	100.00	514	0	0	1	514	1	1542	0.0	1023
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	27.67	347	244	6	96	435	1041	46	7e-31	 122
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	26.88	372	268	6	82	449	259	1320	9e-29	 115
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.84	334	239	5	75	406	1104	154	1e-25	 106
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	27.57	370	249	11	93	443	1071	37	6e-25	 104
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0670|atpA|696853|698398|1|Protein|NONE|62.5	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	23.50	400	291	8	19	403	1	1125	7e-25	 104
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0666|atpB|694607|695420|1|Protein|NONE|62.1	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	100.00	270	0	0	1	270	1	810	1e-180	 499
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0673|atpC|700755|701178|1|Protein|NONE|64.5	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	100.00	140	0	0	1	140	1	420	9e-74	 218
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	100.00	465	0	0	1	465	1	1395	0.0	 902
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	33.04	342	222	8	76	410	1038	55	2e-35	 135
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	33.33	327	216	4	55	379	1101	151	7e-35	 132
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	34.42	308	198	7	78	381	1035	148	7e-33	 127
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	26.95	423	290	8	4	407	100	1272	5e-28	 112
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0672|atpD|699346|700744|1|Protein|NONE|62.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	23.75	400	280	9	1	375	55	1209	1e-21	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0667|atpE|695484|695772|1|Protein|NONE|57.6	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	100.00	95	0	0	1	95	1	285	2e-41	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0668|atpF|695893|696301|1|Protein|NONE|62.3	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	100.00	135	0	0	1	135	1	405	1e-88	 255
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0671|atpG|698438|699305|1|Protein|NONE|61.4	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	100.00	288	0	0	1	288	1	864	0.0	 596
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005085|Chromobacterium_violaceum_ATCC_12472|CV_0669|atpH|696308|696845|1|Protein|NONE|58.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	100.00	178	0	0	1	178	1	534	8e-127	 355
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	69.79	513	155	0	1	513	1	1539	0.0	 696
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.72	296	204	4	115	403	337	1173	2e-26	 108
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	26.63	323	234	3	114	433	990	67	8e-26	 107
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.70	278	201	3	129	406	936	154	1e-24	 103
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.62	329	241	5	114	435	987	46	1e-23	 101
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3867|atpA|4076433|4077975|-1|Protein|NONE|55.3	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.22	347	242	6	71	403	148	1125	6e-20	89.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3871|atpB|4079351|4080167|-1|Protein|NONE|51.6	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	53.07	277	115	5	10	271	19	810	8e-82	 248
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3864|atpC|4073670|4074090|-1|Protein|NONE|55.7	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	52.63	133	62	1	6	137	13	411	4e-27	98.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	81.55	466	80	2	1	460	1	1392	0.0	 732
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	34.44	302	194	5	80	377	1035	148	1e-34	 132
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.00	350	231	6	33	375	1179	151	9e-33	 126
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.55	336	223	6	77	405	1041	58	2e-32	 125
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.86	350	241	7	62	403	256	1272	1e-26	 108
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3865|atpD|4074110|4075493|-1|Protein|NONE|55.2	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.59	366	253	5	1	343	55	1128	8e-21	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3870|atpE|4079065|4079305|-1|Protein|NONE|54.6	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	55.81	43	19	0	34	76	109	237	3e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3869|atpF|4078535|4079006|-1|Protein|NONE|52.2	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	49.63	135	68	0	22	156	1	405	3e-25	94.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3866|atpG|4075519|4076383|-1|Protein|NONE|53.1	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	55.56	288	127	1	1	287	1	864	2e-114	 333
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3868|atpH|4077987|4078521|-1|Protein|NONE|52.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	33.15	181	117	2	1	177	1	534	1e-30	 109
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003197|Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2|STM3872|atpI|4080175|4080556|-1|Protein|NONE|51.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	57.95	497	198	2	17	502	43	1533	0.0	 561
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	31.48	305	207	4	95	397	1050	154	6e-36	 136
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.15	343	228	7	98	425	1041	61	9e-36	 136
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.62	341	237	4	87	424	268	1272	2e-35	 134
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.66	327	227	4	101	424	1035	67	3e-35	 134
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0427|atpA|410429|411944|1|Protein|NONE|38.1	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.00	356	253	6	84	425	181	1224	4e-28	 114
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH1497|atpB|1434493|1435174|1|Protein|NONE|36.9	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	35.44	158	88	6	77	220	334	801	7e-09	52.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0430|atpC|414277|414673|1|Protein|NONE|37.1	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	32.74	113	74	2	1	111	1	336	1e-14	65.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	65.88	469	154	3	2	464	7	1395	0.0	 581
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.15	319	224	4	62	378	1092	151	5e-28	 112
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.29	338	231	8	79	408	1041	58	2e-27	 111
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.30	348	248	8	64	406	256	1272	9e-27	 109
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	23.68	418	300	8	45	443	184	1380	1e-23	 100
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0429|atpD|412868|414269|1|Protein|NONE|38.6	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.24	301	214	5	82	380	1035	148	1e-21	94.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0593|atpE|571784|572096|-1|Protein|NONE|39.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0424|atpF|408933|409359|1|Protein|NONE|31.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0428|atpG|411956|412850|1|Protein|NONE|36.2	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	34.02	291	192	2	6	296	13	864	9e-50	 167
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004917|Helicobacter_hepaticus_ATCC_51449|HH0426|atpH|409883|410408|1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	87.91	513	62	0	1	513	1	1539	0.0	 906
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.82	347	240	6	96	435	1041	46	4e-32	 125
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.73	369	259	6	85	449	268	1320	8e-32	 124
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.46	370	242	12	93	443	1071	37	2e-27	 111
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.80	345	244	7	71	403	148	1125	1e-26	 109
+NC_003112|Neisseria_meningitidis_MC58|NMB1936|atpA|2034451|2035999|-1|Protein|NONE|50.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.62	318	225	4	91	406	1056	154	2e-26	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1940|atpB|2037381|2038248|-1|Protein|NONE|50.2	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	41.36	295	160	7	7	288	10	810	2e-61	 196
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1933|atpC|2031683|2032106|-1|Protein|NONE|51.1	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	58.57	140	56	1	1	138	1	420	2e-40	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	90.54	465	44	0	1	465	1	1395	0.0	 798
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	31.44	388	258	9	55	434	1101	4	1e-31	 123
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.69	366	243	9	76	434	1038	4	4e-31	 122
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	32.47	308	204	7	78	381	1035	148	4e-28	 112
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.04	428	284	12	4	407	100	1272	3e-25	 104
+NC_003112|Neisseria_meningitidis_MC58|NMB1934|atpD|2032116|2033514|-1|Protein|NONE|52.2	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.75	400	272	9	1	375	55	1209	2e-22	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1939|atpE|2037088|2037325|-1|Protein|NONE|49.8	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	64.81	54	19	0	25	78	97	258	2e-18	72.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1938|atpF|2036547|2037018|-1|Protein|NONE|51.6	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	59.70	134	54	0	22	155	1	402	8e-29	 103
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1935|atpG|2033551|2034427|-1|Protein|NONE|46.9	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	69.62	293	87	2	1	291	1	864	4e-145	 411
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003112|Neisseria_meningitidis_MC58|NMB1937|atpH|2036009|2036543|-1|Protein|NONE|45.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	36.52	178	112	1	1	177	1	534	4e-39	 132
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	71.54	513	146	0	1	513	1	1539	0.0	 711
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	27.58	330	230	7	113	433	993	67	6e-24	 101
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.49	291	211	2	113	403	352	1173	3e-23	99.4
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	25.45	330	239	5	113	435	990	46	1e-22	98.2
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.84	273	197	3	134	406	921	154	6e-22	95.5
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0481|atpA|502547|504089|-1|Protein|NONE|39.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.19	389	275	8	71	443	148	1239	7e-18	83.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0485|atpB|505477|506266|-1|Protein|NONE|35.7	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	47.97	271	124	7	3	256	4	798	1e-75	 232
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0478|atpC|499814|500243|-1|Protein|NONE|36.6	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	49.06	106	53	1	1	105	1	318	2e-30	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	82.54	464	74	2	1	457	1	1392	0.0	 739
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	33.02	324	212	5	54	372	1101	151	1e-35	 135
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.33	318	210	3	59	374	1089	148	3e-35	 134
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.25	336	224	6	74	402	1041	58	3e-32	 125
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.19	346	241	5	59	400	256	1272	1e-28	 114
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0479|atpD|500272|501646|-1|Protein|NONE|40.0	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.55	391	273	8	35	403	181	1308	1e-21	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0484|atpE|505167|505422|-1|Protein|NONE|36.1	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	67.12	73	24	0	8	80	34	252	1e-29	 101
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0483|atpF|504647|505118|-1|Protein|NONE|38.2	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	44.44	135	75	0	22	156	1	405	2e-14	64.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0480|atpG|501662|502532|-1|Protein|NONE|37.2	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	54.83	290	130	2	1	289	1	864	1e-114	 333
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_000907|Haemophilus_influenzae_Rd_KW20|HI0482|atpH|504101|504635|-1|Protein|NONE|39.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	29.38	177	124	1	1	176	1	531	5e-19	79.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	58.90	511	199	2	1	500	1	1533	0.0	 596
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.28	345	241	3	81	422	256	1272	9e-35	 133
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.53	361	249	5	44	395	1218	154	9e-35	 132
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.36	342	230	7	97	423	1038	61	1e-34	 132
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	27.83	345	246	3	81	422	1089	67	3e-33	 128
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0105|atpA|111487|112993|1|Protein|NONE|35.2	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	25.00	424	302	10	36	443	61	1260	2e-30	 120
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj1204c|atpB|1133359|1134040|-1|Protein|NONE|33.3	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	31.16	138	82	5	102	226	409	810	9e-10	54.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0108|atpC|115312|115702|1|Protein|NONE|35.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	67.80	469	144	4	2	463	7	1392	0.0	 597
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	30.22	321	218	5	64	378	1098	151	4e-29	 115
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.06	335	235	6	80	408	1038	58	4e-26	 107
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.61	233	160	4	178	406	589	1272	9e-23	97.8
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.05	303	214	6	82	380	1035	148	8e-22	94.7
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0107|atpD|113911|115309|1|Protein|NONE|35.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	23.14	350	249	6	45	374	184	1209	2e-14	72.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0936|atpE|872515|872854|1|Protein|NONE|38.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0103|atpF|110437|110950|1|Protein|NONE|25.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0106|atpG|113001|113886|1|Protein|NONE|28.9	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	32.73	278	185	2	1	276	1	813	1e-43	 150
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0104|atpH|110952|111474|1|Protein|NONE|21.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002163|Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819|Cj0104|atpH|110952|111474|1|Protein|NONE|21.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	28.89	135	91	2	5	134	19	423	4e-10	53.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	74.27	513	132	0	1	513	1	1539	0.0	 766
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.71	350	238	8	96	437	1041	52	8e-30	 119
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.09	356	253	3	81	433	256	1272	7e-29	 115
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.34	334	234	5	75	406	1104	154	3e-28	 114
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	24.83	443	314	12	71	494	148	1386	3e-28	 114
+NC_002928|Bordetella_parapertussis_12822|BPP4137|atpA|4472632|4474174|-1|Protein|papA:uncA|64.1	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.37	356	245	6	88	433	1086	67	5e-26	 107
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4141|atpB|4475727|4476609|-1|Protein|papD:uncB|61.5	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	45.33	289	156	8	7	293	4	810	3e-62	 199
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4134|atpC|4469753|4470176|-1|Protein|papG:uncC|68.3	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	50.59	85	41	1	1	84	1	255	3e-23	88.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	83.47	472	72	2	1	466	1	1395	0.0	 733
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.58	353	232	5	62	408	1101	64	3e-32	 125
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.49	354	235	6	83	432	1038	13	2e-31	 123
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.54	322	211	5	85	403	1035	94	7e-31	 120
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.00	390	256	10	36	408	148	1272	8e-28	 112
+NC_002928|Bordetella_parapertussis_12822|BPP4135|atpD|4470185|4471586|-1|Protein|papB:uncD|64.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.06	395	277	7	1	376	55	1209	9e-20	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4140|atpE|4475368|4475611|-1|Protein|NONE|60.1	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	64.71	51	18	0	29	79	100	252	1e-19	75.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4139|atpF|4474760|4475231|-1|Protein|papF:uncF|62.6	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	52.59	135	64	0	22	156	1	405	2e-22	86.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4136|atpG|4471628|4472534|-1|Protein|papC:uncG|61.1	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	54.03	298	136	3	5	301	13	864	9e-111	 324
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002928|Bordetella_parapertussis_12822|BPP4138|atpH|4474208|4474748|-1|Protein|papE:uncH|63.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	40.59	170	101	1	1	170	1	507	8e-34	 118
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_005090|Wolinella_succinogenes_DSM_1740|WS0517|atpC|514065|514461|1|Protein|NONE|51.8	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	34.82	112	72	1	2	112	1	336	1e-12	58.9
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	69.98	513	154	0	1	513	1	1539	0.0	 698
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.05	296	203	4	115	403	337	1173	1e-26	 109
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	26.93	323	233	3	114	433	990	67	4e-26	 107
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.70	278	201	3	129	406	936	154	8e-25	 103
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.62	329	241	5	114	435	987	46	1e-23	 100
+NC_004741|Shigella_flexneri_2a_str._2457T|S3954|atpA|3846168|3847710|1|Protein|NONE|53.4	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.22	347	242	6	71	403	148	1125	1e-19	89.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3950|atpB|3843974|3844790|1|Protein|NONE|49.9	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	52.90	276	116	6	10	271	19	810	4e-81	 246
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3957|atpC|3850059|3850473|1|Protein|NONE|55.3	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	54.02	87	39	1	4	89	13	273	1e-26	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	81.76	466	79	2	1	460	1	1392	0.0	 733
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	34.44	302	194	5	80	377	1035	148	1e-34	 132
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.29	350	230	6	33	375	1179	151	4e-33	 127
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.55	336	223	6	77	405	1041	58	3e-32	 125
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.86	350	241	7	62	403	256	1272	1e-26	 108
+NC_004741|Shigella_flexneri_2a_str._2457T|S3956|atpD|3848650|3850033|1|Protein|NONE|55.0	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.59	366	253	5	1	343	55	1128	1e-20	92.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3951|atpE|3844836|3845076|1|Protein|NONE|54.2	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	55.81	43	19	0	34	76	109	237	3e-12	55.5
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3952|atpF|3845137|3845608|1|Protein|NONE|52.7	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	49.63	135	68	0	22	156	1	405	1e-25	95.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3955|atpG|3847760|3848624|1|Protein|NONE|53.5	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	56.25	288	125	1	1	287	1	864	4e-113	 329
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004741|Shigella_flexneri_2a_str._2457T|S3953|atpH|3845622|3846156|1|Protein|NONE|51.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	33.70	181	116	2	1	177	1	534	2e-30	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004741|Shigella_flexneri_2a_str._2457T|S3949|atpI|3843585|3843966|1|Protein|NONE|52.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004603|Vibrio_parahaemolyticus_RIMD_2210633|VP3068|atpC|3277087|3277510|-1|Protein|NONE|51.5	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	50.37	135	66	1	6	139	10	414	8e-27	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	72.99	511	138	0	5	515	7	1539	0.0	 751
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.81	359	237	9	92	435	1080	67	1e-26	 109
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	28.08	349	242	8	98	437	1041	46	4e-26	 108
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	26.42	352	256	3	87	435	268	1272	2e-24	 102
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	26.61	372	264	6	46	408	1218	154	2e-24	 102
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3651|atpA|4330179|4331727|-1|Protein|uncA|64.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	23.54	378	274	7	73	435	148	1221	3e-22	97.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3655|atpB|4333264|4334065|-1|Protein|papD:uncB|59.9	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	39.93	288	147	7	5	266	4	810	3e-65	 206
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3648|atpC|4327085|4327508|-1|Protein|NONE|65.0	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	47.25	91	47	1	1	90	1	273	2e-25	94.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	82.58	465	81	0	1	465	1	1395	0.0	 733
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	34.03	335	211	6	55	379	1101	151	3e-32	 124
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	30.79	341	230	7	76	410	1038	55	2e-29	 117
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	31.27	307	208	6	78	381	1035	148	4e-24	 101
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.32	346	227	8	83	407	325	1272	1e-21	94.4
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3649|atpD|4327651|4329058|-1|Protein|NONE|63.5	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	23.96	313	223	4	50	347	211	1128	3e-16	78.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3654|atpE|4332889|4333192|-1|Protein|uncE|66.0	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	65.22	46	16	0	41	86	109	246	3e-16	67.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3653|atpF|4332305|4332776|-1|Protein|uncF|60.7	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	43.94	132	74	0	25	156	10	405	1e-23	89.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3650|atpG|4329202|4330066|-1|Protein|papC:uncG|60.6	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	57.29	288	122	1	1	287	1	864	2e-121	 351
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_003919|Xanthomonas_axonopodis_pv._citri_str._306|XAC3652|atpH|4331774|4332302|-1|Protein|uncH|67.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	35.39	178	112	1	1	175	1	534	2e-34	 119
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	70.70	512	150	0	3	514	4	1539	0.0	 742
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.53	354	240	7	94	434	1071	67	3e-28	 114
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.30	318	226	5	92	407	1056	154	8e-28	 112
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.80	347	240	6	72	404	148	1125	1e-27	 112
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	26.70	352	255	3	86	434	268	1272	2e-27	 112
+NC_002947|Pseudomonas_putida_KT2440|PP_5415|atpA|6177522|6179067|-1|Protein|NONE|58.2	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	26.15	348	249	6	97	436	1041	46	2e-25	 105
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5419|atpB|6180566|6181436|-1|Protein|NONE|58.3	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	49.66	294	138	6	3	286	4	804	3e-78	 239
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5412|atpC|6174746|6175166|-1|Protein|NONE|60.2	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	45.78	83	44	1	5	86	10	258	3e-18	75.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	83.41	464	71	1	1	458	1	1392	0.0	 744
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	34.37	323	208	4	55	373	1101	151	3e-37	 139
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	31.27	355	239	6	76	425	1038	13	2e-33	 129
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	32.67	300	200	3	78	375	1035	148	2e-31	 122
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	30.35	346	237	6	60	401	256	1272	1e-29	 117
+NC_002947|Pseudomonas_putida_KT2440|PP_5413|atpD|6175209|6176586|-1|Protein|NONE|58.5	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	23.96	409	291	9	50	438	211	1380	1e-22	97.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5418|atpE|6180164|6180422|-1|Protein|NONE|55.8	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	69.77	43	13	0	38	80	124	252	2e-18	72.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5417|atpF|6179637|6180108|-1|Protein|NONE|55.0	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	52.59	135	64	0	22	156	1	405	2e-33	 115
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5414|atpG|6176613|6177474|-1|Protein|NONE|56.9	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	54.83	290	127	3	1	286	1	864	1e-100	 297
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002947|Pseudomonas_putida_KT2440|PP_5416|atpH|6179088|6179625|-1|Protein|NONE|58.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	45.51	178	97	0	1	178	1	534	6e-44	 144
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002947|Pseudomonas_putida_KT2440|PP_5420|atpI|6181452|6181860|-1|Protein|NONE|54.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002488|Xylella_fastidiosa_9a5c|XF1142|atpC|1100796|1101228|-1|Protein|NONE|50.7	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	51.09	92	43	2	4	93	1	273	1e-25	94.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	70.37	513	152	0	1	513	1	1539	0.0	 696
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	27.91	326	230	6	113	433	993	67	2e-23	99.8
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	27.99	268	193	3	139	406	906	154	1e-21	94.7
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.59	290	210	2	114	403	355	1173	1e-21	94.7
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.92	329	240	5	114	435	987	46	2e-21	94.4
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1492|atpA|1682896|1684438|1|Protein|NONE|39.9	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	24.48	429	295	11	71	470	148	1371	1e-17	82.8
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1488|atpB|1680681|1681476|1|Protein|NONE|35.7	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	46.55	275	130	7	1	258	1	798	2e-74	 229
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1495|atpC|1686765|1687194|1|Protein|NONE|39.6	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	50.00	114	56	1	1	113	1	342	5e-31	 108
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	82.11	464	76	2	1	457	1	1392	0.0	 738
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.82	323	213	4	54	372	1101	151	1e-35	 135
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	33.12	320	210	5	59	374	1089	148	4e-35	 133
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	30.75	335	225	6	75	402	1038	58	1e-31	 123
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	28.90	346	242	5	59	400	256	1272	3e-26	 107
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1494|atpD|1685351|1686725|1|Protein|NONE|41.2	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	23.84	432	300	9	1	403	55	1308	1e-22	97.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1489|atpE|1681532|1681787|1|Protein|NONE|36.9	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	73.58	53	14	0	29	81	97	255	4e-22	82.0
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1490|atpF|1681866|1682337|1|Protein|NONE|38.9	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	41.48	135	79	0	22	156	1	405	5e-17	71.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1493|atpG|1684464|1685334|1|Protein|NONE|35.4	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	53.79	290	133	2	1	289	1	864	7e-112	 326
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_002663|Pasteurella_multocida_subsp._multocida_str._Pm70|PM1491|atpH|1682350|1682884|1|Protein|NONE|36.3	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	27.68	177	127	1	1	176	1	531	4e-21	84.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	59.72	494	188	4	1	483	1	1458	0.0	 572
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	29.71	350	244	5	60	407	1149	142	6e-38	 142
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.36	435	312	6	20	450	73	1332	6e-37	 139
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.91	341	233	6	97	431	1038	61	1e-34	 133
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	29.88	338	231	8	99	430	1035	67	1e-32	 126
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1851|atpA|1747487|1749017|-1|Protein|NONE|59.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.08	418	287	8	71	466	148	1368	1e-31	 124
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0416|atpB|413492|414242|1|Protein|NONE|55.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1847|atpC|1744362|1744770|-1|Protein|NONE|57.8	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	36.79	106	66	2	5	109	10	315	9e-15	65.1
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	70.43	460	130	3	53	506	10	1362	0.0	 607
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.16	342	225	9	127	461	1038	58	3e-31	 123
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	31.82	308	207	7	129	433	1035	148	8e-29	 115
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	31.07	354	239	6	83	431	1176	151	1e-28	 115
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.61	355	251	7	111	459	256	1272	4e-26	 108
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1849|atpD|1744894|1746460|-1|Protein|NONE|61.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.31	324	227	3	92	400	184	1131	2e-20	91.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A0419|atpF|415345|415825|1|Protein|NONE|56.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1850|atpG|1746587|1747466|-1|Protein|NONE|56.8	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	32.76	290	193	4	5	292	13	864	3e-37	 133
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_012441|Brucella_melitensis_ATCC_23457|BMEA_A1852|atpH|1749016|1749577|-1|Protein|NONE|58.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	71.15	513	148	0	1	513	1	1539	0.0	 706
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	28.14	334	227	10	113	433	993	67	3e-26	 108
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	27.59	290	210	2	114	403	355	1173	4e-25	 105
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	28.21	273	196	4	134	406	921	154	5e-24	 101
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	24.86	346	252	6	113	450	990	4	6e-23	99.0
+NC_004347|Shewanella_oneidensis_MR-1|SO_4749|atpA|4960971|4962513|-1|Protein|NONE|47.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	26.22	347	242	7	71	403	148	1125	4e-19	87.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4753|atpB|4963908|4964703|-1|Protein|NONE|43.3	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	50.55	275	119	4	7	264	4	810	2e-76	 234
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4746|atpC|4958168|4958597|-1|Protein|NONE|47.1	ref|NC_005085|CV_0673|atpC|700755|701178|1|Chromobacterium_violaceum_ATCC_12472|64.5|NONE	41.48	135	78	1	6	139	10	414	3e-25	93.6
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	81.55	466	80	2	1	460	1	1386	0.0	 740
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.86	353	231	7	59	405	1101	64	2e-34	 131
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	32.14	336	221	7	80	408	1038	55	5e-34	 130
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	32.08	318	214	4	64	379	1089	148	1e-31	 123
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.07	344	238	5	68	405	268	1272	3e-29	 116
+NC_004347|Shewanella_oneidensis_MR-1|SO_4747|atpD|4958633|4960025|-1|Protein|NONE|47.6	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	25.58	391	272	8	2	373	79	1209	4e-24	 102
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4752|atpE|4963586|4963838|-1|Protein|NONE|49.2	ref|NC_005085|CV_0667|atpE|695484|695772|1|Chromobacterium_violaceum_ATCC_12472|57.6|NONE	65.82	79	27	0	1	79	13	249	3e-23	84.7
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4751|atpF|4963077|4963548|-1|Protein|NONE|46.9	ref|NC_005085|CV_0668|atpF|695893|696301|1|Chromobacterium_violaceum_ATCC_12472|62.3|NONE	52.59	135	64	0	22	156	1	405	2e-37	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4748|atpG|4960060|4960921|-1|Protein|NONE|47.9	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	57.29	288	121	2	1	286	1	864	7e-112	 326
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004347|Shewanella_oneidensis_MR-1|SO_4750|atpH|4962527|4963061|-1|Protein|NONE|46.8	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	34.83	178	115	1	1	177	1	534	4e-24	92.4
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004347|Shewanella_oneidensis_MR-1|SO_4754|atpI|4964715|4965099|-1|Protein|NONE|45.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1188|atpA|1304264|1305014|-1|Protein|NONE|59.9	ref|NC_005085|CV_0666|atpB|694607|695420|1|Chromobacterium_violaceum_ATCC_12472|62.1|NONE	25.96	235	141	9	45	246	142	804	3e-05	41.2
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll1185|atpB|1302863|1303349|-1|Protein|NONE|66.3
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bsl1187|atpC|1303980|1304211|-1|Protein|NONE|65.4
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005085|CV_0672|atpD|699346|700744|1|Chromobacterium_violaceum_ATCC_12472|62.7|NONE	67.51	474	147	4	6	472	10	1392	0.0	 592
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005085|CV_2628|invC|2834492|2835782|-1|Chromobacterium_violaceum_ATCC_12472|71.4|NONE	32.11	327	218	5	34	356	1179	241	1e-31	 123
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005085|CV_2603|unknown|2813260|2814595|1|Chromobacterium_violaceum_ATCC_12472|64.8|NONE	29.61	358	247	8	63	415	256	1272	6e-28	 112
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005085|CV_3134|fliI1|3417603|3419004|-1|Chromobacterium_violaceum_ATCC_12472|69.5|NONE	29.97	347	237	8	78	418	1041	55	7e-27	 109
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005085|CV_2996|fliI|3271614|3272928|-1|Chromobacterium_violaceum_ATCC_12472|71.8|NONE	32.51	283	189	5	81	361	1035	229	2e-26	 108
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0440|atpD|473841|475275|-1|Protein|NONE|65.7	ref|NC_005085|CV_0670|atpA|696853|698398|1|Chromobacterium_violaceum_ATCC_12472|62.5|NONE	24.39	328	233	3	44	356	184	1131	1e-16	79.3
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0441|atpG|475357|476230|-1|Protein|NONE|65.8	ref|NC_005085|CV_0671|atpG|698438|699305|1|Chromobacterium_violaceum_ATCC_12472|61.4|NONE	33.79	293	191	5	1	290	1	864	4e-34	 125
+# TBLASTN 2.2.26 [Sep-21-2011]
+# Query: NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5
+# Database: ./recover/db_folder/NC_005085.ffc
+# Fields: Query id, Subject id, % identity, alignment length, mismatches, gap openings, q. start, q. end, s. start, s. end, e-value, bit score
+NC_004463|Bradyrhizobium_japonicum_USDA_110|bll0443|atpH|477933|478494|-1|Protein|NONE|63.5	ref|NC_005085|CV_0669|atpH|696308|696845|1|Chromobacterium_violaceum_ATCC_12472|58.8|NONE	30.29	175	120	4	11	183	19	531	8e-12	58.2

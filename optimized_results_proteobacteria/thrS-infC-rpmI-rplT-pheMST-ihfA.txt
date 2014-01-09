@@ -1,0 +1,378 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5053	pheT	pheT	ECK1711:JW1703	5e-127	34.81	449.0	66.29	4003651	4006060	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5055	pheS	pheS	ECK1712:JW5277:phe-act	4e-99	50.87	355.0	63.57	4006475	4007573	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5057	rplT	rplT	ECK1714:JW1706:pdzA	6e-28	61.32	116.0	60.95	4007723	4008125	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr8425	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-22	50.56	97.8	61.73	6920508	6920832	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll5061	infC	infC	ECK1716:fit:JW5829:srjA	1e-39	55.49	156.0	59.96	4009447	4009984	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0914	thrS	thrS	ECK1717:JW1709	0.0	50.93	686.0	62.06	738203	740180	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pheTS-rplT> ihfA <infC> <thrS> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.43	 0.43	0	1	3	3	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.50	 0.50	0	1	3	3	0	0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2738	himA	ihfA	ECK1710:hid:himA:JW1702	9e-41	84.62	158.0	57.76	3099809	3100112	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:26.984,eval_thresh:15.669
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2739	pheT	pheT	ECK1711:JW1703	0.0	51.7	816.0	66.46	3100115	3102494	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2740	pheS	pheS	ECK1712:JW5277:phe-act	4e-124	65.38	438.0	63.23	3102528	3103545	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2741	rplT	rplT	ECK1714:JW1706:pdzA	5e-43	83.9	166.0	58.54	3103642	3103999	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2743	infC	infC	ECK1716:fit:JW5829:srjA	4e-52	64.44	197.0	55.43	3104278	3104830	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA2744	thrS	thrS	ECK1717:JW1709	0.0	65.21	902.0	63.03	3104829	3106752	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ihfA-pheTS-rplT-infC-thrS> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 0.86	0	1	0	6	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 1.00	0	1	0	6	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1333	thrS	thrS	ECK1717:JW1709	0.0	96.73	1311.0	50.49	1412201	1414130	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:33.242,eval_thresh:13.668
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1334.c	infC	infC	ECK1716:fit:JW5829:srjA	5e-85	98.89	306.0	47.51	1414133	1414676	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:33.242,eval_thresh:13.668
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1335	rpmI	rpmI	ECK1715:JW1707	5e-19	100.0	85.9	48.99	1414771	1414969	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:33.242,eval_thresh:13.668
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1336	rplT	rplT	ECK1714:JW1706:pdzA	1e-52	100.0	198.0	49.86	1415019	1415376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1337	pheS	pheS	ECK1712:JW5277:phe-act	0.0	97.55	650.0	53.86	1415677	1416661	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1338	pheT	pheT	ECK1711:JW1703	0.0	92.58	1481.0	53.69	1416676	1419064	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM1339	ihfA	ihfA	ECK1710:hid:himA:JW1702	1e-52	98.99	197.0	48.33	1419068	1419368	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	7	0	0
+NC_004310	Brucella_suis_1330	BR2122	pheS	pheS	ECK1712:JW5277:phe-act	4e-92	47.03	330.0	59.19	2044742	2045852	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2123	pheT	pheT	ECK1711:JW1703	2e-124	35.21	439.0	60.5	2045873	2048288	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0778	ihfA	ihfA	ECK1710:hid:himA:JW1702	1e-23	49.44	100.0	52.78	762521	762845	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2120	rplT	rplT	ECK1714:JW1706:pdzA	4e-29	59.83	119.0	57.78	2043308	2043713	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2117	infC	infC	ECK1716:fit:JW5829:srjA	2e-38	63.64	150.0	54.57	2041666	2042071	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1071	thrS	thrS	ECK1717:JW1709	0.0	50.84	681.0	56.55	1041026	1043003	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pheST ihfA rplT infC <thrS> 
+$$	NC_004310	Brucella_suis_1330	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_004310	Brucella_suis_1330	 0.57	 0.29	0	1	4	2	0	0
+@@	NC_004310	Brucella_suis_1330	 0.67	 0.33	0	1	4	2	0	0
+NC_003112	Neisseria_meningitidis_MC58	NMB0720	thrS	thrS	ECK1717:JW1709	0.0	62.32	833.0	49.16	751042	752956	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0721	infC	infC	ECK1716:fit:JW5829:srjA	5e-51	66.67	192.0	48.08	753027	753495	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:40.38,eval_thresh:17.385
+NC_003112	Neisseria_meningitidis_MC58	NMB0722	rpmI	rpmI	ECK1715:JW1707	8e-07	58.46	44.3	44.44	753641	753839	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0723	rplT	rplT	ECK1714:JW1706:pdzA	2e-37	77.48	146.0	50.56	753851	754211	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:40.38,eval_thresh:17.385
+NC_003112	Neisseria_meningitidis_MC58	NMB0724	pheS	pheS	ECK1712:JW5277:phe-act	6e-116	59.45	409.0	50.76	754556	755549	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:40.38,eval_thresh:17.385
+NC_003112	Neisseria_meningitidis_MC58	NMB0728	pheT	pheT	ECK1711:JW1703	0.0	42.68	627.0	56.09	758933	761297	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:40.38,eval_thresh:17.385
+NC_003112	Neisseria_meningitidis_MC58	NMB0729	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-34	69.15	135.0	48.18	761370	761673	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheS pheT-ihfA 
+$$	NC_003112	Neisseria_meningitidis_MC58	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_003112	Neisseria_meningitidis_MC58	 0.14	 0.71	0	0	1	5	0	0
+@@	NC_003112	Neisseria_meningitidis_MC58	 0.14	 0.71	0	0	1	5	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_2465	thrS	thrS	ECK1717:JW1709	0.0	65.83	914.0	59.44	2809590	2811513	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2466	infC	infC	ECK1716:fit:JW5829:srjA	1e-51	63.89	196.0	53.75	2811530	2812064	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2468	rplT	rplT	ECK1714:JW1706:pdzA	7e-42	82.2	162.0	54.34	2812346	2812703	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2469	pheS	pheS	ECK1712:JW5277:phe-act	7e-130	63.91	457.0	61.06	2812812	2813829	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2470	pheT	pheT	ECK1711:JW1703	0.0	51.69	828.0	63.94	2813860	2816242	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2471	ihfA	ihfA	ECK1710:hid:himA:JW1702	6e-41	85.71	159.0	58.42	2816246	2816549	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:32.43,eval_thresh:13.504
+++	thrS-infC-rplT-pheST-ihfA 
+$$	NC_002947	Pseudomonas_putida_KT2440	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.00	 0.86	0	1	0	6	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.00	 1.00	0	1	0	6	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1348	thrS	thrS	ECK1717:JW1709	0.0	57.28	744.0	62.72	1420343	1422245	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1349	infC	infC	ECK1716:fit:JW5829:srjA	2e-50	69.48	191.0	57.58	1422344	1422806	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1350	rpmI	rpmI	ECK1715:JW1707	2e-05	55.38	40.8	57.07	1422959	1423157	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1351	rplT	rplT	ECK1714:JW1706:pdzA	3e-41	78.81	160.0	57.78	1423170	1423530	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1352	pheS	pheS	ECK1712:JW5277:phe-act	9e-109	57.49	387.0	64.13	1423669	1424656	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1353	pheT	pheT	ECK1711:JW1703	0.0	47.36	697.0	67.47	1424674	1427032	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1354	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-35	73.12	140.0	55.45	1427103	1427406	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.00	 1.00	0	0	0	7	0	0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1577	thrS	thrS	ECK1717:JW1709	0.0	58.33	758.0	63.21	1692526	1694434	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1578	infC	infC	ECK1716:fit:JW5829:srjA	4e-55	66.67	207.0	58.47	1694461	1694998	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1579	rpmI	rpmI	ECK1715:JW1707	5e-05	49.23	38.9	57.07	1695193	1695391	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1580	rplT	rplT	ECK1714:JW1706:pdzA	9e-38	68.64	148.0	59.38	1695416	1695773	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1581	pheS	pheS	ECK1712:JW5277:phe-act	1e-104	54.87	372.0	64.15	1695886	1696921	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1582	pheT	pheT	ECK1711:JW1703	1e-173	41.91	603.0	67.0	1696987	1699417	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1583	ihfA	ihfA	ECK1710:hid:himA:JW1702	4e-33	70.33	132.0	64.76	1699589	1699904	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.00	 1.00	0	0	0	7	0	0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003123	ihfA	ihfA	ECK1710:hid:himA:JW1702	5e-44	86.02	168.0	47.14	2363227	2363524	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003125	pheT	pheT	ECK1711:JW1703	0.0	64.4	1052.0	52.18	2363962	2366350	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003126	pheS	pheS	ECK1712:JW5277:phe-act	3e-153	76.45	534.0	50.2	2366376	2367360	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003455	unknown	thrS	ECK1717:JW1709	7e-07	26.36	49.3	50.99	2724234	2725950	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ihfA-pheTS> thrS 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	ihfA,1	pheS,1	pheT,1	thrS,1
+##	NC_012668	Vibrio_cholerae_MJ-1236	 0.14	 0.43	0	3	1	3	0	0
+@@	NC_012668	Vibrio_cholerae_MJ-1236	 0.25	 0.75	0	3	1	3	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2370	pheS	pheS	ECK1712:JW5277:phe-act	3e-144	74.62	504.0	47.56	2404580	2405564	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2371	pheT	pheT	ECK1711:JW1703	0.0	63.9	1048.0	49.58	2405582	2407970	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2397	unknown	thrS	ECK1717:JW1709	0.0	75.43	1056.0	45.2	2435141	2437070	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:25.786,eval_thresh:17.937
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2398	unknown	infC	ECK1716:fit:JW5829:srjA	1e-47	82.17	182.0	45.64	2437235	2437625	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:25.786,eval_thresh:17.937
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2399	rpmI	rpmI	ECK1715:JW1707	3e-05	48.72	39.7	42.56	2437728	2437923	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2400	rplT	rplT	ECK1714:JW1706:pdzA	5e-48	88.89	182.0	44.92	2437964	2438318	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:25.786,eval_thresh:17.937
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2375	ihfA	ihfA	ECK1710:hid:himA:JW1702	5e-44	87.1	168.0	44.44	2411450	2411738	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pheST thrS-infC-rpmI-rplT ihfA 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.29	 0.57	0	0	2	4	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.29	 0.57	0	0	2	4	0	0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0027	pheT	pheT	ECK1711:JW1703	2e-62	28.83	233.0	36.7	30800	33206	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0028	pheS	pheS	ECK1712:JW5277:phe-act	1e-83	49.09	301.0	37.03	33205	34207	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0442	thrS	thrS	ECK1717:JW1709	5e-150	45.58	523.0	37.69	422308	424123	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0443	infC	infC	ECK1716:fit:JW5829:srjA	2e-26	44.58	110.0	36.57	424119	424644	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0445	rplT	rplT	ECK1714:JW1706:pdzA	2e-24	53.04	103.0	37.29	424943	425297	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0793	unknown	ihfA	ECK1710:hid:himA:JW1702	6e-09	34.04	51.2	34.72	768907	769195	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pheTS> thrS-infC-rplT ihfA 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.29	 0.43	0	1	2	3	0	0
+@@	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.33	 0.50	0	1	2	3	0	0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0206	thrS	thrS	ECK1717:JW1709	4e-144	42.79	504.0	33.61	202240	204049	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0207	infC	infC	ECK1716:fit:JW5829:srjA	9e-23	43.29	98.6	32.76	204045	204564	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0896c	pheT	pheT	ECK1711:JW1703	1e-63	27.2	237.0	28.29	836110	838432	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0897c	pheS	pheS	ECK1712:JW5277:phe-act	2e-90	50.92	324.0	32.63	838428	839421	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0913c	hupB	ihfA	ECK1710:hid:himA:JW1702	2e-12	33.33	62.8	35.35	849435	849732	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0245	rplT	rplT	ECK1714:JW1706:pdzA	2e-25	60.78	106.0	36.72	226400	226754	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC <pheTS> <ihfA> rplT 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.43	 0.29	0	1	3	2	0	0
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.50	 0.33	0	1	3	2	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1771	ihfA	ihfA	ECK1710:hid:himA:JW1702	9e-53	98.99	197.0	48.33	1693318	1693618	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1772	pheT	pheT	ECK1711:JW1703	0.0	92.33	1476.0	53.43	1693622	1696010	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1773	pheS	pheS	ECK1712:JW5277:phe-act	0.0	97.55	650.0	53.66	1696025	1697009	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1775	rplT	rplT	ECK1714:JW1706:pdzA	1e-52	100.0	198.0	49.86	1697310	1697667	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1776	rpmI	rpmI	ECK1715:JW1707	5e-19	100.0	85.9	48.48	1697717	1697915	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:27.416,eval_thresh:10.939
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1777	infC	infC	ECK1716:fit:JW5829:srjA	2e-84	98.33	305.0	47.51	1698010	1698553	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:27.416,eval_thresh:10.939
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1778	thrS	thrS	ECK1717:JW1709	0.0	97.2	1315.0	50.34	1698556	1700485	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:27.416,eval_thresh:10.939
+++	<ihfA-pheTS-rplT-rpmI-infC-thrS> 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	7	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00362	infC	infC	ECK1716:fit:JW5829:srjA	5e-40	59.03	157.0	58.1	317831	318263	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.386,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc00364	rplT	rplT	ECK1714:JW1706:pdzA	3e-29	57.63	120.0	60.99	318743	319148	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.386,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc00365	pheS	pheS	ECK1712:JW5277:phe-act	2e-98	50.29	352.0	64.17	319293	320376	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.386,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc00366	pheT	pheT	ECK1711:JW1703	1e-132	36.46	467.0	66.58	320409	322836	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01786	ihfA	ihfA	ECK1710:hid:himA:JW1702	5e-24	52.17	102.0	58.41	1331425	1331764	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.858,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc01010	thrS	thrS	ECK1717:JW1709	0.0	48.84	667.0	61.33	1534692	1536678	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	infC-rplT-pheST ihfA thrS 
+$$	NC_003047	Sinorhizobium_meliloti_1021	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.29	 0.57	0	1	2	4	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.33	 0.67	0	1	2	4	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1281	rpmI	rpmI	ECK1715:JW1707	4e-06	53.85	42.7	43.08	1359805	1360000	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1282	rplT	rplT	ECK1714:JW1706:pdzA	5e-48	88.89	182.0	45.48	1360040	1360394	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1290	pheS	pheS	ECK1712:JW5277:phe-act	9e-149	74.62	519.0	46.95	1369541	1370525	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1291	pheT	pheT	ECK1711:JW1703	0.0	63.8	1040.0	48.71	1370543	1372949	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1294	ihfA	ihfA	ECK1710:hid:himA:JW1702	8e-45	89.25	171.0	43.1	1374556	1374853	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1280	unknown	thrS	ECK1717:JW1709	0.0	77.14	1070.0	44.06	1357202	1359131	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	rpmI-rplT pheST ihfA thrS 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	ihfA,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.43	 0.29	0	1	3	2	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.50	 0.33	0	1	3	2	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1497	thrS	thrS	ECK1717:JW1709	0.0	56.41	743.0	61.18	1574768	1576718	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.814,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP1498	infC	infC	ECK1716:fit:JW5829:srjA	1e-53	71.79	202.0	62.42	1576789	1577284	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.814,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP2572	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-32	67.35	130.0	65.2	2724101	2724443	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.194,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP2573	pheT	pheT	ECK1711:JW1703	0.0	45.67	645.0	69.11	2724448	2726866	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.194,eval_thresh:11.686
+NC_002929	Bordetella_pertussis_Tohama_I	BP2574	pheS	pheS	ECK1712:JW5277:phe-act	8e-104	56.93	370.0	64.81	2726878	2727901	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2575	rplT	rplT	ECK1714:JW1706:pdzA	1e-32	66.07	131.0	64.44	2727975	2728335	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2576	rpmI	rpmI	ECK1715:JW1707	2e-05	52.31	40.4	56.57	2728350	2728548	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC <ihfA-pheTS-rplT-rpmI> 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.14	 0.71	0	0	1	5	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.14	 0.71	0	0	1	5	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2588	ihfA	ihfA	ECK1710:hid:himA:JW1702	3e-37	78.26	146.0	58.67	3048382	3048682	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2589	pheT	pheT	ECK1711:JW1703	2e-170	42.82	593.0	66.46	3048703	3051082	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2590	pheS	pheS	ECK1712:JW5277:phe-act	5e-120	60.91	424.0	64.66	3051207	3052203	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2591	rplT	rplT	ECK1714:JW1706:pdzA	3e-36	71.19	143.0	61.39	3052453	3052813	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2592	rpmI	rpmI	ECK1715:JW1707	2e-06	60.94	43.9	61.11	3052823	3053021	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2593	infC	infC	ECK1716:fit:JW5829:srjA	5e-44	59.62	171.0	60.42	3053267	3053747	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC2594	thrS	thrS	ECK1717:JW1709	0.0	61.15	831.0	63.62	3053858	3055763	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ihfA-pheTS-rplT-rpmI-infC-thrS> 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	0	0	0	7	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2085	pheS	pheS	ECK1712:JW5277:phe-act	5e-150	74.31	523.0	46.54	2180857	2181841	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2086	pheT	pheT	ECK1711:JW1703	0.0	62.77	1027.0	47.28	2181855	2184243	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2087	ihfA	ihfA	ECK1710:hid:himA:JW1702	6e-43	84.21	165.0	47.14	2184246	2184543	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2299	thrS	thrS	ECK1717:JW1709	0.0	78.19	1080.0	45.41	2410455	2412384	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2300	infC	infC	ECK1716:fit:JW5829:srjA	8e-53	81.25	199.0	44.21	2412498	2412930	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2301	rpmI	rpmI	ECK1715:JW1707	6e-08	64.1	49.3	43.59	2413015	2413210	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2302	rplT	rplT	ECK1714:JW1706:pdzA	4e-46	87.18	176.0	42.02	2413226	2413583	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pheST-ihfA thrS-infC-rpmI-rplT 
+$$	NC_004347	Shewanella_oneidensis_MR-1	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.14	 0.57	0	0	1	4	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.14	 0.57	0	0	1	4	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0705	pheT	pheT	ECK1711:JW1703	5e-123	34.02	436.0	67.46	753733	756142	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0706	pheS	pheS	ECK1712:JW5277:phe-act	8e-100	51.74	358.0	65.28	756138	757221	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll5019	ihfA	ihfA	ECK1710:hid:himA:JW1702	6e-22	47.78	96.7	61.39	5565902	5566262	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:31.249,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0707	rplT	rplT	ECK1714:JW1706:pdzA	3e-24	54.72	104.0	65.56	757817	758177	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0710	infC	infC	ECK1716:fit:JW5829:srjA	1e-41	54.27	163.0	59.26	759201	759741	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr5537	thrS	thrS	ECK1717:JW1709	0.0	49.24	671.0	63.58	6094948	6097120	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pheTS> <ihfA> <rplT> <infC> thrS 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.57	 0.29	0	1	4	2	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.67	 0.33	0	1	4	2	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP1963	thrS	thrS	ECK1717:JW1709	0.0	56.41	743.0	61.49	2099756	2101706	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1964	infC	infC	ECK1716:fit:JW5829:srjA	1e-53	71.79	202.0	62.22	2101777	2102272	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2596	rpmI	rpmI	ECK1715:JW1707	3e-05	52.31	40.4	56.57	2798785	2798983	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2597	rplT	rplT	ECK1714:JW1706:pdzA	1e-32	66.07	131.0	64.44	2798998	2799358	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2598	pheS	pheS	ECK1712:JW5277:phe-act	6e-103	56.63	367.0	65.0	2799432	2800455	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2599	pheT	pheT	ECK1711:JW1703	0.0	46.04	649.0	68.9	2800467	2802885	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2600	ihfA	ihfA	ECK1710:hid:himA:JW1702	1e-32	68.04	131.0	65.5	2802890	2803232	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC rpmI-rplT-pheST-ihfA 
+$$	NC_002928	Bordetella_parapertussis_12822	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.14	 0.71	0	0	1	5	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.14	 0.71	0	0	1	5	0	0
+NC_002488	Xylella_fastidiosa_9a5c	XF0736	thrS	thrS	ECK1717:JW1709	0.0	59.18	796.0	51.47	691466	693374	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0737	infC	infC	ECK1716:fit:JW5829:srjA	5e-42	56.41	162.0	49.58	693489	693969	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0739	rpmI	rpmI	ECK1715:JW1707	3e-07	60.94	46.2	52.02	694229	694427	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0740	rplT	rplT	ECK1714:JW1706:pdzA	1e-36	70.34	144.0	49.44	694437	694797	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0741	pheS	pheS	ECK1712:JW5277:phe-act	6e-118	59.09	416.0	50.6	695068	696070	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0742	pheT	pheT	ECK1711:JW1703	1e-176	42.64	612.0	54.69	696153	698532	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0743	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-35	73.91	139.0	46.67	698555	698855	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_002488	Xylella_fastidiosa_9a5c	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_002488	Xylella_fastidiosa_9a5c	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_002488	Xylella_fastidiosa_9a5c	 0.00	 1.00	0	0	0	7	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2038	rpmI	rpmI	ECK1715:JW1707	3e-05	52.31	40.4	57.07	2186807	2187005	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2039	rplT	rplT	ECK1714:JW1706:pdzA	1e-32	66.07	131.0	64.44	2187020	2187380	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2040	pheS	pheS	ECK1712:JW5277:phe-act	1e-103	56.93	370.0	65.0	2187454	2188477	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2041	pheT	pheT	ECK1711:JW1703	0.0	46.04	650.0	69.07	2188489	2190907	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2042	ihfA	ihfA	ECK1710:hid:himA:JW1702	1e-32	68.04	131.0	65.5	2190912	2191254	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:19.856,eval_thresh:15.593
+NC_002927	Bordetella_bronchiseptica_RB50	BB2150	thrS	thrS	ECK1717:JW1709	0.0	56.41	743.0	61.54	2298317	2300267	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2151	infC	infC	ECK1716:fit:JW5829:srjA	2e-53	71.79	202.0	62.22	2300338	2300833	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	rpmI-rplT-pheST-ihfA thrS-infC 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.14	 0.71	0	0	1	5	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.14	 0.71	0	0	1	5	0	0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_123	thrS	thrS	ECK1717:JW1709	0.0	59.97	849.0	27.22	130476	132405	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_124	infC	infC	ECK1716:fit:JW5829:srjA	6e-74	84.92	267.0	32.22	132408	132948	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_125	rpmI	rpmI	ECK1715:JW1707	2e-09	67.69	51.2	28.79	133034	133232	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_126	rplT	rplT	ECK1714:JW1706:pdzA	1e-42	81.2	162.0	32.49	133274	133631	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_127	pheS	pheS	ECK1712:JW5277:phe-act	2e-123	58.72	432.0	25.56	133825	134815	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_128	pheT	pheT	ECK1711:JW1703	0.0	41.78	677.0	24.62	134824	137212	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_129	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-26	64.52	108.0	26.54	137216	137525	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.00	 1.00	0	0	0	7	0	0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl351	thrS	thrS	ECK1717:JW1709	1e-170	63.17	590.0	27.49	388652	389885	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl352	infC	infC	ECK1716:fit:JW5829:srjA	1e-54	65.32	203.0	25.76	389908	390436	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl353	rpmI	rpmI	ECK1715:JW1707	5e-08	56.25	46.6	26.26	390530	390728	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl354	rplT	rplT	ECK1714:JW1706:pdzA	4e-33	65.79	130.0	30.53	390825	391182	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl355	pheS	pheS	ECK1712:JW5277:phe-act	4e-107	51.52	378.0	25.2	391285	392293	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl356	pheT	pheT	ECK1711:JW1703	0.0	43.96	696.0	25.7	392328	394740	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST 
+$$	NC_005061	Candidatus_Blochmannia_floridanus	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_005061	Candidatus_Blochmannia_floridanus	 0.00	 0.86	0	1	0	6	0	0
+@@	NC_005061	Candidatus_Blochmannia_floridanus	 0.00	 1.00	0	1	0	6	0	0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1650	thrS	thrS	ECK1717:JW1709	0.0	61.49	835.0	63.27	1985329	1987240	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1651	infC	infC	ECK1716:fit:JW5829:srjA	2e-44	60.26	172.0	59.79	1987351	1987831	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1652	rpmI	rpmI	ECK1715:JW1707	2e-06	60.94	43.9	61.62	1988071	1988269	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1653	rplT	rplT	ECK1714:JW1706:pdzA	6e-36	70.34	142.0	60.0	1988279	1988639	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1654	pheS	pheS	ECK1712:JW5277:phe-act	3e-114	59.7	405.0	64.09	1988938	1989949	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1655	pheT	pheT	ECK1711:JW1703	6e-172	42.84	598.0	67.51	1990078	1992454	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1656	ihfA	ihfA	ECK1710:hid:himA:JW1702	3e-37	78.26	146.0	60.0	1992474	1992774	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	0	0	0	7	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1712	ihfA	ihfA	ECK1710:hid:himA:JW1702	3e-53	100.0	199.0	50.0	1793276	1793576	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1713	pheT	pheT	ECK1711:JW1703	0.0	100.0	1591.0	54.36	1793580	1795968	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1714	pheS	pheS	ECK1712:JW5277:phe-act	0.0	100.0	678.0	53.86	1795982	1796966	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1716	rplT	rplT	ECK1714:JW1706:pdzA	1e-52	100.0	198.0	48.18	1797416	1797773	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1717	rpmI	rpmI	ECK1715:JW1707	5e-19	100.0	85.9	50.0	1797825	1798023	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.862,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1718	infC	infC	ECK1716:fit:JW5829:srjA	2e-85	99.44	308.0	48.62	1798119	1798662	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.862,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1719	thrS	thrS	ECK1717:JW1709	0.0	100.0	1346.0	49.56	1798665	1800594	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.862,eval_thresh:13.766
+++	<ihfA-pheTS-rplT-rpmI-infC-thrS> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	7	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0952	ihfA	ihfA	ECK1710:hid:himA:JW1702	3e-35	71.74	139.0	43.04	1037077	1037386	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:35.967,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0953	pheT	pheT	ECK1711:JW1703	0.0	42.91	635.0	45.63	1037436	1039803	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:35.967,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0954	pheS	pheS	ECK1712:JW5277:phe-act	2e-114	58.88	405.0	44.8	1039821	1040859	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:35.967,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0955	rplT	rplT	ECK1714:JW1706:pdzA	6e-37	72.03	145.0	42.78	1040927	1041287	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:35.967,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0956	rpmI	rpmI	ECK1715:JW1707	2e-05	53.85	40.0	43.94	1041298	1041496	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0957	infC	infC	ECK1716:fit:JW5829:srjA	7e-43	70.14	166.0	43.64	1041620	1042115	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:35.967,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0958	thrS	thrS	ECK1717:JW1709	0.0	57.32	791.0	42.77	1042240	1044148	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:35.967,eval_thresh:16.889
+++	<ihfA-pheTS-rplT-rpmI-infC-thrS> 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.00	 1.00	0	0	0	7	0	0
+NC_003143	Yersinia_pestis_CO92	YPO2427	ihfA	ihfA	ECK1710:hid:himA:JW1702	7e-50	92.86	188.0	48.15	2727775	2728072	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO2428	pheT	pheT	ECK1711:JW1703	0.0	83.4	1358.0	48.49	2728076	2730464	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO2429	pheS	pheS	ECK1712:JW5277:phe-act	1e-180	90.21	625.0	47.56	2730477	2731461	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.168,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2430	rplT	rplT	ECK1714:JW1706:pdzA	1e-51	97.46	194.0	49.86	2731959	2732316	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.168,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2431	rpmI	rpmI	ECK1715:JW1707	2e-17	89.23	80.5	45.96	2732353	2732551	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.168,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2432	infC	infC	ECK1716:fit:JW5829:srjA	7e-76	89.07	276.0	47.46	2732647	2733199	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.168,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2433	thrS	thrS	ECK1717:JW1709	0.0	88.32	1214.0	47.33	2733202	2735131	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.168,eval_thresh:9.147
+++	<ihfA-pheTS-rplT-rpmI-infC-thrS> 
+$$	NC_003143	Yersinia_pestis_CO92	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	7	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0602	infC	infC	ECK1716:fit:JW5829:srjA	8e-56	79.87	209.0	43.44	699931	700396	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0603	rpmI	rpmI	ECK1715:JW1707	8e-14	78.46	67.8	38.38	700793	700991	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0604	rplT	rplT	ECK1714:JW1706:pdzA	5e-51	96.58	191.0	41.53	701061	701415	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0628	ihfA	ihfA	ECK1710:hid:himA:JW1702	5e-37	71.13	144.0	38.72	730349	730646	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0629	pheT	pheT	ECK1711:JW1703	0.0	66.04	1063.0	42.25	730649	733037	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0631	pheS	pheS	ECK1712:JW5277:phe-act	2e-147	74.01	514.0	40.96	733549	734533	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0593	thrS	thrS	ECK1717:JW1709	0.0	79.44	1102.0	42.96	687396	689328	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	infC-rpmI-rplT <ihfA-pheT> <pheS> thrS 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.43	 0.43	0	0	3	3	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.43	 0.43	0	0	3	3	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2378	thrS	thrS	ECK1717:JW1709	0.0	65.99	909.0	57.51	2627366	2629289	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2379	infC	infC	ECK1716:fit:JW5829:srjA	4e-51	64.44	194.0	51.87	2629306	2629840	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2381	rplT	rplT	ECK1714:JW1706:pdzA	3e-42	83.05	164.0	52.1	2630124	2630481	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2382	pheS	pheS	ECK1712:JW5277:phe-act	1e-130	64.2	460.0	58.41	2630584	2631601	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2383	pheT	pheT	ECK1711:JW1703	0.0	51.95	818.0	61.29	2631629	2634008	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_2384	ihfA	ihfA	ECK1710:hid:himA:JW1702	4e-41	85.71	159.0	53.8	2634011	2634314	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rplT-pheST-ihfA 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.00	 0.86	0	1	0	6	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.00	 1.00	0	1	0	6	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_1043	pheT	pheT	ECK1711:JW1703	2e-103	32.25	370.0	70.12	1173555	1175955	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1044	unknown	pheS	ECK1712:JW5277:phe-act	7e-99	52.92	353.0	66.76	1176112	1177186	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1045	rplT	rplT	ECK1714:JW1706:pdzA	3e-30	62.71	123.0	64.15	1177434	1177791	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1370	unknown	ihfA	ECK1710:hid:himA:JW1702	3e-20	47.83	89.7	67.66	1522586	1522889	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.764,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_1049	infC	infC	ECK1716:fit:JW5829:srjA	3e-35	56.71	141.0	60.34	1181446	1181968	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0464	unknown	thrS	ECK1717:JW1709	0.0	49.13	635.0	64.02	486300	488268	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pheTS-rplT> ihfA <infC> thrS 
+$$	NC_002696	Caulobacter_crescentus_CB15	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.43	 0.43	0	1	3	3	0	0
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.50	 0.50	0	1	3	3	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0254	infC	infC	ECK1716:fit:JW5829:srjA	2e-38	61.31	151.0	53.43	252140	252563	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.088,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0256	rplT	rplT	ECK1714:JW1706:pdzA	3e-30	58.97	122.0	59.01	252996	253401	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.088,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0258	pheS	pheS	ECK1712:JW5277:phe-act	1e-96	49.7	345.0	61.05	254469	255519	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.088,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0259	pheT	pheT	ECK1711:JW1703	3e-135	37.1	475.0	61.39	255543	257967	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1180	ihfA	ihfA	ECK1710:hid:himA:JW1702	1e-23	50.0	100.0	56.93	1173773	1174112	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:32.109,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1746	thrS	thrS	ECK1717:JW1709	0.0	48.33	654.0	59.03	1732561	1734565	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	infC-rplT pheST ihfA <thrS> 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.43	 0.29	0	1	3	2	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.50	 0.33	0	1	3	2	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0820	thrS	thrS	ECK1717:JW1709	2e-143	43.77	502.0	48.87	776418	778227	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0821	infC	infC	ECK1716:fit:JW5829:srjA	4e-26	46.39	110.0	46.33	778223	778754	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0823	rplT	rplT	ECK1714:JW1706:pdzA	6e-26	53.85	108.0	41.53	779092	779446	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1307	pheS	pheS	ECK1712:JW5277:phe-act	2e-82	47.85	298.0	48.74	1258683	1259676	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1308	pheT	pheT	ECK1711:JW1703	1e-66	29.11	247.0	49.94	1259672	1262033	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0499	HU	ihfA	ECK1710:hid:himA:JW1702	3e-09	32.58	52.4	44.2	501645	501921	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rplT pheST ihfA 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.29	 0.43	0	1	2	3	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.33	 0.50	0	1	2	3	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2182	pheS	pheS	ECK1712:JW5277:phe-act	4e-92	47.03	330.0	59.19	2062642	2063752	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2183	pheT	pheT	ECK1711:JW1703	4e-124	35.09	438.0	60.46	2063773	2066188	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0816	ihfA	ihfA	ECK1710:hid:himA:JW1702	1e-23	49.44	100.0	52.78	783137	783461	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2180	rplT	rplT	ECK1714:JW1706:pdzA	4e-29	59.83	119.0	57.53	2061209	2061614	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2177	unknown	infC	ECK1716:fit:JW5829:srjA	2e-38	63.64	150.0	54.57	2059567	2059972	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1112	thrS	thrS	ECK1717:JW1709	0.0	50.54	676.0	56.35	1059752	1061729	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pheST ihfA rplT infC <thrS> 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	thrS,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.57	 0.29	0	1	4	2	0	0
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.67	 0.33	0	1	4	2	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1311	pheS	pheS	ECK1712:JW5277:phe-act	1e-148	74.77	518.0	38.99	1388299	1389289	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1312	pheT	pheT	ECK1711:JW1703	0.0	65.28	1031.0	40.66	1389322	1391710	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1313	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-32	65.93	129.0	37.8	1391711	1392002	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1318m	infC	infC	ECK1716:fit:JW5829:srjA	2e-63	79.88	233.0	39.96	1395025	1395568	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1319m	rpmI	rpmI	ECK1715:JW1707	6e-14	78.46	67.8	38.38	1395778	1395976	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1320	rplT	rplT	ECK1714:JW1706:pdzA	2e-50	95.73	189.0	42.94	1396042	1396396	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1367	thrS	thrS	ECK1717:JW1709	0.0	78.04	1066.0	40.53	1454488	1456420	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pheST-ihfA infC-rpmI-rplT thrS 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.29	 0.43	0	0	2	3	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.29	 0.43	0	0	2	3	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1630	thrS	thrS	ECK1717:JW1709	0.0	100.0	1346.0	49.82	1582813	1584742	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1631	infC	infC	ECK1716:fit:JW5829:srjA	1e-64	99.31	239.0	47.36	1584853	1585288	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1632	rpmI	rpmI	ECK1715:JW1707	4e-19	100.0	85.9	49.49	1585384	1585582	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1633	rplT	rplT	ECK1714:JW1706:pdzA	2e-52	99.15	197.0	48.18	1585634	1585991	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1634	pheS	pheS	ECK1712:JW5277:phe-act	0.0	99.39	674.0	53.96	1586440	1587424	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1635	pheT	pheT	ECK1711:JW1703	0.0	99.5	1563.0	53.98	1587438	1589826	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1636	ihfA	ihfA	ECK1710:hid:himA:JW1702	2e-53	100.0	199.0	50.0	1589830	1590130	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	thrS-infC-rpmI-rplT-pheST-ihfA 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	ihfA,1	infC,1	pheS,1	pheT,1	rplT,1	rpmI,1	thrS,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	7	0	0

@@ -1,0 +1,24 @@
+PSPTO_1400
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1400	hrcN	atpD	NONE	6e-22	27.17	95.1	65.3	1537028	1538378	-1	Protein	438	BLAST	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1494	1686725
+PSPTO_1961
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1961	fliI	atpA	NONE	4e-38	33.69	142.0	64.0	2148300	2149659	1	Protein	282	BLAST	NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1851	1749017
+PSPTO_5242
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5242	rho	atpA	NONE	0.0005	21.83	39.7	56.4	5961652	5962912	-1	Protein	229	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122
+PSPTO_5598
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5598	atpC	atpC	NONE	7e-66	100.0	194.0	58.3	6380878	6381298	-1	Protein	139	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5598	6381298
+PSPTO_5599
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5599	atpD	atpD	NONE	0.0	100.0	895.0	57.2	6381348	6382728	-1	Protein	459	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5599	6382728
+PSPTO_5600
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5600	atpG	atpG	NONE	0.0	100.0	561.0	56.1	6382755	6383616	-1	Protein	286	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5600	6383616
+PSPTO_5601
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5601	atpA	atpA	NONE	0.0	100.0	1029.0	56.8	6383666	6385211	-1	Protein	514	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5601	6385211
+PSPTO_5602
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5602	atpH	atpH	NONE	4e-130	100.0	360.0	56.8	6385232	6385769	-1	Protein	178	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5602	6385769
+PSPTO_5603
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5603	atpF	atpF	NONE	2e-97	99.36	275.0	55.6	6385781	6386252	-1	Protein	156	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5603	6386252
+PSPTO_5604
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5604	atpE	atpE	NONE	2e-28	100.0	95.5	56.6	6386309	6386567	-1	Protein	48	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5604	6386567
+PSPTO_5605
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5605	atpB	atpB	NONE	0.0	100.0	550.0	57.0	6386705	6387575	-1	Protein	289	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5605	6387575
+PSPTO_5606
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5606	atpI	atpI	NONE	1e-76	100.0	221.0	56.9	6387591	6387999	-1	Protein	135	exact	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5606	6387999

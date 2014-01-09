@@ -1,0 +1,422 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr5008	hisB	hisB	ECK2017:JW2004	5e-46	50.0	179.0	64.33	3970559	3971159	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr5011	hisH	hisH	ECK2018:JW2005	3e-30	38.03	125.0	66.36	3971640	3972291	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr5014	unknown	hisA	ECK2019:JW2006	3e-21	33.86	95.9	67.34	3972585	3973329	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr5016	unknown	hisF	ECK2020:JW2007	4e-47	41.54	182.0	66.67	3974161	3974953	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr5018	hisE	hisI	ECK2021:hisE:hisIE:JW2008	3e-11	52.38	62.8	62.35	3974986	3975310	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll6456	hisD	hisD	ECK2015:JW2002	5e-72	39.9	265.0	65.66	5275691	5276984	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll7737	unknown	hisC	ECK2016:JW2003	1e-20	29.39	94.7	64.33	6407013	6408126	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisBHA hisFI <hisD> <hisC> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisH,1	hisI,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.38	 0.38	0	1	3	3	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.43	 0.43	0	1	3	3	0	0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA4447	hisC1	hisC	ECK2016:JW2003	8e-25	28.05	108.0	64.68	4981045	4982101	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA4448	hisD	hisD	ECK2015:JW2002	7e-81	41.89	295.0	67.65	4982103	4983426	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA4449	hisG	hisG	ECK2014:JW2001	4e-13	34.74	69.3	65.25	4983551	4984187	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5066	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-17	38.78	82.4	63.7	5705793	5706198	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5067	hisE	hisI	ECK2021:hisE:hisIE:JW2008	1e-08	41.76	54.3	66.07	5706190	5706526	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5140	hisF1	hisF	ECK2020:JW2007	3e-59	44.96	222.0	66.8	5788613	5789384	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5141	hisA	hisA	ECK2019:JW2006	2e-17	33.06	83.6	66.4	5789394	5790132	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5142	hisH1	hisH	ECK2018:JW2005	8e-32	39.22	130.0	67.6	5790444	5791086	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5143	hisB	hisB	ECK2017:JW2004	3e-46	47.69	179.0	65.15	5791082	5791676	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisCDG> hisII <hisFAHB> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.25	 0.50	1	0	2	4	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.25	 0.50	1	0	2	4	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2071	hisG	hisG	ECK2014:JW2001	4e-158	95.65	550.0	55.33	2149614	2150514	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2072	hisD	hisD	ECK2015:JW2002	0.0	92.17	825.0	58.54	2150616	2151921	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2073	hisC	hisC	ECK2016:JW2003	0.0	89.01	660.0	55.83	2151917	2152997	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2074	hisB	hisB	ECK2017:JW2004	0.0	96.06	708.0	52.15	2152993	2154061	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2075	hisH	hisH	ECK2018:JW2005	4e-107	90.82	380.0	57.02	2154060	2154651	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2076	hisA	hisA	ECK2019:JW2006	4e-115	94.26	407.0	58.4	2154650	2155388	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2077	hisF	hisF	ECK2020:JW2007	5e-144	94.57	503.0	55.34	2155369	2156146	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2078	hisI	hisI	ECK2021:hisE:hisIE:JW2008	4e-103	92.12	367.0	53.1	2156139	2156751	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	8	0	0
+NC_004310	Brucella_suis_1330	BR2083	hisH	hisH	ECK2018:JW2005	2e-32	38.03	131.0	57.91	2006823	2007474	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2084	hisA	hisA	ECK2019:JW2006	6e-19	33.94	86.7	59.7	2007478	2008210	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2085	hisF	hisF	ECK2020:JW2007	6e-50	42.08	189.0	60.18	2008206	2008992	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2086	hisE	hisI	ECK2021:hisE:hisIE:JW2008	7e-13	50.77	66.2	62.04	2009127	2009451	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0252	hisD	hisD	ECK2015:JW2002	1e-79	41.33	289.0	61.87	261358	262651	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2081	hisB	hisB	ECK2017:JW2004	1e-47	47.94	182.0	59.61	2005591	2006200	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1987	hisC	hisC	ECK2016:JW2003	7e-17	25.88	80.5	59.2	1915245	1916343	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisHAFI <hisD> hisB hisC 
+$$	NC_004310	Brucella_suis_1330	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisH,1	hisI,1
+##	NC_004310	Brucella_suis_1330	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_004310	Brucella_suis_1330	 0.43	 0.57	0	1	3	4	0	0
+NC_003112	Neisseria_meningitidis_MC58	NMB0627	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-18	43.33	84.3	54.55	660939	661335	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0628	hisF	hisF	ECK2020:JW2007	6e-54	43.19	203.0	61.59	661365	662133	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0629	hisA	hisA	ECK2019:JW2006	3e-19	30.56	87.8	58.54	662145	662883	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0630	hisH	hisH	ECK2018:JW2005	2e-29	38.86	121.0	53.36	662915	663554	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB1581	hisD	hisD	ECK2015:JW2002	5e-84	42.68	304.0	58.37	1643107	1644397	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB1582	hisC	hisC	ECK2016:JW2003	5e-28	30.74	117.0	55.83	1644442	1645540	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB1583	hisB	hisB	ECK2017:JW2004	4e-48	49.74	184.0	57.69	1645719	1646454	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB1579	hisG	hisG	ECK2014:JW2001	5e-16	34.78	77.4	55.05	1641454	1642108	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAH> hisDCB hisG 
+$$	NC_003112	Neisseria_meningitidis_MC58	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_003112	Neisseria_meningitidis_MC58	 0.25	 0.50	0	0	2	4	0	0
+@@	NC_003112	Neisseria_meningitidis_MC58	 0.25	 0.50	0	0	2	4	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_0289	hisB	hisB	ECK2017:JW2004	1e-44	45.0	174.0	58.29	349952	350585	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0290	hisH	hisH	ECK2018:JW2005	3e-30	37.25	125.0	62.91	350585	351224	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0292	hisA	hisA	ECK2019:JW2006	9e-20	33.73	91.3	63.28	351512	352250	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0293	hisF	hisF	ECK2020:JW2007	4e-57	42.25	215.0	63.68	352260	353031	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0965	hisG	hisG	ECK2014:JW2001	3e-12	34.58	66.6	61.95	1104596	1105232	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0966	hisD	hisD	ECK2015:JW2002	2e-78	39.07	286.0	63.88	1105518	1106844	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0967	hisC	hisC	ECK2016:JW2003	1e-28	30.4	120.0	62.37	1106846	1107893	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5014	hisI	hisI	ECK2021:hisE:hisIE:JW2008	5e-17	37.76	81.6	60.05	5714236	5714629	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5015	hisE	hisI	ECK2021:hisE:hisIE:JW2008	2e-08	42.03	53.1	58.63	5714630	5714966	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisBHAF hisGDC hisII 
+$$	NC_002947	Pseudomonas_putida_KT2440	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_002947	Pseudomonas_putida_KT2440	 0.25	 0.50	1	0	2	4	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.25	 0.50	1	0	2	4	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0610	hisG	hisG	ECK2014:JW2001	4e-16	33.33	79.3	66.36	645743	646385	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0611	hisD	hisD	ECK2015:JW2002	1e-78	41.63	287.0	70.65	646475	647780	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0613	hisC	hisC	ECK2016:JW2003	5e-29	30.68	122.0	67.88	648903	649974	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0614	hisB	hisB	ECK2017:JW2004	1e-43	47.18	171.0	64.65	649978	650572	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0616	hisH	hisH	ECK2018:JW2005	2e-32	39.13	132.0	60.88	650989	651628	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0617	hisA	hisA	ECK2019:JW2006	2e-19	30.56	89.7	66.53	651649	652390	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0618	hisF	hisF	ECK2020:JW2007	4e-54	40.7	205.0	67.71	652462	653227	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0620	hisI	hisI	ECK2021:hisE:hisIE:JW2008	5e-18	40.82	84.3	64.91	653630	654029	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGD hisCBHAFI 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.12	 0.75	0	0	1	6	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.12	 0.75	0	0	1	6	0	0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2944	hisE	hisI	ECK2021:hisE:hisIE:JW2008	2e-06	38.16	45.4	67.47	3174957	3175332	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2945	hisI	hisI	ECK2021:hisE:hisIE:JW2008	2e-21	48.89	95.5	61.7	3175324	3175747	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2946	hisF	hisF	ECK2020:JW2007	1e-59	44.23	223.0	67.44	3175749	3176520	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2947	hisA	hisA	ECK2019:JW2006	1e-20	34.98	93.2	65.32	3176589	3177333	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2948	hisH	hisH	ECK2018:JW2005	1e-31	37.09	129.0	65.6	3177408	3178062	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2950	hisB	hisB	ECK2017:JW2004	2e-50	50.0	192.0	65.99	3178737	3179328	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2951	hisC1	hisC	ECK2016:JW2003	5e-34	32.13	138.0	68.0	3179324	3180449	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2952	hisD	hisD	ECK2015:JW2002	2e-77	41.92	282.0	70.65	3180465	3181794	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIIFAH> <hisBCD> 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisH,1	hisI,2
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.12	 0.50	1	1	1	4	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.14	 0.57	1	1	1	4	0	0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003203	unknown	hisI	ECK2021:hisE:hisIE:JW2008	7e-67	66.5	246.0	49.76	2455382	2456015	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003204	unknown	hisF	ECK2020:JW2007	4e-131	86.33	460.0	51.03	2456011	2456785	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003205	unknown	hisA	ECK2019:JW2006	4e-79	65.57	287.0	50.14	2456766	2457504	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003206	hisH	hisH	ECK2018:JW2005	3e-69	61.5	254.0	50.65	2457546	2458158	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003207	unknown	hisB	ECK2017:JW2004	1e-144	68.56	506.0	49.81	2458157	2459231	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003208	unknown	hisC	ECK2016:JW2003	3e-119	59.88	421.0	49.38	2459282	2460323	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003209	hisD	hisD	ECK2015:JW2002	2e-159	63.44	555.0	51.7	2460326	2461622	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003210	hisG	hisG	ECK2014:JW2001	6e-110	68.03	390.0	49.18	2461626	2462541	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAHBCDG> 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	0	0	8	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2913	unknown	hisI	ECK2021:hisE:hisIE:JW2008	1e-65	66.5	241.0	49.53	2979976	2980612	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2914	unknown	hisF	ECK2020:JW2007	1e-132	86.38	465.0	47.16	2980608	2981382	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2915	unknown	hisA	ECK2019:JW2006	1e-76	63.11	279.0	49.19	2981363	2982101	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2916	hisH	hisH	ECK2018:JW2005	6e-70	61.5	256.0	47.64	2982113	2982728	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2917	unknown	hisB	ECK2017:JW2004	5e-147	69.41	513.0	46.83	2982754	2983828	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2918	unknown	hisC	ECK2016:JW2003	1e-116	60.76	412.0	46.3	2983897	2984938	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2919	hisD	hisD	ECK2015:JW2002	2e-160	63.98	558.0	47.15	2984951	2986247	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_2920	hisG	hisG	ECK2014:JW2001	2e-112	68.37	398.0	45.37	2986252	2987149	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAHBCDG> 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	0	0	8	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP4266	hisG	hisG	ECK2014:JW2001	3e-16	35.87	79.7	70.24	4606231	4606903	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4267	hisD	hisD	ECK2015:JW2002	3e-76	40.89	279.0	71.58	4606935	4608258	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4268	hisC	hisC	ECK2016:JW2003	2e-29	31.84	123.0	69.03	4608254	4609352	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4269	hisB	hisB	ECK2017:JW2004	5e-48	50.0	185.0	65.99	4609353	4609941	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4270	hisH	hisH	ECK2018:JW2005	5e-28	33.94	117.0	67.4	4609972	4610650	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4271	hisA	hisA	ECK2019:JW2006	2e-18	32.87	86.7	68.15	4610713	4611454	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4272	hisF	hisF	ECK2020:JW2007	1e-54	42.08	206.0	69.88	4611450	4612260	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4273	hisI	hisI	ECK2021:hisE:hisIE:JW2008	1e-19	43.96	90.1	66.91	4612256	4612661	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP4274	hisE	hisI	ECK2021:hisE:hisIE:JW2008	8e-05	31.88	40.8	66.67	4612657	4613005	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFII 
+$$	NC_002928	Bordetella_parapertussis_12822	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_002928	Bordetella_parapertussis_12822	 0.00	 1.00	1	0	0	8	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.00	 1.00	1	0	0	8	0	0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1597	hisG	hisG	ECK2014:JW2001	3e-111	66.22	393.0	34.33	1525439	1526339	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1598	hisD	hisD	ECK2015:JW2002	1e-151	60.09	528.0	34.97	1526346	1527633	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1599	hisB	hisB	ECK2017:JW2004	7e-121	56.62	426.0	33.52	1527629	1528688	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1600	hisH	hisH	ECK2018:JW2005	5e-54	51.53	202.0	31.63	1528684	1529272	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1601	hisA	hisA	ECK2019:JW2006	1e-54	50.21	205.0	34.02	1529268	1530000	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1603	hisF	hisF	ECK2020:JW2007	8e-97	65.76	345.0	32.68	1530941	1531709	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1604	hisI	hisI	ECK2021:hisE:hisIE:JW2008	2e-69	63.41	254.0	32.85	1531710	1532334	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0317	hisC	hisC	ECK2016:JW2003	3e-25	25.41	108.0	28.86	287310	288405	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDBHA hisFI hisC 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.25	 0.62	0	0	2	5	0	0
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.25	 0.62	0	0	2	5	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2280	hisG	hisG	ECK2014:JW2001	1e-158	95.99	552.0	55.56	2106395	2107295	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2281	hisD	hisD	ECK2015:JW2002	0.0	92.4	822.0	58.85	2107397	2108702	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2282	hisC	hisC	ECK2016:JW2003	0.0	89.01	661.0	56.02	2108698	2109778	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2283	hisB	hisB	ECK2017:JW2004	0.0	95.77	706.0	51.97	2109774	2110842	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2284	hisH	hisH	ECK2018:JW2005	4e-107	90.82	380.0	56.18	2110841	2111432	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2285	hisA	hisA	ECK2019:JW2006	1e-115	94.26	409.0	58.13	2111431	2112169	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2286	hisF	hisF	ECK2020:JW2007	5e-144	94.57	503.0	54.95	2112150	2112927	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2287	hisI	hisI	ECK2021:hisE:hisIE:JW2008	6e-102	91.13	363.0	53.43	2112920	2113532	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	8	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02568	hisE	hisI	ECK2021:hisE:hisIE:JW2008	3e-13	50.77	68.6	62.35	57520	57844	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02569	hisF	hisF	ECK2020:JW2007	3e-50	41.31	191.0	64.99	57908	58685	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02570	hisA	hisA	ECK2019:JW2006	3e-19	33.47	89.0	65.99	58681	59425	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02572	hisH	hisH	ECK2018:JW2005	1e-29	37.26	122.0	66.82	59457	60108	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02574	hisB	hisB	ECK2017:JW2004	3e-50	48.97	192.0	64.37	60607	61216	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02307	hisD	hisD	ECK2015:JW2002	3e-85	44.04	308.0	67.28	679892	681197	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.327,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc04326	unknown	hisC	ECK2016:JW2003	4e-14	30.43	72.4	63.25	2135495	2136638	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAHB> hisD <hisC> 
+$$	NC_003047	Sinorhizobium_meliloti_1021	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisH,1	hisI,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.25	 0.62	0	1	2	5	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.29	 0.71	0	1	2	5	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1137	hisG	hisG	ECK2014:JW2001	3e-112	68.71	397.0	46.01	1196764	1197679	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1138	hisD	hisD	ECK2015:JW2002	2e-162	65.33	565.0	48.53	1197684	1198980	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1139	unknown	hisC	ECK2016:JW2003	1e-123	61.92	436.0	47.65	1198995	1200036	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1140	unknown	hisB	ECK2017:JW2004	7e-146	68.84	509.0	46.83	1200101	1201175	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1141	hisH	hisH	ECK2018:JW2005	8e-70	61.5	256.0	44.55	1201201	1201816	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1142	unknown	hisA	ECK2019:JW2006	7e-77	63.11	280.0	49.73	1201828	1202566	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1143	unknown	hisF	ECK2020:JW2007	1e-130	84.82	458.0	47.42	1202547	1203321	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP1144	unknown	hisI	ECK2021:hisE:hisIE:JW2008	1e-66	65.99	245.0	48.74	1203317	1203953	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	0	0	8	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1828	hisG	hisG	ECK2014:JW2001	2e-57	44.03	216.0	68.2	2123558	2124473	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1829	hisD	hisD	ECK2015:JW2002	8e-115	51.76	407.0	67.36	2124469	2125765	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1830	hisC	hisC	ECK2016:JW2003	6e-77	43.06	281.0	66.3	2125761	2126853	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1831	hisB	hisB	ECK2017:JW2004	3e-108	52.69	385.0	62.23	2126849	2127977	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1832	hisH	hisH	ECK2018:JW2005	1e-42	44.39	166.0	66.83	2127973	2128576	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1833	hisA	hisA	ECK2019:JW2006	6e-49	47.92	187.0	67.48	2128572	2129307	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1834	hisF	hisF	ECK2020:JW2007	1e-91	64.06	329.0	64.09	2129300	2130077	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1835	hisI	hisI	ECK2021:hisE:hisIE:JW2008	2e-55	59.79	208.0	65.54	2130066	2130687	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	0	0	0	8	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2067	hisI	hisI	ECK2021:hisE:hisIE:JW2008	2e-64	63.86	239.0	48.58	2164094	2164730	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2068	hisF	hisF	ECK2020:JW2007	2e-112	74.22	399.0	50.78	2164812	2165586	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2069	hisA	hisA	ECK2019:JW2006	3e-71	59.84	261.0	51.49	2165567	2166305	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2070	hisH	hisH	ECK2018:JW2005	2e-53	49.53	201.0	52.1	2166409	2167075	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2071	hisB	hisB	ECK2017:JW2004	5e-132	61.13	464.0	50.55	2167219	2168311	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2072	hisC	hisC	ECK2016:JW2003	3e-85	47.46	308.0	52.55	2168393	2169569	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2073	hisD	hisD	ECK2015:JW2002	4e-143	56.98	501.0	51.78	2169631	2170948	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_2074	hisG	hisG	ECK2014:JW2001	6e-111	67.79	394.0	46.97	2170951	2171926	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAHBCDG> 
+$$	NC_004347	Shewanella_oneidensis_MR-1	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.00	 1.00	0	0	0	8	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr0652	hisH	hisH	ECK2018:JW2005	2e-27	38.14	116.0	65.59	697827	698478	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr0653	hisA	hisA	ECK2019:JW2006	1e-24	35.78	107.0	67.21	698474	699212	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr0654	hisF	hisF	ECK2020:JW2007	8e-46	38.61	178.0	66.41	699222	699996	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr0655	hisE	hisI	ECK2021:hisE:hisIE:JW2008	7e-09	43.08	55.1	59.5	700085	700406	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1256	hisD	hisD	ECK2015:JW2002	2e-76	41.03	280.0	68.83	1370712	1372008	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr7525	hisG	hisG	ECK2014:JW2001	2e-09	35.51	57.8	69.43	8258472	8259450	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr0650	hisB	hisB	ECK2017:JW2004	9e-42	47.42	165.0	64.31	696642	697236	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6225	hisC	hisC	ECK2016:JW2003	2e-28	29.71	121.0	67.14	6845525	6846578	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisHAFI hisD hisG hisB hisC 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.50	 0.50	0	0	4	4	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.50	 0.50	0	0	4	4	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3767	hisG	hisG	ECK2014:JW2001	2e-16	35.87	79.7	70.09	3977516	3978188	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3768	hisD	hisD	ECK2015:JW2002	3e-76	40.89	279.0	71.72	3978238	3979543	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3769	hisC	hisC	ECK2016:JW2003	9e-29	31.56	120.0	69.13	3979539	3980637	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3770	hisB	hisB	ECK2017:JW2004	3e-48	50.0	185.0	65.49	3980629	3981226	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3771	hisH	hisH	ECK2018:JW2005	1e-28	34.39	119.0	67.7	3981257	3981935	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3772	hisA	hisA	ECK2019:JW2006	1e-18	32.87	86.7	68.15	3981998	3982739	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3773	hisF	hisF	ECK2020:JW2007	2e-55	42.47	209.0	69.88	3982735	3983545	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3774	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-19	42.86	88.2	67.16	3983541	3983946	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3775	hisE	hisI	ECK2021:hisE:hisIE:JW2008	7e-05	31.88	40.8	66.09	3983942	3984290	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFII 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.00	 1.00	1	0	0	8	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.00	 1.00	1	0	0	8	0	0
+NC_002488	Xylella_fastidiosa_9a5c	XF2213	unknown	hisI	ECK2021:hisE:hisIE:JW2008	1e-52	56.41	198.0	57.97	2099088	2099709	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2214	unknown	hisF	ECK2020:JW2007	1e-86	61.33	312.0	57.24	2099701	2100475	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2215	unknown	hisA	ECK2019:JW2006	6e-46	44.35	176.0	62.16	2100599	2101397	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.977,eval_thresh:16.463
+NC_002488	Xylella_fastidiosa_9a5c	XF2216	hisH	hisH	ECK2018:JW2005	2e-40	42.86	157.0	61.36	2101393	2101996	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.977,eval_thresh:16.463
+NC_002488	Xylella_fastidiosa_9a5c	XF2217	unknown	hisB	ECK2017:JW2004	3e-102	50.27	364.0	57.54	2101992	2103120	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.977,eval_thresh:16.463
+NC_002488	Xylella_fastidiosa_9a5c	XF2218	unknown	hisC	ECK2016:JW2003	1e-78	42.86	285.0	62.2	2103116	2104214	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.977,eval_thresh:16.463
+NC_002488	Xylella_fastidiosa_9a5c	XF2219	hisD	hisD	ECK2015:JW2002	6e-110	51.05	390.0	61.81	2104210	2105506	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.977,eval_thresh:16.463
+NC_002488	Xylella_fastidiosa_9a5c	XF2220	hisG	hisG	ECK2014:JW2001	4e-53	43.0	201.0	59.45	2105502	2106417	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.977,eval_thresh:16.463
+++	<hisIFAHBCDG> 
+$$	NC_002488	Xylella_fastidiosa_9a5c	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_002488	Xylella_fastidiosa_9a5c	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_002488	Xylella_fastidiosa_9a5c	 0.00	 1.00	0	0	0	8	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4853	hisG	hisG	ECK2014:JW2001	3e-16	35.87	79.7	70.09	5167946	5168618	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4854	hisD	hisD	ECK2015:JW2002	4e-76	40.89	279.0	71.58	5168650	5169973	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4855	hisC	hisC	ECK2016:JW2003	3e-29	31.84	123.0	69.13	5169969	5171067	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4856	hisB	hisB	ECK2017:JW2004	6e-48	50.0	185.0	65.99	5171068	5171656	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4857	hisH	hisH	ECK2018:JW2005	6e-28	33.94	117.0	67.55	5171687	5172365	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4858	hisA	hisA	ECK2019:JW2006	2e-18	32.87	86.7	68.15	5172428	5173169	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4859	hisF	hisF	ECK2020:JW2007	2e-55	42.47	209.0	70.0	5173165	5173975	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4860	hisI	hisI	ECK2021:hisE:hisIE:JW2008	1e-19	43.96	90.1	66.91	5173971	5174376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB4861	hisE	hisI	ECK2021:hisE:hisIE:JW2008	9e-05	31.88	40.8	66.67	5174372	5174720	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFII 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.00	 1.00	1	0	0	8	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.00	 1.00	1	0	0	8	0	0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_097	hisG	hisG	ECK2014:JW2001	2e-122	74.25	429.0	30.67	104169	105069	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_098	hisD	hisD	ECK2015:JW2002	9e-157	57.81	544.0	29.97	105077	106385	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.192,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_099	hisC	hisC	ECK2016:JW2003	1e-116	53.41	410.0	26.56	106381	107488	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.192,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_100	hisB	hisB	ECK2017:JW2004	3e-126	57.46	442.0	28.44	107477	108539	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.192,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_101	hisH	hisH	ECK2018:JW2005	3e-63	51.02	231.0	26.57	108538	109129	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.192,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_102	hisA	hisA	ECK2019:JW2006	3e-66	51.03	242.0	28.74	109133	109874	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.192,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_103	hisF	hisF	ECK2020:JW2007	2e-103	64.73	365.0	30.12	109852	110629	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.192,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_104	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-60	57.14	222.0	26.08	110622	111270	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.00	 1.00	0	0	0	8	0	0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl462	hisG	hisG	ECK2014:JW2001	1e-132	78.93	463.0	33.78	509859	510759	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl463	hisD	hisD	ECK2015:JW2002	9e-146	53.66	507.0	31.51	510763	512077	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl464	hisC	hisC	ECK2016:JW2003	8e-121	56.69	424.0	27.08	512073	513144	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl465	hisB	hisB	ECK2017:JW2004	8e-130	57.58	454.0	28.77	513167	514241	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl466	hisH	hisH	ECK2018:JW2005	4e-58	48.47	215.0	26.9	514237	514828	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl467	hisA	hisA	ECK2019:JW2006	9e-67	48.39	244.0	30.03	514834	515590	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl468	hisF	hisF	ECK2020:JW2007	1e-107	66.67	380.0	30.24	515559	516336	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl469	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-56	53.4	209.0	30.69	516329	516971	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_005061	Candidatus_Blochmannia_floridanus	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_005061	Candidatus_Blochmannia_floridanus	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_005061	Candidatus_Blochmannia_floridanus	 0.00	 1.00	0	0	0	8	0	0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2374	unknown	hisI	ECK2021:hisE:hisIE:JW2008	9e-56	59.79	210.0	66.67	2866608	2867229	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2375	unknown	hisF	ECK2020:JW2007	3e-92	64.06	332.0	66.28	2867218	2867995	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2376	unknown	hisA	ECK2019:JW2006	2e-49	48.75	189.0	68.16	2867988	2868723	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2377	hisH	hisH	ECK2018:JW2005	2e-43	45.41	169.0	67.66	2868719	2869322	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2378	unknown	hisB	ECK2017:JW2004	4e-109	52.69	388.0	64.36	2869318	2870446	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2379	unknown	hisC	ECK2016:JW2003	2e-76	43.61	279.0	67.22	2870442	2871531	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2380	hisD	hisD	ECK2015:JW2002	5e-120	53.02	424.0	67.67	2871527	2872823	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2381	hisG	hisG	ECK2014:JW2001	3e-53	43.34	202.0	69.29	2872819	2873734	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAHBCDG> 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	0	0	0	8	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2019	hisG	hisG	ECK2014:JW2001	8e-165	100.0	572.0	54.11	2088215	2089115	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2020	hisD	hisD	ECK2015:JW2002	0.0	100.0	886.0	58.08	2089120	2090425	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2021	hisC	hisC	ECK2016:JW2003	0.0	100.0	729.0	55.37	2090421	2091492	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2022	hisB	hisB	ECK2017:JW2004	0.0	100.0	738.0	53.37	2091491	2092559	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2023	hisH	hisH	ECK2018:JW2005	5e-116	100.0	409.0	56.68	2092558	2093149	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2024	hisA	hisA	ECK2019:JW2006	2e-122	100.0	432.0	57.18	2093148	2093886	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2025	hisF	hisF	ECK2020:JW2007	1e-151	100.0	528.0	51.87	2093867	2094644	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2026	hisI	hisI	ECK2021:hisE:hisIE:JW2008	6e-110	100.0	389.0	54.58	2094637	2095249	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	8	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0641	hisE	hisI	ECK2021:hisE:hisIE:JW2008	2e-09	39.39	55.5	46.9	698888	699227	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0642	hisI	hisI	ECK2021:hisE:hisIE:JW2008	9e-21	37.04	92.8	46.41	699223	699613	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0643	hisF	hisF	ECK2020:JW2007	4e-58	43.08	217.0	50.84	699769	700546	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0644	hisA	hisA	ECK2019:JW2006	5e-17	32.41	80.9	50.8	700645	701395	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0645	hisH	hisH	ECK2018:JW2005	2e-31	36.15	128.0	49.92	701463	702102	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0646	hisB	hisB	ECK2017:JW2004	7e-50	47.42	190.0	51.01	702132	702726	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0647	hisC1	hisC	ECK2016:JW2003	2e-28	28.1	119.0	50.09	702761	703841	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0871	hisG	hisG	ECK2014:JW2001	3e-12	32.84	65.5	49.31	949973	950624	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0872	hisD	hisD	ECK2015:JW2002	2e-81	40.92	296.0	51.42	950644	951943	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIIFAHBC> hisGD 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.12	 0.75	1	0	1	6	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.12	 0.75	1	0	1	6	0	0
+NC_003143	Yersinia_pestis_CO92	YPO1542	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-85	79.8	307.0	49.76	1757884	1758499	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1543	hisF	hisF	ECK2020:JW2007	1e-133	86.05	468.0	50.71	1758492	1759269	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1544	hisA	hisA	ECK2019:JW2006	2e-98	79.51	352.0	55.42	1759250	1759988	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1545	hisH	hisH	ECK2018:JW2005	5e-88	75.51	317.0	52.28	1759993	1760584	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1546	hisB	hisB	ECK2017:JW2004	4e-177	81.41	613.0	51.03	1760583	1761651	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1547	hisC	hisC	ECK2016:JW2003	1e-156	74.06	545.0	51.78	1761647	1762796	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1548	hisD	hisD	ECK2015:JW2002	0.0	75.81	680.0	53.53	1762798	1764130	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1549	hisG	hisG	ECK2014:JW2001	1e-144	87.96	505.0	51.56	1764133	1765033	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAHBCDG> 
+$$	NC_003143	Yersinia_pestis_CO92	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	8	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1198	hisD	hisD	ECK2015:JW2002	2e-161	64.94	561.0	45.61	1392119	1393406	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1199	hisC	hisC	ECK2016:JW2003	4e-136	64.47	477.0	46.02	1393409	1394465	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1200	hisB	hisB	ECK2017:JW2004	3e-149	68.14	520.0	43.04	1394513	1395605	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1202	hisH	hisH	ECK2018:JW2005	9e-58	53.61	215.0	43.22	1396266	1396863	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1203	hisA	hisA	ECK2019:JW2006	3e-84	67.62	303.0	45.33	1396908	1397658	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1204	hisF	hisF	ECK2020:JW2007	4e-124	81.64	436.0	45.27	1397639	1398410	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1206	hisIE	hisI	ECK2021:hisE:hisIE:JW2008	2e-68	65.15	251.0	39.77	1398833	1399439	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1195	hisG	hisG	ECK2014:JW2001	2e-121	74.5	427.0	43.44	1390299	1391199	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisDCB hisHAFI hisG 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.25	 0.50	0	0	2	4	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.25	 0.50	0	0	2	4	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4437	hisC	hisC	ECK2016:JW2003	9e-24	28.57	105.0	61.16	5005375	5006428	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4438	hisD	hisD	ECK2015:JW2002	2e-80	40.73	293.0	61.99	5006427	5007774	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_4439	hisG	hisG	ECK2014:JW2001	4e-14	35.05	72.8	60.69	5007898	5008534	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5153	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-18	39.8	85.5	56.49	5864076	5864469	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5154	hisE	hisI	ECK2021:hisE:hisIE:JW2008	1e-06	37.68	47.0	57.96	5864471	5864804	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5334	hisF	hisF	ECK2020:JW2007	1e-55	42.25	210.0	62.13	6063975	6064746	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5335	hisA	hisA	ECK2019:JW2006	8e-19	32.38	87.8	62.06	6064765	6065503	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5337	hisH	hisH	ECK2018:JW2005	2e-30	37.44	125.0	60.88	6065873	6066512	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5338	hisB	hisB	ECK2017:JW2004	7e-46	46.15	178.0	59.43	6066511	6067105	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisCDG> hisII <hisFAHB> 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,2
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.25	 0.50	1	0	2	4	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.25	 0.50	1	0	2	4	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_3734	unknown	hisB	ECK2017:JW2004	3e-50	51.55	192.0	63.96	3989979	3990570	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_3735	unknown	hisH	ECK2018:JW2005	4e-31	39.42	127.0	66.51	3990582	3991224	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_3736	unknown	hisA	ECK2019:JW2006	3e-21	35.05	95.5	68.6	3991220	3991946	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_3737	unknown	hisF	ECK2020:JW2007	1e-57	45.53	216.0	69.6	3991945	3992728	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_3738	unknown	hisI	ECK2021:hisE:hisIE:JW2008	6e-08	42.42	50.8	68.83	3992724	3993048	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_2346	hisD	hisD	ECK2015:JW2002	4e-65	38.89	242.0	70.63	2545969	2547256	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_3511	hisG	hisG	ECK2014:JW2001	0.0001	31.13	40.8	71.86	3755667	3756630	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_2534	unknown	hisC	ECK2016:JW2003	2e-26	31.16	113.0	70.1	2739361	2740498	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisBHAFI <hisD> <hisG> <hisC> 
+$$	NC_002696	Caulobacter_crescentus_CB15	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.38	 0.62	0	0	3	5	0	0
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.38	 0.62	0	0	3	5	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0038	hisE	hisI	ECK2021:hisE:hisIE:JW2008	4e-10	52.31	57.4	59.88	40778	41102	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0039	hisF	hisF	ECK2020:JW2007	7e-51	42.86	193.0	58.94	41117	41894	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0040	hisA	hisA	ECK2019:JW2006	3e-21	35.55	94.7	59.81	41890	42634	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0041	hisH	hisH	ECK2018:JW2005	2e-31	38.5	128.0	60.98	42635	43286	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0537	hisD	hisD	ECK2015:JW2002	2e-82	40.94	299.0	62.43	527869	529168	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0043	hisB	hisB	ECK2017:JW2004	1e-50	48.21	193.0	58.63	43804	44401	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1011	hisC	hisC	ECK2016:JW2003	3e-13	23.45	68.9	61.64	1006259	1007372	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<hisIFAH> <hisD> <hisB> <hisC> 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisH,1	hisI,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.43	 0.57	0	1	3	4	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0617	hisH	hisH	ECK2018:JW2005	1e-31	36.76	128.0	48.06	603104	603722	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0618	hisA	hisA	ECK2019:JW2006	8e-21	30.52	93.2	48.82	603734	604457	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1587	hisD	hisD	ECK2015:JW2002	6e-75	38.93	274.0	51.58	1504729	1506028	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0064	HISF	hisF	ECK2020:JW2007	5e-63	49.42	233.0	50.07	64947	65712	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0804	hisG	hisG	ECK2014:JW2001	2e-12	27.78	66.2	45.09	762302	762923	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS2070	hisB	hisB	ECK2017:JW2004	2e-36	42.33	145.0	50.96	1961559	1962132	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS2000	HISC	hisC	ECK2016:JW2003	2e-25	26.28	109.0	48.19	1900769	1901873	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0090	unknown	hisI	ECK2021:hisE:hisIE:JW2008	5e-36	41.4	143.0	52.61	88094	88784	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisHA <hisD> <hisF> hisG <hisB> <hisC> <hisI> 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.75	 0.25	0	0	6	2	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.75	 0.25	0	0	6	2	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2145	hisH	hisH	ECK2018:JW2005	6e-32	37.56	129.0	57.6	2024725	2025376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2146	hisA	hisA	ECK2019:JW2006	3e-19	33.94	87.8	59.84	2025380	2026112	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2147	hisF	hisF	ECK2020:JW2007	8e-50	42.8	189.0	60.18	2026108	2026894	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2148	hisE	hisI	ECK2021:hisE:hisIE:JW2008	7e-13	50.77	66.2	62.04	2027029	2027353	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0287	hisD	hisD	ECK2015:JW2002	9e-80	41.33	289.0	61.72	282339	283632	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:32.603,eval_thresh:17.793
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2143	unknown	hisB	ECK2017:JW2004	1e-47	47.94	182.0	59.93	2023493	2024102	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2044	hisC	hisC	ECK2016:JW2003	2e-17	25.88	82.4	59.08	1933371	1934478	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisHAFI <hisD> hisB hisC 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisH,1	hisI,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.43	 0.57	0	1	3	4	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0468	hisG	hisG	ECK2014:JW2001	5e-114	71.29	402.0	39.8	490630	491542	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0469	hisD	hisD	ECK2015:JW2002	5e-159	63.55	553.0	42.21	491634	492918	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0470	hisC	hisC	ECK2016:JW2003	6e-129	60.4	452.0	40.58	492986	494090	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.603,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0471	hisB	hisB	ECK2017:JW2004	1e-140	63.54	491.0	40.77	494201	495290	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.603,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0472	hisH	hisH	ECK2018:JW2005	8e-58	55.9	215.0	38.17	495355	495955	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.603,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0473	hisA	hisA	ECK2019:JW2006	7e-78	62.86	282.0	40.4	495990	496740	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.603,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0474	hisF	hisF	ECK2020:JW2007	2e-124	82.03	437.0	42.47	496721	497498	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.603,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0475	hisIE	hisI	ECK2021:hisE:hisIE:JW2008	3e-63	59.22	233.0	37.09	497497	498163	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.603,eval_thresh:14.781
+++	hisGDCBHAFI 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.00	 1.00	0	0	0	8	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2202	hisG	hisG	ECK2014:JW2001	8e-164	99.67	569.0	54.56	2079442	2080342	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2203	hisD	hisD	ECK2015:JW2002	0.0	97.7	864.0	57.78	2080347	2081652	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2204	hisC	hisC	ECK2016:JW2003	0.0	98.6	720.0	54.81	2081648	2082719	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2205	hisB	hisB	ECK2017:JW2004	0.0	99.15	732.0	53.18	2082718	2083786	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2206	hisH	hisH	ECK2018:JW2005	8e-116	99.49	409.0	55.67	2083785	2084376	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2207	hisA	hisA	ECK2019:JW2006	1e-120	98.78	425.0	56.23	2084375	2085113	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2208	hisF	hisF	ECK2020:JW2007	2e-149	98.84	521.0	51.99	2085094	2085871	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2209	hisI	hisI	ECK2021:hisE:hisIE:JW2008	3e-107	97.04	380.0	52.12	2085864	2086476	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	hisGDCBHAFI 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	hisA,1	hisB,1	hisC,1	hisD,1	hisF,1	hisG,1	hisH,1	hisI,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	8	0	0

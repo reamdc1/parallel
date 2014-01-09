@@ -1,0 +1,20 @@
+Cj0103
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0103	atpF	atpF	NONE	6e-101	100.0	284.0	25.9	110437	110950	1	Protein	170	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0103	110950
+Cj0104
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0104	atpH	atpH	NONE	2e-120	100.0	333.0	21.8	110952	111474	1	Protein	173	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0104	111474
+Cj0105
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0105	atpA	atpA	NONE	0.0	100.0	996.0	35.2	111487	112993	1	Protein	501	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0105	112993
+Cj0106
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0106	atpG	atpG	NONE	0.0	100.0	519.0	28.9	113001	113886	1	Protein	294	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0106	113886
+Cj0107
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0107	atpD	atpD	NONE	0.0	100.0	907.0	35.4	113911	115309	1	Protein	465	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0107	115309
+Cj0108
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0108	atpC	atpC	NONE	3e-92	100.0	258.0	35.1	115312	115702	1	Protein	129	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0108	115702
+Cj0195
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0195	fliI	atpA	NONE	5e-26	29.06	106.0	35.9	190167	191553	1	Protein	265	BLAST	NC_000907	Haemophilus_influenzae_Rd_KW20	HI0481	504089
+Cj0936
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0936	atpE	atpE	NONE	3e-38	100.0	120.0	38.6	872515	872854	1	Protein	112	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj0936	872854
+Cj1156
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj1156	rho	atpA	NONE	6e-05	23.97	41.2	35.6	1088372	1089671	1	Protein	267	BLAST	NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0427	411944
+Cj1204c
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj1204c	atpB	atpB	NONE	2e-132	100.0	368.0	33.3	1133359	1134040	-1	Protein	226	exact	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168_=_ATCC_700819	Cj1204c	1134040

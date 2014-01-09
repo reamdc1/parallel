@@ -1,0 +1,26 @@
+STY1705
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1705	ssaN	atpD	NONE	4e-31	30.61	121.0	51.2	1629737	1631039	-1	Protein	330	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+STY2180
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2180	fliI	atpD	NONE	2e-25	32.28	105.0	59.9	2023514	2024885	1	Protein	316	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+STY3017
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3017	spaI	atpD	NONE	1e-28	30.68	114.0	54.3	2888676	2889972	-1	Protein	339	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+STY3638
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3638	rho	atpD	NONE	0.0003	23.94	40.0	52.9	3494785	3496045	-1	Protein	188	BLAST	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_008	8394
+STY3906
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3906	atpI	atpI	NONE	4e-67	100.0	196.0	51.7	3768664	3769045	1	Protein	126	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3906	3769045
+STY3907
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3907	atpB	atpB	NONE	0.0	100.0	506.0	51.7	3769053	3769869	1	Protein	271	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3907	3769869
+STY3908
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3908	atpE	atpE	NONE	2e-29	100.0	97.1	54.6	3769915	3770155	1	Protein	79	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3908	3770155
+STY3909
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3909	atpF	atpF	NONE	6e-90	99.36	256.0	52.0	3770214	3770685	1	Protein	156	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3909	3770685
+STY3910
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3910	atpH	atpH	NONE	1e-129	100.0	358.0	52.8	3770699	3771233	1	Protein	177	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3910	3771233
+STY3911
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3911	atpA	atpA	NONE	0.0	100.0	999.0	55.0	3771245	3772787	1	Protein	513	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3911	3772787
+STY3912
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3912	atpG	atpG	NONE	0.0	100.0	591.0	53.0	3772837	3773701	1	Protein	287	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3912	3773701
+STY3913
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3913	atpD	atpD	NONE	0.0	100.0	894.0	55.1	3773727	3775110	1	Protein	460	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3913	3775110
+STY3914
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3914	atpC	atpC	NONE	3e-88	100.0	250.0	56.0	3775130	3775550	1	Protein	139	exact	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3914	3775550

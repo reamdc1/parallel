@@ -1,0 +1,22 @@
+BP1262
+NC_002929	Bordetella_pertussis_Tohama_I	BP1262	rho	atpA	NONE	0.0006	21.83	38.9	62.6	1334251	1335508	-1	Protein	229	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634
+BP1400
+NC_002929	Bordetella_pertussis_Tohama_I	BP1400	fliI	atpD	NONE	2e-31	31.45	122.0	71.1	1473923	1475357	-1	Protein	337	BLAST	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3865	4075493
+BP2245
+NC_002929	Bordetella_pertussis_Tohama_I	BP2245	bscN	atpA	NONE	2e-36	29.14	137.0	63.4	2370831	2372166	-1	Protein	350	BLAST	NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0427	411944
+BP3282
+NC_002929	Bordetella_pertussis_Tohama_I	BP3282	atpB	atpB	papD:uncB	0.0	100.0	530.0	61.3	3499028	3499910	1	Protein	293	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3282	3499910
+BP3283
+NC_002929	Bordetella_pertussis_Tohama_I	BP3283	atpE	atpE	NONE	3e-34	100.0	109.0	60.1	3500026	3500269	1	Protein	80	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3283	3500269
+BP3284
+NC_002929	Bordetella_pertussis_Tohama_I	BP3284	atpF	atpF	papF:uncF	2e-80	99.36	231.0	62.4	3500406	3500877	1	Protein	156	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3284	3500877
+BP3285
+NC_002929	Bordetella_pertussis_Tohama_I	BP3285	atpH	atpH	papE:uncH	6e-128	100.0	353.0	63.3	3500889	3501429	1	Protein	179	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3285	3501429
+BP3286
+NC_002929	Bordetella_pertussis_Tohama_I	BP3286	atpA	atpA	papA:uncA	0.0	100.0	997.0	63.9	3501463	3503005	1	Protein	513	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3286	3503005
+BP3287
+NC_002929	Bordetella_pertussis_Tohama_I	BP3287	atpG	atpG	papC:uncG	0.0	100.0	615.0	60.5	3503103	3504009	1	Protein	301	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3287	3504009
+BP3288
+NC_002929	Bordetella_pertussis_Tohama_I	BP3288	atpD	atpD	papB:uncD	0.0	100.0	882.0	64.8	3504051	3505452	1	Protein	466	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3288	3505452
+BP3289
+NC_002929	Bordetella_pertussis_Tohama_I	BP3289	atpC	atpC	papG:uncC	1e-61	100.0	182.0	68.6	3505461	3505884	1	Protein	140	exact	NC_002929	Bordetella_pertussis_Tohama_I	BP3289	3505884

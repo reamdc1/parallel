@@ -1,0 +1,39 @@
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3257	unknown	gatZ	ECK2088:JW2082	0.0	72.97	636.0	51.57	3426828	3428100	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3258	unknown	gatA	ECK2087:JW2078:JW2081	9e-53	60.67	199.0	54.19	3428114	3428579	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3259	unknown	gatB	ECK2086:JW2077	7e-41	77.66	158.0	49.12	3428609	3428894	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3260	unknown	gatC	ECK2085:JW2076	0.0	85.87	690.0	55.39	3428897	3430271	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3261	unknown	gatD	ECK2084:JW2075	7e-138	68.6	483.0	54.98	3430314	3431358	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3253	gatY	gatY	ECK2089:JW5343:yegF	2e-113	65.37	401.0	51.23	3422604	3423459	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:15.132,eval_thresh:13.668
+++	gatZABCD gatY 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	gatA,1	gatB,1	gatC,1	gatD,1	gatY,1	gatZ,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.17	 0.83	0	0	1	5	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.17	 0.83	0	0	1	5	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3441	gatA	gatA	ECK2087:JW2078:JW2081	1e-54	63.33	205.0	53.98	3285272	3285737	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3442	gatB	gatB	ECK2086:JW2077	1e-41	78.72	160.0	49.12	3285767	3286052	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3443	gatC	gatC	ECK2085:JW2076	0.0	85.43	688.0	55.09	3286055	3287429	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3444	gatD	gatD	ECK2084:JW2075	2e-137	68.31	482.0	55.08	3287472	3288516	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3435	gatY	gatY	ECK2089:JW5343:yegF	2e-113	65.37	401.0	51.11	3279762	3280617	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.088,eval_thresh:10.939
+++	gatABCD gatY 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	gatA,1	gatB,1	gatC,1	gatD,1	gatY,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.17	 0.67	0	1	1	4	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.20	 0.80	0	1	1	4	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2091	gatD	gatD	ECK2084:JW2075	0.0	100.0	686.0	48.8	2169856	2170897	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2092	gatC	gatC	ECK2085:JW2076	0.0	100.0	795.0	51.18	2170944	2172300	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2093	gatB	gatB	ECK2086:JW2077	2e-51	100.0	193.0	41.75	2172303	2172588	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2094	gatA	gatA	ECK2087:JW2078:JW2081	2e-86	100.0	311.0	42.6	2172618	2173071	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2095	gatZ	gatZ	ECK2088:JW2082	0.0	100.0	876.0	48.93	2173080	2174343	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2096	gatY	gatY	ECK2089:JW5343:yegF	3e-170	100.0	590.0	53.1	2174371	2175226	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<gatDCBAZY> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	gatA,1	gatB,1	gatC,1	gatD,1	gatY,1	gatZ,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2280	gatC	gatC	ECK2085:JW2076	0.0	98.89	788.0	51.25	2161462	2162818	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2281	gatB	gatB	ECK2086:JW2077	2e-50	95.74	189.0	42.81	2162821	2163106	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2282	gatA	gatA	ECK2087:JW2078:JW2081	5e-86	99.33	309.0	42.16	2163136	2163589	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2283	gatZ	gatZ	ECK2088:JW2082	0.0	98.57	864.0	48.69	2163598	2164861	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2284	gatY	gatY	ECK2089:JW5343:yegF	3e-168	98.59	583.0	52.98	2164889	2165744	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S2277	gatD	gatD	ECK2084:JW2075	0.0	99.13	680.0	48.32	2159597	2160638	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<gatCBAZY> <gatD> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	gatA,1	gatB,1	gatC,1	gatD,1	gatY,1	gatZ,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.17	 0.83	0	0	1	5	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.17	 0.83	0	0	1	5	0	0

@@ -1,0 +1,169 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6919	unknown	glcD	ECK2974:gox:JW2946:yghM	0.0002	36.36	41.6	67.71	5688966	5690115	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6920	unknown	glcF	ECK2972:gox:JW5486:yghL	3e-90	43.26	326.0	64.86	5690125	5691451	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr6919	unknown	glcE	ECK2973:gox:JW5487:yghL	7e-39	32.98	155.0	67.71	5688966	5690115	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mlr4664	unknown	glcB	ECK2970:glc:JW2943	0.0	60.55	866.0	65.6	3698566	3700732	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:28.343,eval_thresh:12.673
+++	glcDF glcE glcB 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	glcB,1	glcD,1	glcE,1	glcF,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.33	 0.33	0	2	2	2	1	1
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.50	 0.50	0	2	2	2	1	1
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5352	unknown	glcG	ECK2971:JW2944:yghC	3e-33	59.22	134.0	72.89	6019481	6019883	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5353	glcF	glcF	ECK2972:gox:JW5486:yghL	3e-148	66.58	518.0	71.96	6019887	6021114	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5354	glcE	glcE	ECK2973:gox:JW5487:yghL	2e-112	60.34	399.0	72.78	6021123	6022203	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5355	glcD	glcD	ECK2974:gox:JW2946:yghM	0.0	79.76	821.0	68.27	6022202	6023702	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA4770	lldP	glcA	ECK2969:JW2942:yghK	0.0	77.36	729.0	65.84	5355386	5357075	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA0482	glcB	glcB	ECK2970:glc:JW2943	0.0	59.08	873.0	65.52	542169	544347	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcGFED> glcA <glcB> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	glcA,1	glcB,1	glcD,1	glcE,1	glcF,1	glcG,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.33	 0.67	0	0	2	4	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.33	 0.67	0	0	2	4	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_3745	glcD	glcD	ECK2974:gox:JW2946:yghM	0.0	80.76	831.0	65.8	4274041	4275541	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_3746	glcE	glcE	ECK2973:gox:JW5487:yghL	2e-123	64.29	436.0	68.57	4275540	4276593	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_3747	glcF	glcF	ECK2972:gox:JW5486:yghL	1e-173	72.73	603.0	66.02	4276602	4277838	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_3748	glcG	glcG	ECK2971:JW2944:yghC	2e-41	64.66	162.0	66.42	4277830	4278229	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_4735	lctP	glcA	ECK2969:JW2942:yghK	0.0	77.28	734.0	63.55	5383534	5385205	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0356	glcB	glcB	ECK2970:glc:JW2943	0.0	58.81	864.0	63.13	433020	435198	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDEFG glcA <glcB> 
+$$	NC_002947	Pseudomonas_putida_KT2440	glcA,1	glcB,1	glcD,1	glcE,1	glcF,1	glcG,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.33	 0.67	0	0	2	4	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.33	 0.67	0	0	2	4	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_3026	lldP	glcA	ECK2969:JW2942:yghK	0.0	67.93	635.0	66.06	3302864	3304499	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_3027	unknown	glcD	ECK2974:gox:JW2946:yghM	1e-35	28.24	144.0	68.65	3304625	3307442	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1068	sdhB	glcF	ECK2972:gox:JW5486:yghL	0.0005	27.47	39.3	63.57	1114366	1115077	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcAD> glcF 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	glcA,1	glcD,1	glcF,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.17	 0.33	0	3	1	2	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.33	 0.67	0	3	1	2	0	0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0649	lldP	glcA	ECK2969:JW2942:yghK	5e-45	59.03	174.0	37.11	626952	628728	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0650	unknown	glcF	ECK2972:gox:JW5486:yghL	3e-09	21.62	55.5	38.8	629021	629753	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0869	glcD	glcD	ECK2974:gox:JW2946:yghM	7e-83	36.62	300.0	39.54	847273	848674	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0869	glcD	glcE	ECK2973:gox:JW5487:yghL	3e-12	29.41	65.1	39.54	847273	848674	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcAF>  <glcD> <glcE> 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	glcA,1	glcD,1	glcE,1	glcF,1
+##	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.33	 0.33	0	2	2	2	1	1
+@@	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.50	 0.50	0	2	2	2	1	1
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0075c	unknown	glcF	ECK2972:gox:JW5486:yghL	3e-07	18.52	48.9	33.2	86171	86912	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0076c	lctP	glcA	ECK2969:JW2942:yghK	3e-123	49.29	434.0	35.12	87035	88718	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1213c	glcD	glcD	ECK2974:gox:JW2946:yghM	8e-78	37.02	283.0	34.2	1141633	1143016	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj1213c	glcD	glcE	ECK2973:gox:JW5487:yghL	8e-11	28.81	60.5	34.2	1141633	1143016	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcFA> <glcD> <glcE> 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	glcA,1	glcD,1	glcE,1	glcF,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.33	 0.33	0	2	2	2	1	1
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.50	 0.50	0	2	2	2	1	1
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2666	glcD	glcD	ECK2974:gox:JW2946:yghM	2e-173	59.47	602.0	70.15	2875730	2877224	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2667	glcE	glcE	ECK2973:gox:JW5487:yghL	1e-76	47.8	279.0	73.82	2877234	2878353	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2668	glcF	glcF	ECK2972:gox:JW5486:yghL	1e-126	54.0	446.0	70.27	2878362	2879610	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1967	glcG	glcG	ECK2971:JW2944:yghC	1e-36	59.83	144.0	64.98	2144669	2145083	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc0981	lldP	glcA	ECK2969:JW2942:yghK	5e-106	45.26	378.0	67.38	1031325	1033014	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDEF <glcG> <glcA> 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	glcA,1	glcD,1	glcE,1	glcF,1	glcG,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.33	 0.50	0	1	2	3	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.40	 0.60	0	1	2	3	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00832	glcD	glcD	ECK2974:gox:JW2946:yghM	2e-118	47.62	419.0	63.82	853443	854883	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00833	glcE	glcE	ECK2973:gox:JW5487:yghL	8e-45	35.06	174.0	67.73	854879	856097	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00926	glcF	glcF	ECK2972:gox:JW5486:yghL	7e-92	42.19	330.0	63.81	856191	857523	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02581	glcB	glcB	ECK2970:glc:JW2943	0.0	59.78	861.0	64.78	68915	71087	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDEF glcB 
+$$	NC_003047	Sinorhizobium_meliloti_1021	glcB,1	glcD,1	glcE,1	glcF,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.17	 0.50	0	2	1	3	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.25	 0.75	0	2	1	3	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1520	unknown	glcF	ECK2972:gox:JW5486:yghL	0.0007	22.27	38.9	50.67	1593173	1593917	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1521	unknown	glcD	ECK2974:gox:JW2946:yghM	2e-22	25.66	100.0	48.09	1594218	1596963	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1522	unknown	glcA	ECK2969:JW2942:yghK	1e-13	29.8	72.0	47.69	1597089	1598733	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_4706	unknown	glcB	ECK2970:glc:JW2943	1e-15	37.5	79.3	47.7	4908892	4909456	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcFDA> glcB 
+$$	NC_004347	Shewanella_oneidensis_MR-1	glcA,1	glcB,1	glcD,1	glcF,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.17	 0.50	0	2	1	3	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.25	 0.75	0	2	1	3	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll7540	glcF	glcF	ECK2972:gox:JW5486:yghL	7e-95	45.33	342.0	66.06	8275415	8276738	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll7541	glcE	glcD	ECK2974:gox:JW2946:yghM	2e-07	32.41	52.0	69.98	8276734	8277973	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll7541	glcE	glcE	ECK2973:gox:JW5487:yghL	5e-33	30.28	136.0	69.98	8276734	8277973	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr6270	unknown	glcG	ECK2971:JW2944:yghC	2e-06	29.0	45.8	66.25	6897915	6898872	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll7536	unknown	glcA	ECK2969:JW2942:yghK	2e-108	45.55	387.0	64.62	8269513	8271178	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.209,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1474	glcB	glcB	ECK2970:glc:JW2943	0.0	58.64	835.0	65.56	1605563	1607729	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcFD> <glcE> glcG <glcA> <glcB> 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	glcA,1	glcB,1	glcD,1	glcE,1	glcF,1	glcG,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.67	 0.33	0	0	4	2	1	1
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.67	 0.33	0	0	4	2	1	1
+NC_002928	Bordetella_parapertussis_12822	BPP2490	unknown	glcD	ECK2974:gox:JW2946:yghM	3e-58	30.95	219.0	67.45	2681520	2682930	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2491	glcD	glcD	ECK2974:gox:JW2946:yghM	3e-175	59.8	608.0	66.33	2683064	2684564	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2492	glcE	glcE	ECK2973:gox:JW5487:yghL	3e-64	49.23	239.0	73.29	2684687	2685683	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2493	glcF	glcF	ECK2972:gox:JW5486:yghL	2e-118	52.31	419.0	69.35	2685715	2686945	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP3276	unknown	glcG	ECK2971:JW2944:yghC	5e-26	57.84	110.0	68.87	3534389	3534797	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP0883	unknown	glcA	ECK2969:JW2942:yghK	4e-13	31.54	70.1	67.46	954121	955753	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP0096	glcB	glcB	ECK2970:glc:JW2943	0.0	63.32	917.0	69.01	93663	95841	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDDEF <glcG> glcA <glcB> 
+$$	NC_002928	Bordetella_parapertussis_12822	glcA,1	glcB,1	glcD,2	glcE,1	glcF,1	glcG,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.50	 0.50	1	0	3	3	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.50	 0.50	1	0	3	3	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2903	glcF	glcF	ECK2972:gox:JW5486:yghL	2e-118	52.31	419.0	69.43	3080245	3081475	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2904	glcE	glcE	ECK2973:gox:JW5487:yghL	2e-68	47.93	253.0	71.71	3081507	3082617	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2905	glcD	glcD	ECK2974:gox:JW2946:yghM	4e-177	60.2	614.0	66.33	3082628	3084128	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2906	unknown	glcD	ECK2974:gox:JW2946:yghM	5e-57	30.74	215.0	67.38	3084262	3085672	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2411	unknown	glcG	ECK2971:JW2944:yghC	1e-25	57.84	108.0	69.85	2552695	2553103	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3680	glcB	glcB	ECK2970:glc:JW2943	0.0	63.18	914.0	68.87	3888429	3890607	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcFEDD> <glcG> <glcB> 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	glcB,1	glcD,2	glcE,1	glcF,1	glcG,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.33	 0.50	1	1	2	3	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.40	 0.60	1	1	2	3	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1937	unknown	glcD	ECK2974:gox:JW2946:yghM	3e-58	31.17	220.0	67.66	2072159	2073569	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1938	glcD	glcD	ECK2974:gox:JW2946:yghM	1e-176	60.2	613.0	66.47	2073703	2075203	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1939	glcE	glcE	ECK2973:gox:JW5487:yghL	2e-68	47.93	253.0	71.89	2075214	2076324	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1940	glcF	glcF	ECK2972:gox:JW5486:yghL	3e-118	52.31	419.0	69.51	2076356	2077586	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3727	unknown	glcG	ECK2971:JW2944:yghC	6e-26	57.84	110.0	69.12	3950848	3951256	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0976	unknown	glcA	ECK2969:JW2942:yghK	5e-13	31.54	70.1	67.65	1054704	1056336	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0095	glcB	glcB	ECK2970:glc:JW2943	0.0	63.32	917.0	68.96	92467	94645	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDDEF <glcG> glcA <glcB> 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	glcA,1	glcB,1	glcD,2	glcE,1	glcF,1	glcG,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.50	 0.50	1	0	3	3	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.50	 0.50	1	0	3	3	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2975	glcA	glcA	ECK2969:JW2942:yghK	0.0	100.0	936.0	53.48	3117618	3119301	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2976	glcB	glcB	ECK2970:glc:JW2943	0.0	100.0	1472.0	53.45	3119655	3121827	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2977	glcG	glcG	ECK2971:JW2944:yghC	7e-65	100.0	239.0	54.57	3121848	3122253	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4467	glcF	glcF	ECK2972:gox:JW5486:yghL	0.0	100.0	835.0	55.56	3122257	3123481	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b4468	glcE	glcE	ECK2973:gox:JW5487:yghL	0.0	100.0	688.0	57.55	3123491	3124544	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2979	glcD	glcD	ECK2974:gox:JW2946:yghM	0.0	100.0	1011.0	56.67	3124543	3126043	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcABGFED> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	glcA,1	glcB,1	glcD,1	glcE,1	glcF,1	glcG,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0673	glcF	glcF	ECK2972:gox:JW5486:yghL	5e-132	55.64	463.0	56.43	731785	733045	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0674	glcE	glcE	ECK2973:gox:JW5487:yghL	3e-87	47.89	315.0	54.79	733048	734134	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0675	glcD	glcD	ECK2974:gox:JW2946:yghM	0.0	63.43	640.0	55.12	734143	735598	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcFED> 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	glcD,1	glcE,1	glcF,1
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.00	 0.50	0	3	0	3	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.00	 1.00	0	3	0	3	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1852	lctP	glcA	ECK2969:JW2942:yghK	4e-09	42.55	55.8	39.32	2093272	2094859	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1853	unknown	glcF	ECK2972:gox:JW5486:yghL	2e-10	19.63	60.1	41.53	2094936	2095656	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1854	unknown	glcF	ECK2972:gox:JW5486:yghL	4e-07	27.81	48.9	42.95	2095667	2097071	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0787	unknown	glcD	ECK2974:gox:JW2946:yghM	9e-21	24.73	94.4	41.04	929837	932924	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcAFF glcD 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	glcA,1	glcD,1	glcF,2
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.17	 0.33	1	3	1	2	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.33	 0.67	1	3	1	2	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3555	glcD	glcD	ECK2974:gox:JW2946:yghM	0.0	81.16	841.0	63.33	4011745	4013245	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3556	glcE	glcE	ECK2973:gox:JW5487:yghL	2e-124	64.84	439.0	65.53	4013244	4014303	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3558	glcG	glcG	ECK2971:JW2944:yghC	2e-45	68.97	175.0	64.22	4015575	4015983	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3559	glcB-2	glcB	ECK2970:glc:JW2943	0.0	62.76	920.0	60.84	4016047	4018225	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDE glcGB 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	glcB,1	glcD,1	glcE,1	glcG,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.17	 0.33	0	2	1	2	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.25	 0.50	0	2	1	2	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0665	glcD	glcD	ECK2974:gox:JW2946:yghM	2e-123	48.03	436.0	60.32	660203	661637	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0666	glcE	glcE	ECK2973:gox:JW5487:yghL	2e-37	34.02	149.0	65.92	661872	663075	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0667	glcF	glcF	ECK2972:gox:JW5486:yghL	7e-92	42.12	330.0	62.52	663090	664392	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0047	glcB	glcB	ECK2970:glc:JW2943	0.0	60.39	858.0	59.42	47735	49970	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	glcDEF glcB 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	glcB,1	glcD,1	glcE,1	glcF,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.17	 0.50	0	2	1	3	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.25	 0.75	0	2	1	3	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0280	ykgF	glcF	ECK2972:gox:JW5486:yghL	0.001	27.18	38.1	50.42	278352	279780	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0281	ykgE	glcF	ECK2972:gox:JW5486:yghL	7e-09	20.91	55.5	50.14	279790	280510	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3215	yghK	glcA	ECK2969:JW2942:yghK	0.0	93.39	859.0	52.55	3096364	3097951	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.296,eval_thresh:13.132
+NC_004741	Shigella_flexneri_2a_str._2457T	S3216	glcB	glcB	ECK2970:glc:JW2943	0.0	98.76	1451.0	53.5	3098305	3100477	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3217	glcG	glcG	ECK2971:JW2944:yghC	6e-65	100.0	239.0	54.81	3100498	3100903	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1849	ydiJ	glcD	ECK2974:gox:JW2946:yghM	2e-19	23.24	90.5	53.81	1785500	1788557	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<glcFF> <glcABG> <glcD> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	glcA,1	glcB,1	glcD,1	glcF,2	glcG,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.33	 0.50	1	1	2	3	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.40	 0.60	1	1	2	3	0	0

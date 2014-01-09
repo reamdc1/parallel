@@ -1,0 +1,18 @@
+Bfl002
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl002	atpB	atpB	NONE	0.0	100.0	514.0	26.0	2293	3112	1	Protein	272	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl002	3112
+Bfl003
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl003	atpE	atpE	NONE	4e-39	100.0	119.0	37.5	3180	3420	1	Protein	79	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl003	3420
+Bfl004
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl004	atpF	atpF	NONE	4e-104	99.38	290.0	28.2	3489	3975	1	Protein	161	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl004	3975
+Bfl005
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl005	atpH	atpH	NONE	3e-130	100.0	358.0	24.4	3975	4521	1	Protein	181	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl005	4521
+Bfl006
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl006	atpA	atpA	NONE	0.0	100.0	1046.0	31.3	4542	6084	1	Protein	513	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl006	6084
+Bfl007
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl007	atpG	atpG	NONE	0.0	100.0	587.0	29.0	6109	6976	1	Protein	288	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl007	6976
+Bfl008
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl008	atpD	atpD	NONE	0.0	100.0	907.0	33.3	7005	8400	1	Protein	464	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl008	8400
+Bfl009
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl009	atpC	atpC	NONE	1e-98	100.0	274.0	30.2	8459	8876	1	Protein	138	exact	NC_005061	Candidatus_Blochmannia_floridanus	Bfl009	8876
+Bfl586
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl586	rho	atpA	NONE	0.0004	20.8	37.0	34.1	653429	654689	-1	Protein	226	BLAST	NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1851	1749017

@@ -1,0 +1,26 @@
+CV_0666
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0666	atpB	atpB	NONE	0.0	100.0	499.0	62.1	694607	695420	1	Protein	270	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0666	695420
+CV_0667
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0667	atpE	atpE	NONE	9e-43	100.0	132.0	57.6	695484	695772	1	Protein	95	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0667	695772
+CV_0668
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0668	atpF	atpF	NONE	3e-90	100.0	255.0	62.3	695893	696301	1	Protein	135	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0668	696301
+CV_0669
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0669	atpH	atpH	NONE	1e-128	100.0	355.0	58.8	696308	696845	1	Protein	178	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0669	696845
+CV_0670
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0670	atpA	atpA	NONE	0.0	100.0	1023.0	62.5	696853	698398	1	Protein	514	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0670	698398
+CV_0671
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0671	atpG	atpG	NONE	0.0	100.0	596.0	61.4	698438	699305	1	Protein	288	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0671	699305
+CV_0672
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0672	atpD	atpD	NONE	0.0	100.0	902.0	62.7	699346	700744	1	Protein	465	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0672	700744
+CV_0673
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0673	atpC	atpC	NONE	3e-75	100.0	218.0	64.5	700755	701178	1	Protein	140	exact	NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0673	701178
+CV_1585
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1585	rho	atpA	NONE	5e-05	23.25	42.7	62.4	1708628	1709885	1	Protein	271	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122
+CV_2603
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2603	unknown	atpD	NONE	8e-28	29.61	112.0	64.8	2813260	2814595	1	Protein	358	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+CV_2628
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2628	invC	atpD	NONE	1e-31	32.11	123.0	71.4	2834492	2835782	-1	Protein	327	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+CV_2996
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2996	fliI	atpD	NONE	2e-26	32.51	108.0	71.8	3271614	3272928	-1	Protein	283	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+CV_3134
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_3134	fliI1	atpD	NONE	8e-27	29.97	109.0	69.5	3417603	3419004	-1	Protein	347	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275

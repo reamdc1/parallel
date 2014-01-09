@@ -1,0 +1,58 @@
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0567	garR	garR	ECK3113:JW5526:yhaE	3e-58	41.03	219.0	51.31	573360	574239	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0568	unknown	garP	ECK3115:JW3096:yhaU	9e-14	22.95	72.0	45.91	574304	575552	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3429	unknown	garK	ECK3112:JW3093:yhaD	1e-178	86.35	619.0	54.97	3272366	3273512	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3430	garR	garR	ECK3113:JW5526:yhaE	3e-154	96.94	537.0	56.57	3273609	3274500	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3431	garL	garL	ECK3114:JW3095:yhaF	3e-138	90.62	484.0	55.38	3274525	3275296	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	garRP <garKRL> 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	garK,1	garL,1	garP,1	garR,2
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.20	 0.60	1	1	1	3	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.25	 0.75	1	1	1	3	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0519	glxR	garR	ECK3113:JW5526:yhaE	1e-58	41.03	219.0	50.85	580137	581016	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0520	unknown	garP	ECK3115:JW3096:yhaU	5e-14	22.95	72.8	46.07	581081	582329	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3247	garK	garK	ECK3112:JW3093:yhaD	5e-179	86.61	620.0	55.06	3415209	3416355	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3248	garR	garR	ECK3113:JW5526:yhaE	6e-155	97.28	540.0	56.45	3416452	3417343	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3249	garL	garL	ECK3114:JW3095:yhaF	3e-138	90.62	484.0	55.25	3417368	3418139	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	garRP <garKRL> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	garK,1	garL,1	garP,1	garR,2
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.20	 0.60	1	1	1	3	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.25	 0.75	1	1	1	3	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC4360	glxK	garK	ECK3112:JW3093:yhaD	6e-113	58.78	400.0	72.65	5155210	5156380	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC4361	ttuB	garP	ECK3115:JW3096:yhaU	4e-14	23.64	73.2	67.98	5156405	5157776	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC3175	mphE	garL	ECK3114:JW3095:yhaF	3e-17	33.66	82.8	67.7	3734498	3735275	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1316	mmsB	garR	ECK3113:JW5526:yhaE	4e-37	37.54	149.0	66.55	1519441	1520329	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<garKP> garL garR 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	garK,1	garL,1	garP,1	garR,1
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.40	 0.40	0	1	2	2	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.50	 0.50	0	1	2	2	0	0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_4315	unknown	garK	ECK3112:JW3093:yhaD	5e-108	59.68	384.0	73.38	5121961	5123137	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_4316	unknown	garP	ECK3115:JW3096:yhaU	2e-11	23.7	64.3	69.12	5123171	5124557	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_1109	unknown	garL	ECK3114:JW3095:yhaF	3e-14	34.62	72.8	67.72	1339191	1339953	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2977	unknown	garR	ECK3113:JW5526:yhaE	4e-35	38.93	142.0	67.57	3563788	3564676	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<garKP> <garL> <garR> 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	garK,1	garL,1	garP,1	garR,1
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.40	 0.40	0	1	2	2	0	0
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.50	 0.50	0	1	2	2	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3124	garK	garK	ECK3112:JW3093:yhaD	0.0	100.0	724.0	53.75	3268646	3269792	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:28.768,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3125	garR	garR	ECK3113:JW5526:yhaE	6e-159	100.0	553.0	52.99	3269888	3270773	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:28.768,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3126	garL	garL	ECK3114:JW3095:yhaF	6e-150	100.0	523.0	52.92	3270808	3271579	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3127	garP	garP	ECK3115:JW3096:yhaU	0.0	100.0	863.0	51.31	3271594	3272929	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<garKRLP> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	garK,1	garL,1	garP,1	garR,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	1	0	4	0	0
+NC_003143	Yersinia_pestis_CO92	YPO1767	hpaI	garL	ECK3114:JW3095:yhaF	2e-57	44.66	215.0	51.3	2011863	2012670	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1768	hpaX	garP	ECK3115:JW3096:yhaU	9e-19	25.12	88.6	49.2	2012695	2014063	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3648	unknown	garR	ECK3113:JW5526:yhaE	2e-33	31.8	136.0	50.95	4068119	4069010	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO3980	glxK	garK	ECK3112:JW3093:yhaD	6e-114	60.9	404.0	52.86	4482145	4483282	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	garLP garR garK 
+$$	NC_003143	Yersinia_pestis_CO92	garK,1	garL,1	garP,1	garR,1
+##	NC_003143	Yersinia_pestis_CO92	 0.40	 0.40	0	1	2	2	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.50	 0.50	0	1	2	2	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3376	yhaD	garK	ECK3112:JW3093:yhaD	0.0	98.95	719.0	53.4	3253236	3254382	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:29.877,eval_thresh:13.132
+NC_004741	Shigella_flexneri_2a_str._2457T	S3377	garR	garR	ECK3113:JW5526:yhaE	6e-158	99.32	549.0	52.97	3254478	3255369	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:29.877,eval_thresh:13.132
+NC_004741	Shigella_flexneri_2a_str._2457T	S4649	hpaI	garL	ECK3114:JW3095:yhaF	7e-61	49.36	227.0	58.33	4543580	4544384	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S3379	yhaU	garP	ECK3115:JW3096:yhaU	0.0	99.32	857.0	50.64	3256184	3257519	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<garKR> <garL> <garP> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	garK,1	garL,1	garP,1	garR,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.40	 0.40	0	1	2	2	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.50	 0.50	0	1	2	2	0	0

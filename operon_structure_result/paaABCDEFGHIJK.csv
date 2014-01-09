@@ -1,0 +1,25 @@
+paaABCDEFGHIJK
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,paaABCDEFGHIJK
+NC_004741,Shigella_flexneri_2a_str._2457T,<paaFJ> <paaH> <paaG> <paaE>
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,<paaFJ> paaK <paaH> <paaG> <paaE>
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,<paaFJ> paaK <paaH> <paaG> <paaE>
+NC_003143,Yersinia_pestis_CO92,paaJF paaH paaG <paaE>
+NC_004459,Vibrio_vulnificus_CMCP6,paaFJ paaH paaG <paaE>
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,<paaJF> <paaK> <paaH> paaG <paaE>
+NC_004347,Shewanella_oneidensis_MR-1,<paaJF> paaFG <paaH> paaI paaE
+NC_002516,Pseudomonas_aeruginosa_PAO1,<paaJHF> <paaGE> <paaK> paaI
+NC_002947,Pseudomonas_putida_KT2440,<paaEDCBAKJIHGF>
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,<paaFJ> <paaH> <paaI> <paaG> paaE
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,paaFG <paaJH> <paaE>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,paaHJ <paaGF> <paaE>
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<paaJH> paaK <paaE>
+NC_005085,Chromobacterium_violaceum_ATCC_12472,<paaGF> <paaJH> paaK <paaA> <paaE>
+NC_003295,Ralstonia_solanacearum_GMI1000,paaHJG <paaFG> IK paaE
+NC_002927,Bordetella_bronchiseptica_RB50,<paaGJ> paaHF <paaKIG> <paaEDCBA>
+NC_002929,Bordetella_pertussis_Tohama_I,paaEE <paaJF> <paaKIG> <paaDCBA> paaH
+NC_002928,Bordetella_parapertussis_12822,<paaGJ> paaABCDE paaGIK paaHF
+NC_004463,Bradyrhizobium_japonicum_USDA_110,paaJF paaJH paaABCDEIK paaG
+NC_002696,Caulobacter_crescentus_CB15,<paaFJ> <paaH> paaG paaE
+NC_003062,Agrobacterium_tumefaciens_str._C58,paaJH paaF paaG <paaD> paaE
+NC_002678,Mesorhizobium_loti_MAFF303099,paaJF paaH <paaG> <paaE>
+NC_003047,Sinorhizobium_meliloti_1021,<paaFJ> paaH paaG <paaD> paaE

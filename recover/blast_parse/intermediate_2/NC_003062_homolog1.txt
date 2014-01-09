@@ -1,0 +1,26 @@
+Atu0557
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0557	fliI	atpD	NONE	6e-33	36.49	127.0	63.0	542612	544034	-1	Protein	285	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275
+Atu0713
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	atpI	atpI	NONE	1e-85	100.0	242.0	59.0	715456	715822	1	Protein	121	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	715822
+Atu0714
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0714	atpA	atpA	NONE	2e-81	60.89	241.0	56.4	715882	716632	1	Protein	248	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1188	1305014
+Atu0715
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0715	atpC	atpC	NONE	9e-10	71.43	46.6	61.0	716705	716933	1	Protein	28	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bsl1187	1304211
+Atu0716
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	atpB	atpB	NONE	2e-98	100.0	281.0	62.9	717012	717654	1	Protein	190	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+Atu0717
+NC_003062	Agrobacterium_fabrum_str._C58	Atu0717	atpF	atpF	NONE	6e-32	100.0	108.0	60.3	717655	718141	1	Protein	161	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu0717	718141
+Atu2045
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2045	hflK	atpF	NONE	0.0003	36.07	36.2	61.9	2004068	2005187	-1	Protein	61	BLAST	NC_002516	Pseudomonas_aeruginosa_PAO1	PA5558	6253177
+Atu2621
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2621	atpC	atpC	NONE	2e-82	100.0	234.0	54.7	2604174	2604585	-1	Protein	136	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2621	2604585
+Atu2622
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2622	atpD	atpD	NONE	0.0	100.0	915.0	60.4	2604716	2606171	-1	Protein	472	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2622	2606171
+Atu2623
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2623	atpG	atpG	NONE	0.0	100.0	506.0	57.7	2606194	2607073	-1	Protein	292	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2623	2607073
+Atu2624
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	atpA	atpA	NONE	0.0	100.0	1024.0	58.9	2607104	2608634	-1	Protein	509	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2624	2608634
+Atu2625
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2625	atpH	atpH	NONE	5e-119	99.46	331.0	57.8	2608633	2609194	-1	Protein	186	exact	NC_003062	Agrobacterium_fabrum_str._C58	Atu2625	2609194
+Atu2833
+NC_003062	Agrobacterium_fabrum_str._C58	Atu2833	rho	atpD	NONE	3e-06	26.29	45.8	54.8	2838346	2839612	-1	Protein	251	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll0440	475275

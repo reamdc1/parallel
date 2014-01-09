@@ -1,0 +1,148 @@
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA4265	tufA	tufB	ECK3971:JW3943:kirT:pulT	1e-169	84.34	589.0	59.63	4767810	4769004	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:29.969,eval_thresh:15.669
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA4266	fusA1	tufB	ECK3971:JW3943:kirT:pulT	7e-06	30.2	45.8	60.02	4769034	4771155	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	tufB,2
+
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3445	tuf	tufB	ECK3971:JW3943:kirT:pulT	0.0	99.49	680.0	54.01	3598301	3599486	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.1,eval_thresh:13.668
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3446	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0004	28.87	39.7	51.68	3599557	3601672	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	tufB,2
+
+NC_004310	Brucella_suis_1330	BR1235	tuf	tufB	ECK3971:JW3943:kirT:pulT	1e-151	75.19	528.0	58.93	1200797	1201973	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.021,eval_thresh:15.832
+NC_004310	Brucella_suis_1330	BR1236	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0009	32.35	37.4	56.88	1202036	1204121	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_004310	Brucella_suis_1330	tufB,2
+
+NC_003112	Neisseria_meningitidis_MC58	NMB0138	fusA	tufB	ECK3971:JW3943:kirT:pulT	1e-05	28.26	43.5	49.81	147401	149507	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0139	tufA	tufB	ECK3971:JW3943:kirT:pulT	4e-172	83.76	596.0	52.41	149592	150777	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	tufBB 
+$$	NC_003112	Neisseria_meningitidis_MC58	tufB,2
+
+NC_002947	Pseudomonas_putida_KT2440	PP_0451	fusA	tufB	ECK3971:JW3943:kirT:pulT	3e-05	30.0	43.9	56.38	547148	549296	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_0452	tuf	tufB	ECK3971:JW3943:kirT:pulT	4e-155	77.27	541.0	57.29	549323	550517	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:23.444,eval_thresh:13.504
+++	tufBB 
+$$	NC_002947	Pseudomonas_putida_KT2440	tufB,2
+
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc3021	tuf	tufB	ECK3971:JW3943:kirT:pulT	2e-162	80.76	565.0	62.22	3240560	3241751	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.51,eval_thresh:13.66
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc3022	fusA1	tufB	ECK3971:JW3943:kirT:pulT	1e-05	28.57	44.3	62.12	3241832	3243944	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	tufB,2
+
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_001261	unknown	tufB	ECK3971:JW3943:kirT:pulT	3e-176	87.06	610.0	49.11	257295	258480	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_001262	unknown	tufB	ECK3971:JW3943:kirT:pulT	0.001	34.48	38.1	47.73	258602	260699	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	tufB,2
+
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1203	unknown	tufB	ECK3971:JW3943:kirT:pulT	6e-29	94.44	47.8	48.66	1182478	1182739	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1204	unknown	tufB	ECK3971:JW3943:kirT:pulT	5e-128	85.76	450.0	46.49	1182752	1183664	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:34.194,eval_thresh:17.937
+++	tufBB 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	tufB,2
+
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4352	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0004	28.87	39.7	51.77	4227830	4229945	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY4353	tuf	tufB	ECK3971:JW3943:kirT:pulT	0.0	99.49	680.0	53.92	4230016	4231201	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY1293	unknown	tyrU	ECK3968:JWR0213:supM:supZ	1e-21	100.0	97.6	52.73	1252900	1253230	1	tRNA	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	tufBB tyrU 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	tufB,2	tyrU,1
+
+NC_003047	Sinorhizobium_meliloti_1021	SMc01312	fusA1	tufB	ECK3971:JW3943:kirT:pulT	0.0004	34.33	39.3	60.14	1475103	1477203	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01311	tuf	tufB	ECK3971:JW3943:kirT:pulT	4e-150	74.94	524.0	62.5	1477274	1478450	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.971,eval_thresh:11.647
+++	tufBB 
+$$	NC_003047	Sinorhizobium_meliloti_1021	tufB,2
+
+NC_002929	Bordetella_pertussis_Tohama_I	BP3610	fusA	tufB	ECK3971:JW3943:kirT:pulT	7e-05	28.57	42.0	62.58	3826384	3828487	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP3611	tuf	tufB	ECK3971:JW3943:kirT:pulT	1e-161	81.27	562.0	62.64	3828563	3829754	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.471,eval_thresh:11.686
+++	tufBB 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	tufB,2
+
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC0969	fusA	tufB	ECK3971:JW3943:kirT:pulT	4e-06	27.89	46.2	61.57	1131294	1133412	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC0970	tuf	tufB	ECK3971:JW3943:kirT:pulT	8e-161	78.99	560.0	63.22	1133460	1134651	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.11,eval_thresh:16.088
+++	tufBB 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	tufB,2
+
+NC_004347	Shewanella_oneidensis_MR-1	SO_0228	fusA-1	tufB	ECK3971:JW3943:kirT:pulT	0.0001	30.61	41.2	47.26	241888	243985	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_0229	tufA	tufB	ECK3971:JW3943:kirT:pulT	3e-173	86.29	601.0	47.93	244056	245241	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:21.856,eval_thresh:11.76
+++	tufBB 
+$$	NC_004347	Shewanella_oneidensis_MR-1	tufB,2
+
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll5402	tuf	tufB	ECK3971:JW3943:kirT:pulT	5e-152	76.26	531.0	64.57	5936987	5938178	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.87,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll5403	fusA	tufB	ECK3971:JW3943:kirT:pulT	9e-06	31.75	46.2	62.37	5938218	5940291	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	tufB,2
+
+NC_002928	Bordetella_parapertussis_12822	BPP0026	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0001	28.57	41.6	62.58	30132	32235	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP0027	tuf	tufB	ECK3971:JW3943:kirT:pulT	1e-161	81.27	562.0	62.55	32311	33502	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.99,eval_thresh:12.252
+++	tufBB 
+$$	NC_002928	Bordetella_parapertussis_12822	tufB,2
+
+NC_002488	Xylella_fastidiosa_9a5c	XF2628	tuf	tufB	ECK3971:JW3943:kirT:pulT	8e-154	77.22	536.0	50.88	2506922	2508113	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:25.321,eval_thresh:16.463
+NC_002488	Xylella_fastidiosa_9a5c	XF2629	unknown	tufB	ECK3971:JW3943:kirT:pulT	2e-06	27.54	46.6	47.12	2508219	2510337	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_002488	Xylella_fastidiosa_9a5c	tufB,2
+
+NC_002927	Bordetella_bronchiseptica_RB50	BB0026	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0001	28.57	42.0	62.77	30131	32234	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB0027	tuf	tufB	ECK3971:JW3943:kirT:pulT	2e-161	81.27	562.0	62.64	32310	33501	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.493,eval_thresh:15.593
+++	tufBB 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	tufB,2
+
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_519	tufB	tufB	ECK3971:JW3943:kirT:pulT	7e-179	90.08	617.0	36.2	561969	563154	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:38.956,eval_thresh:14.18
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_520	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0007	32.76	36.2	33.71	563221	565330	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	tufB,2
+
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl564	tuf	tufB	ECK3971:JW3943:kirT:pulT	7e-177	87.31	610.0	36.96	632458	633643	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:36.548,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl565	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0002	27.82	38.1	33.9	633742	635872	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_005061	Candidatus_Blochmannia_floridanus	tufB,2
+
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3342	tuf	tufB	ECK3971:JW3943:kirT:pulT	5e-156	77.22	544.0	62.22	3985417	3986608	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:23.84,eval_thresh:17.179
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_3343	unknown	tufB	ECK3971:JW3943:kirT:pulT	8e-06	27.21	45.4	61.8	3986656	3988774	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2001	unknown	thrT	ECK3970:JWR0106	4e-09	88.46	56.0	58.06	2413401	2414307	1	tRNA	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> thrT 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	thrT,1	tufB,2
+
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3339	tufA	tufB	ECK3971:JW3943:kirT:pulT	0.0	99.75	681.0	53.25	3468166	3469351	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:16.302,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3340	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0004	28.87	39.7	50.83	3469421	3471536	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	tufB,2
+
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE2052	tuf2	tufB	ECK3971:JW3943:kirT:pulT	1e-164	82.03	572.0	49.87	2228136	2229327	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:43.072,eval_thresh:16.889
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE2053	fusA1	tufB	ECK3971:JW3943:kirT:pulT	8e-06	28.26	44.7	45.05	2229357	2231448	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	tufB,2
+
+NC_003143	Yersinia_pestis_CO92	YPO0202	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0002	29.32	40.8	48.08	216280	218389	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO0203	tuf	tufB	ECK3971:JW3943:kirT:pulT	0.0	94.92	658.0	48.19	218461	219646	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.152,eval_thresh:9.147
+++	tufBB 
+$$	NC_003143	Yersinia_pestis_CO92	tufB,2
+
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1356	fusA	tufB	ECK3971:JW3943:kirT:pulT	2e-05	27.89	43.1	42.56	1544477	1546580	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1357	tuf	tufB	ECK3971:JW3943:kirT:pulT	0.0	92.62	640.0	44.64	1546640	1547825	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:36.884,eval_thresh:21.812
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0901	unknown	thrT	ECK3970:JWR0106	0.0001	92.86	40.1	43.81	1059688	1060003	1	tRNA	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	tufBB thrT 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	thrT,1	tufB,2
+
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_0623	fusA	tufB	ECK3971:JW3943:kirT:pulT	6e-06	29.05	46.2	54.27	688018	690124	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_0624	tuf	tufB	ECK3971:JW3943:kirT:pulT	3e-161	77.83	561.0	55.86	690155	691349	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.318,eval_thresh:10.873
+++	tufBB 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	tufB,2
+
+NC_002696	Caulobacter_crescentus_CB15	CC_3199	unknown	tufB	ECK3971:JW3943:kirT:pulT	1e-153	78.23	536.0	62.97	3453690	3454881	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.464,eval_thresh:11.461
+NC_002696	Caulobacter_crescentus_CB15	CC_3200	unknown	tufB	ECK3971:JW3943:kirT:pulT	3e-05	29.55	43.1	62.58	3455000	3457079	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_002696	Caulobacter_crescentus_CB15	tufB,2
+
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1948	tuf	tufB	ECK3971:JW3943:kirT:pulT	9e-149	74.43	519.0	58.84	1916028	1917204	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:27.817,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1949	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0008	32.84	37.7	57.52	1917270	1919370	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	tufB,2
+
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1280	tuf	tufB	ECK3971:JW3943:kirT:pulT	1e-151	75.19	528.0	58.42	1220637	1221813	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:24.453,eval_thresh:17.793
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1281	fusA	tufB	ECK3971:JW3943:kirT:pulT	0.0008	32.35	37.4	56.93	1221876	1223961	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	tufB,2
+
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0578	tuf	tufB	ECK3971:JW3943:kirT:pulT	0.0	92.88	643.0	43.54	596496	597681	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:28.381,eval_thresh:14.781
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0579	fusA	tufB	ECK3971:JW3943:kirT:pulT	1e-05	29.25	43.5	40.61	597745	599848	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<tufBB> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	tufB,2
+

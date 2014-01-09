@@ -1,0 +1,16 @@
+XF1142
+NC_002488	Xylella_fastidiosa_9a5c	XF1142	atpC	atpC	NONE	4e-90	100.0	254.0	50.7	1100796	1101228	-1	Protein	143	exact	NC_002488	Xylella_fastidiosa_9a5c	XF1142	1101228
+XF1143
+NC_002488	Xylella_fastidiosa_9a5c	XF1143	unknown	atpD	NONE	0.0	77.12	689.0	50.1	1101297	1102698	-1	Protein	472	BLAST	NC_003295	Ralstonia_solanacearum_GMI1000	RSc3317	3581368
+XF1144
+NC_002488	Xylella_fastidiosa_9a5c	XF1144	unknown	atpG	NONE	9e-116	55.75	331.0	48.6	1102780	1103644	-1	Protein	287	BLAST	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5600	6383616
+XF1145
+NC_002488	Xylella_fastidiosa_9a5c	XF1145	unknown	atpD	NONE	1e-22	23.89	96.7	50.7	1103737	1105285	-1	Protein	427	BLAST	NC_005061	Candidatus_Blochmannia_floridanus	Bfl008	8400
+XF1146
+NC_002488	Xylella_fastidiosa_9a5c	XF1146	unknown	atpH	NONE	1e-14	22.78	65.1	50.0	1105334	1105862	-1	Protein	180	BLAST	NC_005061	Candidatus_Blochmannia_floridanus	Bfl005	4521
+XF1147
+NC_002488	Xylella_fastidiosa_9a5c	XF1147	unknown	atpF	NONE	4e-19	34.04	75.9	44.2	1105865	1106336	-1	Protein	141	BLAST	NC_005061	Candidatus_Blochmannia_floridanus	Bfl004	3975
+XF1148
+NC_002488	Xylella_fastidiosa_9a5c	XF1148	unknown	atpE	NONE	6e-14	56.52	58.2	52.3	1106456	1106762	-1	Protein	46	BLAST	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5604	6386567
+XF1149
+NC_002488	Xylella_fastidiosa_9a5c	XF1149	unknown	atpB	NONE	7e-79	45.99	236.0	46.4	1106825	1107623	-1	Protein	274	BLAST	NC_004459	Vibrio_vulnificus_CMCP6	VV1_1015	1018417

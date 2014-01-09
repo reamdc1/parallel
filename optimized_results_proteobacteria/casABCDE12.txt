@@ -1,0 +1,31 @@
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2754	ygbF	cas2	cas2:ECK2749:JW5438	7e-50	100.0	188.0	46.32	2876590	2876875	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2755	ygbT	cas1	cas1:ECK2750:JW2725	1e-169	100.0	589.0	51.31	2876876	2877794	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2756	casE	casE	cse3:ECK2751:JW2726:ygcH	7e-117	100.0	412.0	45.33	2877809	2878409	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.825,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2757	casD	casD	cas5:ECK2752:JW5844:ygcI	2e-124	100.0	437.0	48.15	2878395	2879070	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.825,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2758	casC	casC	cse4:ECK2753:JW2728:ygcJ	0.0	100.0	717.0	43.5	2879072	2880164	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.825,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2759	casB	casB	cse2:ECK2754:JW2729:ygcK	2e-92	100.0	331.0	46.38	2880176	2880659	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.825,eval_thresh:13.766
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b2760	casA	casA	cse1:ECK2755:JW2730:ygcL	0.0	100.0	1014.0	43.8	2880651	2882160	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:22.825,eval_thresh:13.766
+++	<cas21EDCBA> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	cas1,1	cas2,1	casA,1	casB,1	casC,1	casD,1	casE,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	7	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	7	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3064	ygbF	cas2	cas2:ECK2749:JW5438	4e-46	89.36	176.0	46.6	2926651	2926945	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3065	unknown	cas1	cas1:ECK2750:JW2725	6e-159	92.46	553.0	52.94	2926947	2927865	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3066	unknown	casE	cse3:ECK2751:JW2726:ygcH	1e-11	27.54	63.5	49.22	2927864	2928569	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3067	unknown	casD	cas5:ECK2752:JW5844:ygcI	8e-20	41.42	90.9	54.27	2928568	2929294	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3068	unknown	casC	cse4:ECK2753:JW2728:ygcJ	1e-23	27.78	103.0	48.73	2929303	2930368	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3070	unknown	casA	cse1:ECK2755:JW2730:ygcL	1e-08	25.16	55.1	51.24	2931003	2932539	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<cas21EDC> <casA> 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	cas1,1	cas2,1	casA,1	casC,1	casD,1	casE,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.14	 0.71	0	1	1	5	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.17	 0.83	0	1	1	5	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2937	ygbF	cas2	cas2:ECK2749:JW5438	1e-41	84.04	160.0	49.16	3078243	3078540	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2938	unknown	cas1	cas1:ECK2750:JW2725	2e-145	85.81	508.0	55.7	3078536	3079457	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2939	ygcH	casE	cse3:ECK2751:JW2726:ygcH	2e-13	29.08	69.3	57.14	3079453	3080104	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2940	unknown	casD	cas5:ECK2752:JW5844:ygcI	1e-10	33.54	60.1	57.97	3080085	3080832	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2941	yghJ	casC	cse4:ECK2753:JW2728:ygcJ	2e-20	30.03	94.0	52.79	3080842	3081901	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2943	unknown	casA	cse1:ECK2755:JW2730:ygcL	2e-09	26.75	57.4	54.4	3082471	3084028	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<cas21EDC> <casA> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	cas1,1	cas2,1	casA,1	casC,1	casD,1	casE,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.14	 0.71	0	1	1	5	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.17	 0.83	0	1	1	5	0	0

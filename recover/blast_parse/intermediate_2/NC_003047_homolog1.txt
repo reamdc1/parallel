@@ -1,0 +1,24 @@
+SMc00868
+NC_003047	Sinorhizobium_meliloti_1021	SMc00868	atpF	atpF	NONE	3e-24	61.01	89.7	62.1	918703	919189	1	Protein	159	BLAST	NC_004310	Brucella_suis_1330	BR0385	394805
+SMc00869
+NC_003047	Sinorhizobium_meliloti_1021	SMc00869	atpF2	atpB	NONE	2e-54	67.37	170.0	63.6	918075	918690	1	Protein	190	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+SMc00870
+NC_003047	Sinorhizobium_meliloti_1021	SMc00870	atpE	atpE	NONE	3e-34	94.83	108.0	61.8	917774	918002	1	Protein	58	BLAST	NC_004310	Brucella_suis_1330	BR0383	393517
+SMc00871
+NC_003047	Sinorhizobium_meliloti_1021	SMc00871	atpB	atpB	NONE	3e-162	99.6	446.0	59.9	916937	917690	1	Protein	250	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc00871	917690
+SMc00872
+NC_003047	Sinorhizobium_meliloti_1021	SMc00872	atpI	atpI	NONE	1e-37	62.5	122.0	62.9	916430	916877	1	Protein	104	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0713	715822
+SMc02498
+NC_003047	Sinorhizobium_meliloti_1021	SMc02498	atpH	atpH	NONE	5e-118	99.47	329.0	60.7	3295121	3295688	-1	Protein	188	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02498	3295688
+SMc02499
+NC_003047	Sinorhizobium_meliloti_1021	SMc02499	atpA	atpA	NONE	0.0	100.0	1024.0	63.1	3293592	3295122	-1	Protein	509	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02499	3295122
+SMc02500
+NC_003047	Sinorhizobium_meliloti_1021	SMc02500	atpG	atpG	NONE	0.0	100.0	526.0	62.4	3292680	3293565	-1	Protein	294	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02500	3293565
+SMc02501
+NC_003047	Sinorhizobium_meliloti_1021	SMc02501	atpD	atpD	NONE	0.0	100.0	881.0	64.4	3291141	3292656	-1	Protein	454	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02501	3292656
+SMc02502
+NC_003047	Sinorhizobium_meliloti_1021	SMc02502	atpC	atpC	NONE	2e-96	100.0	271.0	60.8	3290614	3291025	-1	Protein	136	exact	NC_003047	Sinorhizobium_meliloti_1021	SMc02502	3291025
+SMc02796
+NC_003047	Sinorhizobium_meliloti_1021	SMc02796	rho	atpD	NONE	1e-07	23.91	50.4	60.0	3651161	3652427	-1	Protein	276	BLAST	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3913	3775110
+SMc03025
+NC_003047	Sinorhizobium_meliloti_1021	SMc03025	fliI	atpA	papA:uncA	4e-22	28.48	95.9	67.2	722678	724082	1	Protein	302	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3286	3503005

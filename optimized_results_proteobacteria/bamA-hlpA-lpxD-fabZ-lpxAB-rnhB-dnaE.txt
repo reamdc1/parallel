@@ -1,0 +1,410 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0633	unknown	lpxA	ECK0180:JW0176	2e-50	43.87	193.0	60.6	500286	501126	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0634	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-31	47.14	127.0	59.48	501133	501592	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0635	lpxD	lpxA	ECK0180:JW0176	7e-12	31.53	65.1	64.39	501593	502649	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0636	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	3e-66	28.19	247.0	60.42	502724	505109	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0635	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	6e-30	29.97	125.0	64.39	501593	502649	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0630	lpxB	lpxB	ECK0181:JW0177:pgsB	2e-41	33.68	164.0	64.02	498235	499408	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll0870	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	40.94	801.0	64.34	695574	699102	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll7416	rnhB	rnhB	ECK0182:JW0178	2e-31	44.56	129.0	66.67	6129143	6129839	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<lpxA-fabZ-lpxA-bamA> <lpxD> <lpxB> <dnaE> <rnhB> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	bamA,1	dnaE,1	fabZ,1	lpxA,2	lpxB,1	lpxD,1	rnhB,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.50	 0.38	1	1	4	3	1	1
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.57	 0.43	1	1	4	3	1	1
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3642	rnhB	rnhB	ECK0182:JW0178	4e-72	70.74	265.0	66.17	4080439	4081045	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3643	lpxB	lpxB	ECK0181:JW0177:pgsB	5e-92	53.61	332.0	67.9	4081044	4082181	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3644	lpxA	lpxA	ECK0180:JW0176	2e-74	54.47	272.0	64.22	4082184	4082961	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3645	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	2e-41	54.86	162.0	57.82	4082957	4083398	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3646	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-93	51.86	337.0	65.54	4083443	4084505	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3640	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	58.69	1336.0	64.71	4075156	4078678	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA3648	opr86	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	3e-166	39.58	580.0	62.7	4085061	4087455	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<rnhB-lpxBA-fabZ-lpxD> <dnaE> <bamA> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.25	 0.62	0	1	2	5	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.29	 0.71	0	1	2	5	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0224	yaeT	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	92.97	1531.0	52.46	262378	264793	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0225	hlpA	hlpA	ECK0177:hlpA:JW0173:ompH	4e-70	90.06	256.0	47.33	264915	265401	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0226	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	0.0	95.6	652.0	51.95	265404	266430	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0227	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	3e-84	98.68	304.0	52.41	266535	266991	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0228	lpxA	lpxA	ECK0180:JW0176	5e-143	93.13	500.0	53.49	266994	267783	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0229	lpxB	lpxB	ECK0181:JW0177:pgsB	0.0	94.84	704.0	55.7	267782	268931	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0230	rnhB	rnhB	ECK0182:JW0178	5e-106	92.93	376.0	56.28	268927	269524	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM0231	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	96.81	2284.0	55.9	269547	273030	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	8	0	0
+NC_004310	Brucella_suis_1330	BR1151	lpxA	lpxA	ECK0180:JW0176	2e-46	36.86	178.0	57.47	1130902	1131739	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1152	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-33	46.04	134.0	54.01	1131747	1132221	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1153	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-41	36.39	161.0	58.43	1132213	1133269	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1154	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	2e-81	29.08	296.0	54.43	1133322	1135668	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR1149	lpxB	lpxB	ECK0181:JW0177:pgsB	6e-40	32.55	157.0	57.91	1128835	1130023	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0825	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	41.56	817.0	57.93	802361	805853	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR0386	rnhB	rnhB	ECK0182:JW0178	3e-32	46.15	130.0	62.44	394927	395590	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<lpxA-fabZ-lpxD-bamA> <lpxB> dnaE <rnhB> 
+$$	NC_004310	Brucella_suis_1330	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004310	Brucella_suis_1330	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_004310	Brucella_suis_1330	 0.43	 0.57	0	1	3	4	0	0
+NC_003112	Neisseria_meningitidis_MC58	NMB0178	lpxA	lpxA	ECK0180:JW0176	5e-73	47.66	266.0	58.69	175428	176205	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0179	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	3e-43	55.0	166.0	56.67	176291	176741	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0180	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-59	39.5	221.0	60.46	176774	177821	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0181	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	2e-05	27.27	40.8	52.89	177853	178354	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0182	omp85	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	9e-124	33.01	437.0	55.39	178419	180813	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0199	lpxB	lpxB	ECK0181:JW0177:pgsB	7e-80	44.35	290.0	58.14	201736	202909	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB1827	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.07	1020.0	56.91	1919892	1923327	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0192	rnhB	rnhB	ECK0182:JW0178	2e-56	61.08	211.0	57.26	190696	191281	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<lpxA-fabZ-lpxD-hlpA-bamA> lpxB dnaE <rnhB> 
+$$	NC_003112	Neisseria_meningitidis_MC58	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003112	Neisseria_meningitidis_MC58	 0.38	 0.62	0	0	3	5	0	0
+@@	NC_003112	Neisseria_meningitidis_MC58	 0.38	 0.62	0	0	3	5	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_1601	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-89	50.0	322.0	62.59	1795688	1796744	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1602	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	3e-43	56.94	167.0	57.32	1796807	1797299	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1603	lpxA	lpxA	ECK0180:JW0176	8e-72	51.37	264.0	60.62	1797295	1798072	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1604	lpxB	lpxB	ECK0181:JW0177:pgsB	5e-103	54.44	368.0	66.4	1798073	1799201	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1605	rnhB	rnhB	ECK0182:JW0178	3e-72	72.28	265.0	62.18	1799202	1799826	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1606	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	58.06	1326.0	62.16	1800012	1803537	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_1599	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	6e-163	39.17	568.0	60.44	1792778	1795139	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	lpxD-fabZ-lpxAB-rnhB-dnaE bamA 
+$$	NC_002947	Pseudomonas_putida_KT2440	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.12	 0.75	0	1	1	6	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.14	 0.86	0	1	1	6	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2204	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	3e-143	36.19	503.0	61.53	2374672	2376988	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2205	ompH	hlpA	ECK0177:hlpA:JW0173:ompH	3e-10	28.67	58.5	60.7	2377006	2377492	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2206	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-67	42.41	249.0	65.62	2377543	2378590	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2207	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	4e-46	55.78	177.0	63.13	2378582	2379035	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2208	lpxA	lpxA	ECK0180:JW0176	2e-82	56.25	299.0	64.22	2379037	2379814	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2209	lpxB	lpxB	ECK0181:JW0177:pgsB	4e-88	46.01	318.0	66.41	2379830	2380991	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_2210	rnhB	rnhB	ECK0182:JW0178	2e-55	64.64	208.0	69.35	2380981	2381578	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0911	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.76	1021.0	65.18	940090	943525	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB <dnaE> 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.12	 0.88	0	0	1	7	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.12	 0.88	0	0	1	7	0	0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1412	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	2e-134	35.22	473.0	62.97	1511712	1514010	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1413	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	1e-08	31.65	52.4	66.13	1514009	1514564	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1414	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	7e-69	40.18	254.0	67.97	1514574	1515645	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1415	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	2e-40	50.68	157.0	62.02	1515641	1516136	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1416	lpxA	lpxA	ECK0180:JW0176	7e-75	49.43	273.0	67.16	1516132	1516948	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1417	lpxB	lpxB	ECK0181:JW0177:pgsB	8e-71	39.34	260.0	69.39	1516944	1518117	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1418	rnhB	rnhB	ECK0182:JW0178	1e-60	60.11	226.0	71.73	1518121	1518832	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc2205	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	49.08	1023.0	67.75	2387017	2390539	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB <dnaE> 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.12	 0.88	0	0	1	7	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.12	 0.88	0	0	1	7	0	0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002089	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	56.33	954.0	47.76	1186144	1188556	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002090	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	6e-15	34.51	73.2	44.71	1188570	1189080	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002091	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-130	66.26	457.0	49.24	1189089	1190145	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002092	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-54	64.63	204.0	44.81	1190220	1190682	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002093	unknown	lpxA	ECK0180:JW0176	9e-103	68.32	365.0	49.56	1190683	1191472	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002094	lpxB	lpxB	ECK0181:JW0177:pgsB	2e-122	60.06	432.0	51.84	1191632	1192772	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002095	rnhB	rnhB	ECK0182:JW0178	1e-77	73.12	281.0	51.53	1192796	1193417	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_002096	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	76.03	1837.0	50.75	1193455	1196935	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	0	0	8	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1868	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	56.5	958.0	45.96	1861773	1864188	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1869	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	2e-15	33.8	74.7	45.31	1864213	1864714	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1870	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-122	63.69	431.0	48.35	1864722	1865754	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1871	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	2e-53	67.14	201.0	44.68	1865867	1866299	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1872	unknown	lpxA	ECK0180:JW0176	2e-103	67.94	368.0	46.39	1866300	1867089	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1873	lpxB	lpxB	ECK0181:JW0177:pgsB	8e-126	60.88	443.0	48.29	1867181	1868324	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1874	rnhB	rnhB	ECK0182:JW0178	1e-75	68.56	275.0	49.52	1868327	1868951	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_1875	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	77.1	1819.0	49.36	1869112	1872544	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	0	0	8	0	0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1181	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	3e-30	40.76	123.0	34.71	1146481	1146991	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1182	lpxA	lpxA	ECK0180:JW0176	2e-53	42.31	201.0	37.93	1147000	1147783	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1099	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-43	36.08	169.0	40.67	1069034	1070015	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.008,eval_thresh:15.867
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0810	lpxB	lpxB	ECK0181:JW0177:pgsB	7e-23	26.12	100.0	39.07	788038	789205	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH1270	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	38.55	717.0	36.7	1231083	1234740	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0992	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	6e-51	22.72	195.0	37.27	967444	969682	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004917	Helicobacter_hepaticus_ATCC_51449	HH0006	rnhB	rnhB	ECK0182:JW0178	7e-23	32.69	99.4	37.02	6281	6905	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fabZ-lpxA lpxD lpxB <dnaE> <bamA> <rnhB> 
+$$	NC_004917	Helicobacter_hepaticus_ATCC_51449	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.62	 0.25	0	1	5	2	0	0
+@@	NC_004917	Helicobacter_hepaticus_ATCC_51449	 0.71	 0.29	0	1	5	2	0	0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0273	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	5e-34	47.1	135.0	34.24	250589	251030	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0274	lpxA	lpxA	ECK0180:JW0176	7e-49	37.4	186.0	33.84	251029	251821	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0576	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-44	34.18	172.0	33.02	537022	537988	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0288c	lpxB	lpxB	ECK0181:JW0177:pgsB	2e-28	28.14	119.0	28.31	265430	266525	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0718	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	40.33	753.0	32.22	671945	675548	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0129c	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	1e-57	23.77	217.0	31.44	129799	132019	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0010c	rnhB	rnhB	ECK0182:JW0178	2e-22	38.07	97.8	32.12	15843	16419	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	fabZ-lpxA lpxD <lpxB> dnaE <bamA> <rnhB> 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.62	 0.25	0	1	5	2	0	0
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.71	 0.29	0	1	5	2	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0247	yaeT	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	92.97	1523.0	52.61	259263	261675	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0248	ompH	hlpA	ECK0177:hlpA:JW0173:ompH	4e-70	90.06	256.0	47.33	261797	262283	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0249	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	0.0	95.6	652.0	51.95	262286	263312	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0250	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	2e-84	98.68	304.0	52.19	263417	263873	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0251	lpxA	lpxA	ECK0180:JW0176	2e-142	92.75	498.0	53.11	263876	264665	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0252	lpxB	lpxB	ECK0181:JW0177:pgsB	0.0	95.11	706.0	55.96	264664	265813	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0253	rnhB	rnhB	ECK0182:JW0178	5e-106	92.93	376.0	56.11	265809	266406	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY0254	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	96.81	2284.0	55.87	266429	269912	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	8	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02094	omp	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	1e-74	28.61	274.0	60.45	1614334	1616665	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.861,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc02093	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	5e-39	35.63	154.0	63.38	1616709	1617774	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:11.861,eval_thresh:11.647
+NC_003047	Sinorhizobium_meliloti_1021	SMc02092	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-34	48.18	136.0	57.63	1617766	1618231	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02091	lpxA	lpxA	ECK0180:JW0176	1e-52	41.76	199.0	60.02	1618233	1619046	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02089	lpxB	lpxB	ECK0181:JW0177:pgsB	3e-35	31.58	142.0	65.47	1619929	1621099	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc01375	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	42.93	811.0	63.16	1402646	1406156	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc00867	rnhB	rnhB	ECK0182:JW0178	4e-39	51.1	154.0	66.51	919579	920230	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-lpxD-fabZ-lpxA lpxB dnaE <rnhB> 
+$$	NC_003047	Sinorhizobium_meliloti_1021	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.43	 0.57	0	1	3	4	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2303	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	76.72	1858.0	48.33	2412462	2415942	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2304	rnhB	rnhB	ECK0182:JW0178	8e-78	70.1	282.0	47.8	2416024	2416660	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2305	lpxB	lpxB	ECK0181:JW0177:pgsB	7e-128	61.71	450.0	44.82	2416669	2417809	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2306	unknown	lpxA	ECK0180:JW0176	8e-90	59.54	323.0	46.39	2417919	2418708	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2307	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	3e-56	65.99	210.0	44.15	2418709	2419162	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2308	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	6e-124	62.58	436.0	47.19	2419333	2420365	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2309	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	1e-16	35.92	79.0	40.92	2420371	2420872	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP2310	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	56.64	956.0	45.55	2420894	2423309	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<dnaE-rnhB-lpxBA-fabZ-lpxD-hlpA-bamA> 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	0	0	8	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1427	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	2e-129	35.48	456.0	64.53	1501841	1504178	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1428	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	3e-10	29.08	58.2	62.06	1504303	1504867	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1429	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-68	43.23	252.0	70.15	1504875	1505967	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1430	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-40	51.97	156.0	63.16	1506038	1506494	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1431	lpxA	lpxA	ECK0180:JW0176	6e-79	53.82	287.0	67.55	1506494	1507289	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1432	lpxB	lpxB	ECK0181:JW0177:pgsB	9e-72	40.64	264.0	70.64	1507285	1508467	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1433	rnhB	rnhB	ECK0182:JW0178	2e-57	58.92	214.0	71.12	1508453	1509059	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2332	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.6	1066.0	66.92	2465145	2468637	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB <dnaE> 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.12	 0.88	0	0	1	7	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.12	 0.88	0	0	1	7	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1406	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	49.36	1028.0	66.67	1617940	1621531	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1407	rnhB	rnhB	ECK0182:JW0178	6e-46	52.33	177.0	67.76	1621793	1622528	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1408	lpxB	lpxB	ECK0181:JW0177:pgsB	5e-90	47.12	325.0	67.37	1622524	1623811	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1409	lpxA	lpxA	ECK0180:JW0176	2e-58	45.25	219.0	65.15	1623840	1624632	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1410	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-38	49.65	152.0	60.35	1624657	1625116	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1411	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	6e-79	44.97	288.0	66.17	1625112	1626126	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1413	oma	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	3e-143	36.13	503.0	62.61	1626522	1628889	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<dnaE-rnhB-lpxBA-fabZ-lpxD-bamA> 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 0.88	0	1	0	7	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	0	1	0	7	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1639	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-97	52.48	350.0	48.44	1721983	1723009	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1640	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	7e-50	62.42	189.0	45.59	1723040	1723505	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1641	lpxA	lpxA	ECK0180:JW0176	2e-79	56.87	288.0	48.64	1723501	1724272	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1642	lpxB	lpxB	ECK0181:JW0177:pgsB	2e-123	58.42	435.0	48.96	1724403	1725561	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1643	rnhB	rnhB	ECK0182:JW0178	2e-65	67.54	242.0	51.43	1725560	1726190	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1644	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	72.48	1731.0	50.62	1726306	1729783	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1637	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	50.42	843.0	45.59	1718936	1721417	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	lpxD-fabZ-lpxAB-rnhB-dnaE bamA 
+$$	NC_004347	Shewanella_oneidensis_MR-1	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.12	 0.75	0	1	1	6	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.14	 0.86	0	1	1	6	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4851	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-30	44.78	126.0	61.69	5374489	5374951	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4852	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-44	38.89	173.0	65.82	5374947	5376015	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4853	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	4e-70	26.99	261.0	63.55	5376163	5378698	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4849	lpxA	lpxA	ECK0180:JW0176	2e-55	43.48	210.0	65.4	5373173	5373965	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4847	lpxB	lpxB	ECK0181:JW0177:pgsB	3e-36	31.64	147.0	67.51	5371121	5372300	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	bll4866	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	42.63	801.0	67.12	5391658	5395162	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr2521	rnhB	rnhB	ECK0182:JW0178	3e-37	49.16	149.0	69.97	2754051	2754837	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<fabZ-lpxD-bamA> <lpxA> <lpxB> <dnaE> rnhB 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.50	 0.38	0	1	4	3	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.57	 0.43	0	1	4	3	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP1535	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	7e-128	35.23	452.0	64.7	1642284	1644621	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1536	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	4e-10	29.08	57.8	60.46	1644698	1645310	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1537	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-67	42.9	249.0	70.33	1645318	1646410	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1538	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-39	51.32	153.0	60.71	1646433	1646937	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1539	lpxA	lpxA	ECK0180:JW0176	1e-78	53.44	286.0	67.42	1646937	1647732	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1540	lpxB	lpxB	ECK0181:JW0177:pgsB	4e-72	40.91	265.0	70.73	1647728	1648910	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1541	rnhB	rnhB	ECK0182:JW0178	3e-57	58.92	214.0	71.29	1648896	1649502	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1707	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.6	1065.0	66.98	1820163	1823655	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB dnaE 
+$$	NC_002928	Bordetella_parapertussis_12822	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.12	 0.88	0	0	1	7	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.12	 0.88	0	0	1	7	0	0
+NC_002488	Xylella_fastidiosa_9a5c	XF1041	rnhB	rnhB	ECK0182:JW0178	1e-46	55.5	178.0	53.9	1000078	1000783	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1042	lpxB	lpxB	ECK0181:JW0177:pgsB	1e-88	45.73	319.0	54.92	1000839	1001997	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1043	unknown	lpxA	ECK0180:JW0176	5e-59	43.73	220.0	52.78	1002073	1002865	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1044	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	2e-33	45.7	134.0	49.07	1002886	1003369	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1045	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	6e-73	40.77	266.0	53.52	1003365	1004430	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF1046	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	2e-144	35.85	506.0	50.57	1004576	1006931	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF0204	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.63	1019.0	54.66	210292	213874	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<rnhB-lpxBA-fabZ-lpxD-bamA> <dnaE> 
+$$	NC_002488	Xylella_fastidiosa_9a5c	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002488	Xylella_fastidiosa_9a5c	 0.12	 0.75	0	1	1	6	0	0
+@@	NC_002488	Xylella_fastidiosa_9a5c	 0.14	 0.86	0	1	1	6	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2613	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	8e-129	35.35	455.0	64.74	2775555	2777892	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2614	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	4e-10	29.08	58.2	62.06	2778017	2778581	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2615	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-67	42.9	250.0	70.42	2778589	2779681	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2616	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	8e-40	51.97	156.0	63.16	2779752	2780208	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2617	lpxA	lpxA	ECK0180:JW0176	3e-79	53.82	288.0	67.55	2780208	2781003	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2618	lpxB	lpxB	ECK0181:JW0177:pgsB	4e-72	40.91	265.0	70.64	2780999	2782181	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB2619	rnhB	rnhB	ECK0182:JW0178	3e-57	58.92	214.0	71.12	2782167	2782773	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3401	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.6	1065.0	66.98	3639360	3642852	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB <dnaE> 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.12	 0.88	0	0	1	7	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.12	 0.88	0	0	1	7	0	0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_232	yaeT	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	2e-177	37.15	613.0	23.3	260983	263386	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_233	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-48	49.65	180.0	21.71	263512	263968	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_234	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	57.62	1425.0	26.22	264004	267490	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_027	glmU	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-09	29.41	53.9	26.01	27843	29223	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-fabZ-dnaE <lpxD> 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	bamA,1	dnaE,1	fabZ,1	lpxD,1
+##	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.12	 0.38	0	4	1	3	0	0
+@@	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.25	 0.75	0	4	1	3	0	0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl279	yaeT	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	39.9	671.0	25.67	303836	306302	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl280	hlpA	hlpA	ECK0177:hlpA:JW0173:ompH	4e-31	45.45	125.0	27.81	306393	306900	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl281	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-123	61.92	434.0	32.25	306927	308037	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl282	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	8e-67	77.33	243.0	33.33	308040	308496	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.232,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl283	lpxA	lpxA	ECK0180:JW0176	5e-111	67.56	391.0	32.07	308499	309288	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.232,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl284	lpxB	lpxB	ECK0181:JW0177:pgsB	2e-101	48.91	360.0	29.87	309314	310469	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.232,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl285	rnhB	rnhB	ECK0182:JW0178	1e-49	47.74	186.0	30.42	310492	311110	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.232,eval_thresh:10.825
+NC_005061	Candidatus_Blochmannia_floridanus	Bfl286	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	56.35	1348.0	27.91	311182	314683	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:12.232,eval_thresh:10.825
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_005061	Candidatus_Blochmannia_floridanus	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_005061	Candidatus_Blochmannia_floridanus	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_005061	Candidatus_Blochmannia_floridanus	 0.00	 1.00	0	0	0	8	0	0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2873	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	5e-143	35.85	502.0	61.01	3453300	3455757	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2875	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-79	44.97	290.0	65.68	3456166	3457180	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2876	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	4e-36	45.14	144.0	61.47	3457176	3457638	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2877	unknown	lpxA	ECK0180:JW0176	2e-57	44.87	216.0	68.18	3457659	3458451	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2878	lpxB	lpxB	ECK0181:JW0177:pgsB	1e-91	47.37	330.0	67.84	3458567	3459764	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2879	rnhB	rnhB	ECK0182:JW0178	2e-48	53.81	185.0	69.29	3459760	3460483	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2880	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	48.37	1021.0	66.28	3460719	3464310	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 0.88	0	1	0	7	0	0
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	0	1	0	7	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0177	bamA	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	100.0	1664.0	50.68	197927	200360	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0178	skp	hlpA	ECK0177:hlpA:JW0173:ompH	6e-77	99.38	279.0	50.21	200481	200967	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0179	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	0.0	100.0	670.0	52.83	200970	201996	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0180	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-85	99.34	306.0	50.44	202100	202556	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0181	lpxA	lpxA	ECK0180:JW0176	2e-152	99.62	531.0	53.11	202559	203348	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0182	lpxB	lpxB	ECK0181:JW0177:pgsB	0.0	100.0	734.0	53.79	203347	204496	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0183	rnhB	rnhB	ECK0182:JW0178	2e-113	100.0	401.0	57.29	204492	205089	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b0184	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	100.0	2347.0	54.95	205125	208608	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	8	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1707	rnhB	rnhB	ECK0182:JW0178	2e-52	54.95	198.0	53.06	1842392	1843046	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1708	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	2e-37	48.94	147.0	50.0	1843067	1843529	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1709	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	5e-05	23.57	40.0	49.82	1843545	1844109	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1710	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	2e-140	36.08	493.0	47.74	1844135	1846412	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0208	glmU	lpxD	ECK0178:firA:JW0174:omsA:ssc	0.0002	26.01	39.7	46.84	242651	244028	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1978	dnaE1	dnaE	ECK0183:JW0179:polC:sdgC	0.0	47.47	996.0	54.3	2136453	2139963	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<rnhB-fabZ-hlpA-bamA> lpxD <dnaE> 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxD,1	rnhB,1
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.25	 0.50	0	2	2	4	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.33	 0.67	0	2	2	4	0	0
+NC_003143	Yersinia_pestis_CO92	YPO1052	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	78.72	1317.0	46.82	1193371	1195759	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1053	ompH	hlpA	ECK0177:hlpA:JW0173:ompH	5e-44	65.97	170.0	45.38	1195916	1196414	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1054	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	6e-163	82.65	566.0	46.24	1196417	1197440	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1055	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-75	88.74	275.0	47.07	1197597	1198143	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1056	lpxA	lpxA	ECK0180:JW0176	2e-129	81.3	454.0	47.02	1198146	1198935	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1057	lpxB	lpxB	ECK0181:JW0177:pgsB	3e-171	81.87	594.0	49.03	1198938	1200123	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1058	rnhB	rnhB	ECK0182:JW0178	5e-95	84.46	340.0	50.42	1200119	1200716	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO1059	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	88.97	2117.0	48.29	1200845	1204361	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_003143	Yersinia_pestis_CO92	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	8	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1992	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	47.36	757.0	40.24	2232508	2234884	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1993	skp	hlpA	ECK0177:hlpA:JW0173:ompH	2e-09	28.66	55.1	37.11	2234992	2235574	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1994	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	1e-124	65.95	439.0	44.12	2235573	2236602	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1995	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-58	71.43	215.0	41.83	2236707	2237166	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1996	lpxA	lpxA	ECK0180:JW0176	4e-111	70.99	393.0	44.36	2237183	2237972	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1997	lpxB	lpxB	ECK0181:JW0177:pgsB	9e-128	60.43	449.0	41.82	2238047	2239226	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM1998	rnhB	rnhB	ECK0182:JW0178	5e-76	72.02	276.0	44.61	2239227	2239821	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0034	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	71.35	1715.0	43.02	31763	35243	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB dnaE 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.12	 0.88	0	0	1	7	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.12	 0.88	0	0	1	7	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1544	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-90	50.62	326.0	57.95	1704127	1705183	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1545	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	4e-44	56.94	171.0	52.83	1705292	1705733	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1546	lpxA	lpxA	ECK0180:JW0176	1e-73	52.67	270.0	58.82	1705729	1706506	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1547	lpxB	lpxB	ECK0181:JW0177:pgsB	4e-103	54.57	369.0	62.55	1706508	1707651	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1548	rnhB	rnhB	ECK0182:JW0178	1e-71	70.65	263.0	58.87	1707662	1708316	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1549	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	57.72	1318.0	59.74	1708383	1711905	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_1542	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	6e-162	38.98	565.0	56.57	1701188	1703576	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	lpxD-fabZ-lpxAB-rnhB-dnaE bamA 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.12	 0.75	0	1	1	6	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.14	 0.86	0	1	1	6	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_1911	unknown	lpxA	ECK0180:JW0176	2e-59	46.53	222.0	67.17	2108355	2109147	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1912	unknown	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	5e-34	49.25	137.0	64.38	2109143	2109623	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1913	unknown	lpxD	ECK0178:firA:JW0174:omsA:ssc	2e-31	32.78	129.0	68.33	2109625	2110645	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1909	unknown	lpxB	ECK0181:JW0177:pgsB	7e-49	34.51	188.0	67.5	2106310	2107507	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1926	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	41.63	780.0	65.53	2122930	2126362	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_1915	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	5e-77	28.77	282.0	63.07	2111339	2113649	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0379	unknown	rnhB	ECK0182:JW0178	3e-48	55.56	184.0	70.39	399851	400469	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<lpxA-fabZ-lpxD> <lpxB> <dnaE> <bamA> <rnhB> 
+$$	NC_002696	Caulobacter_crescentus_CB15	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.50	 0.38	0	1	4	3	0	0
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.57	 0.43	0	1	4	3	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1381	omp1	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	3e-77	27.29	283.0	56.6	1374513	1376838	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.932,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1382	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	5e-47	36.2	181.0	58.99	1376887	1377955	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.932,eval_thresh:14.68
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1383	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-33	47.45	135.0	59.14	1377947	1378412	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1384	lpxA	lpxA	ECK0180:JW0176	7e-50	45.18	190.0	60.54	1378411	1379227	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1386	lpxB	lpxB	ECK0181:JW0177:pgsB	4e-36	31.28	145.0	60.84	1380108	1381293	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu1292	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	43.67	818.0	59.45	1279703	1283207	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0720	rnhB	rnhB	ECK0182:JW0178	5e-42	51.1	163.0	64.98	719743	720397	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.543,eval_thresh:14.68
+++	bamA-lpxD-fabZ-lpxA lpxB dnaE <rnhB> 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.43	 0.57	0	1	3	4	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0059	lpxA	lpxA	ECK0180:JW0176	2e-58	46.85	218.0	49.06	60827	61628	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0060	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	5e-32	45.32	129.0	47.37	61624	62080	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0101	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	5e-44	35.43	171.0	54.65	99028	99985	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0798	lpxB	lpxB	ECK0181:JW0177:pgsB	3e-25	29.08	108.0	48.37	757976	759047	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1983	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	40.73	774.0	50.13	1883220	1886757	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0350	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	4e-57	24.21	215.0	47.67	344635	346867	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1718	rnhB	rnhB	ECK0182:JW0178	2e-29	40.86	121.0	49.28	1618319	1618871	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<lpxA-fabZ> <lpxD> lpxB <dnaE> bamA rnhB 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.62	 0.25	0	1	5	2	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.71	 0.29	0	1	5	2	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1195	lpxA	lpxA	ECK0180:JW0176	2e-46	36.86	178.0	57.47	1150130	1150967	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1196	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	3e-33	46.04	133.0	54.01	1150975	1151449	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1197	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-41	36.39	161.0	58.33	1151441	1152497	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1198	yaeT	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	3e-82	29.32	299.0	54.43	1152550	1154896	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A1193	lpxB	lpxB	ECK0181:JW0177:pgsB	6e-40	32.55	157.0	57.83	1148063	1149251	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0865	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	41.56	817.0	58.02	823821	827313	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A0420	unknown	rnhB	ECK0182:JW0178	3e-32	46.15	130.0	62.59	415947	416610	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<lpxA-fabZ-lpxD-bamA> <lpxB> dnaE <rnhB> 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	bamA,1	dnaE,1	fabZ,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.38	 0.50	0	1	3	4	0	0
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.43	 0.57	0	1	3	4	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0915	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	3e-125	66.36	440.0	38.5	969805	970831	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0916	unknown	hlpA	ECK0177:hlpA:JW0173:ompH	6e-12	31.36	62.4	35.02	970843	971437	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0917	unknown	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	44.99	716.0	37.56	971544	973932	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1059	rnhB	rnhB	ECK0182:JW0178	4e-74	72.54	269.0	42.59	1124263	1124857	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1060	lpxB	lpxB	ECK0181:JW0177:pgsB	7e-135	62.9	472.0	40.07	1124849	1126022	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1061	lpxA	lpxA	ECK0180:JW0176	5e-105	67.56	372.0	40.3	1126088	1126877	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1062	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	1e-54	68.09	203.0	40.49	1126890	1127337	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0739	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	71.96	1736.0	41.75	796138	799618	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:18.283,eval_thresh:14.781
+++	<lpxD-hlpA-bamA> <rnhB-lpxBA-fabZ> <dnaE> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.25	 0.50	0	0	2	4	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.25	 0.50	0	0	2	4	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0170	yaeT	bamA	ecfK:ECK0176:JW0172:omp85:yaeT:yzzN:yzzY	0.0	100.0	1664.0	50.31	188358	190791	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0171	hlpA	hlpA	ECK0177:hlpA:JW0173:ompH	5e-77	99.38	279.0	49.59	190912	191398	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0172	lpxD	lpxD	ECK0178:firA:JW0174:omsA:ssc	0.0	99.71	669.0	53.02	191401	192427	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0173	fabZ	fabZ	ECK0179:JW0175:sabA:sefA:sfhC:yaeA	6e-85	99.34	306.0	50.44	192531	192987	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0174	lpxA	lpxA	ECK0180:JW0176	2e-152	99.62	531.0	52.47	192990	193779	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0175	lpxB	lpxB	ECK0181:JW0177:pgsB	0.0	98.91	726.0	53.96	193778	194927	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0176	rnhB	rnhB	ECK0182:JW0178	5e-113	99.49	399.0	55.95	194923	195520	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S0177	dnaE	dnaE	ECK0183:JW0179:polC:sdgC	0.0	99.83	2343.0	55.04	195556	199039	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	bamA,1	dnaE,1	fabZ,1	hlpA,1	lpxA,1	lpxB,1	lpxD,1	rnhB,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	8	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	8	0	0

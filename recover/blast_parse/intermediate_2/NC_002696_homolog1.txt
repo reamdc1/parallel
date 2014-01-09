@@ -1,0 +1,24 @@
+CC_0365
+NC_002696	Caulobacter_crescentus_CB15	CC_0365	unknown	atpB	NONE	2e-15	47.2	67.0	68.4	387575	388085	-1	Protein	161	BLAST	NC_004463	Bradyrhizobium_japonicum_USDA_110	bll1185	1303349
+CC_0366
+NC_002696	Caulobacter_crescentus_CB15	CC_0366	unknown	atpB	NONE	1e-09	35.0	52.4	69.3	388095	388629	-1	Protein	60	BLAST	NC_003062	Agrobacterium_fabrum_str._C58	Atu0716	717654
+CC_0367
+NC_002696	Caulobacter_crescentus_CB15	CC_0367	unknown	atpE	NONE	8e-17	58.62	65.1	62.7	388755	388980	-1	Protein	58	BLAST	NC_004310	Brucella_suis_1330	BR0383	393517
+CC_0368
+NC_002696	Caulobacter_crescentus_CB15	CC_0368	unknown	atpB	papD:uncB	2e-07	24.39	48.5	63.9	389029	389791	-1	Protein	287	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3282	3499910
+CC_0369
+NC_002696	Caulobacter_crescentus_CB15	CC_0369	unknown	atpI	NONE	1e-05	37.5	39.3	66.1	389796	390177	-1	Protein	80	BLAST	NC_003047	Sinorhizobium_meliloti_1021	SMc00872	916877
+CC_3040
+NC_002696	Caulobacter_crescentus_CB15	CC_3040	fliI	atpD	papB:uncD	4e-23	29.22	98.6	69.6	3256824	3258159	1	Protein	332	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3288	3505452
+CC_3445
+NC_002696	Caulobacter_crescentus_CB15	CC_3445	unknown	atpC	papG:uncC	1e-12	35.29	57.0	67.0	3688026	3688287	-1	Protein	85	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3289	3505884
+CC_3447
+NC_002696	Caulobacter_crescentus_CB15	CC_3447	unknown	atpD	papB:uncD	0.0	66.6	553.0	67.3	3688537	3690157	-1	Protein	470	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3288	3505452
+CC_3448
+NC_002696	Caulobacter_crescentus_CB15	CC_3448	unknown	atpG	papC:uncG	5e-37	30.72	130.0	67.2	3690204	3691080	-1	Protein	306	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3287	3504009
+CC_3449
+NC_002696	Caulobacter_crescentus_CB15	CC_3449	unknown	atpD	papB:uncD	6e-24	27.03	101.0	66.1	3691114	3692647	-1	Protein	381	BLAST	NC_002929	Bordetella_pertussis_Tohama_I	BP3288	3505452
+CC_3450
+NC_002696	Caulobacter_crescentus_CB15	CC_3450	unknown	atpH	NONE	6e-12	29.82	58.2	66.7	3692699	3693254	-1	Protein	171	BLAST	NC_003295	Ralstonia_solanacearum_GMI1000	RSc3320	3584495
+CC_3760
+NC_002696	Caulobacter_crescentus_CB15	CC_3760	rho	atpD	NONE	0.0007	22.67	38.5	64.5	4012450	4013896	-1	Protein	247	BLAST	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3913	3775110

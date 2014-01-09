@@ -1,0 +1,298 @@
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3718	unknown	phoU	ECK3717:JW3702:phoT	5e-29	32.09	122.0	63.7	2995107	2995815	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3719	unknown	pstB	ECK3718:JW3703:phoT	4e-103	70.68	368.0	62.56	2995840	2996644	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3720	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-83	54.83	303.0	63.38	2996640	2997492	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3722	unknown	pstC	ECK3720:JW3705:phoW	5e-78	53.11	285.0	63.31	2997495	2998479	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002678	Mesorhizobium_loti_MAFF303099	mll3723	unknown	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	6e-102	54.82	364.0	62.78	2998547	2999603	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBACS> 
+$$	NC_002678	Mesorhizobium_loti_MAFF303099	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_002678	Mesorhizobium_loti_MAFF303099	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002678	Mesorhizobium_loti_MAFF303099	 0.00	 1.00	0	0	0	5	0	0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5365	phoU	phoU	ECK3717:JW3702:phoT	1e-59	48.88	223.0	64.75	6032386	6033115	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5366	pstB	pstB	ECK3718:JW3703:phoT	3e-88	65.32	318.0	62.83	6033210	6034044	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5367	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	3e-16	35.71	79.7	65.89	6034059	6035736	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002516	Pseudomonas_aeruginosa_PAO1	PA5368	pstC	pstC	ECK3720:JW3705:phoW	1e-10	27.61	61.6	66.03	6035755	6037789	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBAC> 
+$$	NC_002516	Pseudomonas_aeruginosa_PAO1	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_002516	Pseudomonas_aeruginosa_PAO1	 0.00	 1.00	0	1	0	4	0	0
+NC_004310	Brucella_suis_1330	BR2139	pstC	pstC	ECK3720:JW3705:phoW	2e-17	29.11	82.0	60.3	2062355	2063846	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2140	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	7e-18	30.41	83.6	59.8	2063845	2065156	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2141	pstB	pstB	ECK3718:JW3703:phoT	7e-74	54.47	269.0	60.08	2065220	2065994	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004310	Brucella_suis_1330	BR2142	phoU	phoU	ECK3717:JW3702:phoT	6e-36	37.85	143.0	57.54	2066059	2066782	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU 
+$$	NC_004310	Brucella_suis_1330	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_004310	Brucella_suis_1330	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_004310	Brucella_suis_1330	 0.00	 1.00	0	1	0	4	0	0
+NC_003112	Neisseria_meningitidis_MC58	NMB0879	cysA	pstB	ECK3718:JW3703:phoT	7e-31	34.3	126.0	52.79	899942	901016	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0880	cysW	pstC	ECK3720:JW3705:phoW	8e-05	28.99	40.4	56.45	901012	901873	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003112	Neisseria_meningitidis_MC58	NMB0881	cysT	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	0.0002	28.0	38.9	58.3	902124	902961	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstBCA> 
+$$	NC_003112	Neisseria_meningitidis_MC58	pstA,1	pstB,1	pstC,1
+##	NC_003112	Neisseria_meningitidis_MC58	 0.00	 0.60	0	2	0	3	0	0
+@@	NC_003112	Neisseria_meningitidis_MC58	 0.00	 1.00	0	2	0	3	0	0
+NC_002947	Pseudomonas_putida_KT2440	PP_2656	unknown	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	2e-58	37.98	220.0	60.17	3043338	3044385	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2657	unknown	pstC	ECK3720:JW3705:phoW	6e-34	38.08	138.0	61.4	3044455	3045424	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2658	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	7e-45	40.47	174.0	63.65	3045420	3046314	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_2659	unknown	pstB	ECK3718:JW3703:phoT	2e-68	51.53	253.0	59.4	3046310	3047150	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5325	phoU	phoU	ECK3717:JW3702:phoT	6e-60	48.88	224.0	61.74	6070797	6071568	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5326	pstB	pstB	ECK3718:JW3703:phoT	2e-87	64.37	315.0	59.81	6071669	6072515	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5327	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-17	31.65	84.3	64.51	6072575	6074246	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002947	Pseudomonas_putida_KT2440	PP_5328	pstC	pstC	ECK3720:JW3705:phoW	4e-09	29.1	56.2	61.79	6074263	6076273	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSCAB <phoU-pstBAC> 
+$$	NC_002947	Pseudomonas_putida_KT2440	phoU,1	pstA,2	pstB,2	pstC,2	pstS,1
+##	NC_002947	Pseudomonas_putida_KT2440	 0.20	 0.80	3	0	1	4	0	0
+@@	NC_002947	Pseudomonas_putida_KT2440	 0.20	 0.80	3	0	1	4	0	0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0935	pstB	pstB	ECK3718:JW3703:phoT	1e-108	73.93	385.0	62.92	970531	971305	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0936	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	9e-89	61.02	320.0	66.23	971308	972232	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0937	pstC	pstC	ECK3720:JW3705:phoW	1e-86	64.94	313.0	64.9	972233	973196	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_0938	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	6e-104	57.66	370.0	63.58	973279	974317	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005085	Chromobacterium_violaceum_ATCC_12472	CV_1261	phoU	phoU	ECK3717:JW3702:phoT	3e-52	43.59	198.0	63.69	1325022	1325727	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstBACS> phoU 
+$$	NC_005085	Chromobacterium_violaceum_ATCC_12472	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_005085	Chromobacterium_violaceum_ATCC_12472	 0.20	 0.80	0	0	1	4	0	0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1529	pstS1	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	1e-129	67.67	456.0	63.86	1633356	1634388	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1530	pstC	pstC	ECK3720:JW3705:phoW	1e-111	74.11	396.0	65.42	1634469	1635435	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1531	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-109	73.38	389.0	66.67	1635473	1636358	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1532	pstB	pstB	ECK3718:JW3703:phoT	7e-120	82.28	422.0	61.74	1636354	1637146	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003295	Ralstonia_solanacearum_GMI1000	RSc1533	phoU	phoU	ECK3717:JW3702:phoT	6e-55	47.03	207.0	63.42	1637186	1637894	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSCAB-phoU 
+$$	NC_003295	Ralstonia_solanacearum_GMI1000	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_003295	Ralstonia_solanacearum_GMI1000	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003295	Ralstonia_solanacearum_GMI1000	 0.00	 1.00	0	0	0	5	0	0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003597	unknown	phoU	ECK3717:JW3702:phoT	3e-82	60.17	297.0	47.82	2879283	2879994	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003598	unknown	pstB	ECK3718:JW3703:phoT	5e-81	61.6	293.0	48.42	2880027	2880849	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003599	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-16	38.26	80.1	49.36	2880851	2882498	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012668	Vibrio_cholerae_MJ-1236	VCD_003600	unknown	pstC	ECK3720:JW3705:phoW	2e-09	27.31	56.6	50.14	2882507	2884703	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBAC> 
+$$	NC_012668	Vibrio_cholerae_MJ-1236	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_012668	Vibrio_cholerae_MJ-1236	 0.00	 1.00	0	1	0	4	0	0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_0460	unknown	phoU	ECK3717:JW3702:phoT	2e-83	62.33	301.0	46.49	455666	456365	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_0461	unknown	pstB	ECK3718:JW3703:phoT	4e-80	59.44	290.0	47.37	456389	457208	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_0462	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-17	31.34	83.6	48.77	457209	458880	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004459	Vibrio_vulnificus_CMCP6	VV1_0463	unknown	pstC	ECK3720:JW3705:phoW	2e-09	30.66	56.6	48.2	458907	461100	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBAC> 
+$$	NC_004459	Vibrio_vulnificus_CMCP6	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_004459	Vibrio_vulnificus_CMCP6	 0.00	 1.00	0	1	0	4	0	0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0614	pstC	pstC	ECK3720:JW3705:phoW	1e-18	30.22	85.9	34.43	574228	575143	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0615	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	8e-17	36.5	80.1	34.62	575139	576228	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	Cj0616	pstB	pstB	ECK3718:JW3703:phoT	2e-61	49.59	228.0	33.87	576224	576965	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB 
+$$	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	pstA,1	pstB,1	pstC,1
+##	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.00	 0.60	0	2	0	3	0	0
+@@	NC_002163	Campylobacter_jejuni_subsp._jejuni_NCTC_11168	 0.00	 1.00	0	2	0	3	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3926	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	3e-175	92.2	607.0	53.89	3789842	3790883	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3927	pstC	pstC	ECK3720:JW3705:phoW	1e-151	97.81	529.0	55.21	3791018	3791978	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3928	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	2e-151	95.27	528.0	56.0	3791977	3792868	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3929	pstB	pstB	ECK3718:JW3703:phoT	3e-144	98.44	504.0	52.07	3792954	3793728	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY3930	phoU	phoU	ECK3717:JW3702:phoT	3e-135	95.4	474.0	55.79	3793742	3794468	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSCAB-phoU 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.00	 1.00	0	0	0	5	0	0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3853	phoU	phoU	ECK3717:JW3702:phoT	3e-135	95.4	474.0	55.92	4059999	4060725	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3854	pstB	pstB	ECK3718:JW3703:phoT	3e-144	98.44	504.0	52.33	4060739	4061513	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3855	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	2e-152	95.61	531.0	55.89	4061599	4062490	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3856	pstC	pstC	ECK3720:JW3705:phoW	1e-151	97.81	529.0	55.1	4062489	4063449	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM3857	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	4e-176	92.77	610.0	54.37	4063584	4064625	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBACS> 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.00	 1.00	0	0	0	5	0	0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02144	pstC	pstC	ECK3720:JW3705:phoW	3e-17	29.06	82.4	63.49	568412	569324	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02143	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	2e-17	35.76	83.2	63.04	569320	570643	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02142	pstB	pstB	ECK3718:JW3703:phoT	3e-77	55.73	281.0	60.17	570656	571472	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003047	Sinorhizobium_meliloti_1021	SMc02141	phoU	phoU	ECK3717:JW3702:phoT	2e-35	37.85	142.0	60.22	571558	572272	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU 
+$$	NC_003047	Sinorhizobium_meliloti_1021	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_003047	Sinorhizobium_meliloti_1021	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_003047	Sinorhizobium_meliloti_1021	 0.00	 1.00	0	1	0	4	0	0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP0574	unknown	pstC	ECK3720:JW3705:phoW	9e-10	33.58	57.4	47.12	599003	601208	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP0575	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	8e-18	31.34	84.3	47.97	601238	602912	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP0576	unknown	pstB	ECK3718:JW3703:phoT	2e-82	60.24	298.0	44.93	602914	603733	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	VP0577	unknown	phoU	ECK3717:JW3702:phoT	5e-83	60.17	300.0	45.78	603763	604462	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU 
+$$	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_004603	Vibrio_parahaemolyticus_RIMD_2210633	 0.00	 1.00	0	1	0	4	0	0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1068	pstB	pstB	ECK3718:JW3703:phoT	1e-120	80.48	425.0	62.03	1114533	1115310	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1069	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	6e-88	58.46	317.0	67.26	1115354	1116191	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1070	pstC	pstC	ECK3720:JW3705:phoW	2e-88	67.65	319.0	64.11	1116233	1117250	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP1071	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	1e-100	57.81	359.0	65.99	1117384	1118425	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002929	Bordetella_pertussis_Tohama_I	BP2338	unknown	phoU	ECK3717:JW3702:phoT	5e-49	40.42	187.0	64.44	2477519	2478326	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstBACS> <phoU> 
+$$	NC_002929	Bordetella_pertussis_Tohama_I	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_002929	Bordetella_pertussis_Tohama_I	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_002929	Bordetella_pertussis_Tohama_I	 0.20	 0.80	0	0	1	4	0	0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1573	phoU	phoU	ECK3717:JW3702:phoT	4e-32	32.41	132.0	63.43	1818580	1819291	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1574	pstB	pstB	ECK3718:JW3703:phoT	3e-97	66.53	348.0	61.37	1819419	1820250	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1575	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	3e-71	50.88	262.0	64.6	1820272	1821142	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1576	pstC	pstC	ECK3720:JW3705:phoW	8e-76	55.56	277.0	63.9	1821141	1822116	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1577	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	3e-79	49.04	289.0	65.02	1822228	1823320	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	XAC1578	phoX	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	1e-91	56.23	330.0	63.92	1823670	1824690	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBACSS> 
+$$	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	phoU,1	pstA,1	pstB,1	pstC,1	pstS,2
+##	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	1	0	0	5	0	0
+@@	NC_003919	Xanthomonas_axonopodis_pv._citri_str._306	 0.00	 1.00	1	0	0	5	0	0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1723	unknown	pstC	ECK3720:JW3705:phoW	4e-11	30.6	62.8	48.35	1808419	1810636	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1724	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-16	35.71	80.9	50.51	1810695	1812354	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1725	pstB-1	pstB	ECK3718:JW3703:phoT	1e-83	61.85	302.0	48.68	1812411	1813206	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_1726	phoU	phoU	ECK3717:JW3702:phoT	3e-86	61.21	311.0	46.55	1813337	1814048	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004347	Shewanella_oneidensis_MR-1	SO_4289	pstB-2	pstB	ECK3718:JW3703:phoT	6e-74	54.62	270.0	40.8	4468436	4469186	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.73,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_4290	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-27	39.22	117.0	41.82	4469228	4470065	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.73,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_4291	pstC	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	4e-16	35.71	79.0	42.73	4470094	4470967	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:17.73,eval_thresh:11.76
+NC_004347	Shewanella_oneidensis_MR-1	SO_4292	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	3e-07	28.93	50.1	41.11	4471048	4471858	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU <pstBAAS> 
+$$	NC_004347	Shewanella_oneidensis_MR-1	phoU,1	pstA,3	pstB,2	pstC,1	pstS,1
+##	NC_004347	Shewanella_oneidensis_MR-1	 0.20	 0.80	3	0	1	4	0	0
+@@	NC_004347	Shewanella_oneidensis_MR-1	 0.20	 0.80	3	0	1	4	0	0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1091	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	2e-103	57.37	369.0	63.84	1204690	1205716	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1092	pstC	pstC	ECK3720:JW3705:phoW	7e-75	55.84	275.0	64.66	1205836	1206835	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.195,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1093	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	2e-74	54.38	273.0	66.31	1206839	1207685	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.195,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1094	pstB	pstB	ECK3718:JW3703:phoT	3e-104	69.41	372.0	64.96	1207681	1208503	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.195,eval_thresh:13.587
+NC_004463	Bradyrhizobium_japonicum_USDA_110	blr1095	phoU	phoU	ECK3717:JW3702:phoT	4e-34	34.88	139.0	65.27	1208514	1209231	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:14.195,eval_thresh:13.587
+++	pstSCAB-phoU 
+$$	NC_004463	Bradyrhizobium_japonicum_USDA_110	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_004463	Bradyrhizobium_japonicum_USDA_110	 0.00	 1.00	0	0	0	5	0	0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0663m	cydD	pstB	ECK3718:JW3703:phoT	4e-13	30.74	67.8	39.23	707164	708910	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI0664	unknown	pstB	ECK3718:JW3703:phoT	1e-14	29.86	72.8	39.66	708902	710561	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1381	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	4e-82	59.56	296.0	37.1	1477192	1478041	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1382	pstC	pstC	ECK3720:JW3705:phoW	2e-81	59.19	294.0	35.86	1478042	1478990	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000907	Haemophilus_influenzae_Rd_KW20	HI1383m	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	1e-99	54.55	355.0	37.85	1479080	1480084	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstBB <pstACS> 
+$$	NC_000907	Haemophilus_influenzae_Rd_KW20	pstA,1	pstB,2	pstC,1	pstS,1
+##	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.20	 0.60	1	1	1	3	0	0
+@@	NC_000907	Haemophilus_influenzae_Rd_KW20	 0.25	 0.75	1	1	1	3	0	0
+NC_002928	Bordetella_parapertussis_12822	BPP2073	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	3e-100	57.5	358.0	65.99	2221230	2222271	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2074	pstC	pstC	ECK3720:JW3705:phoW	4e-89	68.01	321.0	63.91	2222405	2223422	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2075	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	6e-88	58.46	317.0	66.78	2223443	2224301	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP2076	pstB	pstB	ECK3718:JW3703:phoT	6e-121	79.46	426.0	63.03	2224297	2225122	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002928	Bordetella_parapertussis_12822	BPP1701	unknown	phoU	ECK3717:JW3702:phoT	6e-49	40.42	187.0	64.06	1810471	1811278	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSCAB phoU 
+$$	NC_002928	Bordetella_parapertussis_12822	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_002928	Bordetella_parapertussis_12822	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_002928	Bordetella_parapertussis_12822	 0.20	 0.80	0	0	1	4	0	0
+NC_002488	Xylella_fastidiosa_9a5c	XF2141	unknown	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	2e-83	52.24	301.0	49.22	2033850	2034945	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2142	unknown	pstC	ECK3720:JW3705:phoW	3e-76	54.44	277.0	53.74	2035056	2036031	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2143	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	9e-74	53.52	269.0	51.27	2036030	2036894	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2144	pstB	pstB	ECK3718:JW3703:phoT	5e-96	65.87	343.0	48.5	2036914	2037745	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002488	Xylella_fastidiosa_9a5c	XF2145	unknown	phoU	ECK3717:JW3702:phoT	2e-30	30.84	125.0	50.49	2037764	2038475	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSCAB-phoU 
+$$	NC_002488	Xylella_fastidiosa_9a5c	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_002488	Xylella_fastidiosa_9a5c	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_002488	Xylella_fastidiosa_9a5c	 0.00	 1.00	0	0	0	5	0	0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1466	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	3e-100	57.5	358.0	66.19	1570138	1571179	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1467	pstC	pstC	ECK3720:JW3705:phoW	5e-89	68.01	321.0	64.31	1571313	1572330	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1468	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	7e-88	58.46	317.0	67.02	1572351	1573209	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB1469	pstB	pstB	ECK3718:JW3703:phoT	7e-121	79.46	426.0	63.27	1573205	1574030	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002927	Bordetella_bronchiseptica_RB50	BB3407	unknown	phoU	ECK3717:JW3702:phoT	9e-49	40.93	187.0	64.36	3651738	3652518	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSCAB <phoU> 
+$$	NC_002927	Bordetella_bronchiseptica_RB50	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_002927	Bordetella_bronchiseptica_RB50	 0.20	 0.80	0	0	1	4	0	0
+@@	NC_002927	Bordetella_bronchiseptica_RB50	 0.20	 0.80	0	0	1	4	0	0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_472	mdl	pstB	ECK3718:JW3703:phoT	2e-10	28.45	57.0	28.36	528858	530628	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	BUAP5A_473	mdlB	pstB	ECK3718:JW3703:phoT	3e-17	27.98	79.7	25.78	530599	532372	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstBB 
+$$	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	pstB,2
+##	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.00	 0.20	1	4	0	1	0	0
+@@	NC_011833	Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum)	 0.00	 1.00	1	4	0	1	0	0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2707	unknown	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	2e-98	56.03	352.0	63.37	3252467	3253559	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2708	unknown	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	1e-85	51.59	310.0	66.21	3253736	3254828	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2709	unknown	pstC	ECK3720:JW3705:phoW	1e-75	55.19	276.0	62.77	3254940	3255915	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2710	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	3e-69	48.59	255.0	63.54	3255914	3256778	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2711	pstB	pstB	ECK3718:JW3703:phoT	1e-97	66.93	349.0	61.25	3256800	3257631	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	XC_2712	unknown	phoU	ECK3717:JW3702:phoT	1e-31	31.94	130.0	64.14	3257751	3258462	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstSSCAB-phoU 
+$$	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	phoU,1	pstA,1	pstB,1	pstC,1	pstS,2
+##	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	1	0	0	5	0	0
+@@	NC_007086	Xanthomonas_campestris_pv._campestris_str._8004	 0.00	 1.00	1	0	0	5	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3724	phoU	phoU	ECK3717:JW3702:phoT	1e-141	100.0	495.0	52.62	3904875	3905601	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3725	pstB	pstB	ECK3718:JW3703:phoT	5e-146	100.0	510.0	52.33	3905615	3906389	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3726	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	6e-159	100.0	553.0	56.23	3906571	3907462	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3727	pstC	pstC	ECK3720:JW3705:phoW	9e-155	100.0	539.0	54.69	3907461	3908421	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b3728	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	0.0	100.0	673.0	51.49	3908507	3909548	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBACS> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	5	0	0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0576	cysA	pstB	ECK3718:JW3703:phoT	7e-25	33.2	107.0	53.35	625635	626724	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0577	cysW	pstC	ECK3720:JW3705:phoW	5e-05	30.34	41.6	54.27	626720	627599	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE0578	cysU	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	7e-07	33.33	47.4	52.88	627608	628442	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004757	Nitrosomonas_europaea_ATCC_19718	NE1744	phoU	phoU	ECK3717:JW3702:phoT	3e-57	45.22	214.0	50.85	1880057	1880765	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstBCA> phoU 
+$$	NC_004757	Nitrosomonas_europaea_ATCC_19718	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.20	 0.60	0	1	1	3	0	0
+@@	NC_004757	Nitrosomonas_europaea_ATCC_19718	 0.25	 0.75	0	1	1	3	0	0
+NC_003143	Yersinia_pestis_CO92	YPO4113	phoU	phoU	ECK3717:JW3702:phoT	7e-127	89.45	446.0	43.57	4633930	4634653	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO4114	pstB	pstB	ECK3718:JW3703:phoT	2e-132	90.7	465.0	45.95	4634740	4635517	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO4115	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	4e-134	88.81	470.0	48.65	4635597	4636485	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO4116	pstC	pstC	ECK3720:JW3705:phoW	6e-136	87.7	476.0	46.5	4636486	4637458	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003143	Yersinia_pestis_CO92	YPO4117	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	9e-171	85.26	592.0	46.01	4637671	4638712	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBACS> 
+$$	NC_003143	Yersinia_pestis_CO92	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.00	 1.00	0	0	0	5	0	0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0433	pstB	pstB	ECK3718:JW3703:phoT	8e-113	76.47	399.0	40.51	508431	509211	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0434	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	2e-88	59.93	318.0	42.47	509228	510071	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0435	pstC	pstC	ECK3720:JW3705:phoW	3e-90	63.14	324.0	42.68	510071	511034	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	PM0436	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	1e-105	54.52	375.0	43.23	511096	512308	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstBACS> 
+$$	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_002663	Pasteurella_multocida_subsp._multocida_str._Pm70	 0.00	 1.00	0	1	0	4	0	0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3266	pstB-1	pstB	ECK3718:JW3703:phoT	3e-95	66.67	342.0	56.67	3691779	3692559	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3267	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	1e-75	54.41	277.0	59.68	3692558	3693431	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3268	pstC	pstC	ECK3720:JW3705:phoW	1e-82	59.63	300.0	58.33	3693439	3694435	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_3269	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	6e-87	50.15	315.0	55.46	3694516	3695542	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5483	phoU	phoU	ECK3717:JW3702:phoT	6e-58	46.78	218.0	59.45	6247628	6248390	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5484	pstB-2	pstB	ECK3718:JW3703:phoT	6e-80	64.37	291.0	56.24	6248460	6249294	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5485	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	3e-17	36.36	83.2	61.71	6249360	6251034	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	PSPTO_5486	unknown	pstC	ECK3720:JW3705:phoW	1e-09	29.1	58.2	59.78	6251045	6253079	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstBACS> <phoU-pstBAC> 
+$$	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	phoU,1	pstA,2	pstB,2	pstC,2	pstS,1
+##	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.20	 0.80	3	0	1	4	0	0
+@@	NC_004578	Pseudomonas_syringae_pv._tomato_str._DC3000	 0.20	 0.80	3	0	1	4	0	0
+NC_002696	Caulobacter_crescentus_CB15	CC_0290	unknown	pstC	ECK3720:JW3705:phoW	2e-16	27.8	80.1	66.88	306028	307462	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0291	unknown	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	4e-16	36.84	79.0	65.74	307454	308750	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0292	unknown	pstB	ECK3718:JW3703:phoT	3e-75	54.62	275.0	66.42	308809	309634	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_002696	Caulobacter_crescentus_CB15	CC_0293	unknown	phoU	ECK3717:JW3702:phoT	8e-37	36.36	147.0	65.22	309659	310352	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU 
+$$	NC_002696	Caulobacter_crescentus_CB15	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_002696	Caulobacter_crescentus_CB15	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_002696	Caulobacter_crescentus_CB15	 0.00	 1.00	0	1	0	4	0	0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0421	pstC	pstC	ECK3720:JW3705:phoW	3e-16	27.62	78.6	62.22	417600	419085	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0422	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	2e-17	34.94	82.4	60.92	419081	420404	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0423	pstB	pstB	ECK3718:JW3703:phoT	2e-76	56.73	278.0	57.48	420418	421234	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003062	Agrobacterium_tumefaciens_str._C58	Atu0424	phoU	phoU	ECK3717:JW3702:phoT	9e-34	33.94	136.0	59.09	421330	422056	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU 
+$$	NC_003062	Agrobacterium_tumefaciens_str._C58	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_003062	Agrobacterium_tumefaciens_str._C58	 0.00	 1.00	0	1	0	4	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0944	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	6e-55	37.3	207.0	49.3	901546	902473	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0945	pstB	pstB	ECK3718:JW3703:phoT	9e-73	53.41	265.0	49.56	902469	903258	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0946	PSTA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	7e-18	32.92	84.0	51.58	903267	904440	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0947	PSTC	pstC	ECK3720:JW3705:phoW	2e-13	30.71	69.3	49.64	904452	905709	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<pstSBAC> 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.00	 1.00	0	1	0	4	0	0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2200	pstC	pstC	ECK3720:JW3705:phoW	1e-17	29.54	83.2	60.3	2080260	2081751	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2201	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	8e-18	30.41	83.6	59.8	2081750	2083061	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2202	pstB	pstB	ECK3718:JW3703:phoT	5e-74	54.47	270.0	59.25	2083077	2083899	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_012441	Brucella_melitensis_ATCC_23457	BMEA_A2203	phoU	phoU	ECK3717:JW3702:phoT	6e-36	37.85	143.0	57.54	2083964	2084687	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	pstCAB-phoU 
+$$	NC_012441	Brucella_melitensis_ATCC_23457	phoU,1	pstA,1	pstB,1	pstC,1
+##	NC_012441	Brucella_melitensis_ATCC_23457	 0.00	 0.80	0	1	0	4	0	0
+@@	NC_012441	Brucella_melitensis_ATCC_23457	 0.00	 1.00	0	1	0	4	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4041	phoU	phoU	ECK3717:JW3702:phoT	1e-141	100.0	495.0	52.2	3934223	3934949	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4042	pstB	pstB	ECK3718:JW3703:phoT	4e-146	100.0	510.0	52.84	3934963	3935737	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4043	pstA	pstA	ECK3719:JW3704:phoR2b:phoT:R2pho	6e-158	99.66	549.0	56.9	3935828	3936719	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4044	pstC	pstC	ECK3720:JW3705:phoW	8e-145	100.0	506.0	55.04	3936766	3937678	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S4045	pstS	pstS	ECK3721:JW3706:nmpA:phoR2a:phoS:R2pho	0.0	100.0	673.0	51.59	3937764	3938805	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<phoU-pstBACS> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	phoU,1	pstA,1	pstB,1	pstC,1	pstS,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	5	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.00	 1.00	0	0	0	5	0	0

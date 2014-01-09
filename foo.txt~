@@ -1,0 +1,432 @@
+genbank_list  ['/home/dave/Desktop/all_genbank/Bordetella_bronchiseptica_RB50_uid57613/NC_002927.gbk', '/home/dave/Desktop/all_genbank/Pseudomonas_aeruginosa_PAO1_uid57945/NC_002516.gbk', '/home/dave/Desktop/all_genbank/Pseudomonas_syringae_tomato_DC3000_uid57967/NC_004578.gbk', '/home/dave/Desktop/all_genbank/Shewanella_oneidensis_MR_1_uid57949/NC_004347.gbk', '/home/dave/Desktop/all_genbank/Pasteurella_multocida_Pm70_uid57627/NC_002663.gbk', '/home/dave/Desktop/all_genbank/Candidatus_Blochmannia_floridanus_uid57999/NC_005061.gbk', '/home/dave/Desktop/all_genbank/Salmonella_enterica_serovar_Typhimurium_LT2_uid57799/NC_003197.gbk', '/home/dave/Desktop/all_genbank/Salmonella_enterica_serovar_Typhi_CT18_uid57793/NC_003198.gbk', '/home/dave/Desktop/all_genbank/Brucella_melitensis_ATCC_23457_uid59241/NC_012441.gbk', '/home/dave/Desktop/all_genbank/Mesorhizobium_loti_MAFF303099_uid57601/NC_002678.gbk', '/home/dave/Desktop/all_genbank/Bradyrhizobium_japonicum_USDA_110_uid57599/NC_004463.gbk', '/home/dave/Desktop/all_genbank/Caulobacter_crescentus_CB15_uid57891/NC_002696.gbk', '/home/dave/Desktop/all_genbank/Chromobacterium_violaceum_ATCC_12472_uid58001/NC_005085.gbk', '/home/dave/Desktop/all_genbank/Brucella_suis_1330_uid57927/NC_004310.gbk', '/home/dave/Desktop/all_genbank/Ralstonia_solanacearum_GMI1000_uid57593/NC_003295.gbk', '/home/dave/Desktop/all_genbank/Helicobacter_hepaticus_ATCC_51449_uid57737/NC_004917.gbk', '/home/dave/Desktop/all_genbank/Vibrio_vulnificus_CMCP6_uid62909/NC_004459.gbk', '/home/dave/Desktop/all_genbank/Neisseria_meningitidis_MC58_uid57817/NC_003112.gbk', '/home/dave/Desktop/all_genbank/Xanthomonas_axonopodis_citri_306_uid57889/NC_003919.gbk', '/home/dave/Desktop/all_genbank/Campylobacter_jejuni_NCTC_11168___ATCC_700819_uid57587/NC_002163.gbk', '/home/dave/Desktop/all_genbank/Xanthomonas_campestris_8004_uid57595/NC_007086.gbk', '/home/dave/Desktop/all_genbank/Bordetella_pertussis_Tohama_I_uid57617/NC_002929.gbk', '/home/dave/Desktop/all_genbank/Buchnera_aphidicola_5A__Acyrthosiphon_pisum__uid59285/NC_011833.gbk', '/home/dave/Desktop/all_genbank/Haemophilus_influenzae_Rd_KW20_uid57771/NC_000907.gbk', '/home/dave/Desktop/all_genbank/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.gbk', '/home/dave/Desktop/all_genbank/Yersinia_pestis_CO92_uid57621/NC_003143.gbk', '/home/dave/Desktop/all_genbank/Sinorhizobium_meliloti_1021_uid57603/NC_003047.gbk', '/home/dave/Desktop/all_genbank/Wolinella_succinogenes_DSM_1740_uid61591/NC_005090.gbk', '/home/dave/Desktop/all_genbank/Agrobacterium_tumefaciens_C58_uid57865/NC_003062.gbk', '/home/dave/Desktop/all_genbank/Vibrio_parahaemolyticus_RIMD_2210633_uid57969/NC_004603.gbk', '/home/dave/Desktop/all_genbank/Shigella_flexneri_2a_2457T_uid57991/NC_004741.gbk', '/home/dave/Desktop/all_genbank/Xylella_fastidiosa_9a5c_uid57849/NC_002488.gbk', '/home/dave/Desktop/all_genbank/Nitrosomonas_europaea_ATCC_19718_uid57647/NC_004757.gbk', '/home/dave/Desktop/all_genbank/Pseudomonas_putida_KT2440_uid57843/NC_002947.gbk', '/home/dave/Desktop/all_genbank/Bordetella_parapertussis_12822_uid57615/NC_002928.gbk']
+['rRNA', 'tRNA', 'ncRNA']
+org NC_011833
+org NC_002696
+org NC_002516
+org NC_000913
+org NC_012441
+org NC_004757
+org NC_005085
+org NC_002678
+org NC_003143
+org NC_003062
+org NC_005061
+org NC_007086
+org NC_002488
+org NC_004578
+org NC_004459
+org NC_004310
+org NC_002928
+org NC_003198
+org NC_005090
+org NC_003197
+org NC_004917
+org NC_004603
+org NC_000907
+org NC_002163
+org NC_003295
+org NC_002929
+org NC_004741
+org NC_003112
+org NC_003919
+org NC_002947
+org NC_003047
+org NC_002663
+org NC_002927
+org NC_004347
+org NC_004463
+astCADBE
+Protein astA Protein
+Protein astB Protein
+Protein astC Protein
+Protein astD Protein
+Protein astE Protein
+atpIBEFHAGDC
+Protein atpI Protein
+Protein atpH Protein
+Protein atpC Protein
+Protein atpB Protein
+Protein atpA Protein
+Protein atpG Protein
+Protein atpF Protein
+Protein atpE Protein
+Protein atpD Protein
+bamA-hlpA-lpxD-fabZ-lpxAB-rnhB-dnaE
+Missing gene hlpA found in refrence organism.
+Protein dnaE Protein
+Protein rnhB Protein
+Protein lpxA Protein
+Protein lpxB Protein
+Protein lpxD Protein
+Protein bamA Protein
+Protein fabZ Protein
+caiTABCDE
+Protein caiE Protein
+Protein caiD Protein
+Protein caiC Protein
+Protein caiB Protein
+Protein caiA Protein
+Protein caiT Protein
+casABCDE12
+Protein casE Protein
+Protein casD Protein
+Protein casA Protein
+Protein casC Protein
+Protein casB Protein
+Missing gene cas1 found in refrence organism.
+Missing gene cas2 found in refrence organism.
+cysPUWAM
+Protein cysM Protein
+Protein cysU Protein
+Protein cysW Protein
+Protein cysA Protein
+Protein cysP Protein
+dicB-ydfDE-insD-intQ
+RNA ydfE Pseudo_Gene
+RNA intQ Pseudo_Gene
+Protein dicB Protein
+Protein insD Protein
+Protein ydfD Protein
+dppABCDF
+Protein dppA Protein
+Protein dppB Protein
+Protein dppC Protein
+Protein dppD Protein
+Protein dppF Protein
+fecABCDE
+Protein fecD Protein
+Protein fecE Protein
+Protein fecB Protein
+Protein fecC Protein
+Protein fecA Protein
+fucPIKUR
+Protein fucU Protein
+Protein fucR Protein
+Protein fucK Protein
+Protein fucP Protein
+Protein fucI Protein
+gatYZABCD
+Protein gatY Protein
+Protein gatZ Protein
+Protein gatD Protein
+Protein gatA Protein
+Protein gatB Protein
+Protein gatC Protein
+gcl-hyi-glxR-ybbW-allB-ybbY-glxK
+Protein ybbY Protein
+Protein allB Protein
+Protein glxK Protein
+Protein ybbW Protein
+Protein hyi Protein
+Protein gcl Protein
+Protein glxR Protein
+glcDEFGBA
+Protein glcD Protein
+Protein glcE Protein
+Protein glcF Protein
+Protein glcG Protein
+Protein glcA Protein
+Protein glcB Protein
+glgBXCAP
+Protein glgP Protein
+Protein glgA Protein
+Protein glgB Protein
+Protein glgC Protein
+Protein glgX Protein
+hcaEFCBD
+Protein hcaD Protein
+Protein hcaE Protein
+Protein hcaF Protein
+Protein hcaB Protein
+Protein hcaC Protein
+hisLGDCBHAFI
+Protein hisD Protein
+Protein hisF Protein
+Protein hisG Protein
+Protein hisA Protein
+Protein hisB Protein
+Protein hisC Protein
+Protein hisL Protein
+Protein hisH Protein
+Protein hisI Protein
+hyaABCDEF
+Protein hyaB Protein
+Protein hyaC Protein
+Protein hyaA Protein
+Protein hyaF Protein
+Protein hyaD Protein
+Protein hyaE Protein
+hycABCDEFGHI
+Protein hycD Protein
+Protein hycE Protein
+Protein hycF Protein
+Protein hycG Protein
+Protein hycA Protein
+Protein hycB Protein
+Protein hycC Protein
+Protein hycH Protein
+Protein hycI Protein
+hyfABCDEFGHIJR-focB
+Protein hyfJ Protein
+Protein hyfI Protein
+Protein hyfH Protein
+Protein hyfC Protein
+Protein hyfB Protein
+Protein hyfA Protein
+Protein hyfG Protein
+Protein hyfF Protein
+Protein hyfE Protein
+Protein hyfD Protein
+Protein hyfR Protein
+Protein focB Protein
+hypABCDE-fhlA
+Protein fhlA Protein
+Protein hypE Protein
+Protein hypD Protein
+Protein hypA Protein
+Protein hypC Protein
+Protein hypB Protein
+ivbL-ilvBN-uhpABC
+Protein ilvN Protein
+Protein ivbL Protein
+Protein uhpC Protein
+Protein uhpB Protein
+Protein uhpA Protein
+Protein ilvB Protein
+leuLABCD
+Protein leuL Protein
+Protein leuD Protein
+Protein leuB Protein
+Protein leuC Protein
+Protein leuA Protein
+livKHMGF
+Protein livG Protein
+Protein livF Protein
+Protein livM Protein
+Protein livK Protein
+Protein livH Protein
+lptD-surA-pdxA-rsmA-apaGH
+Protein rsmA Protein
+Protein apaH Protein
+Protein surA Protein
+Protein lptD Protein
+Protein pdxA Protein
+Protein apaG Protein
+lsrACDBFG-tam
+Protein lsrA Protein
+Protein lsrC Protein
+Protein lsrB Protein
+Protein lsrD Protein
+Protein lsrG Protein
+Protein lsrF Protein
+Protein tam Protein
+mdtABCD-baeSR
+Protein mdtC Protein
+Protein mdtB Protein
+Protein mdtA Protein
+Protein baeR Protein
+Protein baeS Protein
+Protein mdtD Protein
+menFDHBCE
+Protein menH Protein
+Protein menD Protein
+Protein menE Protein
+Protein menF Protein
+Protein menB Protein
+Protein menC Protein
+nsrR-rnr-rlmB-yjfIJ
+Protein yjfJ Protein
+Protein rnr Protein
+Protein yjfI Protein
+Protein nsrR Protein
+Protein rlmB Protein
+nuoABCEFGHIJKLMN
+Protein nuoB Protein
+Protein nuoC Protein
+Protein nuoA Protein
+Protein nuoF Protein
+Protein nuoG Protein
+Protein nuoE Protein
+Protein nuoJ Protein
+Protein nuoK Protein
+Protein nuoH Protein
+Protein nuoI Protein
+Protein nuoN Protein
+Protein nuoL Protein
+Protein nuoM Protein
+oppABCDF
+Protein oppA Protein
+Protein oppC Protein
+Protein oppB Protein
+Protein oppD Protein
+Protein oppF Protein
+paaABCDEFGHIJK
+Protein paaB Protein
+Protein paaC Protein
+Protein paaA Protein
+Protein paaF Protein
+Protein paaG Protein
+Protein paaD Protein
+Protein paaE Protein
+Protein paaJ Protein
+Protein paaK Protein
+Protein paaH Protein
+Protein paaI Protein
+pspABCDE
+Protein pspE Protein
+Protein pspD Protein
+Protein pspC Protein
+Protein pspB Protein
+Protein pspA Protein
+pstSCAB-phoU
+Protein pstC Protein
+Protein pstB Protein
+Protein pstA Protein
+Protein phoU Protein
+Protein pstS Protein
+rbsDACBKR
+Protein rbsK Protein
+Protein rbsR Protein
+Protein rbsA Protein
+Protein rbsC Protein
+Protein rbsB Protein
+Protein rbsD Protein
+rnc-era-recO-pdxJ-acpS
+Protein rnc Protein
+Protein pdxJ Protein
+Protein recO Protein
+Protein era Protein
+Protein acpS Protein
+rplKAJL-rpoBC
+Protein rpoC Protein
+Protein rpoB Protein
+Protein rplL Protein
+Protein rplJ Protein
+Protein rplK Protein
+Protein rplA Protein
+sdhCDAB-sucABCD
+Protein sucA Protein
+Protein sucC Protein
+Protein sucB Protein
+Protein sucD Protein
+Protein sdhA Protein
+Protein sdhC Protein
+Protein sdhB Protein
+Protein sdhD Protein
+srlAEBD-gutM-srlR-gutQ
+Protein srlB Protein
+Protein srlA Protein
+Protein gutM Protein
+Protein srlE Protein
+Protein srlD Protein
+Protein gutQ Protein
+Protein srlR Protein
+ssuEADCB
+Protein ssuE Protein
+Protein ssuD Protein
+Protein ssuA Protein
+Protein ssuC Protein
+Protein ssuB Protein
+tdcABCDEFG
+Protein tdcE Protein
+Protein tdcD Protein
+Protein tdcG Protein
+Protein tdcF Protein
+Protein tdcA Protein
+Protein tdcC Protein
+Protein tdcB Protein
+thiCEFSGH
+Protein thiS Protein
+Protein thiH Protein
+Protein thiC Protein
+Protein thiG Protein
+Protein thiF Protein
+Protein thiE Protein
+thrS-infC-rpmI-rplT-pheMST-ihfA
+Protein pheS Protein
+Protein rpmI Protein
+Protein pheT Protein
+Protein ihfA Protein
+Protein rplT Protein
+Protein infC Protein
+Protein thrS Protein
+Protein pheM Protein
+trpLEDCBA
+Protein trpL Protein
+Protein trpB Protein
+Protein trpC Protein
+Protein trpA Protein
+Protein trpD Protein
+Protein trpE Protein
+ulaABCDEF
+Protein ulaD Protein
+Protein ulaE Protein
+Protein ulaF Protein
+Protein ulaA Protein
+Protein ulaB Protein
+Protein ulaC Protein
+waaQGPSBIJYZU
+Missing gene waaS found in refrence organism.
+Missing gene waaB found in refrence organism.
+Missing gene waaQ found in refrence organism.
+Missing gene waaP found in refrence organism.
+Missing gene waaG found in refrence organism.
+Protein waaU Protein
+Missing gene waaZ found in refrence organism.
+Missing gene waaJ found in refrence organism.
+Missing gene waaI found in refrence organism.
+Missing gene waaY found in refrence organism.
+ybgIJKL-nei
+Protein ybgI Protein
+Protein ybgJ Protein
+Protein ybgK Protein
+Protein ybgL Protein
+Protein nei Protein
+yceD-rpmF-plsX-fabHDG-acpP-fabF
+Protein fabD Protein
+Protein fabG Protein
+Protein fabF Protein
+Protein acpP Protein
+Protein yceD Protein
+Protein plsX Protein
+Protein fabH Protein
+Protein rpmF Protein
+ydgK-rsxABCDGE-nth
+Protein rsxA Protein
+Protein nth Protein
+Protein rsxC Protein
+Protein rsxB Protein
+Protein rsxE Protein
+Protein rsxD Protein
+Protein rsxG Protein
+Protein ydgK Protein
+ydhYVWXUT
+Protein ydhY Protein
+Protein ydhX Protein
+Protein ydhW Protein
+Protein ydhV Protein
+Protein ydhU Protein
+Protein ydhT Protein
+yiaKLMNO-lyxK-sgbHUE
+Protein lyxK Protein
+Missing gene sgbH found in refrence organism.
+Missing gene sgbU found in refrence organism.
+Missing gene sgbE found in refrence organism.
+Protein yiaK Protein
+Protein yiaM Protein
+Protein yiaL Protein
+Protein yiaO Protein
+Protein yiaN Protein
+yrbG-kdsDC-lptCAB-rpoN-hpf-ptsN-yhbJ-npr
+Protein lptA Protein
+Protein hpf Protein
+Protein yhbJ Protein
+Protein kdsC Protein
+Protein kdsD Protein
+Protein ptsN Protein
+Protein yrbG Protein
+Protein lptC Protein
+Protein rpoN Protein
+Protein lptB Protein
+Protein npr Protein
+18.0546460152

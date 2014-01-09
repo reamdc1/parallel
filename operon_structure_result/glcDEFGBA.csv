@@ -1,0 +1,20 @@
+glcDEFGBA
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,<glcABGFED>
+NC_004741,Shigella_flexneri_2a_str._2457T,<glcFF> <glcABG> <glcD>
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,glcAFF glcD
+NC_004347,Shewanella_oneidensis_MR-1,<glcFDA> glcB
+NC_002516,Pseudomonas_aeruginosa_PAO1,<glcGFED> glcA <glcB>
+NC_002947,Pseudomonas_putida_KT2440,glcDEFG glcA <glcB>
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,glcDE glcGB
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<glcFED>
+NC_005085,Chromobacterium_violaceum_ATCC_12472,<glcAD> glcF
+NC_003295,Ralstonia_solanacearum_GMI1000,glcDEF <glcG> <glcA>
+NC_002927,Bordetella_bronchiseptica_RB50,glcDDEF <glcG> glcA <glcB>
+NC_002929,Bordetella_pertussis_Tohama_I,<glcFEDD> <glcG> <glcB>
+NC_002928,Bordetella_parapertussis_12822,glcDDEF <glcG> glcA <glcB>
+NC_004463,Bradyrhizobium_japonicum_USDA_110,<glcFD> <glcE> glcG <glcA> <glcB>
+NC_003062,Agrobacterium_tumefaciens_str._C58,glcDEF glcB
+NC_002678,Mesorhizobium_loti_MAFF303099,glcDF glcE glcB
+NC_003047,Sinorhizobium_meliloti_1021,glcDEF glcB
+NC_004917,Helicobacter_hepaticus_ATCC_51449,<glcAF>  <glcD> <glcE>
+NC_002163,Campylobacter_jejuni_subsp._jejuni_NCTC_11168,<glcFA> <glcD> <glcE>

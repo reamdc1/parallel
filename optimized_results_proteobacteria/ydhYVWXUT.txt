@@ -1,0 +1,47 @@
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2063	phsC	ydhU	ECK1666:JW1660	5e-51	56.43	194.0	51.76	2137320	2138085	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2064	phsB	ydhX	ECK1667:JW5271	2e-54	54.7	206.0	54.23	2138081	2138660	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	STM2550	asrC	ydhY	ECK1670:JW1664	0.0002	47.92	39.3	55.92	2688318	2689332	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ydhUX> ydhY 
+$$	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	ydhU,1	ydhX,1	ydhY,1
+##	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.17	 0.33	0	3	1	2	0	0
+@@	NC_003197	Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2	 0.33	 0.67	0	3	1	2	0	0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2269	phsC	ydhU	ECK1666:JW1660	4e-51	56.43	194.0	52.16	2094092	2094857	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2270	phsB	ydhX	ECK1667:JW5271	2e-54	54.7	206.0	54.23	2094853	2095432	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	STY2796	asrC	ydhY	ECK1670:JW1664	0.0002	47.92	39.3	55.42	2652430	2653444	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ydhUX> ydhY 
+$$	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	ydhU,1	ydhX,1	ydhY,1
+##	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.17	 0.33	0	3	1	2	0	0
+@@	NC_003198	Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18	 0.33	 0.67	0	3	1	2	0	0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1669	ydhT	ydhT	ECK1665:JW1659	3e-150	100.0	524.0	52.89	1746770	1747583	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1670	ydhU	ydhU	ECK1666:JW1660	2e-121	100.0	428.0	49.24	1747586	1748372	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1671	ydhX	ydhX	ECK1667:JW5271	3e-133	100.0	467.0	50.37	1748368	1749037	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1672	ydhW	ydhW	ECK1668:JW1662	3e-111	100.0	394.0	52.31	1749100	1749748	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1673	ydhV	ydhV	ECK1669:JW5272	0.0	100.0	1427.0	47.98	1749751	1751854	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_000913	Escherichia_coli_str._K-12_substr._MG1655	b1674	ydhY	ydhY	ECK1670:JW1664	1e-108	100.0	385.0	49.44	1751874	1752501	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ydhTUXWVY> 
+$$	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	ydhT,1	ydhU,1	ydhV,1	ydhW,1	ydhX,1	ydhY,1
+##	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+@@	NC_000913	Escherichia_coli_str._K-12_substr._MG1655	 0.00	 1.00	0	0	0	6	0	0
+NC_003143	Yersinia_pestis_CO92	YPO0342	unknown	ydhX	ECK1667:JW5271	4e-10	30.57	58.2	52.88	349970	351986	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.067,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO0343	hydN	ydhX	ECK1667:JW5271	9e-10	28.57	57.0	56.09	352008	352566	1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:20.067,eval_thresh:9.147
+NC_003143	Yersinia_pestis_CO92	YPO2548	nuoI	ydhY	ECK1670:JW1664	0.0005	30.0	38.1	51.75	2860816	2861359	-1	Protein	likelyhood:predicted,method:alien-hunter,eval_score:13.153,eval_thresh:9.147
+++	ydhXX <ydhY> 
+$$	NC_003143	Yersinia_pestis_CO92	ydhX,2	ydhY,1
+##	NC_003143	Yersinia_pestis_CO92	 0.17	 0.17	1	4	1	1	0	0
+@@	NC_003143	Yersinia_pestis_CO92	 0.50	 0.50	1	4	1	1	0	0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1843	fdhB	ydhY	ECK1670:JW1664	7e-07	32.43	46.6	49.77	1734908	1735559	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS1844	unknown	ydhV	ECK1669:JW5272	3e-16	34.95	80.1	50.89	1735774	1737511	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_005090	Wolinella_succinogenes_DSM_1740	WS0117	NRFC	ydhX	ECK1667:JW5271	1e-40	44.63	158.0	49.65	115868	116444	1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ydhYV>  ydhX 
+$$	NC_005090	Wolinella_succinogenes_DSM_1740	ydhV,1	ydhX,1	ydhY,1
+##	NC_005090	Wolinella_succinogenes_DSM_1740	 0.17	 0.33	0	3	1	2	0	0
+@@	NC_005090	Wolinella_succinogenes_DSM_1740	 0.33	 0.67	0	3	1	2	0	0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1829	unknown	ydhT	ECK1665:JW1659	5e-146	98.15	510.0	52.89	1767843	1768656	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1830	ydhU	ydhU	ECK1666:JW1660	8e-121	99.23	426.0	49.36	1768659	1769445	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1831	unknown	ydhX	ECK1667:JW5271	9e-132	98.65	462.0	49.72	1769441	1770161	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1832	unknown	ydhW	ECK1668:JW1662	5e-108	98.11	383.0	52.43	1770173	1770812	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+NC_004741	Shigella_flexneri_2a_str._2457T	S1834	unknown	ydhY	ECK1670:JW1664	1e-108	100.0	385.0	49.12	1772946	1773573	-1	Protein	likelyhood:not_eval,method:none,eval_score:0.0,eval_thresh:0.0
+++	<ydhTUXW> <ydhY> 
+$$	NC_004741	Shigella_flexneri_2a_str._2457T	ydhT,1	ydhU,1	ydhW,1	ydhX,1	ydhY,1
+##	NC_004741	Shigella_flexneri_2a_str._2457T	 0.17	 0.67	0	1	1	4	0	0
+@@	NC_004741	Shigella_flexneri_2a_str._2457T	 0.20	 0.80	0	1	1	4	0	0

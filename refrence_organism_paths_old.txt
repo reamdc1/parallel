@@ -1,0 +1,2 @@
+/home/dave/Desktop/all_genbank/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.gbk
+/home/dave/Desktop/all_genbank/Escherichia_coli_K_12_substr__W3110_uid161931/NC_007779.gbk

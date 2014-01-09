@@ -1,0 +1,33 @@
+yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_000913,Escherichia_coli_str._K-12_substr._MG1655,yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_004741,Shigella_flexneri_2a_str._2457T,yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_003198,Salmonella_enterica_subsp._enterica_serovar_Typhi_str._CT18,yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_003197,Salmonella_enterica_subsp._enterica_serovar_Typhimurium_str._LT2,yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_003143,Yersinia_pestis_CO92,yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_002663,Pasteurella_multocida_subsp._multocida_str._Pm70,hflKC yjeE-amiB-mutL-miaA-hfq-hflX
+NC_004459,Vibrio_vulnificus_CMCP6,yjeE-amiB-mutL-miaA-hfq-hflXKC
+NC_004603,Vibrio_parahaemolyticus_RIMD_2210633,<hflCKX-hfq-miaA-mutL-amiB-yjeE>
+NC_011833,Buchnera_aphidicola_str._5A_(Acyrthosiphon_pisum),<hflCK-miaA-mutL> <hflX> amiB
+NC_000907,Haemophilus_influenzae_Rd_KW20,yjeE-amiB-mutL-miaA <hflCK> <hfq> <hflX>
+NC_004347,Shewanella_oneidensis_MR-1,yjeFE-amiB-mutL-miaA-hfq-hflXKC
+NC_005061,Candidatus_Blochmannia_floridanus,yjeE-amiB-miaA-hflXKC
+NC_002516,Pseudomonas_aeruginosa_PAO1,<hflCKX-hfq-miaA-mutL-amiB-yjeEF>
+NC_002947,Pseudomonas_putida_KT2440,<hflCKX-hfq-miaA-mutL-amiB-yjeEF>
+NC_004578,Pseudomonas_syringae_pv._tomato_str._DC3000,<hflCKX-hfq-miaA-mutL-amiB-yjeEF>
+NC_003919,Xanthomonas_axonopodis_pv._citri_str._306,hflKC miaA-hfq-hflX <mutL-amiB-yjeEF>
+NC_007086,Xanthomonas_campestris_pv._campestris_str._8004,yjeFE-amiB-mutL <hflX-hfq-miaA> <hflCK>
+NC_002488,Xylella_fastidiosa_9a5c,<hflX-hfq-miaA> hflKC yjeFE-amiB-mutL
+NC_004757,Nitrosomonas_europaea_ATCC_19718,<amiB-yjeE> <hflCKX-hfq> yjeF <miaA> <mutL>
+NC_005085,Chromobacterium_violaceum_ATCC_12472,<hflCKX-hfq-hflX> yjeE-amiB yjeF miaA <mutL>
+NC_003295,Ralstonia_solanacearum_GMI1000,hflX-hfq-hflXKC <amiB-yjeE> mutL-miaA <yjeF>
+NC_003112,Neisseria_meningitidis_MC58,<amiB-yjeE> yjeF <miaA> hflX <hfq> <hflK> mutL
+NC_002927,Bordetella_bronchiseptica_RB50,<hflCKX-hfq> yjeE-amiB mutL-miaA yjeF
+NC_002929,Bordetella_pertussis_Tohama_I,<miaA-mutL> <amiB-yjeE> <hflCKX-hfq> <yjeF>
+NC_002928,Bordetella_parapertussis_12822,<hflCKX-hfq> yjeE-amiB mutL-miaA yjeF
+NC_004463,Bradyrhizobium_japonicum_USDA_110,hfq-hflX <hflCK> <yjeF> <yjeE> <miaA> mutL amiB
+NC_002696,Caulobacter_crescentus_CB15,hfq-hflX <yjeF> yjeE miaA <hflK> <mutL> <amiB>
+NC_003062,Agrobacterium_tumefaciens_str._C58,hfq-hflX <hflCK> <yjeF> <yjeE> <miaA> <mutL> amiB
+NC_002678,Mesorhizobium_loti_MAFF303099,hfq-hflX <hflCK> yjeF <yjeE> <miaA> <mutL> amiB
+NC_003047,Sinorhizobium_meliloti_1021,hfq-hflX <hflCK> <yjeF> <yjeE> <miaA> <mutL> amiB
+NC_012441,Brucella_melitensis_ATCC_23457,<hflX-hfq> <hflCK> yjeF yjeE <miaA> amiB
+NC_004310,Brucella_suis_1330,<hflX-hfq> <hflCK> yjeF yjeE <miaA> amiB
